@@ -19,6 +19,7 @@ public class Main {
         String jsonData = getJson(new UrlConnector(new URL(TARGET_URL)));
         JSONArray elements = extractData(jsonData, "elements");
         extractPlayerData(elements, BASE_FILENAME);
+        System.out.println("test");
 
     }
 }

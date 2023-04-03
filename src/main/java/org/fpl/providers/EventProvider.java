@@ -10,7 +10,7 @@ public class EventProvider {
         this.eventsArray = eventsArray;
     }
 
-    public JSONArray getAllEventsData() {
+    public JSONArray getData() {
         return eventsArray;
     }
 

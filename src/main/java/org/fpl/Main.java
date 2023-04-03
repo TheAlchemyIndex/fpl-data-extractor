@@ -50,7 +50,7 @@ public class Main {
             }
         }
 
-        writeData(elements.getAllElementsData(), String.format("%splayers_raw.csv", BASE_FILENAME));
+        writeData(elements.getData(), String.format("%splayers_raw.csv", BASE_FILENAME));
         writeData(teams, String.format("%steams.csv", BASE_FILENAME));
         writeData(players, String.format("%splayer_idlist.csv", BASE_FILENAME));
         writeData(currentGameweekData, String.format("%sgws/gw%s.csv", BASE_FILENAME, currentGameweekNumber));

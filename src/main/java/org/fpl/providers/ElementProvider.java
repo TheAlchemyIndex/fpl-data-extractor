@@ -10,14 +10,15 @@ import java.util.List;
 public class ElementProvider {
     private final JSONArray elementsArray;
 
-    private static final List<String> PLAYER_HEADERS = new ArrayList<>(Arrays.asList("first_name",
-            "second_name", "id", "element_type", "team", "ep_this"));
+    private static final List<String> PLAYER_HEADERS = new ArrayList<>(Arrays.asList(PlayerHeaders.FIRST_NAME,
+            PlayerHeaders.SECOND_NAME, PlayerHeaders.ID, PlayerHeaders.ELEMENT_TYPE, PlayerHeaders.TEAM,
+            PlayerHeaders.EXPECTED_POINTS));
 
     public ElementProvider(JSONArray elementsArray) {
         this.elementsArray = elementsArray;
     }
 
-    public JSONArray getAllElementsData() {
+    public JSONArray getData() {
         return elementsArray;
     }
 

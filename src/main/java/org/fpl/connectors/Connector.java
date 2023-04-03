@@ -1,4 +1,4 @@
-package org.example;
+package org.fpl.connectors;
 
 public interface Connector<T> {
     T getConnection();

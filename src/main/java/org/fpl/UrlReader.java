@@ -1,4 +1,6 @@
-package org.example;
+package org.fpl;
+
+import org.fpl.connectors.UrlConnector;
 
 import java.io.BufferedReader;
 import java.io.IOException;

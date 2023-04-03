@@ -1,4 +1,6 @@
-package org.example;
+package org.fpl.connectors;
+
+import org.fpl.connectors.Connector;
 
 import java.io.IOException;
 import java.net.HttpURLConnection;

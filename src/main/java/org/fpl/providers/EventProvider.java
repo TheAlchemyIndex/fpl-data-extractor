@@ -11,7 +11,7 @@ public class EventProvider {
     }
 
     public JSONArray getData() {
-        return eventsArray;
+        return this.eventsArray;
     }
 
     public int getCurrentGameweek() {

@@ -1,12 +1,10 @@
 package org.fpl.connectors;
 
-import org.fpl.connectors.Connector;
-
 import java.io.IOException;
 import java.net.HttpURLConnection;
 import java.net.URL;
 
-public class UrlConnector implements Connector<HttpURLConnection> {
+public class UrlConnector {
     private final HttpURLConnection connection;
     private final int responseCode;
 

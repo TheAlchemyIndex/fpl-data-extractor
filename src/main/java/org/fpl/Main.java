@@ -6,13 +6,13 @@ import org.apache.commons.csv.CSVRecord;
 import org.fpl.connectors.UrlConnector;
 import org.fpl.providers.ElementProvider;
 import org.fpl.providers.EventProvider;
+import org.fpl.providers.TeamProvider;
 import org.json.JSONArray;
 import org.json.JSONObject;
 import java.io.*;
 import java.net.URL;
 
 import static org.fpl.Getters.*;
-import static org.fpl.JsonParser.getJSONObject;
 import static org.fpl.Writer.writeData;
 
 public class Main {
@@ -23,7 +23,8 @@ public class Main {
 
     public static void main(String[] args) throws IOException {
 
-        JSONObject data = getJSONObject(new UrlConnector(new URL(TARGET_URL)));
+        UrlReader urlReader = new UrlReader(new UrlConnector(new URL(TARGET_URL)));
+        JSONObject data = urlReader.parseJSONObject();
 
         ElementProvider elements = new ElementProvider(data.getJSONArray(("elements")));
         JSONArray players = elements.getPlayers();
@@ -31,8 +32,8 @@ public class Main {
         EventProvider events = new EventProvider(data.getJSONArray(("events")));
         int currentGameweekNumber = events.getCurrentGameweek();
 
-        JSONArray teams = data.getJSONArray(("teams"));
-        JSONArray currentGameweekData = getCurrentGameweekData(players, teams, currentGameweekNumber);
+        TeamProvider teams = new TeamProvider(data.getJSONArray(("teams")));
+        JSONArray currentGameweekData = getCurrentGameweekData(players, teams.getData(), currentGameweekNumber);
 
         /* Not efficient, will change later */
         JSONArray allGameweeks = new JSONArray();
@@ -51,7 +52,7 @@ public class Main {
         }
 
         writeData(elements.getData(), String.format("%splayers_raw.csv", BASE_FILENAME));
-        writeData(teams, String.format("%steams.csv", BASE_FILENAME));
+        writeData(teams.getData(), String.format("%steams.csv", BASE_FILENAME));
         writeData(players, String.format("%splayer_idlist.csv", BASE_FILENAME));
         writeData(currentGameweekData, String.format("%sgws/gw%s.csv", BASE_FILENAME, currentGameweekNumber));
         writeData(allGameweeks, String.format("%sgws/merged_gw.csv", BASE_FILENAME));

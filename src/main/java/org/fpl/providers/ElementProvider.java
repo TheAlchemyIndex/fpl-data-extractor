@@ -19,7 +19,7 @@ public class ElementProvider {
     }
 
     public JSONArray getData() {
-        return elementsArray;
+        return this.elementsArray;
     }
 
     public JSONArray getPlayers() {

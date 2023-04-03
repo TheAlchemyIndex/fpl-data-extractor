@@ -10,7 +10,6 @@ import java.util.*;
 
 import static org.fpl.Formatters.formatPosition;
 import static org.fpl.Formatters.formatTeam;
-import static org.fpl.JsonParser.getJSONObject;
 
 public class Getters {
 
@@ -81,7 +80,8 @@ public class Getters {
 
     public static JSONArray getPlayerGameweekHistory(Integer playerId) throws IOException {
         String url = String.format("%s%s/", TARGET_URL, playerId);
-        JSONObject playerData = getJSONObject(new UrlConnector(new URL(url)));
+        UrlReader urlReader = new UrlReader(new UrlConnector(new URL(url)));
+        JSONObject playerData = urlReader.parseJSONObject();
         return playerData.getJSONArray(("history"));
     }
 

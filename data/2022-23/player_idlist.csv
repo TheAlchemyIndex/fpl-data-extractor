@@ -272,7 +272,7 @@ ep_this,second_name,id,element_type,team,first_name
 0.0,Rondón,177,4,8,Salomón
 2.2,Coleman,178,2,8,Seamus
 0.0,Townsend,179,3,8,Andros
-5.0,Keane,180,2,8,Michael
+5.5,Keane,180,2,8,Michael
 0.0,Alli,181,3,8,Dele
 3.2,Pickford,182,1,8,Jordan
 0.0,Marques Loureiro,183,3,8,Allan
@@ -650,7 +650,7 @@ ep_this,second_name,id,element_type,team,first_name
 0.3,Onuachu,732,4,17,Paul
 1.0,Lloris,425,1,18,Hugo
 3.7,Forster,426,1,18,Fraser
-8.0,Kane,427,4,18,Harry
+8.7,Kane,427,4,18,Harry
 5.7,Heung-min,428,3,18,Son
 0.0,Doherty,429,2,18,Matt
 1.3,Dier,430,2,18,Eric
@@ -678,7 +678,7 @@ ep_this,second_name,id,element_type,team,first_name
 0.0,Devine,452,3,18,Alfie
 0.0,Parrott,453,4,18,Troy
 0.8,de Andrade,454,4,18,Richarlison
-2.7,Lenglet,513,2,18,Clément
+3.7,Lenglet,513,2,18,Clément
 0.0,Spence,522,2,18,Djed
 0.0,Gil Salvatierra,554,3,18,Bryan
 0.0,Danjuma,713,3,18,Arnaut

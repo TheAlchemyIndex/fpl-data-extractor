@@ -1,6 +1,6 @@
-package org.tae.fpl.providers.impl;
+package org.tai.fpl.providers.impl;
 
-import org.tae.fpl.providers.AbstractProvider;
+import org.tai.fpl.providers.AbstractProvider;
 import org.json.JSONArray;
 import org.json.JSONObject;
 

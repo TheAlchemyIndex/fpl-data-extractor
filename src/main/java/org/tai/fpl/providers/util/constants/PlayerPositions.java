@@ -1,4 +1,4 @@
-package org.tae.fpl.providers.util.constants;
+package org.tai.fpl.providers.util.constants;
 
 public final class PlayerPositions {
     public final static String KEEPER = "GK";

@@ -1,11 +1,11 @@
-package org.tae.fpl.gameweek;
+package org.tai.fpl.gameweek;
 
-import org.tae.fpl.parsers.JsonParser;
-import org.tae.fpl.connectors.UrlConnector;
-import org.tae.fpl.providers.util.constants.GameweekColumns;
-import org.tae.fpl.providers.util.constants.JsonKeys;
-import org.tae.fpl.providers.util.constants.PlayerColumns;
-import org.tae.fpl.providers.util.constants.PlayerPositions;
+import org.tai.fpl.parsers.JsonParser;
+import org.tai.fpl.connectors.UrlConnector;
+import org.tai.fpl.providers.util.constants.GameweekColumns;
+import org.tai.fpl.providers.util.constants.JsonKeys;
+import org.tai.fpl.providers.util.constants.PlayerColumns;
+import org.tai.fpl.providers.util.constants.PlayerPositions;
 import org.json.JSONArray;
 import org.json.JSONObject;
 

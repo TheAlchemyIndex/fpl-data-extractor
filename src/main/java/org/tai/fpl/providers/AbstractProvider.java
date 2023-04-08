@@ -1,4 +1,4 @@
-package org.tae.fpl.providers;
+package org.tai.fpl.providers;
 
 import org.json.JSONArray;
 

@@ -1,23 +1,24 @@
-package org.tae.fpl;
+package org.tai.fpl;
 
 import org.apache.commons.csv.CSVFormat;
 import org.apache.commons.csv.CSVParser;
 import org.apache.commons.csv.CSVRecord;
-import org.tae.fpl.connectors.UrlConnector;
-import org.tae.fpl.parsers.JsonParser;
-import org.tae.fpl.providers.impl.ElementProvider;
-import org.tae.fpl.providers.impl.EventProvider;
-import org.tae.fpl.gameweek.Gameweek;
-import org.tae.fpl.providers.impl.TeamProvider;
-import org.tae.fpl.providers.util.constants.JsonKeys;
+import org.tai.fpl.connectors.UrlConnector;
+import org.tai.fpl.parsers.JsonParser;
+import org.tai.fpl.providers.impl.ElementProvider;
+import org.tai.fpl.providers.impl.EventProvider;
+import org.tai.fpl.gameweek.Gameweek;
+import org.tai.fpl.providers.impl.TeamProvider;
+import org.tai.fpl.providers.util.constants.JsonKeys;
 import org.json.JSONArray;
 import org.json.JSONObject;
+import org.tai.fpl.writers.FileWriter;
+
 import java.io.*;
 import java.net.URL;
 import java.util.Map;
 
-import static org.tae.fpl.Getters.*;
-import static org.tae.fpl.writers.FileWriter.writeData;
+import static org.tai.fpl.Getters.*;
 
 public class Main {
 
@@ -49,10 +50,10 @@ public class Main {
         Gameweek gameweekProvider = new Gameweek(currentGameweekNumber, players, teams);
         JSONArray currentGameweekData = gameweekProvider.getCurrentGameweekData();
 
-        writeData(elementProvider.getData(), PLAYERS_RAW_FILENAME);
-        writeData(teamProvider.getData(), TEAMS_FILENAME);
-        writeData(players, PLAYER_ID_FILENAME);
-        writeData(currentGameweekData, String.format("%s%s.csv", GAMEWEEK_FILENAME, currentGameweekNumber));
+        FileWriter.writeData(elementProvider.getData(), PLAYERS_RAW_FILENAME);
+        FileWriter.writeData(teamProvider.getData(), TEAMS_FILENAME);
+        FileWriter.writeData(players, PLAYER_ID_FILENAME);
+        FileWriter.writeData(currentGameweekData, String.format("%s%s.csv", GAMEWEEK_FILENAME, currentGameweekNumber));
 
         /* Not efficient, will change later */
         JSONArray allGameweeks = new JSONArray();
@@ -69,6 +70,6 @@ public class Main {
                 System.out.println(e);
             }
         }
-        writeData(allGameweeks, String.format("%sgws/merged_gw.csv", BASE_FILENAME));
+        FileWriter.writeData(allGameweeks, String.format("%sgws/merged_gw.csv", BASE_FILENAME));
     }
 }

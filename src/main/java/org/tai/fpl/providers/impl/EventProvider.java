@@ -10,16 +10,11 @@ public class EventProvider extends AbstractProvider {
         super(dataArray);
     }
 
-    @Override
-    public JSONArray getData() {
-        return this.dataArray;
-    }
-
     public int getCurrentGameweek() {
         int gameweek = 0;
 
-        for (int i = 0; i < this.dataArray.length(); i++) {
-            JSONObject event = this.dataArray.getJSONObject(i);
+        for (int i = 0; i < this.getData().length(); i++) {
+            JSONObject event = this.getData().getJSONObject(i);
             if (event.getBoolean("is_current")) {
                 gameweek = event.getInt("id");
             };

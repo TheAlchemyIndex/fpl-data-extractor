@@ -19,16 +19,11 @@ public class ElementProvider extends AbstractProvider {
         super(dataArray);
     }
 
-    @Override
-    public JSONArray getData() {
-        return this.dataArray;
-    }
-
     public JSONArray getPlayers() {
         JSONArray playersArray = new JSONArray();
 
-        for (int i = 0; i < this.dataArray.length(); i++) {
-            JSONObject element = this.dataArray.getJSONObject(i);
+        for (int i = 0; i < this.getData().length(); i++) {
+            JSONObject element = this.getData().getJSONObject(i);
             JSONObject player = new JSONObject();
             for (String header : PLAYER_HEADERS) {
                 player.put(header, element.get(header));

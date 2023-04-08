@@ -13,16 +13,11 @@ public class TeamProvider extends AbstractProvider {
         super(dataArray);
     }
 
-    @Override
-    public JSONArray getData() {
-        return this.dataArray;
-    }
-
     public Map<Integer, String> getTeams() {
         Map<Integer, String> teamsMap = new HashMap<>();
 
-        for (int i = 0; i < this.dataArray.length(); i++) {
-            JSONObject team = this.dataArray.getJSONObject(i);
+        for (int i = 0; i < this.getData().length(); i++) {
+            JSONObject team = this.getData().getJSONObject(i);
             teamsMap.put(team.getInt("id"), team.get("name").toString());
         }
         return teamsMap;

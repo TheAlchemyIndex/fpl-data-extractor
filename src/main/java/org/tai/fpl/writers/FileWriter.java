@@ -12,8 +12,7 @@ public class FileWriter {
 
     public static void writeData(JSONArray elements, String baseFileName) {
         try {
-            String fileName = baseFileName;
-            File file = new File(fileName);
+            File file = new File(baseFileName);
             String csvString = CDL.toString(elements);
             FileUtils.writeStringToFile(file, csvString, Charset.defaultCharset());
         }

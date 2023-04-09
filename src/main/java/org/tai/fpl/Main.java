@@ -3,6 +3,7 @@ package org.tai.fpl;
 import org.apache.commons.csv.CSVFormat;
 import org.apache.commons.csv.CSVParser;
 import org.apache.commons.csv.CSVRecord;
+import org.json.JSONException;
 import org.tai.fpl.connectors.UrlConnector;
 import org.tai.fpl.parsers.JsonParser;
 import org.tai.fpl.providers.impl.ElementProvider;
@@ -15,6 +16,7 @@ import org.json.JSONObject;
 import org.tai.fpl.writers.FileWriter;
 
 import java.io.*;
+import java.net.MalformedURLException;
 import java.net.URL;
 import java.util.Map;
 
@@ -31,12 +33,23 @@ public class Main {
     private static final String PLAYER_ID_FILENAME = String.format("%splayer_idlist.csv", BASE_FILENAME);
     private static final String GAMEWEEK_FILENAME = String.format("%sgws/gw", BASE_FILENAME);
 
-    /* Will fix exception handling later */
-    public static void main(String[] args) throws IOException {
+    /* Will replace print statements with logs */
+    public static void main(String[] args) {
+        JsonParser jsonParser;
+        JSONObject data = new JSONObject();
+        JSONArray currentGameweekData;
 
-        UrlConnector urlConnector = new UrlConnector(new URL(TARGET_URL));
-        JsonParser jsonParser = new JsonParser(urlConnector.getResponseString());
-        JSONObject data = jsonParser.parseJsonObject();
+        try {
+            UrlConnector urlConnector = new UrlConnector(new URL(TARGET_URL));
+            jsonParser = new JsonParser(urlConnector.getResponseString());
+            data = jsonParser.parseJsonObject();
+        } catch(MalformedURLException malformedURLException) {
+            System.out.println("Invalid target url provided: " + malformedURLException.getMessage());
+        } catch(IOException ioException) {
+            System.out.println("Error connecting to the provided target url: " + ioException.getMessage());
+        } catch(JSONException jsonException) {
+            System.out.println("Error parsing JSON data: " + jsonException.getMessage());
+        }
 
         ElementProvider elementProvider = new ElementProvider(data.getJSONArray((JsonKeys.ELEMENTS)));
         JSONArray players = elementProvider.getPlayers();
@@ -48,7 +61,11 @@ public class Main {
         Map<Integer, String> teams = teamProvider.getTeams();
 
         Gameweek gameweekProvider = new Gameweek(currentGameweekNumber, players, teams);
-        JSONArray currentGameweekData = gameweekProvider.getCurrentGameweekData();
+        try {
+            currentGameweekData = gameweekProvider.getCurrentGameweekData();
+        } catch (IOException e) {
+            throw new RuntimeException(e);
+        }
 
         FileWriter.writeData(elementProvider.getData(), PLAYERS_RAW_FILENAME);
         FileWriter.writeData(teamProvider.getData(), TEAMS_FILENAME);

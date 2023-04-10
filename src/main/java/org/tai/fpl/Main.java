@@ -3,19 +3,18 @@ package org.tai.fpl;
 import org.apache.commons.csv.CSVFormat;
 import org.apache.commons.csv.CSVParser;
 import org.apache.commons.csv.CSVRecord;
+import org.json.JSONArray;
+import org.apache.logging.log4j.LogManager;
+import org.apache.logging.log4j.Logger;
 import org.json.JSONException;
+import org.json.JSONObject;
 import org.tai.fpl.connectors.UrlConnector;
+import org.tai.fpl.gameweek.Gameweek;
 import org.tai.fpl.parsers.JsonParser;
 import org.tai.fpl.providers.impl.ElementProvider;
 import org.tai.fpl.providers.impl.EventProvider;
-import org.tai.fpl.gameweek.Gameweek;
 import org.tai.fpl.providers.impl.TeamProvider;
 import org.tai.fpl.providers.util.constants.JsonKeys;
-import org.json.JSONArray;
-import org.json.JSONObject;
-import org.tai.fpl.writers.FileWriter;
-import org.apache.logging.log4j.LogManager;
-import org.apache.logging.log4j.Logger;
 
 import java.io.*;
 import java.net.MalformedURLException;
@@ -23,7 +22,9 @@ import java.net.URL;
 import java.util.HashMap;
 import java.util.Map;
 
-import static org.tai.fpl.Getters.*;
+import static org.tai.fpl.Getters.createJSONObject;
+import static org.tai.fpl.understat.Understat.*;
+import static org.tai.fpl.writers.FileWriter.writeData;
 
 public class Main {
     private static final Logger LOGGER = LogManager.getLogger(Main.class);
@@ -32,11 +33,14 @@ public class Main {
     private static final String SEASON = "2022-23";
 
     private static final String BASE_FILENAME = String.format("data/%s/", SEASON);
-    private static final String PLAYERS_RAW_FILENAME = String.format("%splayer_idlist.csv", BASE_FILENAME);
+    private static final String PLAYERS_RAW_FILENAME = String.format("%splayers_raw.csv", BASE_FILENAME);
     private static final String TEAMS_FILENAME = String.format("%steams.csv", BASE_FILENAME);
     private static final String PLAYER_ID_FILENAME = String.format("%splayer_idlist.csv", BASE_FILENAME);
     private static final String GAMEWEEK_FILENAME = String.format("%sgws/gw", BASE_FILENAME);
+    private static final String UNDERSTAT_TEAMS_FILENAME = String.format("%sunderstat/teams/", BASE_FILENAME);
+    private static final String UNDERSTAT_PLAYERS_FILENAME = String.format("%sunderstat/players/", BASE_FILENAME);
 
+    /* Will clean up main method later */
     public static void main(String[] args) {
         JsonParser jsonParser;
         JSONObject data = new JSONObject();
@@ -71,9 +75,9 @@ public class Main {
             TeamProvider teamProvider = new TeamProvider(data.getJSONArray((JsonKeys.TEAMS)));
             teams = teamProvider.getTeams();
 
-            FileWriter.writeData(elementProvider.getData(), PLAYERS_RAW_FILENAME);
-            FileWriter.writeData(teamProvider.getData(), TEAMS_FILENAME);
-            FileWriter.writeData(players, PLAYER_ID_FILENAME);
+            writeData(elementProvider.getData(), PLAYERS_RAW_FILENAME);
+            writeData(teamProvider.getData(), TEAMS_FILENAME);
+            writeData(players, PLAYER_ID_FILENAME);
         } catch(IllegalArgumentException | JSONException illegalArgumentException) {
             if (illegalArgumentException instanceof JSONException) {
                 LOGGER.error("Error parsing JSON data using Provider classes: " + illegalArgumentException.getMessage());
@@ -88,7 +92,7 @@ public class Main {
         } catch (IOException ioException) {
             LOGGER.error("Error getting current gameweek data: " + ioException.getMessage());
         }
-        FileWriter.writeData(currentGameweekData, String.format("%s%s.csv", GAMEWEEK_FILENAME, currentGameweekNumber));
+        writeData(currentGameweekData, String.format("%s%s.csv", GAMEWEEK_FILENAME, currentGameweekNumber));
 
         /* Not efficient, will change later */
         JSONArray allGameweeks = new JSONArray();
@@ -105,6 +109,27 @@ public class Main {
                 System.out.println(e);
             }
         }
-        FileWriter.writeData(allGameweeks, String.format("%sgws/merged_gw.csv", BASE_FILENAME));
+        writeData(allGameweeks, String.format("%sgws/merged_gw.csv", BASE_FILENAME));
+
+        try {
+            JSONObject teamsUnderstatData = getTeamData();
+            teamsUnderstatData.keySet().forEach(keyStr ->
+            {
+                JSONObject teamData = teamsUnderstatData.getJSONObject(keyStr);
+                String teamName = teamData.getString("title");
+                JSONArray teamHistory = teamData.getJSONArray("history");
+                writeData(teamHistory, String.format("%s%s.csv", UNDERSTAT_TEAMS_FILENAME, teamName));
+            });
+
+            JSONArray playersUnderstatData = getPlayerData();
+            for (int i = 0; i < playersUnderstatData.length(); i++) {
+                int playerId = playersUnderstatData.getJSONObject(i).getInt("id");
+                String playerName = playersUnderstatData.getJSONObject(i).getString("player_name");
+                JSONArray playerMatchesData = getPlayerMatchesData(playerId);
+                writeData(playerMatchesData, String.format("%s%s.csv", UNDERSTAT_PLAYERS_FILENAME, playerName));
+            }
+        } catch(IOException ioException) {
+            LOGGER.error("Error getting understat data: " + ioException.getMessage());
+        }
     }
 }

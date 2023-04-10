@@ -19,6 +19,7 @@
         <junit.version>4.13.2</junit.version>
         <log4j.api.version>2.20.0</log4j.api.version>
         <log4j.core.version>2.20.0</log4j.core.version>
+        <jsoup.version>1.15.4</jsoup.version>
     </properties>
 
     <dependencies>
@@ -42,6 +43,14 @@
             <artifactId>commons-io</artifactId>
             <version>${commons.io.version}</version>
         </dependency>
+
+        <!--Web Scraping-->
+        <dependency>
+            <groupId>org.jsoup</groupId>
+            <artifactId>jsoup</artifactId>
+            <version>${jsoup.version}</version>
+        </dependency>
+
 
         <!--Logging-->
         <dependency>

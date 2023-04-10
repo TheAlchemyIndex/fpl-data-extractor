@@ -1,5 +1,9 @@
 package org.tai.fpl.gameweek;
 
+import org.apache.logging.log4j.LogManager;
+import org.apache.logging.log4j.Logger;
+import org.json.JSONException;
+import org.tai.fpl.Main;
 import org.tai.fpl.parsers.JsonParser;
 import org.tai.fpl.connectors.UrlConnector;
 import org.tai.fpl.providers.util.constants.GameweekColumns;
@@ -10,12 +14,15 @@ import org.json.JSONArray;
 import org.json.JSONObject;
 
 import java.io.IOException;
+import java.net.MalformedURLException;
 import java.net.URL;
 import java.util.HashMap;
 import java.util.Map;
 
 public class Gameweek {
+    private static final Logger LOGGER = LogManager.getLogger(Main.class);
     private static final String TARGET_URL = "https://fantasy.premierleague.com/api/element-summary/";
+
     private final int gameweekNumber;
     private final JSONArray players;
     private final Map<Integer, String> teams;
@@ -26,9 +33,8 @@ public class Gameweek {
         this.teams = teams;
     }
 
-    public JSONArray getCurrentGameweekData() throws IOException {
+    public JSONArray getCurrentGameweekData() {
         JSONArray currentGameweekData = new JSONArray();
-
         for (int i = 0; i < this.players.length(); i++) {
             JSONObject player = this.players.getJSONObject(i);
             Map<String, Object> playerIdentifiers = getPlayerAttributes(player);
@@ -89,11 +95,26 @@ public class Gameweek {
         return this.teams.get(teamId);
     }
 
-    private JSONArray getPlayerGameweekHistory(Integer playerId) throws IOException {
+    private JSONArray getPlayerGameweekHistory(Integer playerId) {
+        JSONArray playerGameweekHistory = new JSONArray();
         String url = String.format("%s%s/", TARGET_URL, playerId);
-        UrlConnector urlConnector = new UrlConnector(new URL(url));
-        JsonParser jsonParser = new JsonParser(urlConnector.getResponseString());
-        JSONObject playerData = jsonParser.parseJsonObject();
-        return playerData.getJSONArray((JsonKeys.HISTORY));
+
+        try {
+            UrlConnector urlConnector = new UrlConnector(new URL(url));
+            JsonParser jsonParser = new JsonParser(urlConnector.getResponseString());
+            JSONObject playerData = jsonParser.parseJsonObject();
+            playerGameweekHistory = playerData.getJSONArray((JsonKeys.HISTORY));
+        } catch(MalformedURLException malformedURLException) {
+            LOGGER.error("Invalid target url provided: " + malformedURLException.getMessage());
+        } catch(IOException ioException) {
+            LOGGER.error("Error connecting to the provided target url: " + ioException.getMessage());
+        } catch(RuntimeException runtimeException) {
+            if (runtimeException instanceof JSONException) {
+                LOGGER.error("Error parsing JSON data using JsonParser: " + runtimeException.getMessage());
+            } else {
+                LOGGER.error("Error connecting to the provided target url: " + runtimeException.getMessage());
+            }
+        }
+        return playerGameweekHistory;
     }
 }

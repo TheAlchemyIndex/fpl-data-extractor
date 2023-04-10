@@ -1,18 +1,25 @@
 package org.tai.fpl.understat;
 
+import org.apache.logging.log4j.LogManager;
+import org.apache.logging.log4j.Logger;
 import org.json.JSONArray;
 import org.json.JSONObject;
 import org.jsoup.Jsoup;
 import org.jsoup.nodes.Document;
 import org.jsoup.nodes.Element;
 import org.jsoup.select.Elements;
+import org.tai.fpl.Main;
 
 import java.io.IOException;
 import java.io.UnsupportedEncodingException;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
+import static org.tai.fpl.writers.FileWriter.writeData;
+
 public class Understat {
+    private static final Logger LOGGER = LogManager.getLogger(Main.class);
+
     private static final String TARGET_URL = "https://understat.com/league/EPL/2022";
     private static final String TARGET_PLAYER_URL = "https://understat.com/player/";
 
@@ -20,16 +27,41 @@ public class Understat {
     private static final String PLAYERS_DATA_VAR = "var playersData";
     private static final String MATCHES_DATA_VAR = "var matchesData";
 
-    public static JSONObject getTeamData() throws IOException {
-        return getJsonObject(TARGET_URL, TEAMS_DATA_VAR);
+    public static void getTeamData(String fileName) {
+        try {
+            JSONObject teamsData = getJsonObject(TARGET_URL, TEAMS_DATA_VAR);
+            teamsData.keySet().forEach(keyStr ->
+            {
+                JSONObject teamData = teamsData.getJSONObject(keyStr);
+                String teamName = teamData.getString("title");
+                JSONArray teamHistory = teamData.getJSONArray("history");
+                writeData(teamHistory, String.format("%s%s.csv", fileName, teamName));
+            });
+        } catch(IOException ioException) {
+            if (ioException instanceof UnsupportedEncodingException) {
+                LOGGER.error("Error encoding hex data to Json: " + ioException.getMessage());
+            } else {
+                LOGGER.error("Error getting player understat data: " + ioException.getMessage());
+            }
+        }
     }
 
-    public static JSONArray getPlayerData() throws IOException {
-        return getJsonArray(TARGET_URL, PLAYERS_DATA_VAR);
-    }
-
-    public static JSONArray getPlayerMatchesData(int playerId) throws IOException {
-        return getJsonArray(String.format("%s%s", TARGET_PLAYER_URL, playerId), MATCHES_DATA_VAR);
+    public static void getPlayerData(String fileName) {
+        try {
+            JSONArray playerData = getJsonArray(TARGET_URL, PLAYERS_DATA_VAR);
+            for (int i = 0; i < playerData.length(); i++) {
+                int playerId = playerData.getJSONObject(i).getInt("id");
+                String playerName = playerData.getJSONObject(i).getString("player_name");
+                JSONArray playerMatchesData = getJsonArray(String.format("%s%s", TARGET_PLAYER_URL, playerId), MATCHES_DATA_VAR);
+                writeData(playerMatchesData, String.format("%s%s.csv", fileName, playerName));
+            }
+        } catch(IOException ioException) {
+            if (ioException instanceof UnsupportedEncodingException) {
+                LOGGER.error("Error encoding hex data to Json: " + ioException.getMessage());
+            } else {
+                LOGGER.error("Error getting player understat data: " + ioException.getMessage());
+            }
+        }
     }
 
     private static String extractScriptTag(Elements scriptTags, String targetVar) {

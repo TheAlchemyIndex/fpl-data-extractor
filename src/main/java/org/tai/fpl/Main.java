@@ -8,17 +8,13 @@ import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 import org.json.JSONException;
 import org.json.JSONObject;
-import org.tai.fpl.connectors.UrlConnector;
 import org.tai.fpl.gameweek.Gameweek;
-import org.tai.fpl.parsers.JsonParser;
 import org.tai.fpl.providers.impl.ElementProvider;
 import org.tai.fpl.providers.impl.EventProvider;
 import org.tai.fpl.providers.impl.TeamProvider;
 import org.tai.fpl.providers.util.constants.JsonKeys;
 
 import java.io.*;
-import java.net.MalformedURLException;
-import java.net.URL;
 import java.util.HashMap;
 import java.util.Map;
 
@@ -42,25 +38,8 @@ public class Main {
 
     /* Will clean up main method later */
     public static void main(String[] args) {
-        JsonParser jsonParser;
-        JSONObject data = new JSONObject();
-        JSONArray currentGameweekData = new JSONArray();
-
-        try {
-            UrlConnector urlConnector = new UrlConnector(new URL(TARGET_URL));
-            jsonParser = new JsonParser(urlConnector.getResponseString());
-            data = jsonParser.parseJsonObject();
-        } catch(MalformedURLException malformedURLException) {
-            LOGGER.error("Invalid target url provided: " + malformedURLException.getMessage());
-        } catch(IOException ioException) {
-            LOGGER.error("Error connecting to the provided target url: " + ioException.getMessage());
-        } catch(RuntimeException runtimeException) {
-            if (runtimeException instanceof JSONException) {
-                LOGGER.error("Error parsing JSON data using JsonParser: " + runtimeException.getMessage());
-            } else {
-                LOGGER.error("Error connecting to the provided target url: " + runtimeException.getMessage());
-            }
-        }
+        DataExtractor dataExtractor = new DataExtractor(TARGET_URL);
+        JSONObject data = dataExtractor.getJsonFromUrl();
 
         JSONArray players = new JSONArray();
         int currentGameweekNumber = 0;
@@ -86,12 +65,8 @@ public class Main {
             }
         }
 
-        try {
-            Gameweek gameweekProvider = new Gameweek(currentGameweekNumber, players, teams);
-            currentGameweekData = gameweekProvider.getCurrentGameweekData();
-        } catch (IOException ioException) {
-            LOGGER.error("Error getting current gameweek data: " + ioException.getMessage());
-        }
+        Gameweek gameweekProvider = new Gameweek(currentGameweekNumber, players, teams);
+        JSONArray currentGameweekData = gameweekProvider.getCurrentGameweekData();
         writeData(currentGameweekData, String.format("%s%s.csv", GAMEWEEK_FILENAME, currentGameweekNumber));
 
         /* Not efficient, will change later */
@@ -111,25 +86,7 @@ public class Main {
         }
         writeData(allGameweeks, String.format("%sgws/merged_gw.csv", BASE_FILENAME));
 
-        try {
-            JSONObject teamsUnderstatData = getTeamData();
-            teamsUnderstatData.keySet().forEach(keyStr ->
-            {
-                JSONObject teamData = teamsUnderstatData.getJSONObject(keyStr);
-                String teamName = teamData.getString("title");
-                JSONArray teamHistory = teamData.getJSONArray("history");
-                writeData(teamHistory, String.format("%s%s.csv", UNDERSTAT_TEAMS_FILENAME, teamName));
-            });
-
-            JSONArray playersUnderstatData = getPlayerData();
-            for (int i = 0; i < playersUnderstatData.length(); i++) {
-                int playerId = playersUnderstatData.getJSONObject(i).getInt("id");
-                String playerName = playersUnderstatData.getJSONObject(i).getString("player_name");
-                JSONArray playerMatchesData = getPlayerMatchesData(playerId);
-                writeData(playerMatchesData, String.format("%s%s.csv", UNDERSTAT_PLAYERS_FILENAME, playerName));
-            }
-        } catch(IOException ioException) {
-            LOGGER.error("Error getting understat data: " + ioException.getMessage());
-        }
+        getTeamData(UNDERSTAT_TEAMS_FILENAME);
+        getPlayerData(UNDERSTAT_PLAYERS_FILENAME);
     }
 }

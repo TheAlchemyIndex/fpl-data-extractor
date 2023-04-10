@@ -9,15 +9,20 @@ import java.io.IOException;
 import java.nio.charset.Charset;
 
 public class FileWriter {
+    private final String baseFilePath;
 
-    public static void writeData(JSONArray elements, String baseFileName) {
+    public FileWriter(String season) {
+        this.baseFilePath = String.format("data/%s/", season);
+    }
+
+    public void writeData(JSONArray elements, String secondaryFilePath) {
         try {
-            File file = new File(baseFileName);
+            File file = new File(String.format("%s%s", this.baseFilePath, secondaryFilePath));
             String csvString = CDL.toString(elements);
             FileUtils.writeStringToFile(file, csvString, Charset.defaultCharset());
         }
         catch (IOException ioException) {
-            String exceptionMessage = String.format("Error extracting raw player data to file: %s", ioException.getMessage());
+            String exceptionMessage = String.format("Error extracting data to file: %s", ioException.getMessage());
             System.out.println(exceptionMessage);
         }
     }

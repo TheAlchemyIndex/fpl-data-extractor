@@ -8,17 +8,16 @@ import org.jsoup.Jsoup;
 import org.jsoup.nodes.Document;
 import org.jsoup.nodes.Element;
 import org.jsoup.select.Elements;
-import org.tai.fpl.Main;
+import org.tai.fpl.util.constants.FileNames;
+import org.tai.fpl.writers.FileWriter;
 
 import java.io.IOException;
 import java.io.UnsupportedEncodingException;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
-import static org.tai.fpl.writers.FileWriter.writeData;
-
 public class Understat {
-    private static final Logger LOGGER = LogManager.getLogger(Main.class);
+    private static final Logger LOGGER = LogManager.getLogger(Understat.class);
 
     private static final String TARGET_URL = "https://understat.com/league/EPL/2022";
     private static final String TARGET_PLAYER_URL = "https://understat.com/player/";
@@ -27,7 +26,8 @@ public class Understat {
     private static final String PLAYERS_DATA_VAR = "var playersData";
     private static final String MATCHES_DATA_VAR = "var matchesData";
 
-    public static void getTeamData(String fileName) {
+    public static void getTeamData(String season) {
+        FileWriter fileWriter = new FileWriter(season);
         try {
             JSONObject teamsData = getJsonObject(TARGET_URL, TEAMS_DATA_VAR);
             teamsData.keySet().forEach(keyStr ->
@@ -35,7 +35,7 @@ public class Understat {
                 JSONObject teamData = teamsData.getJSONObject(keyStr);
                 String teamName = teamData.getString("title");
                 JSONArray teamHistory = teamData.getJSONArray("history");
-                writeData(teamHistory, String.format("%s%s.csv", fileName, teamName));
+                fileWriter.writeData(teamHistory, String.format("%s%s.csv", FileNames.UNDERSTAT_TEAMS_FILENAME, teamName));
             });
         } catch(IOException ioException) {
             if (ioException instanceof UnsupportedEncodingException) {
@@ -46,14 +46,15 @@ public class Understat {
         }
     }
 
-    public static void getPlayerData(String fileName) {
+    public static void getPlayerData(String season) {
+        FileWriter fileWriter = new FileWriter(season);
         try {
             JSONArray playerData = getJsonArray(TARGET_URL, PLAYERS_DATA_VAR);
             for (int i = 0; i < playerData.length(); i++) {
                 int playerId = playerData.getJSONObject(i).getInt("id");
                 String playerName = playerData.getJSONObject(i).getString("player_name");
                 JSONArray playerMatchesData = getJsonArray(String.format("%s%s", TARGET_PLAYER_URL, playerId), MATCHES_DATA_VAR);
-                writeData(playerMatchesData, String.format("%s%s.csv", fileName, playerName));
+                fileWriter.writeData(playerMatchesData, String.format("%s%s.csv", FileNames.UNDERSTAT_PLAYERS_FILENAME, playerName));
             }
         } catch(IOException ioException) {
             if (ioException instanceof UnsupportedEncodingException) {

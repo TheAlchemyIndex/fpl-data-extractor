@@ -1,4 +1,4 @@
-package org.tai.fpl;
+package org.tai.fpl.extractors;
 
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
@@ -28,8 +28,7 @@ public class GameweekExtractor {
             ElementProvider elementProvider = new ElementProvider(this.jsonData.getJSONArray((JsonKeys.ELEMENTS)));
             JSONArray players = elementProvider.getPlayers();
 
-            EventProvider eventProvider = new EventProvider(this.jsonData.getJSONArray((JsonKeys.EVENTS)));
-            int currentGameweekNumber = eventProvider.getCurrentGameweek();
+            int currentGameweekNumber = getCurrentGameweekNumber();
 
             TeamProvider teamProvider = new TeamProvider(this.jsonData.getJSONArray((JsonKeys.TEAMS)));
             Map<Integer, String> teams = teamProvider.getTeams();
@@ -48,5 +47,10 @@ public class GameweekExtractor {
                 LOGGER.error("IllegalArgumentException: " + illegalArgumentException.getMessage());
             }
         }
+    }
+
+    public int getCurrentGameweekNumber() {
+        EventProvider eventProvider = new EventProvider(this.jsonData.getJSONArray((JsonKeys.EVENTS)));
+        return eventProvider.getCurrentGameweek();
     }
 }

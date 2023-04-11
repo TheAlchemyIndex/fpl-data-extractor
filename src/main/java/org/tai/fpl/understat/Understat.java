@@ -26,8 +26,8 @@ public class Understat {
     private static final String PLAYERS_DATA_VAR = "var playersData";
     private static final String MATCHES_DATA_VAR = "var matchesData";
 
-    public static void getTeamData(String season) {
-        FileWriter fileWriter = new FileWriter(season);
+    public static void getTeamData(String season, String baseFilePath) {
+        FileWriter fileWriter = new FileWriter(baseFilePath);
         try {
             JSONObject teamsData = getJsonObject(TARGET_URL, TEAMS_DATA_VAR);
             teamsData.keySet().forEach(keyStr ->
@@ -46,8 +46,8 @@ public class Understat {
         }
     }
 
-    public static void getPlayerData(String season) {
-        FileWriter fileWriter = new FileWriter(season);
+    public static void getPlayerData(String season, String baseFilePath) {
+        FileWriter fileWriter = new FileWriter(baseFilePath);
         try {
             JSONArray playerData = getJsonArray(TARGET_URL, PLAYERS_DATA_VAR);
             for (int i = 0; i < playerData.length(); i++) {

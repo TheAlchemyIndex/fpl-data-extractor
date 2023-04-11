@@ -1,9 +1,10 @@
-package org.tai.fpl;
+package org.tai.fpl.extractors;
 
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 import org.json.JSONException;
 import org.json.JSONObject;
+import org.tai.fpl.Main;
 import org.tai.fpl.connectors.UrlConnector;
 import org.tai.fpl.parsers.JsonParser;
 

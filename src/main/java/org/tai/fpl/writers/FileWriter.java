@@ -11,13 +11,13 @@ import java.nio.charset.Charset;
 public class FileWriter {
     private final String baseFilePath;
 
-    public FileWriter(String season) {
-        this.baseFilePath = String.format("data/%s/", season);
+    public FileWriter(String baseFilePath) {
+        this.baseFilePath = baseFilePath;
     }
 
     public void writeData(JSONArray elements, String secondaryFilePath) {
         try {
-            File file = new File(String.format("%s%s", this.baseFilePath, secondaryFilePath));
+            File file = new File(String.format("%s/%s", this.baseFilePath, secondaryFilePath));
             String csvString = CDL.toString(elements);
             FileUtils.writeStringToFile(file, csvString, Charset.defaultCharset());
         }

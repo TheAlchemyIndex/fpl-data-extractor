@@ -46,6 +46,8 @@ public class Gameweek {
                 JSONObject gameweek = playerGameweekHistory.getJSONObject(j);
                 if (gameweek.getInt(GameweekColumns.ROUND) == this.gameweekNumber) {
                     playerGameweekData = gameweek;
+                    String opponentTeam = formatTeam(playerGameweekData.getInt("opponent_team"));
+                    playerGameweekData.put("opponent_team", opponentTeam);
                     playerGameweekData.put(PlayerColumns.NAME, playerIdentifiers.get(PlayerColumns.NAME));
                     playerGameweekData.put(PlayerColumns.POSITION, playerIdentifiers.get(PlayerColumns.POSITION));
                     playerGameweekData.put(PlayerColumns.TEAM, playerIdentifiers.get(PlayerColumns.TEAM));

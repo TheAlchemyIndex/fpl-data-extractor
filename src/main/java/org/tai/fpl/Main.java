@@ -19,22 +19,23 @@ public class Main {
     private static final String TARGET_URL = "https://fantasy.premierleague.com/api/bootstrap-static/";
 
     public static void main(String[] args) {
-        FplConfig config = new FplConfig();
-        final String season = config.getFullSeason();
-        final String baseFilePath = config.getBaseFilePath();
-
+//        FplConfig config = new FplConfig();
+//        final String season = config.getFullSeason();
+//        final String baseFilePath = config.getBaseFilePath();
+//
+        String baseFilePath = "data/2019-20/";
         FileWriter fileWriter = new FileWriter(baseFilePath);
-
-        DataExtractor dataExtractor = new DataExtractor(TARGET_URL);
-        JSONObject data = dataExtractor.getJsonFromUrl();
-
-        GameweekExtractor gameweekExtractor = new GameweekExtractor(data);
-        gameweekExtractor.getGameweekData(fileWriter);
-        int currentGameweekNumber = gameweekExtractor.getCurrentGameweekNumber();
+//
+//        DataExtractor dataExtractor = new DataExtractor(TARGET_URL);
+//        JSONObject data = dataExtractor.getJsonFromUrl();
+//
+//        GameweekExtractor gameweekExtractor = new GameweekExtractor(data);
+//        gameweekExtractor.getGameweekData(fileWriter);
+//        int currentGameweekNumber = gameweekExtractor.getCurrentGameweekNumber();
 
         /* Not efficient, will change later */
         JSONArray allGameweeks = new JSONArray();
-        for (int i = 1; i <= currentGameweekNumber; i++) {
+        for (int i = 1; i <= 38; i++) {
             try {
                 BufferedReader br = new BufferedReader(new FileReader(String.format("%sgws/gw%s.csv",
                         baseFilePath, i)));
@@ -49,7 +50,7 @@ public class Main {
         }
         fileWriter.writeData(allGameweeks, "gws/merged_gw.csv");
 
-        getTeamData(season, baseFilePath);
-        getPlayerData(season, baseFilePath);
+//        getTeamData(season, baseFilePath);
+//        getPlayerData(season, baseFilePath);
     }
 }

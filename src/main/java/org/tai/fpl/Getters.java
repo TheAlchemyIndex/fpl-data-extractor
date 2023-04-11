@@ -20,10 +20,10 @@ public class Getters {
         playerRecord.put("clean_sheets", record.get("clean_sheets"));
         playerRecord.put("creativity", record.get("creativity"));
         playerRecord.put("element", record.get("element"));
-        playerRecord.put("expected_assists", record.get("expected_assists"));
-        playerRecord.put("expected_goal_involvements", record.get("expected_goal_involvements"));
-        playerRecord.put("expected_goals", record.get("expected_goals"));
-        playerRecord.put("expected_goals_conceded", record.get("expected_goals_conceded"));
+        //playerRecord.put("expected_assists", record.get("expected_assists"));
+        //playerRecord.put("expected_goal_involvements", record.get("expected_goal_involvements"));
+        //playerRecord.put("expected_goals", record.get("expected_goals"));
+        //playerRecord.put("expected_goals_conceded", record.get("expected_goals_conceded"));
         playerRecord.put("fixture", record.get("fixture"));
         playerRecord.put("goals_conceded", record.get("goals_conceded"));
         playerRecord.put("goals_scored", record.get("goals_scored"));
@@ -39,7 +39,7 @@ public class Getters {
         playerRecord.put("round", record.get("round"));
         playerRecord.put("saves", record.get("saves"));
         playerRecord.put("selected", record.get("selected"));
-        playerRecord.put("starts", record.get("starts"));
+        //playerRecord.put("starts", record.get("starts"));
         playerRecord.put("team_a_score", record.get("team_a_score"));
         playerRecord.put("team_h_score", record.get("team_h_score"));
         playerRecord.put("threat", record.get("threat"));

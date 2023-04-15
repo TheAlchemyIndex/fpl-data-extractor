@@ -36,10 +36,10 @@ public class GameweekExtractor {
             Gameweek gameweekProvider = new Gameweek(currentGameweekNumber, players, teams);
             JSONArray currentGameweekData = gameweekProvider.getCurrentGameweekData();
 
-            fileWriter.writeData(elementProvider.getData(), FileNames.PLAYERS_RAW_FILENAME);
-            fileWriter.writeData(teamProvider.getData(), FileNames.TEAMS_FILENAME);
-            fileWriter.writeData(players, FileNames.PLAYER_ID_FILENAME);
-            fileWriter.writeData(currentGameweekData, String.format("%s%s.csv", FileNames.GAMEWEEK_FILENAME, currentGameweekNumber));
+            fileWriter.writeDataGameweeks(elementProvider.getData(), FileNames.PLAYERS_RAW_FILENAME);
+            fileWriter.writeDataGameweeks(teamProvider.getData(), FileNames.TEAMS_FILENAME);
+            fileWriter.writeDataGameweeks(players, FileNames.PLAYER_ID_FILENAME);
+            fileWriter.writeDataGameweeks(currentGameweekData, String.format("%s%s.csv", FileNames.GAMEWEEK_FILENAME, currentGameweekNumber));
         } catch (IllegalArgumentException | JSONException illegalArgumentException) {
             if (illegalArgumentException instanceof JSONException) {
                 LOGGER.error("Error parsing JSON data using Provider classes: " + illegalArgumentException.getMessage());

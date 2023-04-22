@@ -20,11 +20,18 @@ public class GameweekExtractor {
     private static final Logger LOGGER = LogManager.getLogger(GameweekExtractor.class);
     private final JSONObject jsonData;
 
-    public GameweekExtractor(JSONObject jsonData) {
+    public GameweekExtractor(JSONObject jsonData) throws IllegalArgumentException {
+        if (jsonData == null) {
+            throw new IllegalArgumentException("GameweekExtractor initialised with a null value.");
+        }
         this.jsonData = jsonData;
     }
 
     public void getGameweekData(FileWriter fileWriter) {
+        if (fileWriter == null) {
+            throw new IllegalArgumentException("null value passed for fileWriter parameter.");
+        }
+
         try {
             ElementProvider elementProvider = new ElementProvider(this.jsonData.getJSONArray((JsonKeys.ELEMENTS)));
             JSONArray players = elementProvider.getPlayers();

@@ -12,10 +12,18 @@ public class JsonParser {
     }
 
     public JSONObject parseJsonObject() throws JSONException {
-        return new JSONObject(this.jsonString);
+        if (this.jsonString == null) {
+            throw new JSONException("Trying to parse null value to JSONObject");
+        } else {
+            return new JSONObject(this.jsonString);
+        }
     }
 
     public JSONArray parseJsonArray() throws JSONException {
-        return new JSONArray(this.jsonString);
+        if (this.jsonString == null) {
+            throw new JSONException("Trying to parse null value to JSONArray");
+        } else {
+            return new JSONArray(this.jsonString);
+        }
     }
 }

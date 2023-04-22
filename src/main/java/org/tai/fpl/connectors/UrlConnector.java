@@ -12,6 +12,9 @@ public class UrlConnector {
     private final int responseCode;
 
     public UrlConnector(URL url) throws IOException {
+        if (url == null) {
+            throw new MalformedURLException("Url value is null, provide a valid url");
+        }
         this.connection = (HttpURLConnection) url.openConnection();
         this.connection.setRequestMethod("GET");
         this.responseCode = connection.getResponseCode();
@@ -21,17 +24,21 @@ public class UrlConnector {
         if (this.responseCode != 200) {
             throw new RuntimeException("HttpResponseCode: " + this.responseCode);
         } else {
-            String inputLine;
-            BufferedReader bufferedReader =
-                    new BufferedReader(new InputStreamReader(this.connection.getInputStream()));
-            StringBuilder responseString = new StringBuilder();
-
-            while ((inputLine = bufferedReader.readLine()) != null) {
-                responseString.append(inputLine);
-            }
-            bufferedReader.close();
-
-            return String.valueOf(responseString);
+            return readStringFromUrl();
         }
+    }
+
+    private String readStringFromUrl() throws IOException {
+        String inputLine;
+        BufferedReader bufferedReader =
+                new BufferedReader(new InputStreamReader(this.connection.getInputStream()));
+        StringBuilder responseString = new StringBuilder();
+
+        while ((inputLine = bufferedReader.readLine()) != null) {
+            responseString.append(inputLine);
+        }
+        bufferedReader.close();
+
+        return String.valueOf(responseString);
     }
 }

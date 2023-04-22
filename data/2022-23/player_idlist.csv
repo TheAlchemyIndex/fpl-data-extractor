@@ -36,22 +36,22 @@ ep_this,second_name,id,element_type,team,first_name
 1.0,Walters,751,2,1,Reuell
 0.0,Coutinho Correia,29,3,2,Philippe
 6.0,Martínez Romero,31,1,2,Emiliano
-0.4,Chambers,32,2,2,Calum
-0.2,Digne,33,2,2,Lucas
-3.0,Traoré,34,3,2,Bertrand
-0.0,Olsen,35,1,2,Robin
+0.6,Chambers,32,2,2,Calum
+0.4,Digne,33,2,2,Lucas
+3.2,Traoré,34,3,2,Bertrand
+0.2,Olsen,35,1,2,Robin
 0.0,Sanson,36,3,2,Morgan
-3.4,McGinn,37,3,2,John
+3.6,McGinn,37,3,2,John
 0.0,Hause,38,2,2,Kortney
-4.6,Mings,39,2,2,Tyrone
-8.2,Watkins,40,4,2,Ollie
+4.8,Mings,39,2,2,Tyrone
+8.4,Watkins,40,4,2,Ollie
 0.0,Nakamba,41,3,2,Marvelous
-3.2,Buendía Stati,42,3,2,Emiliano
+4.0,Buendía Stati,42,3,2,Emiliano
 0.0,Cash,43,2,2,Matty
-4.0,Konsa Ngoyo,44,2,2,Ezri
+4.2,Konsa Ngoyo,44,2,2,Ezri
 0.0,Bailey,45,3,2,Leon
-3.0,Soares de Paulo,46,3,2,Douglas Luiz
-5.6,Ramsey,47,3,2,Jacob
+4.0,Soares de Paulo,46,3,2,Douglas Luiz
+5.8,Ramsey,47,3,2,Jacob
 0.0,Iroegbunam,49,3,2,Tim
 0.0,Santos Silva,50,2,2,Diego Carlos
 0.0,El Ghazi,51,3,2,Anwar
@@ -60,14 +60,14 @@ ep_this,second_name,id,element_type,team,first_name
 0.0,Archer,54,4,2,Cameron
 0.0,Philogene-Bidace,55,3,2,Jaden
 0.0,Guilbert,56,2,2,Frédéric
-1.2,Dendoncker,479,3,2,Leander
+1.4,Dendoncker,479,3,2,Leander
 0.0,Augustinsson,525,2,2,Ludwig
 0.0,Kesler Hayden,537,2,2,Kaine
 4.6,Young,538,2,2,Ashley
 0.0,Bogarde,638,2,2,Lamare
 0.0,Marschall,670,1,2,Filip
 0.0,Young,672,3,2,Kadan
-4.8,Moreno Lopera,694,2,2,Alexandre
+5.0,Moreno Lopera,694,2,2,Alexandre
 0.0,Sinisalo,707,1,2,Viljami
 0.2,Durán,711,4,2,Jhon
 0.0,Swinkels,744,2,2,Sil
@@ -118,41 +118,41 @@ ep_this,second_name,id,element_type,team,first_name
 -0.5,Greenwood,737,2,3,Ben
 -0.5,Kinsey-Wellings,738,2,3,Max
 0.0,Jansson,78,2,4,Pontus
-1.6,Nørgaard,79,3,4,Christian
-3.6,Toney,80,4,4,Ivan
-2.8,Raya Martin,81,1,4,David
+1.4,Nørgaard,79,3,4,Christian
+4.6,Toney,80,4,4,Ivan
+3.0,Raya Martin,81,1,4,David
 0.0,Canós Tenés,82,2,4,Sergi
-1.2,Dasilva,83,3,4,Josh
+1.4,Dasilva,83,3,4,Josh
 0.0,Ajer,84,2,4,Kristoffer
-2.0,Henry,85,2,4,Rico
-0.6,Janelt,86,3,4,Vitaly
+2.2,Henry,85,2,4,Rico
+0.8,Janelt,86,3,4,Vitaly
 0.4,Ghoddos,87,3,4,Saman
-2.2,Jensen,88,3,4,Mathias
-0.8,Wissa,89,3,4,Yoane
+2.4,Jensen,88,3,4,Mathias
+1.0,Wissa,89,3,4,Yoane
 0.4,Roerslev Rasmussen,90,2,4,Mads
 0.0,Bech Sørensen,91,2,4,Mads
-2.4,Pinnock,92,2,4,Ethan
-0.0,Onyeka,93,3,4,Frank
+2.6,Pinnock,92,2,4,Ethan
+0.2,Onyeka,93,3,4,Frank
 0.6,Baptiste,94,3,4,Shandon
-3.0,Mbeumo,95,4,4,Bryan
+3.8,Mbeumo,95,4,4,Bryan
 0.0,Goode,96,2,4,Charlie
 0.0,Forss,97,4,4,Marcus
 0.0,Thompson,98,2,4,Dominic
 0.0,Bidstrup,99,3,4,Mads
 0.0,Balcombe,100,1,4,Ellery
-0.8,Hickey,510,2,4,Aaron
+1.0,Hickey,510,2,4,Aaron
 0.0,Lewis-Potter,515,3,4,Keane
 0.0,Strakosha,517,1,4,Thomas
-1.2,Mee,526,2,4,Ben
+1.4,Mee,526,2,4,Ben
 0.0,Stevens,540,2,4,Fin
 0.0,Dervişoğlu,541,4,4,Halil
-0.8,Damsgaard,580,3,4,Mikkel
+1.0,Damsgaard,580,3,4,Mikkel
 0.2,Jorgensen,595,2,4,Mathias
 0.0,Trevitt,632,3,4,Ryan
 0.0,Cox,633,1,4,Matthew
 0.0,Crama,646,2,4,Tristan
 0.0,Yarmolyuk,650,3,4,Yegor
-1.2,Schade,688,3,4,Kevin
+1.4,Schade,688,3,4,Kevin
 0.0,Olakigbe,752,3,4,Michael
 0.0,Lallana,101,3,5,Adam
 0.0,Steele,102,1,5,Jason
@@ -238,28 +238,28 @@ ep_this,second_name,id,element_type,team,first_name
 0.2,Tomkins,153,2,7,James
 0.2,McArthur,154,3,7,James
 0.0,Benteke,155,4,7,Christian
-2.5,Ward,156,2,7,Joel
+3.8,Ward,156,2,7,Joel
 0.0,Clyne,157,2,7,Nathaniel
-0.5,Milivojevic,158,3,7,Luka
-5.5,Ayew,159,3,7,Jordan
+0.8,Milivojevic,158,3,7,Luka
+6.0,Ayew,159,3,7,Jordan
 0.0,Zaha,160,3,7,Wilfried
-2.8,Schlupp,161,3,7,Jeffrey
-1.5,Hughes,163,3,7,Will
+3.2,Schlupp,161,3,7,Jeffrey
+1.8,Hughes,163,3,7,Will
 0.0,Riedewald,164,3,7,Jairo
-2.5,Andersen,165,2,7,Joachim
-2.8,Edouard,166,4,7,Odsonne
-4.2,Guéhi,167,2,7,Marc
-2.2,Mateta,168,4,7,Jean-Philippe
-7.2,Eze,169,3,7,Eberechi
-2.8,Mitchell,170,2,7,Tyrick
-5.0,Olise,171,3,7,Michael
+3.8,Andersen,165,2,7,Joachim
+3.0,Edouard,166,4,7,Odsonne
+5.5,Guéhi,167,2,7,Marc
+2.5,Mateta,168,4,7,Jean-Philippe
+7.8,Eze,169,3,7,Eberechi
+3.8,Mitchell,170,2,7,Tyrick
+5.5,Olise,171,3,7,Michael
 0.0,Rak-Sakyi,172,3,7,Jesurun
 0.0,Ebiowei,173,3,7,Malcolm
 0.0,Ferguson,174,2,7,Nathan
-3.5,Johnstone,175,1,7,Sam
+5.0,Johnstone,175,1,7,Sam
 0.0,Matthews,495,1,7,Remi
 0.0,Plange,496,4,7,Luke
-2.8,Doucouré,514,3,7,Cheick
+3.2,Doucouré,514,3,7,Cheick
 0.0,Richards,530,2,7,Chris
 0.0,Whitworth,590,1,7,Joseph
 0.0,Rodney,601,3,7,Kaden
@@ -270,45 +270,46 @@ ep_this,second_name,id,element_type,team,first_name
 0.0,Wells-Morrison,654,3,7,Jack
 0.0,Ozoh,676,3,7,David
 0.0,Ahamada,725,3,7,Naouirou
-0.8,Maupay,110,4,8,Neal
+1.0,Maupay,110,4,8,Neal
 0.0,Begović,176,1,8,Asmir
 0.0,Rondón,177,4,8,Salomón
 0.0,Coleman,178,2,8,Seamus
 0.0,Townsend,179,3,8,Andros
-3.2,Keane,180,2,8,Michael
+4.5,Keane,180,2,8,Michael
 0.0,Alli,181,3,8,Dele
-2.2,Pickford,182,1,8,Jordan
+3.5,Pickford,182,1,8,Jordan
 0.0,Marques Loureiro,183,3,8,Allan
 0.0,Tavares Gomes,184,3,8,André
 0.0,Doucouré,185,3,8,Abdoulaye
-1.8,Iwobi,186,3,8,Alex
+2.2,Iwobi,186,3,8,Alex
 0.0,Gbamin,187,3,8,Jean-Philippe
 0.0,Mina,188,2,8,Yerry
-1.5,Gray,189,3,8,Demarai
+2.0,Gray,189,3,8,Demarai
 0.8,Davies,190,3,8,Tom
 0.2,Calvert-Lewin,191,4,8,Dominic
-0.2,Holgate,192,2,8,Mason
-1.5,Godfrey,193,2,8,Ben
-0.8,Mykolenko,194,2,8,Vitalii
+0.8,Holgate,192,2,8,Mason
+1.8,Godfrey,193,2,8,Ben
+2.0,Mykolenko,194,2,8,Vitalii
 0.0,Branthwaite,196,2,8,Jarrad
 0.5,Patterson,197,2,8,Nathan
 0.0,Nkounkou,198,2,8,Niels
-1.2,Tarkowski,199,2,8,James
+2.5,Tarkowski,199,2,8,James
 0.0,Coady,475,2,8,Conor
 0.0,Nascimento Vinagre,531,2,8,Rúben
-3.8,McNeil,534,3,8,Dwight
+4.2,McNeil,534,3,8,Dwight
 0.0,Mills,560,3,8,Stanley
 0.0,Warrington,561,3,8,Lewis
-2.0,Garner,570,3,8,James
+2.5,Garner,570,3,8,James
 0.6,Onana,577,3,8,Amadou
 0.0,Welch,605,2,8,Reece
-1.2,Gueye,611,3,8,Idrissa
+1.8,Gueye,611,3,8,Idrissa
 0.0,Jakupovic,627,1,8,Eldin
 0.0,John,637,2,8,Kyle
 0.0,Cannon,662,4,8,Thomas
 0.0,Price,678,3,8,Isaac
 1.0,Simms,686,4,8,Ellis
 0.0,Samuels-Smith,757,2,8,Ishé
+1.5,Lonergan,760,1,8,Andy
 0.8,Alves Soares,1,2,9,Cédric
 2.5,Leno,2,1,9,Bernd
 0.0,Duffy,105,2,9,Shane
@@ -354,36 +355,36 @@ ep_this,second_name,id,element_type,team,first_name
 0.0,Evans,249,2,10,Jonny
 0.0,Bertrand,250,2,10,Ryan
 0.0,Albrighton,251,3,10,Marc
-0.6,Mendy,252,3,10,Nampalys
+0.8,Mendy,252,3,10,Nampalys
 0.0,Vestergaard,253,2,10,Jannik
 0.0,Ward,254,1,10,Danny
-1.0,Vardy,255,4,10,Jamie
+1.6,Vardy,255,4,10,Jamie
 0.0,Barbosa Pereira,256,2,10,Ricardo
 0.4,Amartey,257,2,10,Daniel
-2.0,Castagne,258,2,10,Timothy
-0.6,Tielemans,259,3,10,Youri
+3.4,Castagne,258,2,10,Timothy
+0.8,Tielemans,259,3,10,Youri
 0.0,Pérez,260,3,10,Ayoze
 1.6,Maddison,261,3,10,James
-1.8,Iheanacho,262,4,10,Kelechi
+2.8,Iheanacho,262,4,10,Kelechi
 0.0,Choudhury,263,3,10,Hamza
 0.6,Barnes,264,3,10,Harvey
-1.4,Ndidi,265,3,10,Wilfred
-0.4,Dewsbury-Hall,266,3,10,Kiernan
-0.2,Söyüncü,267,2,10,Çaglar
+1.6,Ndidi,265,3,10,Wilfred
+0.6,Dewsbury-Hall,266,3,10,Kiernan
+0.4,Söyüncü,267,2,10,Çaglar
 0.0,Justin,268,2,10,James
 0.6,Soumaré,269,3,10,Boubakary
 0.4,Thomas,270,2,10,Luke
-1.2,Daka,271,4,10,Patson
+1.4,Daka,271,4,10,Patson
 0.0,Brunt,273,2,10,Lewis
-1.8,Iversen,548,1,10,Daniel
-0.4,Praet,549,3,10,Dennis
+2.0,Iversen,548,1,10,Daniel
+0.6,Praet,549,3,10,Dennis
 0.0,Smithies,581,1,10,Alex
-2.0,Faes,612,2,10,Wout
+2.2,Faes,612,2,10,Wout
 0.0,Braybrooke,639,3,10,Sammy
 0.0,Wormleighton,645,2,10,Joe
 0.0,McAteer,687,3,10,Kasey
-0.8,Kristiansen,709,2,10,Victor
-0.6,Cardoso Lemos Martins,715,3,10,Mateus
+1.6,Kristiansen,709,2,10,Victor
+0.8,Cardoso Lemos Martins,715,3,10,Mateus
 0.4,Souttar,727,2,10,Harry
 0.0,Marçal-Madivadua,735,3,10,Wanya
 0.2,Cooper,221,2,11,Liam
@@ -425,29 +426,29 @@ ep_this,second_name,id,element_type,team,first_name
 1.4,McKennie,720,3,11,Weston
 0.0,Chilokoa-Mullen,742,2,11,Jeremiah
 0.0,Pinheiro Monteiro,743,2,11,Diogo
-1.1,Milner,274,3,12,James
-3.7,Henderson,275,3,12,Jordan
+1.3,Milner,274,3,12,James
+3.9,Henderson,275,3,12,Jordan
 1.5,Matip,276,2,12,Joel
-0.9,Alcántara do Nascimento,277,3,12,Thiago
+1.1,Alcántara do Nascimento,277,3,12,Thiago
 0.7,Oxlade-Chamberlain,278,3,12,Alex
 0.0,Firmino,279,4,12,Roberto
 1.1,van Dijk,280,2,12,Virgil
-2.9,Ramses Becker,281,1,12,Alisson
-1.9,Tavares,282,3,12,Fabio Henrique
-5.9,Salah,283,3,12,Mohamed
-1.5,Robertson,284,2,12,Andrew
-3.5,Alexander-Arnold,285,2,12,Trent
+3.1,Ramses Becker,281,1,12,Alisson
+2.5,Tavares,282,3,12,Fabio Henrique
+7.1,Salah,283,3,12,Mohamed
+2.1,Robertson,284,2,12,Andrew
+4.1,Alexander-Arnold,285,2,12,Trent
 1.7,Gomez,286,2,12,Joseph
 0.0,Keita,287,3,12,Naby
-5.7,Teixeira da Silva,288,4,12,Diogo
+7.5,Teixeira da Silva,288,4,12,Diogo
 0.5,Kelleher,289,1,12,Caoimhin
 2.5,Konaté,290,2,12,Ibrahima
-2.3,Jones,291,3,12,Curtis
+2.5,Jones,291,3,12,Curtis
 1.7,Tsimikas,292,2,12,Konstantinos
-0.7,Díaz,293,3,12,Luis
+0.9,Díaz,293,3,12,Luis
 0.9,Elliott,294,3,12,Harvey
 0.5,Freitas Gouveia Carvalho,296,3,12,Fábio
-2.3,Núñez Ribeiro,297,4,12,Darwin
+2.5,Núñez Ribeiro,297,4,12,Darwin
 0.0,Ramsay,298,2,12,Calvin
 0.5,San Miguel del Castillo,497,1,12,Adrián
 0.0,Williams,498,2,12,Rhys
@@ -565,7 +566,7 @@ ep_this,second_name,id,element_type,team,first_name
 0.5,Karius,626,1,15,Loris
 0.0,Kuol,683,3,15,Garang
 0.5,Miley,741,3,15,Lewis
-0.3,Williams,295,2,16,Neco
+1.3,Williams,295,2,16,Neco
 -0.1,Shelvey,349,3,16,Jonjo
 0.0,Wood,354,4,16,Chris
 -0.5,Arter,378,3,16,Harry
@@ -578,41 +579,41 @@ ep_this,second_name,id,element_type,team,first_name
 -0.1,McKenna,385,2,16,Scott
 0.0,Dräger,386,2,16,Mohamed
 -0.1,Yates,387,3,16,Ryan
-0.1,Worrall,388,2,16,Joe
+0.3,Worrall,388,2,16,Joe
 0.0,Panzo,389,2,16,Jonathan
 0.0,Nascimento da Costa Silva,390,3,16,Xande
--0.3,Surridge,391,4,16,Sam
+-0.1,Surridge,391,4,16,Sam
 0.0,Laryea,392,2,16,Richie
 0.0,Mbe Soh,393,2,16,Loïc
-1.9,Johnson,394,4,16,Brennan
+2.1,Johnson,394,4,16,Brennan
 0.0,Mighten,395,3,16,Alex
 0.0,Ojeda Rodríguez,396,3,16,Braian
-0.5,Awoniyi,397,4,16,Taiwo
+0.7,Awoniyi,397,4,16,Taiwo
 0.0,Henderson,398,1,16,Dean
 0.0,Biancone,399,2,16,Giulian
 0.0,Boly,474,2,16,Willy
-1.3,Gibbs-White,493,3,16,Morgan
+3.1,Gibbs-White,493,3,16,Morgan
 0.7,Niakhaté,507,2,16,Moussa
 0.0,Richards,511,2,16,Omar
 -0.5,Hennessey,518,1,16,Wayne
 0.7,Toffolo,523,2,16,Harry
 0.0,O'Brien,524,3,16,Lewis
 -0.3,Lingard,527,3,16,Jesse
-1.3,Mangala,536,3,16,Orel
+1.5,Mangala,536,3,16,Orel
 -0.5,Hammond,553,3,16,Oliver
-0.9,Freuler,582,3,16,Remo
+1.1,Freuler,582,3,16,Remo
 0.0,Kouyaté,583,3,16,Cheikhou
-1.1,Dennis,585,4,16,Emmanuel
+1.3,Dennis,585,4,16,Emmanuel
 0.1,Lodi dos Santos,602,2,16,Renan Augusto
 0.0,Badé,621,2,16,Loïc
 -0.1,Aurier,628,2,16,Serge
 0.0,Taylor,666,4,16,Dale
 0.0,Smith,675,1,16,Jordan
 -0.1,Furtado Scarpa,681,3,16,Gustavo Henrique
-1.7,dos Santos de Oliveira,703,3,16,Danilo
+1.9,dos Santos de Oliveira,703,3,16,Danilo
 1.1,Navas,729,1,16,Keylor
 0.5,de Almeida Monteiro,730,2,16,Felipe Augusto
--0.1,Ayew,734,3,16,André
+0.1,Ayew,734,3,16,André
 -0.5,Shelvey,749,1,16,George
 0.0,Maitland-Niles,21,3,17,Ainsley
 0.8,Lavia,321,3,17,Roméo
@@ -724,21 +725,21 @@ ep_this,second_name,id,element_type,team,first_name
 0.0,Jiménez,476,4,20,Raúl
 0.0,Castro Otto,477,2,20,Jonathan
 5.0,Malheiro de Sá,478,1,20,José
-0.2,da Silva Neves,480,3,20,Rúben
-1.8,Hee-chan,481,3,20,Hwang
+0.5,da Silva Neves,480,3,20,Rúben
+2.0,Hee-chan,481,3,20,Hwang
 4.2,Cabral Semedo,482,2,20,Nélson
-3.0,Castelo Podence,483,3,20,Daniel
+3.2,Castelo Podence,483,3,20,Daniel
 4.0,Kilman,484,2,20,Max
 0.0,Cundle,485,3,20,Luke
-1.2,Lomba Neto,486,3,20,Pedro
+1.5,Lomba Neto,486,3,20,Pedro
 0.0,Aït-Nouri,487,2,20,Rayan
 0.0,Silva,488,4,20,Fabio
-3.5,Gomes,489,2,20,Toti António
+3.2,Gomes,489,2,20,Toti António
 0.0,Tomás Oliveira,490,3,20,Francisco Jorge
 1.0,Traoré Diarra,491,3,20,Adama
 0.0,Šarkić,492,1,20,Matija
 0.0,Mosquera Valdelamar,494,2,20,Yerson
-0.5,Santos Moutinho,503,3,20,João Filipe Iria
+0.8,Santos Moutinho,503,3,20,João Filipe Iria
 0.2,Collins,516,2,20,Nathan
 0.0,Smith,557,1,20,Jackson
 0.5,Bueno López,558,2,20,Hugo
@@ -746,7 +747,7 @@ ep_this,second_name,id,element_type,team,first_name
 0.0,Ronan,567,3,20,Connor
 0.0,Campbell,568,3,20,Chem
 0.0,Ganchinho Guedes,579,3,20,Gonçalo Manuel
-4.0,Nunes,589,3,20,Matheus Luiz
+4.2,Nunes,589,3,20,Matheus Luiz
 0.0,Kalajdzic,608,4,20,Sasa
 2.4,Da Silva Costa,625,4,20,Diego
 0.0,Traoré,629,3,20,Boubacar
@@ -757,4 +758,4 @@ ep_this,second_name,id,element_type,team,first_name
 2.5,Lemina,698,3,20,Mario
 1.2,Sarabia,704,3,20,Pablo
 0.0,Bentley,717,1,20,Daniel
-1.2,Gomes da Silva,721,3,20,João Victor
+1.5,Gomes da Silva,721,3,20,João Victor

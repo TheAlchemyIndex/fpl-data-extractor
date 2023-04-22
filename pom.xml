@@ -23,6 +23,7 @@
     </properties>
 
     <dependencies>
+        <!--Jackson-->
         <dependency>
             <groupId>com.fasterxml.jackson.core</groupId>
             <artifactId>jackson-databind</artifactId>
@@ -33,16 +34,22 @@
             <artifactId>jackson-dataformat-csv</artifactId>
             <version>${jackson.version}</version>
         </dependency>
+
+        <!--CSV-->
         <dependency>
             <groupId>org.apache.commons</groupId>
             <artifactId>commons-csv</artifactId>
             <version>${commons.csv.version}</version>
         </dependency>
+
+        <!--Json-->
         <dependency>
             <groupId>org.json</groupId>
             <artifactId>json</artifactId>
             <version>${json.version}</version>
         </dependency>
+
+        <!--IO-->
         <dependency>
             <groupId>commons-io</groupId>
             <artifactId>commons-io</artifactId>

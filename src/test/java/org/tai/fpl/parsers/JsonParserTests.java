@@ -68,13 +68,13 @@ public class JsonParserTests {
 
     @Test(expected = JSONException.class)
     public void parseJsonObjectNullString() {
-        JSON_PARSER = new JsonParser(INVALID_JSON_STRING);
+        JSON_PARSER = new JsonParser(null);
         JSON_PARSER.parseJsonObject();
     }
 
     @Test(expected = JSONException.class)
     public void parseJsonArrayNullString() {
-        JSON_PARSER = new JsonParser(INVALID_JSON_STRING);
+        JSON_PARSER = new JsonParser(null);
         JSON_PARSER.parseJsonArray();
     }
 

@@ -3,16 +3,27 @@ package org.tai.fpl.config;
 import org.junit.Test;
 
 import static org.junit.Assert.assertEquals;
+import static org.junit.Assert.assertNull;
 
 public class FplConfigTests {
 
-    private static final FplConfig CONFIG = new FplConfig();
-    private static final String EXPECTED_FULL_SEASON = "2022-23";
-    private static final String EXPECTED_BASE_FILEPATH = "data/2022-23/";
+    private static FplConfig CONFIG;
+    private static final String EXPECTED_SEASON = "2022-23";
+    private static final String EXPECTED_BASE_FILEPATH = "data/";
 
     @Test
-    public void validConfig() {
-        assertEquals(EXPECTED_FULL_SEASON, CONFIG.getFullSeason());
+    public void validConfigFile() {
+        CONFIG = new FplConfig("src/test/resources/testconfig.properties");
+
+        assertEquals(EXPECTED_SEASON, CONFIG.getSeason());
         assertEquals(EXPECTED_BASE_FILEPATH, CONFIG.getBaseFilePath());
+    }
+
+    @Test
+    public void invalidConfigFile() {
+        CONFIG = new FplConfig("");
+
+        assertNull(CONFIG.getSeason());
+        assertNull(CONFIG.getBaseFilePath());
     }
 }

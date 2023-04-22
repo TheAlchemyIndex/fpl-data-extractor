@@ -15,8 +15,8 @@ public class Main {
     private static final String TARGET_URL = "https://fantasy.premierleague.com/api/bootstrap-static/";
 
     public static void main(String[] args) {
-        FplConfig config = new FplConfig();
-        final String season = config.getFullSeason();
+        FplConfig config = new FplConfig("src/main/resources/config.properties");
+        final String season = config.getSeason();
         final String baseFilePath = config.getBaseFilePath();
         final String seasonFilePath = String.format("%s%s/", baseFilePath, season);
 

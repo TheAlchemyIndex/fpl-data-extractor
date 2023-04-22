@@ -25,9 +25,9 @@ public class TeamProviderTests {
     private static final JSONObject VALID_JSON_OBJECT_2 = new JSONObject()
             .put("id", "2")
             .put("name", "team2")
-            .put("test4", "value4")
-            .put("test5", "value5")
-            .put("test6", "value6");
+            .put("test1", "value4")
+            .put("test2", "value5")
+            .put("test3", "value6");
 
     private static final JSONArray VALID_JSON_ARRAY = new JSONArray()
             .put(VALID_JSON_OBJECT_1)
@@ -55,9 +55,9 @@ public class TeamProviderTests {
         JSONObject jsonObject2 = new JSONObject()
                 .put("id", "2")
                 .put("name", "team2")
-                .put("test4", "value4")
-                .put("test5", "value5")
-                .put("test6", "value6");
+                .put("test1", "value4")
+                .put("test2", "value5")
+                .put("test3", "value6");
 
         JSONArray expectedJsonArray = new JSONArray()
                 .put(jsonObject1)

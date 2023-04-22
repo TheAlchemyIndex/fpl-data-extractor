@@ -8,6 +8,7 @@ import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 import org.json.JSONArray;
 import org.json.JSONObject;
+import org.tai.fpl.writers.FileWriter;
 
 import java.io.File;
 import java.io.IOException;
@@ -22,7 +23,7 @@ public class GameweekJoiner {
         this.currentGameweekNumber = currentGameweekNumber;
     }
 
-    public JSONArray joinGameweeks(String baseFilePath) {
+    public void joinGameweeks(FileWriter fileWriter, String baseFilePath, String subFilePath) {
         CsvMapper csvMapper = new CsvMapper();
         ObjectMapper objectMapper = new ObjectMapper();
         JSONArray allGameweeks = new JSONArray();
@@ -45,6 +46,10 @@ public class GameweekJoiner {
         } catch(IOException ioException) {
             LOGGER.error("Error joining previous gameweek files together: " + ioException.getMessage());
         }
-        return allGameweeks;
+        try {
+            fileWriter.writeDataToSeasonPath(allGameweeks, subFilePath);
+        } catch (IOException ioException) {
+            LOGGER.error("Error writing gameweek data to file: " + ioException.getMessage());
+        }
     }
 }

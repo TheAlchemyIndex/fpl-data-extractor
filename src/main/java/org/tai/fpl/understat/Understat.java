@@ -35,7 +35,11 @@ public class Understat {
                 JSONObject teamData = teamsData.getJSONObject(keyStr);
                 String teamName = teamData.getString("title");
                 JSONArray teamHistory = teamData.getJSONArray("history");
-                fileWriter.writeDataGameweeks(teamHistory, String.format("%s%s.csv", FileNames.UNDERSTAT_TEAMS_FILENAME, teamName));
+                try {
+                    fileWriter.writeDataToSeasonPath(teamHistory, String.format("%s%s.csv", FileNames.UNDERSTAT_TEAMS_FILENAME, teamName));
+                } catch (IOException e) {
+                    throw new RuntimeException(e);
+                }
             });
         } catch(IOException ioException) {
             if (ioException instanceof UnsupportedEncodingException) {
@@ -54,7 +58,7 @@ public class Understat {
                 int playerId = playerData.getJSONObject(i).getInt("id");
                 String playerName = playerData.getJSONObject(i).getString("player_name");
                 JSONArray playerMatchesData = getJsonArray(String.format("%s%s", TARGET_PLAYER_URL, playerId), MATCHES_DATA_VAR);
-                fileWriter.writeDataGameweeks(playerMatchesData, String.format("%s%s.csv", FileNames.UNDERSTAT_PLAYERS_FILENAME, playerName));
+                fileWriter.writeDataToSeasonPath(playerMatchesData, String.format("%s%s.csv", FileNames.UNDERSTAT_PLAYERS_FILENAME, playerName));
             }
         } catch(IOException ioException) {
             if (ioException instanceof UnsupportedEncodingException) {

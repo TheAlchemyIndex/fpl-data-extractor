@@ -13,6 +13,7 @@ import org.tai.fpl.providers.util.constants.JsonKeys;
 import org.tai.fpl.util.constants.FileNames;
 import org.tai.fpl.writers.FileWriter;
 
+import java.io.IOException;
 import java.util.Map;
 
 public class GameweekExtractor {
@@ -36,16 +37,18 @@ public class GameweekExtractor {
             Gameweek gameweekProvider = new Gameweek(currentGameweekNumber, players, teams);
             JSONArray currentGameweekData = gameweekProvider.getCurrentGameweekData();
 
-            fileWriter.writeDataGameweeks(elementProvider.getData(), FileNames.PLAYERS_RAW_FILENAME);
-            fileWriter.writeDataGameweeks(teamProvider.getData(), FileNames.TEAMS_FILENAME);
-            fileWriter.writeDataGameweeks(players, FileNames.PLAYER_ID_FILENAME);
-            fileWriter.writeDataGameweeks(currentGameweekData, String.format("%s%s.csv", FileNames.GAMEWEEK_FILENAME, currentGameweekNumber));
+            fileWriter.writeDataToSeasonPath(elementProvider.getData(), FileNames.PLAYERS_RAW_FILENAME);
+            fileWriter.writeDataToSeasonPath(teamProvider.getData(), FileNames.TEAMS_FILENAME);
+            fileWriter.writeDataToSeasonPath(players, FileNames.PLAYER_ID_FILENAME);
+            fileWriter.writeDataToSeasonPath(currentGameweekData, String.format("%s%s.csv", FileNames.GAMEWEEK_FILENAME, currentGameweekNumber));
         } catch (IllegalArgumentException | JSONException illegalArgumentException) {
             if (illegalArgumentException instanceof JSONException) {
                 LOGGER.error("Error parsing JSON data using Provider classes: " + illegalArgumentException.getMessage());
             } else {
                 LOGGER.error("IllegalArgumentException: " + illegalArgumentException.getMessage());
             }
+        } catch (IOException ioException) {
+                LOGGER.error(String.format("Error writing data to file: %s", ioException.getMessage()));
         }
     }
 

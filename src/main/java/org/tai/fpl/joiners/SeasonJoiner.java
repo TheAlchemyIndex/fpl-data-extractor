@@ -8,6 +8,7 @@ import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 import org.json.JSONArray;
 import org.json.JSONObject;
+import org.tai.fpl.writers.FileWriter;
 
 import java.io.File;
 import java.io.IOException;
@@ -26,7 +27,7 @@ public class SeasonJoiner {
         this.endingSeasonEnd = endingSeasonEnd;
     }
 
-    public JSONArray joinSeasons(String baseFilePath) {
+    public void joinSeasons(FileWriter fileWriter, String baseFilePath, String subFilePath) {
         CsvMapper csvMapper = new CsvMapper();
         ObjectMapper objectMapper = new ObjectMapper();
         JSONArray allSeasons = new JSONArray();
@@ -49,6 +50,10 @@ public class SeasonJoiner {
         } catch(IOException ioException) {
             LOGGER.error("Error joining previous season files together: " + ioException.getMessage());
         }
-        return allSeasons;
+        try {
+            fileWriter.writeDataToBasePath(allSeasons, subFilePath);
+        } catch (IOException ioException) {
+            LOGGER.error("Error writing season data to file: " + ioException.getMessage());
+        }
     }
 }

@@ -10,34 +10,25 @@ import java.nio.charset.Charset;
 
 public class FileWriter {
     private final String baseFilePath;
-    private final String seasonFilePath;
+    private final String season;
 
-    public FileWriter(String baseFilePath, String season) {
+    public FileWriter(String baseFilePath, String season) throws IllegalArgumentException {
+        if (baseFilePath == null | season == null) {
+            throw new IllegalArgumentException("FileWriter initialised with null baseFilePath or null season.");
+        }
         this.baseFilePath = baseFilePath;
-        this.seasonFilePath = String.format("%s%s/", baseFilePath, season);
+        this.season = season;
     }
 
-    public void writeDataGameweeks(JSONArray elements, String secondaryFilePath) {
-        try {
-            File file = new File(String.format("%s/%s", this.seasonFilePath, secondaryFilePath));
-            String csvString = CDL.toString(elements);
-            FileUtils.writeStringToFile(file, csvString, Charset.defaultCharset());
-        }
-        catch (IOException ioException) {
-            String exceptionMessage = String.format("Error extracting data to file: %s", ioException.getMessage());
-            System.out.println(exceptionMessage);
-        }
+    public void writeDataToBasePath(JSONArray elements, String subFilePath) throws IOException {
+        File file = new File(String.format("%s/%s", this.baseFilePath, subFilePath));
+        String csvString = CDL.toString(elements);
+        FileUtils.writeStringToFile(file, csvString, Charset.defaultCharset());
     }
 
-    public void writeDataSeasons(JSONArray elements, String secondaryFilePath) {
-        try {
-            File file = new File(String.format("%s/%s", this.baseFilePath, secondaryFilePath));
-            String csvString = CDL.toString(elements);
-            FileUtils.writeStringToFile(file, csvString, Charset.defaultCharset());
-        }
-        catch (IOException ioException) {
-            String exceptionMessage = String.format("Error extracting data to file: %s", ioException.getMessage());
-            System.out.println(exceptionMessage);
-        }
+    public void writeDataToSeasonPath(JSONArray elements, String subFilePath) throws IOException {
+        File file = new File(String.format("%s/%s/%s", this.baseFilePath, this.season, subFilePath));
+        String csvString = CDL.toString(elements);
+        FileUtils.writeStringToFile(file, csvString, Charset.defaultCharset());
     }
 }

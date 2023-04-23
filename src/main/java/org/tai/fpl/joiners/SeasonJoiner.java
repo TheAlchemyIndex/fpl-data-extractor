@@ -22,9 +22,10 @@ public class SeasonJoiner {
     private final int endingSeasonEnd;
 
     public SeasonJoiner(int startingSeasonStart, int startingSeasonEnd, int endingSeasonEnd) {
+        validateSeasonParameters(startingSeasonStart, startingSeasonEnd, endingSeasonEnd);
         this.startingSeasonStart = startingSeasonStart;
-        this.startingSeasonEnd = startingSeasonEnd;
-        this.endingSeasonEnd = endingSeasonEnd;
+        this.startingSeasonEnd = convertYearTo2Digits(startingSeasonEnd);
+        this.endingSeasonEnd = convertYearTo2Digits(endingSeasonEnd);
     }
 
     public void joinSeasons(FileWriter fileWriter, String baseFilePath, String subFilePath) {
@@ -46,14 +47,30 @@ public class SeasonJoiner {
                     String jsonString = objectMapper.writeValueAsString(row);
                     allSeasons.put(new JSONObject(jsonString));
                 }
+                try {
+                    fileWriter.writeDataToBasePath(allSeasons, subFilePath);
+                } catch (IOException ioException) {
+                    LOGGER.error("Error writing season data to file: " + ioException.getMessage());
+                }
             }
         } catch(IOException ioException) {
             LOGGER.error("Error joining previous season files together: " + ioException.getMessage());
         }
-        try {
-            fileWriter.writeDataToBasePath(allSeasons, subFilePath);
-        } catch (IOException ioException) {
-            LOGGER.error("Error writing season data to file: " + ioException.getMessage());
+    }
+
+    private void validateSeasonParameters(int startingSeasonStart, int startingSeasonEnd, int endingSeasonEnd) throws IllegalArgumentException {
+        if (startingSeasonStart < 2016) {
+            throw new IllegalArgumentException("Value for startingSeasonStart can not be less than 2016.");
+        } else if (startingSeasonEnd <= startingSeasonStart) {
+            throw new IllegalArgumentException("Value for startingSeasonEnd can not be less than or equal to startingSeasonStart.");
+        } else if ((startingSeasonEnd - startingSeasonStart) > 1) {
+            throw new IllegalArgumentException("Value for startingSeasonEnd can not be more than 1 year greater than startingSeasonStart.");
+        } else if (endingSeasonEnd <= startingSeasonStart) {
+            throw new IllegalArgumentException("Value for endingSeasonEnd can not be less than or equal to startingSeasonStart.");
         }
+    }
+
+    private int convertYearTo2Digits(int year) {
+        return Integer.parseInt(Integer.toString(year).substring(2));
     }
 }

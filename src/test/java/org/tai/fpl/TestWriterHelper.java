@@ -27,6 +27,7 @@ public class TestWriterHelper {
         File seasonDirectory = new File(String.format("%s%s", BASE_FILEPATH, SEASON));
         File gwDirectory = new File(String.format("%s%s/%s", BASE_FILEPATH, SEASON, "gws"));
         File gameweekJoinerDirectory = new File(String.format("%s%s/%s", BASE_FILEPATH, "gameweekJoiner", SEASON));
+        File seasonJoinerDirectory = new File(String.format("%s/%s", BASE_FILEPATH, "seasonJoiner"));
         File baseDirectory = new File(BASE_FILEPATH);
 
         try {
@@ -54,6 +55,15 @@ public class TestWriterHelper {
             gameweekJoinerDirectory.delete();
         } catch(NullPointerException nullPointerException) {
             LOGGER.info(String.format("No files to delete in %s", gameweekJoinerDirectory));
+        }
+
+        try {
+            for (File file: Objects.requireNonNull(seasonJoinerDirectory.listFiles())) {
+                file.delete();
+            }
+            seasonJoinerDirectory.delete();
+        } catch(NullPointerException nullPointerException) {
+            LOGGER.info(String.format("No files to delete in %s", seasonJoinerDirectory));
         }
 
         try {

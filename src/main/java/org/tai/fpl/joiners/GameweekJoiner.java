@@ -20,6 +20,9 @@ public class GameweekJoiner {
     private final int currentGameweekNumber;
 
     public GameweekJoiner(int currentGameweekNumber) {
+        if (currentGameweekNumber <= 0) {
+            throw new IllegalArgumentException("Gameweek number must be at least 1 or greater, and likely no greater than 38.");
+        }
         this.currentGameweekNumber = currentGameweekNumber;
     }
 
@@ -42,14 +45,14 @@ public class GameweekJoiner {
                     String jsonString = objectMapper.writeValueAsString(row);
                     allGameweeks.put(new JSONObject(jsonString));
                 }
+                try {
+                    fileWriter.writeDataToSeasonPath(allGameweeks, subFilePath);
+                } catch (IOException ioException) {
+                    LOGGER.error("Error writing gameweek data to file: " + ioException.getMessage());
+                }
             }
         } catch(IOException ioException) {
             LOGGER.error("Error joining previous gameweek files together: " + ioException.getMessage());
-        }
-        try {
-            fileWriter.writeDataToSeasonPath(allGameweeks, subFilePath);
-        } catch (IOException ioException) {
-            LOGGER.error("Error writing gameweek data to file: " + ioException.getMessage());
         }
     }
 }

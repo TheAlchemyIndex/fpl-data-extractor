@@ -32,7 +32,7 @@ public class Main {
         GameweekJoiner gameweekJoiner = new GameweekJoiner(currentGameweekNumber);
         gameweekJoiner.joinGameweeks(fileWriter, seasonFilePath, "gws/merged_gw.csv");
 
-        SeasonJoiner seasonJoiner = new SeasonJoiner(2019, 20, 23);
+        SeasonJoiner seasonJoiner = new SeasonJoiner(2019, 2020, 2023);
         seasonJoiner.joinSeasons(fileWriter, baseFilePath, String.format("%s-%s seasons.csv", 2019, 23));
 
         getTeamData(season, baseFilePath);

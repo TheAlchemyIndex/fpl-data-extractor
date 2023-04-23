@@ -8,11 +8,14 @@ import org.tai.fpl.writers.FileWriter;
 
 import java.io.File;
 
+import static org.junit.Assert.assertFalse;
 import static org.junit.Assert.assertTrue;
 
 public class GameweekJoinerTests extends TestWriterHelper {
     private static GameweekJoiner GAMEWEEK_JOINER;
     private static final String BASE_FILEPATH = "src/test/resources/gameweekJoiner/";
+    private static final String MERGED_FILENAME = "merged_gw.csv";
+    private static final String FULL_FILEPATH = String.format("%s%s/%s", BASE_FILEPATH, SEASON, MERGED_FILENAME);
     private static final FileWriter FILE_WRITER = new FileWriter(BASE_FILEPATH, "2022-23");
     private static final int CURRENT_GAMEWEEK_NUMBER = 2;
 
@@ -32,11 +35,30 @@ public class GameweekJoinerTests extends TestWriterHelper {
     @Test
     public void joinGameweeks() {
         GAMEWEEK_JOINER = new GameweekJoiner(CURRENT_GAMEWEEK_NUMBER);
-        GAMEWEEK_JOINER.joinGameweeks(FILE_WRITER, BASE_FILEPATH, "merged_gw.csv");
+        GAMEWEEK_JOINER.joinGameweeks(FILE_WRITER, BASE_FILEPATH, MERGED_FILENAME);
 
-        File playersRawFile = new File(String.format("%s%s/%s", BASE_FILEPATH, SEASON, "merged_gw.csv"));
+        File playersRawFile = new File(FULL_FILEPATH);
         assertTrue(playersRawFile.exists());
 
-        assertTrue(readDataFromFile(String.format("%s%s/%s", BASE_FILEPATH, SEASON, "merged_gw.csv")).similar(EXPECTED_VALID_JSON_ARRAY));
+        assertTrue(readDataFromFile(FULL_FILEPATH).similar(EXPECTED_VALID_JSON_ARRAY));
+    }
+
+    @Test
+    public void joinGameweeksNoGwFiles() {
+        GAMEWEEK_JOINER = new GameweekJoiner(CURRENT_GAMEWEEK_NUMBER);
+        GAMEWEEK_JOINER.joinGameweeks(FILE_WRITER, "src/test/resources/", MERGED_FILENAME);
+
+        File playersRawFile = new File(FULL_FILEPATH);
+        assertFalse(playersRawFile.exists());
+    }
+
+    @Test(expected = IllegalArgumentException.class)
+    public void invalidCurrentGameweekNumberZero() {
+        GAMEWEEK_JOINER = new GameweekJoiner(0);
+    }
+
+    @Test(expected = IllegalArgumentException.class)
+    public void invalidCurrentGameweekNumberLessThanZero() {
+        GAMEWEEK_JOINER = new GameweekJoiner(-1);
     }
 }

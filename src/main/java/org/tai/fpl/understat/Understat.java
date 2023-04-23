@@ -26,8 +26,13 @@ public class Understat {
     private static final String PLAYERS_DATA_VAR = "var playersData";
     private static final String MATCHES_DATA_VAR = "var matchesData";
 
-    public static void getTeamData(String season, String baseFilePath) {
-        FileWriter fileWriter = new FileWriter(baseFilePath, season);
+    private final FileWriter fileWriter;
+
+    public Understat(FileWriter fileWriter) {
+        this.fileWriter = fileWriter;
+    }
+
+    public void getTeamData() {
         try {
             JSONObject teamsData = getJsonObject(TARGET_URL, TEAMS_DATA_VAR);
             teamsData.keySet().forEach(keyStr ->
@@ -36,7 +41,7 @@ public class Understat {
                 String teamName = teamData.getString("title");
                 JSONArray teamHistory = teamData.getJSONArray("history");
                 try {
-                    fileWriter.writeDataToSeasonPath(teamHistory, String.format("%s%s.csv", FileNames.UNDERSTAT_TEAMS_FILENAME, teamName));
+                    this.fileWriter.writeDataToSeasonPath(teamHistory, String.format("%s%s.csv", FileNames.UNDERSTAT_TEAMS_FILENAME, teamName));
                 } catch (IOException e) {
                     throw new RuntimeException(e);
                 }
@@ -50,15 +55,14 @@ public class Understat {
         }
     }
 
-    public static void getPlayerData(String season, String baseFilePath) {
-        FileWriter fileWriter = new FileWriter(baseFilePath, season);
+    public void getPlayerData() {
         try {
             JSONArray playerData = getJsonArray(TARGET_URL, PLAYERS_DATA_VAR);
             for (int i = 0; i < playerData.length(); i++) {
                 int playerId = playerData.getJSONObject(i).getInt("id");
                 String playerName = playerData.getJSONObject(i).getString("player_name");
                 JSONArray playerMatchesData = getJsonArray(String.format("%s%s", TARGET_PLAYER_URL, playerId), MATCHES_DATA_VAR);
-                fileWriter.writeDataToSeasonPath(playerMatchesData, String.format("%s%s.csv", FileNames.UNDERSTAT_PLAYERS_FILENAME, playerName));
+                this.fileWriter.writeDataToSeasonPath(playerMatchesData, String.format("%s%s.csv", FileNames.UNDERSTAT_PLAYERS_FILENAME, playerName));
             }
         } catch(IOException ioException) {
             if (ioException instanceof UnsupportedEncodingException) {

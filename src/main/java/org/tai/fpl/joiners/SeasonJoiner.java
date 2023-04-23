@@ -21,7 +21,7 @@ public class SeasonJoiner {
     private final int startingSeasonEnd;
     private final int endingSeasonEnd;
 
-    public SeasonJoiner(int startingSeasonStart, int startingSeasonEnd, int endingSeasonEnd) {
+    public SeasonJoiner(int startingSeasonStart, int startingSeasonEnd, int endingSeasonEnd) throws IllegalArgumentException {
         validateSeasonParameters(startingSeasonStart, startingSeasonEnd, endingSeasonEnd);
         this.startingSeasonStart = startingSeasonStart;
         this.startingSeasonEnd = convertYearTo2Digits(startingSeasonEnd);

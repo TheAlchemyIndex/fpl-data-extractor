@@ -6,10 +6,8 @@ import org.tai.fpl.extractors.DataExtractor;
 import org.tai.fpl.extractors.GameweekExtractor;
 import org.tai.fpl.joiners.GameweekJoiner;
 import org.tai.fpl.joiners.SeasonJoiner;
+import org.tai.fpl.understat.Understat;
 import org.tai.fpl.writers.FileWriter;
-
-import static org.tai.fpl.understat.Understat.getPlayerData;
-import static org.tai.fpl.understat.Understat.getTeamData;
 
 public class Main {
     private static final String TARGET_URL = "https://fantasy.premierleague.com/api/bootstrap-static/";
@@ -35,7 +33,8 @@ public class Main {
         SeasonJoiner seasonJoiner = new SeasonJoiner(2019, 2020, 2023);
         seasonJoiner.joinSeasons(fileWriter, baseFilePath, String.format("%s-%s seasons.csv", 2019, 23));
 
-        getTeamData(season, baseFilePath);
-        getPlayerData(season, baseFilePath);
+        Understat understat = new Understat(fileWriter);
+        understat.getTeamData();
+        understat.getPlayerData();
     }
 }

@@ -18,7 +18,7 @@ import java.util.Objects;
 
 public class TestWriterHelper {
     private static final Logger LOGGER = LogManager.getLogger(TestWriterHelper.class);
-    protected static final String BASE_FILEPATH = "src/test/data/";
+    protected static final String BASE_FILEPATH = "src/test/resources/";
     protected static final String SEASON = "2022-23";
     protected static final String FULL_FILEPATH = String.format("%s%s/", BASE_FILEPATH, SEASON);
 
@@ -26,6 +26,7 @@ public class TestWriterHelper {
     public void deleteFiles() {
         File seasonDirectory = new File(String.format("%s%s", BASE_FILEPATH, SEASON));
         File gwDirectory = new File(String.format("%s%s/%s", BASE_FILEPATH, SEASON, "gws"));
+        File gameweekJoinerDirectory = new File(String.format("%s%s/%s", BASE_FILEPATH, "gameweekJoiner", SEASON));
         File baseDirectory = new File(BASE_FILEPATH);
 
         try {
@@ -44,6 +45,15 @@ public class TestWriterHelper {
             gwDirectory.delete();
         } catch(NullPointerException nullPointerException) {
             LOGGER.info(String.format("No files to delete in %s", gwDirectory));
+        }
+
+        try {
+            for (File file: Objects.requireNonNull(gameweekJoinerDirectory.listFiles())) {
+                file.delete();
+            }
+            gameweekJoinerDirectory.delete();
+        } catch(NullPointerException nullPointerException) {
+            LOGGER.info(String.format("No files to delete in %s", gameweekJoinerDirectory));
         }
 
         try {

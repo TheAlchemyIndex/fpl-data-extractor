@@ -78,14 +78,12 @@ public class GameweekExtractorTests extends TestWriterHelper {
             .put("test2", "value2")
             .put("test3", "value3");
 
-    private static final int EXPECTED_CURRENT_GAMEWEEK_NUMBER = 2;
-
     @Test
     public void getCurrentGameweekNumberValidJsonData() {
         GAMEWEEK_EXTRACTOR = new GameweekExtractor(VALID_MAIN_DATA_JSON_OBJECT);
         int currentGameweekNumber = GAMEWEEK_EXTRACTOR.getCurrentGameweekNumber();
 
-        assertEquals(EXPECTED_CURRENT_GAMEWEEK_NUMBER, currentGameweekNumber);
+        assertEquals(2, currentGameweekNumber);
     }
 
     @Test
@@ -112,7 +110,7 @@ public class GameweekExtractorTests extends TestWriterHelper {
         GAMEWEEK_EXTRACTOR = new GameweekExtractor(VALID_MAIN_DATA_JSON_OBJECT);
         GAMEWEEK_EXTRACTOR.getGameweekData(FILE_WRITER);
 
-        File playerIdsFile = new File("src/test/data/2022-23/player_idlist.csv");
+        File playerIdsFile = new File("src/test/resources/2022-23/player_idlist.csv");
         assertTrue(playerIdsFile.exists());
 
         assertTrue(readDataFromFile(String.format("%s%s", FULL_FILEPATH, "player_idlist.csv")).similar(expectedValidPlayersJsonArray));
@@ -123,7 +121,7 @@ public class GameweekExtractorTests extends TestWriterHelper {
         GAMEWEEK_EXTRACTOR = new GameweekExtractor(VALID_MAIN_DATA_JSON_OBJECT);
         GAMEWEEK_EXTRACTOR.getGameweekData(FILE_WRITER);
 
-        File playersRawFile = new File("src/test/data/2022-23/players_raw.csv");
+        File playersRawFile = new File(String.format("%s%s", FULL_FILEPATH, "players_raw.csv"));
         assertTrue(playersRawFile.exists());
 
         assertTrue(readDataFromFile(String.format("%s%s", FULL_FILEPATH, "players_raw.csv")).similar(VALID_ELEMENT_JSON_ARRAY));
@@ -134,7 +132,7 @@ public class GameweekExtractorTests extends TestWriterHelper {
         GAMEWEEK_EXTRACTOR = new GameweekExtractor(VALID_MAIN_DATA_JSON_OBJECT);
         GAMEWEEK_EXTRACTOR.getGameweekData(FILE_WRITER);
 
-        File teamsFile = new File("src/test/data/2022-23/teams.csv");
+        File teamsFile = new File(String.format("%s%s", FULL_FILEPATH, "teams.csv"));
         assertTrue(teamsFile.exists());
 
         assertTrue(readDataFromFile(String.format("%s%s", FULL_FILEPATH, "teams.csv")).similar(VALID_TEAM_JSON_ARRAY));

@@ -15,8 +15,8 @@ public class FileWriterTests extends TestWriterHelper {
     private static final String GAMEWEEK_FILENAME = "test_gameweek_filename.csv";
     private static final String SEASON_FILENAME = "test_season_filename.csv";
 
-    private static final String EXPECTED_GAMEWEEK_FILEPATH = "src/test/data/2022-23/test_gameweek_filename.csv";
-    private static final String EXPECTED_SEASON_FILEPATH = "src/test/data/test_season_filename.csv";
+    private static final String EXPECTED_GAMEWEEK_FILEPATH = "src/test/resources/2022-23/test_gameweek_filename.csv";
+    private static final String EXPECTED_SEASON_FILEPATH = "src/test/resources/test_season_filename.csv";
 
     private static final JSONObject VALID_JSON_OBJECT_1 = new JSONObject()
             .put("test1", "value1")

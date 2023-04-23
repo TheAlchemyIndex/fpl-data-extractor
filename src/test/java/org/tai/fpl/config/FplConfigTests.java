@@ -13,7 +13,7 @@ public class FplConfigTests {
 
     @Test
     public void validConfigFile() {
-        CONFIG = new FplConfig("src/test/resources/testconfig.properties");
+        CONFIG = new FplConfig("src/test/resources/config/testconfig.properties");
 
         assertEquals(EXPECTED_SEASON, CONFIG.getSeason());
         assertEquals(EXPECTED_BASE_FILEPATH, CONFIG.getBaseFilePath());

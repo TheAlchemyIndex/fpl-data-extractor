@@ -27,9 +27,11 @@ public class Understat {
     private static final String MATCHES_DATA_VAR = "var matchesData";
 
     private final FileWriter fileWriter;
+    private final String seasonStartingYear;
 
-    public Understat(FileWriter fileWriter) {
+    public Understat(FileWriter fileWriter, String seasonStartingYear) {
         this.fileWriter = fileWriter;
+        this.seasonStartingYear = seasonStartingYear.substring(0, 4);
     }
 
     public void getTeamData() {
@@ -62,7 +64,8 @@ public class Understat {
                 int playerId = playerData.getJSONObject(i).getInt("id");
                 String playerName = playerData.getJSONObject(i).getString("player_name");
                 JSONArray playerMatchesData = getJsonArray(String.format("%s%s", TARGET_PLAYER_URL, playerId), MATCHES_DATA_VAR);
-                JSONArray playerMatchesDataWithName = addPlayerName(playerMatchesData, playerName);
+                JSONArray currentSeasonData = filterCurrentSeason(playerMatchesData);
+                JSONArray playerMatchesDataWithName = addPlayerName(currentSeasonData, playerName);
                 this.fileWriter.writeDataToSeasonPath(playerMatchesDataWithName, String.format("%s%s.csv", FileNames.UNDERSTAT_PLAYERS_FILENAME, playerName));
             }
         } catch(IOException ioException) {
@@ -134,5 +137,16 @@ public class Understat {
             matchesData.put("name", playerName);
         }
         return playerData;
+    }
+
+    private JSONArray filterCurrentSeason(JSONArray playerData) {
+        JSONArray currentSeasonData = new JSONArray();
+        for (int i = 0; i < playerData.length(); i++) {
+            JSONObject matchesData = playerData.getJSONObject(i);
+            if (matchesData.get("season").equals(this.seasonStartingYear)) {
+                currentSeasonData.put(matchesData);
+            }
+        }
+        return currentSeasonData;
     }
 }

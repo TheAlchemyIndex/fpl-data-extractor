@@ -34,11 +34,11 @@ public class Main {
         SeasonJoiner seasonJoiner = new SeasonJoiner(2019, 2020, 2023);
         seasonJoiner.joinSeasons(fileWriter, baseFilePath, String.format("%s-%s seasons.csv", 2019, 23));
 
-        Understat understat = new Understat(fileWriter);
+        Understat understat = new Understat(fileWriter, season);
         understat.getTeamData();
         understat.getPlayerData();
 
-        UnderstatJoiner understatJoiner = new UnderstatJoiner(2022, 2023, 2023);
-        understatJoiner.joinPlayerData(fileWriter, baseFilePath, String.format("Understat - %s-%s seasons.csv", 2022, 23));
+        UnderstatJoiner understatJoiner = new UnderstatJoiner(2019, 2020, 2023);
+        understatJoiner.joinPlayerData(fileWriter, baseFilePath, String.format("Understat - %s-%s seasons.csv", 2019, 23));
     }
 }

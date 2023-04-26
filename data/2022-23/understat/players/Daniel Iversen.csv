@@ -1,7 +1,8 @@
-date,npxG,key_passes,npg,xGChain,xA,h_goals,a_team,xG,roster_id,assists,season,a_goals,time,position,id,shots,h_team,xGBuildup,goals
-2023-04-22,0,0,0,0.022295281291007996,0,2,Wolverhampton Wanderers,0,590139,0,2022,1,90,GK,18518,0,Leicester,0.022295281291007996,0
-2023-04-15,0,0,0,0.47462600469589233,0,3,Leicester,0,588682,0,2022,1,90,GK,18506,0,Manchester City,0.47462600469589233,0
-2023-04-08,0,0,0,0,0,0,Bournemouth,0,586805,0,2022,1,90,GK,18496,0,Leicester,0,0
-2023-04-04,0,0,0,0.03375520184636116,0,1,Aston Villa,0,585974,0,2022,2,90,GK,18263,0,Leicester,0.03375520184636116,0
-2023-04-01,0,0,0,0,0,2,Leicester,0,584718,0,2022,1,90,GK,18486,0,Crystal Palace,0,0
-2023-03-18,0,0,0,0.09771990031003952,0,1,Leicester,0,583028,0,2022,1,90,GK,18474,0,Brentford,0.09771990031003952,0
+date,npxG,key_passes,npg,xGChain,xA,h_goals,a_team,xG,roster_id,assists,name,season,a_goals,time,position,id,shots,h_team,xGBuildup,goals
+2023-04-25,0,0,0,0,0,1,Leicester,0,591484,0,Daniel Iversen,2022,1,90,GK,18523,0,Leeds,0,0
+2023-04-22,0,0,0,0.022295281291007996,0,2,Wolverhampton Wanderers,0,590139,0,Daniel Iversen,2022,1,90,GK,18518,0,Leicester,0.022295281291007996,0
+2023-04-15,0,0,0,0.47462600469589233,0,3,Leicester,0,588682,0,Daniel Iversen,2022,1,90,GK,18506,0,Manchester City,0.47462600469589233,0
+2023-04-08,0,0,0,0,0,0,Bournemouth,0,586805,0,Daniel Iversen,2022,1,90,GK,18496,0,Leicester,0,0
+2023-04-04,0,0,0,0.03375520184636116,0,1,Aston Villa,0,585974,0,Daniel Iversen,2022,2,90,GK,18263,0,Leicester,0.03375520184636116,0
+2023-04-01,0,0,0,0,0,2,Leicester,0,584718,0,Daniel Iversen,2022,1,90,GK,18486,0,Crystal Palace,0,0
+2023-03-18,0,0,0,0.09771990031003952,0,1,Leicester,0,583028,0,Daniel Iversen,2022,1,90,GK,18474,0,Brentford,0.09771990031003952,0

@@ -62,7 +62,8 @@ public class Understat {
                 int playerId = playerData.getJSONObject(i).getInt("id");
                 String playerName = playerData.getJSONObject(i).getString("player_name");
                 JSONArray playerMatchesData = getJsonArray(String.format("%s%s", TARGET_PLAYER_URL, playerId), MATCHES_DATA_VAR);
-                this.fileWriter.writeDataToSeasonPath(playerMatchesData, String.format("%s%s.csv", FileNames.UNDERSTAT_PLAYERS_FILENAME, playerName));
+                JSONArray playerMatchesDataWithName = addPlayerName(playerMatchesData, playerName);
+                this.fileWriter.writeDataToSeasonPath(playerMatchesDataWithName, String.format("%s%s.csv", FileNames.UNDERSTAT_PLAYERS_FILENAME, playerName));
             }
         } catch(IOException ioException) {
             if (ioException instanceof UnsupportedEncodingException) {
@@ -125,5 +126,13 @@ public class Understat {
         String rawDataString = extractScriptTag(scriptTags, targetVar);
         String cleanedDataString = cleanScriptTag(rawDataString);
         return hexToJsonArray(cleanedDataString);
+    }
+
+    private static JSONArray addPlayerName(JSONArray playerData, String playerName) {
+        for (int i = 0; i < playerData.length(); i++) {
+            JSONObject matchesData = playerData.getJSONObject(i);
+            matchesData.put("name", playerName);
+        }
+        return playerData;
     }
 }

@@ -54,7 +54,7 @@ public class SeasonJoiner {
                 }
             }
         } catch(IOException ioException) {
-            LOGGER.error("Error joining previous season files together: " + ioException.getMessage());
+            LOGGER.error("Error joining season files together: " + ioException.getMessage());
         }
     }
 

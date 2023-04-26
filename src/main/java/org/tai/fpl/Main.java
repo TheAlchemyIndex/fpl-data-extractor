@@ -6,6 +6,7 @@ import org.tai.fpl.extractors.DataExtractor;
 import org.tai.fpl.extractors.GameweekExtractor;
 import org.tai.fpl.joiners.GameweekJoiner;
 import org.tai.fpl.joiners.SeasonJoiner;
+import org.tai.fpl.joiners.UnderstatJoiner;
 import org.tai.fpl.understat.Understat;
 import org.tai.fpl.writers.FileWriter;
 
@@ -36,5 +37,8 @@ public class Main {
         Understat understat = new Understat(fileWriter);
         understat.getTeamData();
         understat.getPlayerData();
+
+        UnderstatJoiner understatJoiner = new UnderstatJoiner(2022, 2023, 2023);
+        understatJoiner.joinPlayerData(fileWriter, baseFilePath, String.format("Understat - %s-%s seasons.csv", 2022, 23));
     }
 }

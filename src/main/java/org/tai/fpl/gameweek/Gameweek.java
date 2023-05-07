@@ -51,6 +51,7 @@ public class Gameweek {
                     String opponentTeam = formatTeam(playerGameweekData.getInt("opponent_team"));
                     playerGameweekData.put("opponent_team", opponentTeam);
                     playerGameweekData.put(PlayerColumns.NAME, playerIdentifiers.get(PlayerColumns.NAME));
+                    playerGameweekData.put(PlayerColumns.WEB_NAME, playerIdentifiers.get(PlayerColumns.WEB_NAME));
                     playerGameweekData.put(PlayerColumns.POSITION, playerIdentifiers.get(PlayerColumns.POSITION));
                     playerGameweekData.put(PlayerColumns.TEAM, playerIdentifiers.get(PlayerColumns.TEAM));
                     playerGameweekData.put(PlayerColumns.XP, playerIdentifiers.get(PlayerColumns.XP));
@@ -66,12 +67,14 @@ public class Gameweek {
 
         String name = String.format("%s %s", player.getString(PlayerColumns.FIRST_NAME),
                 player.getString(PlayerColumns.SECOND_NAME));
+        String webName = player.getString(PlayerColumns.WEB_NAME);
         Integer id = player.getInt(PlayerColumns.ID);
         String position = formatPosition(player.getInt(PlayerColumns.ELEMENT_TYPE));
         String team = formatTeam(player.getInt(PlayerColumns.TEAM));
         Double expectedPoints = player.getDouble(PlayerColumns.EP_THIS);
 
         playerAttributes.put(PlayerColumns.NAME, name);
+        playerAttributes.put(PlayerColumns.WEB_NAME, webName);
         playerAttributes.put(PlayerColumns.ID, id);
         playerAttributes.put(PlayerColumns.POSITION, position);
         playerAttributes.put(PlayerColumns.TEAM, team);
@@ -81,18 +84,13 @@ public class Gameweek {
     }
 
     private String formatPosition(int positionId) {
-        switch (positionId) {
-            case 1:
-                return PlayerPositions.KEEPER;
-            case 2:
-                return PlayerPositions.DEFENDER;
-            case 3:
-                return PlayerPositions.MIDFIELDER;
-            case 4:
-                return PlayerPositions.FORWARD;
-            default:
-                return "N/A";
-        }
+        return switch (positionId) {
+            case 1 -> PlayerPositions.KEEPER;
+            case 2 -> PlayerPositions.DEFENDER;
+            case 3 -> PlayerPositions.MIDFIELDER;
+            case 4 -> PlayerPositions.FORWARD;
+            default -> "N/A";
+        };
     }
 
     private String formatTeam(int teamId) {

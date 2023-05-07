@@ -12,8 +12,8 @@ import java.util.List;
 public class ElementProvider extends AbstractProvider {
 
     private static final List<String> PLAYER_HEADERS = new ArrayList<>(Arrays.asList(PlayerColumns.FIRST_NAME,
-            PlayerColumns.SECOND_NAME, PlayerColumns.ID, PlayerColumns.ELEMENT_TYPE, PlayerColumns.TEAM,
-            PlayerColumns.EP_THIS));
+            PlayerColumns.SECOND_NAME, PlayerColumns.WEB_NAME, PlayerColumns.ID, PlayerColumns.ELEMENT_TYPE,
+            PlayerColumns.TEAM, PlayerColumns.EP_THIS));
 
     public ElementProvider(JSONArray dataArray) {
         super(dataArray);

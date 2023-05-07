@@ -1,4 +1,6 @@
 date,npxG,key_passes,npg,xGChain,xA,h_goals,a_team,xG,roster_id,assists,name,season,a_goals,time,position,id,shots,h_team,xGBuildup,goals
+2023-05-04,0,0,0,0,0,1,Manchester United,0,594359,0,Wout Weghorst,2022,0,2,Sub,18475,0,Brighton,0,0
+2023-04-27,0,1,0,0.04461640492081642,0.04461640492081642,2,Manchester United,0,591920,0,Wout Weghorst,2022,2,17,Sub,18525,0,Tottenham,0,0
 2023-04-16,0,0,0,0.104823999106884,0,0,Manchester United,0,589310,0,Wout Weghorst,2022,2,16,Sub,18507,0,Nottingham Forest,0.104823999106884,0
 2023-04-08,0,2,0,0.09478220343589783,0.09478220343589783,2,Everton,0,586389,0,Wout Weghorst,2022,0,8,Sub,18498,0,Manchester United,0,0
 2023-04-02,0.07488539814949036,0,0,0.07488539814949036,0,2,Manchester United,0.07488539814949036,585627,0,Wout Weghorst,2022,0,63,FW,18489,1,Newcastle United,0,0

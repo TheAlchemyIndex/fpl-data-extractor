@@ -1,4 +1,5 @@
 date,npxG,key_passes,npg,xGChain,xA,h_goals,a_team,xG,roster_id,assists,name,season,a_goals,time,position,id,shots,h_team,xGBuildup,goals
+2023-05-02,0,0,0,0,0,3,Chelsea,0,593727,0,Gabriel Martinelli,2022,1,29,Sub,18532,0,Arsenal,0,0
 2023-04-26,0,0,0,0.07325766980648041,0,4,Arsenal,0,591701,0,Gabriel Martinelli,2022,1,65,FWL,18531,0,Manchester City,0.07325766980648041,0
 2023-04-21,0.31929513812065125,6,1,1.0002670288085938,0.7782938480377197,3,Southampton,0.31929513812065125,589774,0,Gabriel Martinelli,2022,3,90,FWL,18512,2,Arsenal,0,1
 2023-04-16,0.09776940196752548,3,0,0.6425259709358215,0.66908198595047,2,Arsenal,0.09776940196752548,589155,1,Gabriel Martinelli,2022,2,89,FWL,18510,2,West Ham,0.04644419997930527,0

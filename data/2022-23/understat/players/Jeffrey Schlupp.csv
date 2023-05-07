@@ -1,4 +1,6 @@
 date,npxG,key_passes,npg,xGChain,xA,h_goals,a_team,xG,roster_id,assists,name,season,a_goals,time,position,id,shots,h_team,xGBuildup,goals
+2023-05-06,0,0,0,0,0,1,Crystal Palace,0,594816,0,Jeffrey Schlupp,2022,0,75,MC,18549,0,Tottenham,0,0
+2023-04-29,0.5704938173294067,0,1,0.5762367844581604,0,4,West Ham,0.5704938173294067,592148,0,Jeffrey Schlupp,2022,3,90,MC,18536,4,Crystal Palace,0.08402258157730103,1
 2023-04-25,0.03408624231815338,0,0,0.03408624231815338,0,2,Crystal Palace,0.03408624231815338,591439,0,Jeffrey Schlupp,2022,0,22,Sub,18527,1,Wolverhampton Wanderers,0,0
 2023-04-22,0,1,0,0.03948742523789406,0.03948742523789406,0,Everton,0,590086,0,Jeffrey Schlupp,2022,0,72,MC,18516,0,Crystal Palace,0,0
 2023-04-15,0.04022840037941933,0,0,0.04022840037941933,0,0,Crystal Palace,0.04022840037941933,588441,0,Jeffrey Schlupp,2022,2,86,MC,18508,1,Southampton,0,0

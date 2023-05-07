@@ -1,4 +1,6 @@
 date,npxG,key_passes,npg,xGChain,xA,h_goals,a_team,xG,roster_id,assists,name,season,a_goals,time,position,id,shots,h_team,xGBuildup,goals
+2023-05-06,0,0,0,0,0,1,Brentford,0,594967,0,Vitaly Janelt,2022,0,85,MC,18545,0,Liverpool,0,0
+2023-04-29,0,1,0,0.026627251878380775,0.026627251878380775,2,Nottingham Forest,0,592393,0,Vitaly Janelt,2022,1,73,MC,18534,0,Brentford,0,0
 2023-04-26,0,2,0,0.40350425243377686,0.08117381483316422,0,Brentford,0,591668,0,Vitaly Janelt,2022,2,90,MC,18529,0,Chelsea,0.32233044505119324,0
 2023-04-22,0,0,0,0.10212849080562592,0,1,Aston Villa,0,590177,0,Vitaly Janelt,2022,1,79,MC,18514,0,Brentford,0.10212849080562592,0
 2023-04-15,0,1,0,0.07838279753923416,0.07838279753923416,2,Brentford,0,588418,0,Vitaly Janelt,2022,0,27,Sub,18511,0,Wolverhampton Wanderers,0,0

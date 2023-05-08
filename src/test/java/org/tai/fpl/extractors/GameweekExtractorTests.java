@@ -12,57 +12,73 @@ import static org.junit.Assert.assertEquals;
 import static org.junit.Assert.assertTrue;
 
 public class GameweekExtractorTests extends TestWriterHelper {
+
+    private static final String FIRST_NAME_COL = "first_name";
+    private static final String SECOND_NAME_COL = "second_name";
+    private static final String WEB_NAME_COL = "web_name";
+    private static final String NAME_COL = "name";
+    private static final String ID_COL = "id";
+    private static final String ELEMENT_TYPE_COL = "element_type";
+    private static final String TEAM_COL = "team";
+    private static final String EP_THIS_COL = "ep_this";
+    private static final String TEST_COL1 = "test1";
+    private static final String TEST_COL2 = "test2";
+    private static final String TEST_COL3 = "test3";
+    private static final String IS_CURRENT_COL = "is_current";
+
     private static GameweekExtractor GAMEWEEK_EXTRACTOR;
     private static final FileWriter FILE_WRITER = new FileWriter(BASE_FILEPATH, SEASON);
 
     private static final JSONObject VALID_EVENT_JSON_OBJECT_1 = new JSONObject()
-            .put("is_current", "false")
-            .put("id", "1");
+            .put(IS_CURRENT_COL, "false")
+            .put(ID_COL, "1");
     private static final JSONObject VALID_EVENT_JSON_OBJECT_2 = new JSONObject()
-            .put("is_current", "true")
-            .put("id", "2");
+            .put(IS_CURRENT_COL, "true")
+            .put(ID_COL, "2");
 
     private static final JSONArray VALID_EVENT_JSON_ARRAY = new JSONArray()
             .put(VALID_EVENT_JSON_OBJECT_1)
             .put(VALID_EVENT_JSON_OBJECT_2);
 
     private static final JSONObject VALID_ELEMENT_JSON_OBJECT_1 = new JSONObject()
-            .put("first_name", "first_name1")
-            .put("second_name", "second_name1")
-            .put("id", "1")
-            .put("element_type", "1")
-            .put("team", "1")
-            .put("ep_this", "1")
-            .put("test1", "value1")
-            .put("test2", "value1")
-            .put("test3", "value1");
+            .put(FIRST_NAME_COL, "first_name1")
+            .put(SECOND_NAME_COL, "second_name1")
+            .put(WEB_NAME_COL, "second_name1")
+            .put(ID_COL, "1")
+            .put(ELEMENT_TYPE_COL, "1")
+            .put(TEAM_COL, "1")
+            .put(EP_THIS_COL, "1")
+            .put(TEST_COL1, "value1")
+            .put(TEST_COL2, "value2")
+            .put(TEST_COL3, "value3");
     private static final JSONObject VALID_ELEMENT_JSON_OBJECT_2 = new JSONObject()
-            .put("first_name", "first_name2")
-            .put("second_name", "second_name2")
-            .put("id", "2")
-            .put("element_type", "2")
-            .put("team", "2")
-            .put("ep_this", "2")
-            .put("test1", "value2")
-            .put("test2", "value2")
-            .put("test3", "value2");
+            .put(FIRST_NAME_COL, "first_name2")
+            .put(SECOND_NAME_COL, "second_name2")
+            .put(WEB_NAME_COL, "second_name2")
+            .put(ID_COL, "2")
+            .put(ELEMENT_TYPE_COL, "2")
+            .put(TEAM_COL, "2")
+            .put(EP_THIS_COL, "2")
+            .put(TEST_COL1, "value4")
+            .put(TEST_COL2, "value5")
+            .put(TEST_COL3, "value6");
 
     private static final JSONArray VALID_ELEMENT_JSON_ARRAY = new JSONArray()
             .put(VALID_ELEMENT_JSON_OBJECT_1)
             .put(VALID_ELEMENT_JSON_OBJECT_2);
 
     private static final JSONObject VALID_TEAM_JSON_OBJECT_1 = new JSONObject()
-            .put("id", "1")
-            .put("name", "team1")
-            .put("test1", "value1")
-            .put("test2", "value2")
-            .put("test3", "value3");
+            .put(ID_COL, "1")
+            .put(NAME_COL, "team1")
+            .put(TEST_COL1, "value1")
+            .put(TEST_COL2, "value2")
+            .put(TEST_COL3, "value3");
     private static final JSONObject VALID_TEAM_JSON_OBJECT_2 = new JSONObject()
-            .put("id", "2")
-            .put("name", "team2")
-            .put("test1", "value4")
-            .put("test2", "value5")
-            .put("test3", "value6");
+            .put(ID_COL, "2")
+            .put(NAME_COL, "team2")
+            .put(TEST_COL1, "value4")
+            .put(TEST_COL2, "value5")
+            .put(TEST_COL3, "value6");
 
     private static final JSONArray VALID_TEAM_JSON_ARRAY = new JSONArray()
             .put(VALID_TEAM_JSON_OBJECT_1)
@@ -74,9 +90,9 @@ public class GameweekExtractorTests extends TestWriterHelper {
             .put("teams", VALID_TEAM_JSON_ARRAY);
 
     private static final JSONObject INVALID_MAIN_DATA_JSON_OBJECT = new JSONObject()
-            .put("test1", "value1")
-            .put("test2", "value2")
-            .put("test3", "value3");
+            .put(TEST_COL1, "value1")
+            .put(TEST_COL2, "value2")
+            .put(TEST_COL3, "value3");
 
     @Test
     public void getCurrentGameweekNumberValidJsonData() {
@@ -89,19 +105,21 @@ public class GameweekExtractorTests extends TestWriterHelper {
     @Test
     public void getGameweekDataValidJsonDataPlayerIds() {
         JSONObject validPlayerJsonObject1 = new JSONObject()
-                .put("first_name", "first_name1")
-                .put("second_name", "second_name1")
-                .put("id", "1")
-                .put("element_type", "1")
-                .put("team", "1")
-                .put("ep_this", "1");
+                .put(FIRST_NAME_COL, "first_name1")
+                .put(SECOND_NAME_COL, "second_name1")
+                .put(WEB_NAME_COL, "second_name1")
+                .put(ID_COL, "1")
+                .put(ELEMENT_TYPE_COL, "1")
+                .put(TEAM_COL, "1")
+                .put(EP_THIS_COL, "1");
         JSONObject validPlayerJsonObject2 = new JSONObject()
-                .put("first_name", "first_name2")
-                .put("second_name", "second_name2")
-                .put("id", "2")
-                .put("element_type", "2")
-                .put("team", "2")
-                .put("ep_this", "2");
+                .put(FIRST_NAME_COL, "first_name2")
+                .put(SECOND_NAME_COL, "second_name2")
+                .put(WEB_NAME_COL, "second_name2")
+                .put(ID_COL, "2")
+                .put(ELEMENT_TYPE_COL, "2")
+                .put(TEAM_COL, "2")
+                .put(EP_THIS_COL, "2");
 
         JSONArray expectedValidPlayersJsonArray = new JSONArray()
                 .put(validPlayerJsonObject1)

@@ -1,555 +1,555 @@
-name,position,team,xP,assists,bonus,bps,clean_sheets,creativity,element,fixture,goals_conceded,goals_scored,ict_index,influence,kickoff_time,minutes,own_goals,penalties_missed,penalties_saved,red_cards,round,saves,selected,team_a_score,team_h_score,threat,total_points,transfers_balance,transfers_in,transfers_out,value,was_home,yellow_cards,opponent_team,web_name
-Eric Bailly,DEF,Man Utd,0.0,0,0,0,0,0.0,286,6,0,0,0.0,0.0,2021-08-14T11:30:00Z,0,0,0,0,0,1,0,9363,1,5,0.0,0,0,0,0,50,True,0,Leeds,Bailly
-Keinan Davis,FWD,Aston Villa,0.4,0,0,0,0,0.0,49,8,0,0,0.0,0.0,2021-08-14T14:00:00Z,0,0,0,0,0,1,0,169789,2,3,0.0,0,0,0,0,45,False,0,Watford,Davis
-Ayotomiwa Dele-Bashiru,MID,Watford,0.0,0,0,0,0,0.0,394,8,0,0,0.0,0.0,2021-08-14T14:00:00Z,0,0,0,0,0,1,0,4092,2,3,0.0,0,0,0,0,45,True,0,Aston Villa,Dele-Bashiru
-James Ward-Prowse,MID,Southampton,2.3,0,0,20,0,30.5,341,4,3,0,5.2,21.6,2021-08-14T14:00:00Z,90,0,0,0,0,1,0,299682,1,3,0.0,2,0,0,0,65,False,0,Everton,Ward-Prowse
-Bruno Miguel Borges Fernandes,MID,Man Utd,4.4,0,3,61,0,35.9,277,6,1,3,20.1,106.2,2021-08-14T11:30:00Z,90,0,0,0,0,1,0,3381004,1,5,59.0,20,0,0,0,120,True,0,Leeds,Fernandes
-Adrián San Miguel del Castillo,GK,Liverpool,2.8,0,0,0,0,0.0,223,7,0,0,0.0,0.0,2021-08-14T16:30:00Z,0,0,0,0,0,1,0,17548,3,0,0.0,0,0,0,0,45,False,0,Norwich,Adrián
-James McArthur,MID,Crystal Palace,0.5,0,0,22,0,26.0,148,3,3,0,5.5,24.8,2021-08-14T14:00:00Z,90,0,0,0,0,1,0,16857,0,3,4.0,2,0,0,0,45,False,0,Chelsea,McArthur
-Kwadwo Baah,MID,Watford,0.5,0,0,0,0,0.0,405,8,0,0,0.0,0.0,2021-08-14T14:00:00Z,0,0,0,0,0,1,0,6634,2,3,0.0,0,0,0,0,45,True,0,Aston Villa,Baah
-Paul Dummett,DEF,Newcastle,0.0,0,0,0,0,0.0,301,9,0,0,0.0,0.0,2021-08-15T13:00:00Z,0,0,0,0,0,1,0,1515,4,2,0.0,0,0,0,0,45,True,0,West Ham,Dummett
-Jairo Riedewald,MID,Crystal Palace,0.9,0,0,8,0,5.4,157,3,3,0,0.8,2.8,2021-08-14T14:00:00Z,76,0,0,0,0,1,0,2741,0,3,0.0,2,0,0,0,50,False,0,Chelsea,Riedewald
-Alexis Mac Allister,MID,Brighton,2.4,0,3,28,0,0.4,74,2,0,1,5.6,38.2,2021-08-14T14:00:00Z,14,0,0,0,0,1,0,3931,2,1,17.0,9,0,0,0,55,False,0,Burnley,Mac Allister
-Alireza Jahanbakhsh,MID,Brighton,0.0,0,0,0,0,0.0,66,2,0,0,0.0,0.0,2021-08-14T14:00:00Z,0,0,0,0,0,1,0,203,2,1,0.0,0,0,0,0,55,False,0,Burnley,Jahanbakhsh
-Willy Boly,DEF,Wolves,0.4,0,0,0,0,0.0,428,5,0,0,0.0,0.0,2021-08-14T14:00:00Z,0,0,0,0,0,1,0,8049,0,1,0.0,0,0,0,0,50,False,0,Leicester,Boly
-José Diogo Dalot Teixeira,DEF,Man Utd,2.2,0,0,0,0,0.0,510,6,0,0,0.0,0.0,2021-08-14T11:30:00Z,0,0,0,0,0,1,0,4750,1,5,0.0,0,0,0,0,45,True,0,Leeds,Dalot
-Jeffrey Schlupp,MID,Crystal Palace,1.4,0,0,3,0,1.4,155,3,2,0,0.6,1.0,2021-08-14T14:00:00Z,56,0,0,0,0,1,0,4667,0,3,4.0,1,0,0,0,55,False,0,Chelsea,Schlupp
-Joshua King,FWD,Watford,0.0,0,0,0,0,0.0,468,8,0,0,0.0,0.0,2021-08-14T14:00:00Z,0,0,0,0,0,1,0,21981,2,3,0.0,0,0,0,0,55,True,0,Aston Villa,King
-Richarlison de Andrade,FWD,Everton,2.4,1,3,41,0,29.3,180,4,1,1,13.0,63.8,2021-08-14T14:00:00Z,88,0,0,0,0,1,0,640325,1,3,37.0,11,0,0,0,75,True,1,Southampton,Richarlison
-Jamal Baptiste,DEF,West Ham,2.0,0,0,0,0,0.0,554,9,0,0,0.0,0.0,2021-08-15T13:00:00Z,0,0,0,0,0,1,0,0,4,2,0.0,0,0,0,0,40,False,0,Newcastle,Baptiste
-Sam Byram,DEF,Norwich,0.0,0,0,0,0,0.0,321,7,0,0,0.0,0.0,2021-08-14T16:30:00Z,0,0,0,0,0,1,0,2098,3,0,0.0,0,0,0,0,45,True,0,Liverpool,Byram
-Danny Rose,DEF,Watford,1.2,0,0,0,0,0.0,377,8,0,0,0.0,0.0,2021-08-14T14:00:00Z,0,0,0,0,0,1,0,47198,2,3,0.0,0,0,0,0,45,True,0,Aston Villa,Rose
-Ederson Santana de Moraes,GK,Man City,4.5,0,0,10,0,0.0,257,10,1,0,0.7,6.6,2021-08-15T15:30:00Z,90,0,0,0,0,1,1,683423,0,1,0.0,2,0,0,0,60,False,0,Spurs,Ederson
-Liam Cooper,DEF,Leeds,1.2,0,0,10,0,10.5,184,6,5,0,3.8,25.4,2021-08-14T11:30:00Z,90,0,0,0,0,1,0,21528,1,5,2.0,-1,0,0,0,45,False,1,Man Utd,Cooper
-Frédéric Guilbert,DEF,Aston Villa,1.7,0,0,0,0,0.0,46,8,0,0,0.0,0.0,2021-08-14T14:00:00Z,0,0,0,0,0,1,0,1794,2,3,0.0,0,0,0,0,45,False,0,Watford,Guilbert
-Matt Targett,DEF,Aston Villa,2.7,0,0,4,0,14.8,39,8,2,0,1.8,3.0,2021-08-14T14:00:00Z,45,0,0,0,0,1,0,675492,2,3,0.0,0,0,0,0,50,False,0,Watford,Targett
-Adama Traoré,MID,Wolves,1.6,0,0,10,0,13.4,435,5,1,0,12.1,20.6,2021-08-14T14:00:00Z,90,0,0,0,0,1,0,71206,0,1,87.0,2,0,0,0,60,False,0,Leicester,Traoré
-Jorge Luiz Frello Filho,MID,Chelsea,2.6,0,0,14,1,21.4,123,3,0,0,4.3,19.6,2021-08-14T14:00:00Z,90,0,0,0,0,1,0,328061,0,3,2.0,3,0,0,0,60,True,0,Crystal Palace,Jorginho
-Diogo Jota,MID,Liverpool,3.5,0,0,21,1,1.9,240,7,0,1,7.6,37.8,2021-08-14T16:30:00Z,60,0,0,0,0,1,0,777536,3,0,36.0,8,0,0,0,75,False,0,Norwich,Jota
-Ilkay Gündogan,MID,Man City,3.0,0,0,8,0,7.8,250,10,1,0,5.2,12.4,2021-08-15T15:30:00Z,90,0,0,0,0,1,0,577874,0,1,32.0,2,0,0,0,75,False,0,Spurs,Gündogan
-Luke Shaw,DEF,Man Utd,3.1,0,0,5,0,28.7,275,6,1,0,4.1,6.2,2021-08-14T11:30:00Z,90,0,0,0,0,1,0,3743944,1,5,6.0,1,0,0,0,55,True,1,Leeds,Shaw
-Armando Broja,FWD,Southampton,1.3,0,0,0,0,0.0,518,4,0,0,0.0,0.0,2021-08-14T14:00:00Z,0,0,0,0,0,1,0,50205,1,3,0.0,0,0,0,0,50,False,0,Everton,Broja
-Stipe Perica,FWD,Watford,0.5,0,0,0,0,0.0,388,8,0,0,0.0,0.0,2021-08-14T14:00:00Z,0,0,0,0,0,1,0,305769,2,3,0.0,0,0,0,0,45,True,0,Aston Villa,Perica
-Emerson Palmieri dos Santos,DEF,Chelsea,2.2,0,0,3,0,0.1,539,3,0,0,0.2,0.0,2021-08-14T14:00:00Z,4,0,0,0,0,1,0,0,0,3,2.0,1,0,0,0,45,True,0,Crystal Palace,Emerson
-Isaac Success Ajayi,FWD,Watford,0.8,0,0,0,0,0.0,393,8,0,0,0.0,0.0,2021-08-14T14:00:00Z,0,0,0,0,0,1,0,38535,2,3,0.0,0,0,0,0,50,True,0,Aston Villa,Success
-Declan Rice,MID,West Ham,2.4,0,0,22,0,25.3,421,9,2,0,5.9,27.8,2021-08-15T13:00:00Z,90,0,0,0,0,1,0,299441,4,2,6.0,2,0,0,0,50,False,0,Newcastle,Rice
-Juan Mata,MID,Man Utd,1.9,0,0,0,0,0.0,459,6,0,0,0.0,0.0,2021-08-14T11:30:00Z,0,0,0,0,0,1,0,3734,1,5,0.0,0,0,0,0,50,True,0,Leeds,Mata
-Hélder Wander Sousa de Azevedo e Costa,MID,Leeds,1.4,0,0,1,0,0.4,192,6,0,0,0.0,0.0,2021-08-14T11:30:00Z,21,0,0,0,0,1,0,14333,1,5,1.0,1,0,0,0,55,False,0,Man Utd,Costa
-Robert Street,FWD,Crystal Palace,0.5,0,0,0,0,0.0,542,3,0,0,0.0,0.0,2021-08-14T14:00:00Z,0,0,0,0,0,1,0,0,0,3,0.0,0,0,0,0,45,False,0,Chelsea,Street
-Harvey Elliott,MID,Liverpool,2.9,0,0,3,0,0.8,506,7,0,0,0.3,0.4,2021-08-14T16:30:00Z,7,0,0,0,0,1,0,6475,3,0,2.0,1,0,0,0,55,False,0,Norwich,Elliott
-Mahmoud Ahmed Ibrahim Hassan,MID,Aston Villa,0.0,0,0,0,0,0.0,37,8,0,0,0.0,0.0,2021-08-14T14:00:00Z,0,0,0,0,0,1,0,612,2,3,0.0,0,0,0,0,55,False,0,Watford,Trézéguet
-Ashley Young,DEF,Aston Villa,2.7,0,0,13,0,22.7,52,8,3,0,3.7,8.4,2021-08-14T14:00:00Z,90,0,0,0,0,1,0,63216,2,3,6.0,1,0,0,0,50,False,0,Watford,Young
-Hamza Choudhury,MID,Leicester,1.5,0,0,0,0,0.0,214,5,0,0,0.0,0.0,2021-08-14T14:00:00Z,0,0,0,0,0,1,0,8491,0,1,0.0,0,0,0,0,45,True,0,Wolves,Choudhury
-Christoph Zimmermann,DEF,Norwich,0.7,0,0,0,0,0.0,324,7,0,0,0.0,0.0,2021-08-14T16:30:00Z,0,0,0,0,0,1,0,7768,3,0,0.0,0,0,0,0,45,True,0,Liverpool,Zimmermann
-Tammy Abraham,FWD,Chelsea,2.6,0,0,0,0,0.0,136,3,0,0,0.0,0.0,2021-08-14T14:00:00Z,0,0,0,0,0,1,0,45383,0,3,0.0,0,0,0,0,65,True,0,Crystal Palace,Abraham
-Shane Duffy,DEF,Brighton,1.5,0,0,22,0,0.2,56,2,1,0,9.2,34.8,2021-08-14T14:00:00Z,90,0,0,0,0,1,0,226602,2,1,57.0,2,0,0,0,40,False,0,Burnley,Duffy
-Juraj Kucka,MID,Watford,1.4,0,0,3,1,0.8,495,8,0,0,1.1,8.2,2021-08-14T14:00:00Z,68,0,0,0,0,1,0,2737,2,3,2.0,2,0,0,0,55,True,1,Aston Villa,Kucka
-André Filipe Tavares Gomes,MID,Everton,1.4,0,0,0,0,0.0,172,4,0,0,0.0,0.0,2021-08-14T14:00:00Z,0,0,0,0,0,1,0,10273,1,3,0.0,0,0,0,0,50,True,0,Southampton,André Gomes
-Reece James,DEF,Chelsea,3.1,0,0,4,0,2.1,142,3,0,0,0.6,2.2,2021-08-14T14:00:00Z,23,0,0,0,0,1,0,465500,0,3,2.0,1,0,0,0,55,True,0,Crystal Palace,James
-Luke Cundle,MID,Wolves,0.5,0,0,0,0,0.0,547,5,0,0,0.0,0.0,2021-08-14T14:00:00Z,0,0,0,0,0,1,0,0,0,1,0.0,0,0,0,0,45,False,0,Leicester,Cundle
-Adam Forshaw,MID,Leeds,0.5,0,0,0,0,0.0,552,6,0,0,0.0,0.0,2021-08-14T11:30:00Z,0,0,0,0,0,1,0,0,1,5,0.0,0,0,0,0,45,False,0,Man Utd,Forshaw
-Kepa Arrizabalaga,GK,Chelsea,3.1,0,0,0,0,0.0,129,3,0,0,0.0,0.0,2021-08-14T14:00:00Z,0,0,0,0,0,1,0,19536,0,3,0.0,0,0,0,0,50,True,0,Crystal Palace,Arrizabalaga
-Kortney Hause,DEF,Aston Villa,2.2,0,0,0,0,0.0,36,8,0,0,0.0,0.0,2021-08-14T14:00:00Z,0,0,0,0,0,1,0,8179,2,3,0.0,0,0,0,0,45,False,0,Watford,Hause
-Tyrone Mings,DEF,Aston Villa,2.7,0,0,12,0,0.8,38,8,3,0,1.6,15.6,2021-08-14T14:00:00Z,90,0,0,0,0,1,0,572675,2,3,0.0,0,0,0,0,50,False,1,Watford,Mings
-Ainsley Maitland-Niles,MID,Arsenal,2.9,0,0,0,0,0.0,13,1,0,0,0.0,0.0,2021-08-13T19:00:00Z,0,0,0,0,0,1,0,6271,0,2,0.0,0,0,0,0,55,False,0,Brentford,Maitland-Niles
-Jesse Lingard,MID,Man Utd,0.7,0,0,0,0,0.0,276,6,0,0,0.0,0.0,2021-08-14T11:30:00Z,0,0,0,0,0,1,0,150273,1,5,0.0,0,0,0,0,70,True,0,Leeds,Lingard
-Billy Gilmour,MID,Norwich,0.0,0,0,14,0,2.1,145,7,3,0,1.4,11.6,2021-08-14T16:30:00Z,90,0,0,0,0,1,0,592329,3,0,0.0,2,0,0,0,45,True,0,Liverpool,Gilmour
-Jaden Philogene-Bidace,MID,Aston Villa,1.9,0,0,0,0,0.0,497,8,0,0,0.0,0.0,2021-08-14T14:00:00Z,0,0,0,0,0,1,0,1298,2,3,0.0,0,0,0,0,50,False,0,Watford,Philogene-Bidace
-Fernando Luiz Rosa,MID,Man City,1.9,0,0,10,0,28.7,453,10,1,0,4.8,11.2,2021-08-15T15:30:00Z,90,0,0,0,0,1,0,22889,0,1,8.0,2,0,0,0,50,False,0,Spurs,Fernandinho
-Björn Engels,DEF,Aston Villa,0.0,0,0,0,0,0.0,31,8,0,0,0.0,0.0,2021-08-14T14:00:00Z,0,0,0,0,0,1,0,95,2,3,0.0,0,0,0,0,45,False,0,Watford,Engels
-Tariqe Fosu-Henry,MID,Brentford,0.9,0,0,0,0,0.0,79,1,0,0,0.0,0.0,2021-08-13T19:00:00Z,0,0,0,0,0,1,0,7791,0,2,0.0,0,0,0,0,55,True,0,Arsenal,Fosu
-Thomas Partey,MID,Arsenal,0.0,0,0,0,0,0.0,15,1,0,0,0.0,0.0,2021-08-13T19:00:00Z,0,0,0,0,0,1,0,5080,0,2,0.0,0,0,0,0,50,False,0,Brentford,Partey
-Karl Hein,GK,Arsenal,2.0,0,0,0,0,0.0,532,1,0,0,0.0,0.0,2021-08-13T19:00:00Z,0,0,0,0,0,1,0,0,0,2,0.0,0,0,0,0,40,False,0,Brentford,Hein
-Francisco Femenía Far,DEF,Watford,1.2,0,0,0,0,0.0,382,8,0,0,0.0,0.0,2021-08-14T14:00:00Z,0,0,0,0,0,1,0,15648,2,3,0.0,0,0,0,0,45,True,0,Aston Villa,Femenía
-Raúl Jiménez,FWD,Wolves,1.9,0,0,2,0,36.9,430,5,1,0,5.9,4.0,2021-08-14T14:00:00Z,90,0,0,0,0,1,0,240264,0,1,18.0,2,0,0,0,75,False,0,Leicester,Jiménez
-Sean Longstaff,MID,Newcastle,0.0,0,0,3,0,0.4,309,9,0,0,0.5,4.4,2021-08-15T13:00:00Z,6,0,0,0,0,1,0,22857,4,2,0.0,1,0,0,0,45,True,0,West Ham,S.Longstaff
-Boubakary Soumaré,MID,Leicester,1.9,0,0,4,0,0.9,458,5,0,0,0.4,3.4,2021-08-14T14:00:00Z,28,0,0,0,0,1,0,7397,0,1,0.0,1,0,0,0,50,True,0,Wolves,Soumaré
-Héctor Bellerín,DEF,Arsenal,3.2,0,0,0,0,0.0,9,1,0,0,0.0,0.0,2021-08-13T19:00:00Z,0,0,0,0,0,1,0,72864,0,2,0.0,0,0,0,0,50,False,0,Brentford,Bellerín
-Emmanuel Dennis,FWD,Watford,0.8,1,3,44,1,33.4,450,8,0,1,18.3,62.2,2021-08-14T14:00:00Z,65,0,0,0,0,1,0,25528,2,3,87.0,12,0,0,0,50,True,0,Aston Villa,Dennis
-Lucas Torreira,MID,Arsenal,2.0,0,0,0,0,0.0,18,1,0,0,0.0,0.0,2021-08-13T19:00:00Z,0,0,0,0,0,1,0,29602,0,2,0.0,0,0,0,0,45,False,0,Brentford,Torreira
-Nampalys Mendy,MID,Leicester,1.5,0,0,0,0,0.0,203,5,0,0,0.0,0.0,2021-08-14T14:00:00Z,0,0,0,0,0,1,0,31304,0,1,0.0,0,0,0,0,45,True,0,Wolves,Mendy
-Ryan Fraser,MID,Newcastle,0.9,0,0,2,0,1.3,298,9,0,0,0.5,0.0,2021-08-15T13:00:00Z,20,0,0,0,0,1,0,9176,4,2,5.0,1,0,0,0,55,True,0,West Ham,Fraser
-Paul Pogba,MID,Man Utd,3.1,4,2,46,0,60.0,272,6,1,0,15.0,74.8,2021-08-14T11:30:00Z,74,0,0,0,0,1,0,214089,1,5,15.0,16,0,0,0,75,True,0,Leeds,Pogba
-Bertrand Traoré,MID,Aston Villa,2.6,1,0,16,0,1.6,32,8,0,0,3.3,5.8,2021-08-14T14:00:00Z,18,0,0,0,0,1,0,141304,2,3,26.0,4,0,0,0,60,False,0,Watford,Traoré
-Leandro Trossard,MID,Brighton,2.8,0,0,4,0,1.9,64,2,1,0,1.2,2.2,2021-08-14T14:00:00Z,75,0,0,0,0,1,0,88156,2,1,8.0,2,0,0,0,65,False,0,Burnley,Trossard
-Christian Nørgaard,MID,Brentford,0.4,0,0,25,1,1.8,77,1,0,1,8.0,38.4,2021-08-13T19:00:00Z,90,0,0,0,0,1,0,13090,0,2,40.0,8,0,0,0,50,True,0,Arsenal,Nørgaard
-Wesley Fofana,DEF,Leicester,0.0,0,0,0,0,0.0,220,5,0,0,0.0,0.0,2021-08-14T14:00:00Z,0,0,0,0,0,1,0,60900,0,1,0.0,0,0,0,0,45,True,0,Wolves,Fofana
-Nemanja Matic,MID,Man Utd,1.5,0,0,4,0,1.7,271,6,0,0,0.8,6.6,2021-08-14T11:30:00Z,21,0,0,0,0,1,0,14969,1,5,0.0,1,0,0,0,45,True,0,Leeds,Matic
-Arthur Masuaku,DEF,West Ham,2.0,0,0,0,0,0.0,417,9,0,0,0.0,0.0,2021-08-15T13:00:00Z,0,0,0,0,0,1,0,5351,4,2,0.0,0,0,0,0,45,False,0,Newcastle,Masuaku
-Bernard Anício Caldeira Duarte,MID,Everton,0.0,0,0,0,0,0.0,167,4,0,0,0.0,0.0,2021-08-14T14:00:00Z,0,0,0,0,0,1,0,471,1,3,0.0,0,0,0,0,55,True,0,Southampton,Bernard
-Brandon Williams,DEF,Man Utd,1.5,0,0,0,0,0.0,290,6,0,0,0.0,0.0,2021-08-14T11:30:00Z,0,0,0,0,0,1,0,135410,1,5,0.0,0,0,0,0,40,True,0,Leeds,Williams
-Kenny McLean,MID,Norwich,0.4,0,0,0,0,0.0,318,7,0,0,0.0,0.0,2021-08-14T16:30:00Z,0,0,0,0,0,1,0,3511,3,0,0.0,0,0,0,0,50,True,0,Liverpool,McLean
-Jeremy Ngakia,DEF,Watford,1.2,0,0,0,0,0.0,400,8,0,0,0.0,0.0,2021-08-14T14:00:00Z,0,0,0,0,0,1,0,4345,2,3,0.0,0,0,0,0,45,True,0,Aston Villa,Ngakia
-Sadio Mané,MID,Liverpool,4.9,0,0,11,1,44.0,230,7,0,0,11.2,16.4,2021-08-14T16:30:00Z,90,0,0,0,0,1,0,306339,3,0,52.0,3,0,0,0,120,False,0,Norwich,Mané
-Edward Nketiah,FWD,Arsenal,0.0,0,0,0,0,0.0,20,1,0,0,0.0,0.0,2021-08-13T19:00:00Z,0,0,0,0,0,1,0,8562,0,2,0.0,0,0,0,0,55,False,0,Brentford,Nketiah
-Jakub Moder,MID,Brighton,1.5,1,0,13,0,10.8,75,2,0,0,5.1,21.2,2021-08-14T14:00:00Z,18,0,0,0,0,1,0,8712,2,1,19.0,4,0,0,0,45,False,0,Burnley,Moder
-Ben Davies,DEF,Liverpool,2.0,0,0,0,0,0.0,248,7,0,0,0.0,0.0,2021-08-14T16:30:00Z,0,0,0,0,0,1,0,29413,3,0,0.0,0,0,0,0,40,False,0,Norwich,Davies
-Trevoh Chalobah,DEF,Chelsea,2.7,0,2,37,1,7.0,527,3,0,1,6.3,45.4,2021-08-14T14:00:00Z,90,0,0,0,0,1,0,8103,0,3,11.0,14,0,0,0,50,True,0,Crystal Palace,Chalobah
-Bali Mumba,DEF,Norwich,0.0,0,0,0,0,0.0,515,7,0,0,0.0,0.0,2021-08-14T16:30:00Z,0,0,0,0,0,1,0,21526,3,0,0.0,0,0,0,0,40,True,0,Liverpool,Mumba
-Enock Mwepu,MID,Brighton,2.6,0,0,5,0,12.1,462,2,1,0,1.8,2.2,2021-08-14T14:00:00Z,45,0,0,0,0,1,0,9904,2,1,4.0,1,0,0,0,60,False,0,Burnley,Mwepu
-Theo Walcott,MID,Southampton,2.1,0,0,8,0,1.8,332,4,2,0,0.9,1.6,2021-08-14T14:00:00Z,79,0,0,0,0,1,0,16692,1,3,6.0,2,0,0,0,60,False,0,Everton,Walcott
-Fabian Schär,DEF,Newcastle,0.7,0,0,0,0,0.0,305,9,0,0,0.0,0.0,2021-08-15T13:00:00Z,0,0,0,0,0,1,0,17533,4,2,0.0,0,0,0,0,45,True,0,West Ham,Schär
-Mateusz Klich,MID,Leeds,1.4,0,0,7,0,5.2,186,6,5,0,2.1,5.8,2021-08-14T11:30:00Z,90,0,0,0,0,1,0,31003,1,5,10.0,2,0,0,0,55,False,0,Man Utd,Klich
-Che Adams,FWD,Southampton,2.2,1,0,16,0,18.3,345,4,3,0,5.5,26.4,2021-08-14T14:00:00Z,90,0,0,0,0,1,0,122487,1,3,10.0,5,0,0,0,70,False,0,Everton,Adams
-Andriy Yarmolenko,MID,West Ham,2.9,0,0,3,0,1.0,412,9,0,0,0.1,0.0,2021-08-15T13:00:00Z,1,0,0,0,0,1,0,18464,4,2,0.0,1,0,0,0,55,False,0,Newcastle,Yarmolenko
-Onel Hernández,MID,Norwich,0.4,0,0,0,0,0.0,320,7,0,0,0.0,0.0,2021-08-14T16:30:00Z,0,0,0,0,0,1,0,4889,3,0,0.0,0,0,0,0,50,True,0,Liverpool,Hernández
-Benjamin Chilwell,DEF,Chelsea,3.4,0,0,0,0,0.0,135,3,0,0,0.0,0.0,2021-08-14T14:00:00Z,0,0,0,0,0,1,0,896206,0,3,0.0,0,0,0,0,60,True,0,Crystal Palace,Chilwell
-Leander Dendoncker,MID,Wolves,0.9,0,0,4,0,0.6,434,5,0,0,1.2,11.6,2021-08-14T14:00:00Z,24,0,0,0,0,1,0,14765,0,1,0.0,1,0,0,0,50,False,0,Leicester,Dendoncker
-Andrew Robertson,DEF,Liverpool,0.0,0,0,0,0,0.0,234,7,0,0,0.0,0.0,2021-08-14T16:30:00Z,0,0,0,0,0,1,0,106719,3,0,0.0,0,0,0,0,70,False,0,Norwich,Robertson
-Marcus Rashford,MID,Man Utd,0.0,0,0,0,0,0.0,281,6,0,0,0.0,0.0,2021-08-14T11:30:00Z,0,0,0,0,0,1,0,21167,1,5,0.0,0,0,0,0,95,True,0,Leeds,Rashford
-Rayan Ait Nouri,DEF,Wolves,1.2,0,0,0,0,0.0,470,5,0,0,0.0,0.0,2021-08-14T14:00:00Z,0,0,0,0,0,1,0,44020,0,1,0.0,0,0,0,0,45,False,0,Leicester,Ait Nouri
-Michal Karbownik,DEF,Brighton,1.5,0,0,0,0,0.0,536,2,0,0,0.0,0.0,2021-08-14T14:00:00Z,0,0,0,0,0,1,0,0,2,1,0.0,0,0,0,0,40,False,0,Burnley,Karbownik
-Ciaran Clark,DEF,Newcastle,0.7,0,0,12,0,11.6,293,9,4,0,5.6,16.6,2021-08-15T13:00:00Z,90,0,0,0,0,1,0,9309,4,2,28.0,0,0,0,0,45,True,0,West Ham,Clark
-Pascal Groß,MID,Brighton,2.6,1,1,24,0,35.3,55,2,1,0,7.6,26.4,2021-08-14T14:00:00Z,90,0,0,0,0,1,0,34936,2,1,14.0,6,0,0,0,60,False,0,Burnley,Groß
-Bobby Thomas,DEF,Burnley,0.5,0,0,0,0,0.0,534,2,0,0,0.0,0.0,2021-08-14T14:00:00Z,0,0,0,0,0,1,0,0,2,1,0.0,0,0,0,0,40,True,0,Brighton,Thomas
-John McGinn,MID,Aston Villa,2.6,0,0,28,0,2.1,35,8,3,1,5.6,40.4,2021-08-14T14:00:00Z,90,0,0,0,0,1,0,60533,2,3,13.0,7,0,0,0,60,False,0,Watford,McGinn
-Bukayo Saka,MID,Arsenal,3.3,0,0,4,0,12.3,22,1,1,0,3.1,6.6,2021-08-13T19:00:00Z,31,0,0,0,0,1,0,1014984,0,2,12.0,1,0,0,0,65,False,0,Brentford,Saka
-Takumi Minamino,MID,Liverpool,2.9,0,0,0,0,0.0,236,7,0,0,0.0,0.0,2021-08-14T16:30:00Z,0,0,0,0,0,1,0,9552,3,0,0.0,0,0,0,0,55,False,0,Norwich,Minamino
-Rhys Williams,DEF,Liverpool,2.7,0,0,0,0,0.0,247,7,0,0,0.0,0.0,2021-08-14T16:30:00Z,0,0,0,0,0,1,0,4581,3,0,0.0,0,0,0,0,45,False,0,Norwich,R.Williams
-Jack Butland,GK,Crystal Palace,1.3,0,0,0,0,0.0,156,3,0,0,0.0,0.0,2021-08-14T14:00:00Z,0,0,0,0,0,1,0,30766,0,3,0.0,0,0,0,0,45,False,0,Chelsea,Butland
-João Pedro Cavaco Cancelo,DEF,Man City,3.4,0,0,21,0,38.5,256,10,1,0,7.2,21.2,2021-08-15T15:30:00Z,90,0,0,0,0,1,0,484049,0,1,12.0,2,0,0,0,60,False,0,Spurs,Cancelo
-Marvelous Nakamba,MID,Aston Villa,1.5,0,0,13,0,6.5,41,8,3,0,1.3,6.4,2021-08-14T14:00:00Z,90,0,0,0,0,1,0,7728,2,3,0.0,2,0,0,0,45,False,0,Watford,Nakamba
-Cédric Soares,DEF,Arsenal,2.7,0,0,0,0,0.0,5,1,0,0,0.0,0.0,2021-08-13T19:00:00Z,0,0,0,0,0,1,0,17385,0,2,0.0,0,0,0,0,45,False,0,Brentford,Cédric
-Joseph Gomez,DEF,Liverpool,3.2,0,0,0,0,0.0,238,7,0,0,0.0,0.0,2021-08-14T16:30:00Z,0,0,0,0,0,1,0,52503,3,0,0.0,0,0,0,0,50,False,0,Norwich,Gomez
-Johann Berg Gudmundsson,MID,Burnley,1.4,0,0,5,0,2.6,108,2,2,0,1.2,7.2,2021-08-14T14:00:00Z,90,0,0,0,0,1,0,4960,2,1,2.0,1,0,0,0,55,True,1,Brighton,Gudmundsson
-Eric Dier,DEF,Spurs,1.2,0,1,22,1,0.1,361,10,0,0,1.7,17.0,2021-08-15T15:30:00Z,90,0,0,0,0,1,0,96915,0,1,0.0,7,0,0,0,45,True,0,Man City,Dier
-Jan Bednarek,DEF,Southampton,1.7,0,0,0,0,0.0,343,4,0,0,0.0,0.0,2021-08-14T14:00:00Z,0,0,0,0,0,1,0,82735,1,3,0.0,0,0,0,0,45,False,0,Everton,Bednarek
-Steven Alzate,MID,Brighton,1.9,0,0,12,0,24.1,73,2,1,0,3.7,10.4,2021-08-14T14:00:00Z,71,0,0,0,0,1,0,3347,2,1,2.0,2,0,0,0,50,False,0,Burnley,Alzate
-Nathaniel Chalobah,MID,Watford,0.0,0,0,0,0,0.0,385,8,0,0,0.0,0.0,2021-08-14T14:00:00Z,0,0,0,0,0,1,0,1795,2,3,0.0,0,0,0,0,50,True,0,Aston Villa,Chalobah
-Fabio Henrique Tavares,MID,Liverpool,2.9,0,0,4,0,4.6,232,7,0,0,0.6,1.6,2021-08-14T16:30:00Z,29,0,0,0,0,1,0,57480,3,0,0.0,1,0,0,0,55,False,0,Norwich,Fabinho
-Pontus Jansson,DEF,Brentford,0.7,0,0,22,1,0.0,76,1,0,0,1.1,10.8,2021-08-13T19:00:00Z,90,0,0,0,0,1,0,28324,0,2,0.0,6,0,0,0,45,True,0,Arsenal,Jansson
-João Filipe Iria Santos Moutinho,MID,Wolves,0.9,0,0,16,0,14.9,426,5,1,0,2.3,7.2,2021-08-14T14:00:00Z,65,0,0,0,0,1,0,30970,0,1,1.0,2,0,0,0,50,False,0,Leicester,Moutinho
-Asmir Begović,GK,Everton,1.0,0,0,0,0,0.0,481,4,0,0,0.0,0.0,2021-08-14T14:00:00Z,0,0,0,0,0,1,0,153135,1,3,0.0,0,0,0,0,40,True,0,Southampton,Begović
-Aymeric Laporte,DEF,Man City,3.1,0,0,0,0,0.0,259,10,0,0,0.0,0.0,2021-08-15T15:30:00Z,0,0,0,0,0,1,0,100948,0,1,0.0,0,0,0,0,55,False,0,Spurs,Laporte
-Nuno Varela Tavares,DEF,Arsenal,2.7,0,0,0,0,0.7,466,1,0,0,0.1,0.0,2021-08-13T19:00:00Z,9,0,0,0,0,1,0,21150,0,2,1.0,1,0,0,0,45,False,0,Brentford,Tavares
-Konstantinos Tsimikas,DEF,Liverpool,2.0,0,0,21,1,2.9,245,7,0,0,4.9,9.4,2021-08-14T16:30:00Z,90,0,0,0,0,1,0,1540416,3,0,37.0,6,0,0,0,40,False,0,Norwich,Tsimikas
-Jacob Murphy,MID,Newcastle,0.4,0,0,23,0,20.3,304,9,4,1,9.4,43.4,2021-08-15T13:00:00Z,90,0,0,0,0,1,0,7373,4,2,30.0,7,0,0,0,50,True,0,West Ham,Murphy
-Mason Mount,MID,Chelsea,3.0,1,0,19,1,18.5,138,3,0,0,6.2,14.2,2021-08-14T14:00:00Z,90,0,0,0,0,1,0,1404414,0,3,29.0,6,0,0,0,75,True,0,Crystal Palace,Mount
-Yoane Wissa,MID,Brentford,1.1,0,0,0,0,0.0,524,1,0,0,0.0,0.0,2021-08-13T19:00:00Z,0,0,0,0,0,1,0,4209,0,2,0.0,0,0,0,0,60,True,0,Arsenal,Wissa
-Donny van de Beek,MID,Man Utd,2.6,0,0,0,0,0.0,282,6,0,0,0.0,0.0,2021-08-14T11:30:00Z,0,0,0,0,0,1,0,10131,1,5,0.0,0,0,0,0,60,True,0,Leeds,van de Beek
-Divock Origi,FWD,Liverpool,2.3,0,0,0,0,0.0,235,7,0,0,0.0,0.0,2021-08-14T16:30:00Z,0,0,0,0,0,1,0,80854,3,0,0.0,0,0,0,0,50,False,0,Norwich,Origi
-Dimitris Giannoulis,DEF,Norwich,0.7,0,0,18,0,12.2,457,7,3,0,3.6,21.4,2021-08-14T16:30:00Z,90,0,0,0,0,1,0,6451,3,0,2.0,1,0,0,0,45,True,0,Liverpool,Giannoulis
-Anwar El Ghazi,MID,Aston Villa,2.6,0,0,1,0,2.7,42,8,2,0,0.8,1.4,2021-08-14T14:00:00Z,59,0,0,0,0,1,0,82948,2,3,4.0,1,0,0,0,60,False,0,Watford,El Ghazi
-Kyle Walker-Peters,DEF,Southampton,2.2,0,0,0,0,0.0,342,4,0,0,0.0,0.0,2021-08-14T14:00:00Z,0,0,0,0,0,1,0,55553,1,3,0.0,0,0,0,0,50,False,0,Everton,Walker-Peters
-Mohamed Elyounoussi,MID,Southampton,1.9,0,0,0,0,0.0,517,4,0,0,0.0,0.0,2021-08-14T14:00:00Z,0,0,0,0,0,1,0,1933,1,3,0.0,0,0,0,0,55,False,0,Everton,Elyounoussi
-Christian Kabasele,DEF,Watford,1.2,0,0,12,0,0.1,384,8,2,0,2.4,20.2,2021-08-14T14:00:00Z,90,0,0,0,0,1,0,6905,2,3,4.0,1,0,0,0,45,True,0,Aston Villa,Kabasele
-Andre Gray,FWD,Watford,1.1,0,0,0,0,0.0,383,8,0,0,0.0,0.0,2021-08-14T14:00:00Z,0,0,0,0,0,1,0,19046,2,3,0.0,0,0,0,0,55,True,0,Aston Villa,Gray
-Ibrahima Konaté,DEF,Liverpool,3.6,0,0,0,0,0.0,243,7,0,0,0.0,0.0,2021-08-14T16:30:00Z,0,0,0,0,0,1,0,212508,3,0,0.0,0,0,0,0,55,False,0,Norwich,Konaté
-Jean-Philippe Mateta,FWD,Crystal Palace,1.1,0,0,5,0,1.3,159,3,2,0,0.8,6.4,2021-08-14T14:00:00Z,56,0,0,0,0,1,0,8209,0,3,0.0,1,0,0,0,55,False,0,Chelsea,Mateta
-Dane Scarlett,FWD,Spurs,0.5,0,0,0,0,0.0,520,10,0,0,0.0,0.0,2021-08-15T15:30:00Z,0,0,0,0,0,1,0,112697,0,1,0.0,0,0,0,0,45,True,0,Man City,Scarlett
-Luke Thomas,DEF,Leicester,2.2,0,1,29,1,5.7,219,5,0,0,3.1,25.4,2021-08-14T14:00:00Z,90,0,0,0,0,1,0,14916,0,1,0.0,7,0,0,0,45,True,0,Wolves,Thomas
-Diego Llorente,DEF,Leeds,0.0,0,0,0,0,0.0,190,6,0,0,0.0,0.0,2021-08-14T11:30:00Z,0,0,0,0,0,1,0,8101,1,5,0.0,0,0,0,0,45,False,0,Man Utd,Llorente
-Robin Koch,DEF,Leeds,1.2,0,0,14,0,0.3,194,6,5,0,1.5,14.4,2021-08-14T11:30:00Z,90,0,0,0,0,1,0,21640,1,5,0.0,0,0,0,0,45,False,0,Man Utd,Koch
-Albert Sambi Lokonga,MID,Arsenal,2.4,0,0,13,0,34.3,478,1,2,0,6.2,19.4,2021-08-13T19:00:00Z,90,0,0,0,0,1,0,15087,0,2,8.0,2,0,0,0,50,False,0,Brentford,Sambi Lokonga
-Sam Greenwood,FWD,Leeds,0.5,0,0,0,0,0.0,550,6,0,0,0.0,0.0,2021-08-14T11:30:00Z,0,0,0,0,0,1,0,0,1,5,0.0,0,0,0,0,45,False,0,Man Utd,Greenwood
-Nathan Ferguson,DEF,Crystal Palace,0.0,0,0,0,0,0.0,161,3,0,0,0.0,0.0,2021-08-14T14:00:00Z,0,0,0,0,0,1,0,331,0,3,0.0,0,0,0,0,45,False,0,Chelsea,Ferguson
-Alexandre Lacazette,FWD,Arsenal,0.9,0,0,0,0,0.0,6,1,0,0,0.0,0.0,2021-08-13T19:00:00Z,0,0,0,0,0,1,0,192345,0,2,0.0,0,0,0,0,85,False,0,Brentford,Lacazette
-Kevin De Bruyne,MID,Man City,2.2,0,0,4,0,11.6,251,10,0,0,2.8,9.0,2021-08-15T15:30:00Z,11,0,0,0,0,1,0,170476,0,1,7.0,1,0,0,0,120,False,0,Spurs,De Bruyne
-Mohamed Salah,MID,Liverpool,5.0,2,3,49,1,36.4,233,7,0,1,17.7,70.6,2021-08-14T16:30:00Z,90,0,0,0,0,1,0,3548693,3,0,70.0,17,0,0,0,125,False,0,Norwich,Salah
-Raheem Sterling,MID,Man City,4.1,0,0,1,0,4.2,255,10,1,0,3.9,4.2,2021-08-15T15:30:00Z,69,0,0,0,0,1,0,207534,0,1,31.0,2,0,0,0,110,False,0,Spurs,Sterling
-Wilfried Zaha,MID,Crystal Palace,1.9,0,0,1,0,3.0,154,3,3,0,2.6,1.0,2021-08-14T14:00:00Z,90,0,0,0,0,1,0,460453,0,3,22.0,2,0,0,0,70,False,0,Chelsea,Zaha
-Freddie Woodman,GK,Newcastle,0.8,0,0,30,0,0.0,513,9,4,0,5.1,51.0,2021-08-15T13:00:00Z,90,0,0,1,0,1,4,10930,4,2,0.0,6,0,0,0,45,True,0,West Ham,Woodman
-Robert Sánchez,GK,Brighton,2.3,0,0,19,0,10.0,69,2,1,0,3.0,20.0,2021-08-14T14:00:00Z,90,0,0,0,0,1,2,1701303,2,1,0.0,2,0,0,0,45,False,0,Burnley,Sánchez
-Neco Williams,DEF,Liverpool,2.0,0,0,0,0,0.0,246,7,0,0,0.0,0.0,2021-08-14T16:30:00Z,0,0,0,0,0,1,0,63346,3,0,0.0,0,0,0,0,40,False,0,Norwich,N.Williams
-Ben Mee,DEF,Burnley,1.7,0,0,8,0,0.8,106,2,2,0,1.7,9.6,2021-08-14T14:00:00Z,90,0,0,0,0,1,0,59668,2,1,7.0,1,0,0,0,50,True,0,Brighton,Mee
-Pascal Struijk,DEF,Leeds,1.2,0,0,15,0,0.0,198,6,5,0,1.6,16.4,2021-08-14T11:30:00Z,90,0,0,0,0,1,0,29507,1,5,0.0,0,0,0,0,45,False,0,Man Utd,Struijk
-Tom Davies,MID,Everton,1.4,0,0,0,0,0.0,176,4,0,0,0.0,0.0,2021-08-14T14:00:00Z,0,0,0,0,0,1,0,5901,1,3,0.0,0,0,0,0,50,True,0,Southampton,Davies
-Konstantinos Mavropanos,DEF,Arsenal,0.0,0,0,0,0,0.0,24,1,0,0,0.0,0.0,2021-08-13T19:00:00Z,0,0,0,0,0,1,0,99,0,2,0.0,0,0,0,0,45,False,0,Brentford,Mavropanos
-Alex Iwobi,MID,Everton,2.1,1,0,7,0,11.0,174,4,0,0,5.5,20.6,2021-08-14T14:00:00Z,20,0,0,0,0,1,0,12093,1,3,23.0,4,0,0,0,60,True,0,Southampton,Iwobi
-Edouard Mendy,GK,Chelsea,4.5,0,0,20,1,0.0,143,3,0,0,1.1,11.2,2021-08-14T14:00:00Z,90,0,0,0,0,1,1,613542,0,3,0.0,6,0,0,0,60,True,0,Crystal Palace,Mendy
-Serge Aurier,DEF,Spurs,1.7,0,0,0,0,0.0,358,10,0,0,0.0,0.0,2021-08-15T15:30:00Z,0,0,0,0,0,1,0,40214,0,1,0.0,0,0,0,0,50,True,0,Man City,Aurier
-Marc Guéhi,DEF,Crystal Palace,1.2,0,0,14,0,11.9,477,3,3,0,2.8,13.8,2021-08-14T14:00:00Z,90,0,0,0,0,1,0,21817,0,3,2.0,1,0,0,0,45,False,0,Chelsea,Guéhi
-Matej Vydra,FWD,Burnley,1.1,0,0,2,0,0.3,111,2,0,0,1.0,0.0,2021-08-14T14:00:00Z,5,0,0,0,0,1,0,69784,2,1,12.0,1,0,0,0,55,True,0,Brighton,Vydra
-Ethan Ampadu,DEF,Chelsea,2.2,0,0,0,0,0.0,139,3,0,0,0.0,0.0,2021-08-14T14:00:00Z,0,0,0,0,0,1,0,7410,0,3,0.0,0,0,0,0,45,True,0,Crystal Palace,Ampadu
-Marcus Forss,FWD,Brentford,0.6,0,0,1,0,1.3,88,1,0,0,0.1,0.0,2021-08-13T19:00:00Z,4,0,0,0,0,1,0,11516,0,2,0.0,1,0,0,0,55,True,0,Arsenal,Forss
-Todd Cantwell,MID,Norwich,0.7,0,0,14,0,31.4,325,7,3,0,4.5,12.4,2021-08-14T16:30:00Z,85,0,0,0,0,1,0,47808,3,0,1.0,1,0,0,0,55,True,1,Liverpool,Cantwell
-Jarrod Bowen,MID,West Ham,3.3,0,0,8,0,20.2,420,9,2,0,7.2,20.0,2021-08-15T13:00:00Z,89,0,0,0,0,1,0,114253,4,2,32.0,2,0,0,0,65,False,0,Newcastle,Bowen
-Folarin Balogun,FWD,Arsenal,2.3,0,0,-2,0,0.4,530,1,1,0,0.9,0.0,2021-08-13T19:00:00Z,58,0,0,0,0,1,0,16628,0,2,15.0,1,0,0,0,50,False,0,Brentford,Balogun
-Benjamin Mendy,DEF,Man City,3.1,0,1,22,0,29.1,253,10,1,0,4.6,15.2,2021-08-15T15:30:00Z,78,0,0,0,0,1,0,57602,0,1,2.0,3,0,0,0,55,False,0,Spurs,Mendy
-Willian Borges Da Silva,MID,Arsenal,3.3,0,0,0,0,0.0,3,1,0,0,0.0,0.0,2021-08-13T19:00:00Z,0,0,0,0,0,1,0,22000,0,2,0.0,0,0,0,0,65,False,0,Brentford,Willian
-Francisco Machado Mota de Castro Trincão,MID,Wolves,1.6,0,0,10,0,22.3,461,5,1,0,6.4,15.0,2021-08-14T14:00:00Z,85,0,0,0,0,1,0,30883,0,1,27.0,2,0,0,0,60,False,0,Leicester,Trincão
-Manuel Lanzini,MID,West Ham,2.3,0,0,0,0,0.0,416,9,0,0,0.0,0.0,2021-08-15T13:00:00Z,0,0,0,0,0,1,0,9936,4,2,0.0,0,0,0,0,60,False,0,Newcastle,Lanzini
-Moussa Sissoko,MID,Spurs,0.5,0,0,0,0,0.0,354,10,0,0,0.0,0.0,2021-08-15T15:30:00Z,0,0,0,0,0,1,0,95256,0,1,0.0,0,0,0,0,45,True,0,Man City,Sissoko
-Luka Milivojevic,MID,Crystal Palace,0.0,0,0,0,0,0.0,152,3,0,0,0.0,0.0,2021-08-14T14:00:00Z,0,0,0,0,0,1,0,9126,0,3,0.0,0,0,0,0,55,False,0,Chelsea,Milivojevic
-Ruben Loftus-Cheek,MID,Chelsea,2.4,0,0,0,0,0.0,132,3,0,0,0.0,0.0,2021-08-14T14:00:00Z,0,0,0,0,0,1,0,7043,0,3,0.0,0,0,0,0,55,True,0,Crystal Palace,Loftus-Cheek
-Dominic Thompson,DEF,Brentford,0.7,0,0,0,0,0.0,498,1,0,0,0.0,0.0,2021-08-13T19:00:00Z,0,0,0,0,0,1,0,2758,0,2,0.0,0,0,0,0,45,True,0,Arsenal,Thompson
-Rúnar Alex Rúnarsson,GK,Arsenal,2.0,0,0,0,0,0.0,2,1,0,0,0.0,0.0,2021-08-13T19:00:00Z,0,0,0,0,0,1,0,91500,0,2,0.0,0,0,0,0,40,False,0,Brentford,Rúnarsson
-Rui Pedro dos Santos Patrício,GK,Wolves,0.0,0,0,0,0,0.0,427,5,0,0,0.0,0.0,2021-08-14T14:00:00Z,0,0,0,0,0,1,0,3082,0,1,0.0,0,0,0,0,50,False,0,Leicester,Patrício
-Eberechi Eze,MID,Crystal Palace,0.0,0,0,0,0,0.0,160,3,0,0,0.0,0.0,2021-08-14T14:00:00Z,0,0,0,0,0,1,0,3447,0,3,0.0,0,0,0,0,60,False,0,Chelsea,Eze
-Joseph Hungbo,MID,Watford,0.5,0,0,0,0,0.0,402,8,0,0,0.0,0.0,2021-08-14T14:00:00Z,0,0,0,0,0,1,0,3366,2,3,0.0,0,0,0,0,45,True,0,Aston Villa,Hungbo
-Dale Stephens,MID,Burnley,0.0,0,0,0,0,0.0,102,2,0,0,0.0,0.0,2021-08-14T14:00:00Z,0,0,0,0,0,1,0,1674,2,1,0.0,0,0,0,0,45,True,0,Brighton,Stephens
-James Rodríguez,MID,Everton,0.0,0,0,0,0,0.0,166,4,0,0,0.0,0.0,2021-08-14T14:00:00Z,0,0,0,0,0,1,0,139782,1,3,0.0,0,0,0,0,70,True,0,Southampton,James
-Dwight Gayle,FWD,Newcastle,0.6,0,0,0,0,0.0,300,9,0,0,0.0,0.0,2021-08-15T13:00:00Z,0,0,0,0,0,1,0,16263,4,2,0.0,0,0,0,0,55,True,0,West Ham,Gayle
-Raphael Dias Belloli,MID,Leeds,1.8,0,0,9,0,19.4,196,6,5,0,4.7,11.6,2021-08-14T11:30:00Z,90,0,0,0,0,1,0,1238151,1,5,16.0,1,0,0,0,65,False,1,Man Utd,Raphinha
-Issa Diop,DEF,West Ham,2.7,0,0,0,0,0.0,424,9,0,0,0.0,0.0,2021-08-15T13:00:00Z,0,0,0,0,0,1,0,30917,4,2,0.0,0,0,0,0,45,False,0,Newcastle,Diop
-Michy Batshuayi,FWD,Chelsea,2.1,0,0,0,0,0.0,126,3,0,0,0.0,0.0,2021-08-14T14:00:00Z,0,0,0,0,0,1,0,14838,0,3,0.0,0,0,0,0,55,True,0,Crystal Palace,Batshuayi
-Rúben Diogo da Silva Neves,MID,Wolves,1.4,0,0,14,0,31.2,436,5,1,0,4.5,12.8,2021-08-14T14:00:00Z,90,0,0,0,0,1,0,107318,0,1,1.0,2,0,0,0,55,False,0,Leicester,Neves
-Mateo Kovacic,MID,Chelsea,1.9,1,0,24,1,28.5,125,3,0,0,5.7,24.6,2021-08-14T14:00:00Z,90,0,0,0,0,1,0,17075,0,3,4.0,6,0,0,0,50,True,0,Crystal Palace,Kovacic
-Conor Gallagher,MID,Crystal Palace,0.0,0,0,0,0,0.0,144,3,0,0,0.0,0.0,2021-08-14T14:00:00Z,0,0,0,0,0,1,0,2134,0,3,0.0,0,0,0,0,55,False,0,Chelsea,Gallagher
-Anthony Martial,FWD,Man Utd,3.0,0,0,5,0,1.2,278,6,0,0,0.4,2.4,2021-08-14T11:30:00Z,15,0,0,0,0,1,0,130051,1,5,0.0,1,0,0,0,80,True,0,Leeds,Martial
-Crysencio Summerville,MID,Leeds,0.5,0,0,0,0,0.0,551,6,0,0,0.0,0.0,2021-08-14T11:30:00Z,0,0,0,0,0,1,0,0,1,5,0.0,0,0,0,0,45,False,0,Man Utd,Summerville
-Rico Henry,DEF,Brentford,0.7,0,0,22,1,1.3,83,1,0,0,1.7,13.2,2021-08-13T19:00:00Z,90,0,0,0,0,1,0,38378,0,2,2.0,6,0,0,0,45,True,0,Arsenal,Henry
-Harry Winks,MID,Spurs,0.5,0,0,0,0,0.0,366,10,0,0,0.0,0.0,2021-08-15T15:30:00Z,0,0,0,0,0,1,0,74300,0,1,0.0,0,0,0,0,45,True,0,Man City,Winks
-Davy Pröpper,MID,Brighton,0.0,0,0,0,0,0.0,57,2,0,0,0.0,0.0,2021-08-14T14:00:00Z,0,0,0,0,0,1,0,107,2,1,0.0,0,0,0,0,45,False,0,Burnley,Pröpper
-Frederik Alves,DEF,West Ham,2.0,0,0,0,0,0.0,521,9,0,0,0.0,0.0,2021-08-15T13:00:00Z,0,0,0,0,0,1,0,34822,4,2,0.0,0,0,0,0,40,False,0,Newcastle,Alves
-Rodrigo Moreno,FWD,Leeds,1.6,0,0,7,0,1.3,187,6,1,0,0.5,3.6,2021-08-14T11:30:00Z,45,0,0,0,0,1,0,112933,1,5,0.0,1,0,0,0,65,False,0,Man Utd,Rodrigo
-Cristian Romero,DEF,Spurs,1.3,0,0,3,0,0.2,494,10,0,0,0.0,0.2,2021-08-15T15:30:00Z,1,0,0,0,0,1,0,22135,0,1,0.0,1,0,0,0,50,True,0,Man City,Romero
-Callum Wilson,FWD,Newcastle,1.4,0,0,26,0,1.1,296,9,4,1,10.4,33.0,2021-08-15T13:00:00Z,84,0,0,0,0,1,0,484010,4,2,70.0,6,0,0,0,75,True,0,West Ham,Wilson
-Joel Matip,DEF,Liverpool,3.2,0,0,25,1,3.8,224,7,0,0,3.3,7.0,2021-08-14T16:30:00Z,90,0,0,0,0,1,0,25704,3,0,22.0,6,0,0,0,50,False,0,Norwich,Matip
-Dan Gosling,MID,Watford,0.9,0,0,3,0,0.3,378,8,2,0,0.3,2.6,2021-08-14T14:00:00Z,21,0,0,0,0,1,0,4874,2,3,0.0,1,0,0,0,50,True,0,Aston Villa,Gosling
-Virgil van Dijk,DEF,Liverpool,4.3,0,1,27,1,17.6,229,7,0,0,3.9,15.6,2021-08-14T16:30:00Z,90,0,0,0,0,1,0,736976,3,0,6.0,7,0,0,0,65,False,0,Norwich,van Dijk
-Ben Wilmot,DEF,Watford,0.0,0,0,0,0,0.0,401,8,0,0,0.0,0.0,2021-08-14T14:00:00Z,0,0,0,0,0,1,0,64,2,3,0.0,0,0,0,0,45,True,0,Aston Villa,Wilmot
-Saïd Benrahma,MID,West Ham,3.1,1,2,39,0,15.0,419,9,2,1,12.8,52.6,2021-08-15T13:00:00Z,87,0,0,0,0,1,0,420297,4,2,60.0,12,0,0,0,60,False,0,Newcastle,Benrahma
-Max Aarons,DEF,Norwich,0.7,0,0,15,0,12.4,326,7,3,0,4.3,29.4,2021-08-14T16:30:00Z,90,0,0,0,0,1,0,156882,3,0,1.0,1,0,0,0,45,True,0,Liverpool,Aarons
-Demarai Gray,MID,Everton,1.9,0,0,10,0,16.8,484,4,1,0,3.0,10.8,2021-08-14T14:00:00Z,82,0,0,0,0,1,0,27308,1,3,2.0,2,0,0,0,55,True,0,Southampton,Gray
-Antonio Rüdiger,DEF,Chelsea,3.1,0,0,22,1,3.4,127,3,0,0,1.8,14.6,2021-08-14T14:00:00Z,90,0,0,0,0,1,0,446404,0,3,0.0,6,0,0,0,55,True,0,Crystal Palace,Rüdiger
-Philip Zinckernagel,MID,Watford,0.0,0,0,0,0,0.0,392,8,0,0,0.0,0.0,2021-08-14T14:00:00Z,0,0,0,0,0,1,0,744,2,3,0.0,0,0,0,0,55,True,0,Aston Villa,Zinckernagel
-Dean Henderson,GK,Man Utd,0.8,0,0,0,0,0.0,280,6,0,0,0.0,0.0,2021-08-14T11:30:00Z,0,0,0,0,0,1,0,117077,1,5,0.0,0,0,0,0,50,True,0,Leeds,Henderson
-Jamaal Lascelles,DEF,Newcastle,0.7,0,0,0,0,0.0,299,9,0,0,0.0,0.0,2021-08-15T13:00:00Z,0,0,0,0,0,1,0,27048,4,2,0.0,0,0,0,0,45,True,0,West Ham,Lascelles
-Darren Randolph,GK,West Ham,2.8,0,0,0,0,0.0,407,9,0,0,0.0,0.0,2021-08-15T13:00:00Z,0,0,0,0,0,1,0,11617,4,2,0.0,0,0,0,0,45,False,0,Newcastle,Randolph
-Mads Bech Sørensen,DEF,Brentford,0.7,0,0,3,0,0.0,90,1,0,0,0.0,0.0,2021-08-13T19:00:00Z,19,0,0,0,0,1,0,8201,0,2,0.0,1,0,0,0,45,True,0,Arsenal,Sørensen
-Malang Sarr,DEF,Chelsea,2.7,0,0,0,0,0.0,501,3,0,0,0.0,0.0,2021-08-14T14:00:00Z,0,0,0,0,0,1,0,3636,0,3,0.0,0,0,0,0,50,True,0,Crystal Palace,Sarr
-Douglas Luiz Soares de Paulo,MID,Aston Villa,0.0,0,0,0,0,0.0,50,8,0,0,0.0,0.0,2021-08-14T14:00:00Z,0,0,0,0,0,1,0,72328,2,3,0.0,0,0,0,0,45,False,0,Watford,Douglas Luiz
-Sergi Canós,MID,Brentford,0.9,0,3,33,1,14.8,81,1,0,1,11.0,60.2,2021-08-13T19:00:00Z,90,0,0,0,0,1,0,15606,0,2,35.0,11,0,0,0,55,True,0,Arsenal,Canós
-Przemyslaw Placheta,MID,Norwich,0.0,0,0,0,0,0.0,328,7,0,0,0.0,0.0,2021-08-14T16:30:00Z,0,0,0,0,0,1,0,1551,3,0,0.0,0,0,0,0,50,True,0,Liverpool,Placheta
-Patson Daka,FWD,Leicester,2.9,0,0,0,0,0.0,455,5,0,0,0.0,0.0,2021-08-14T14:00:00Z,0,0,0,0,0,1,0,105111,0,1,0.0,0,0,0,0,75,True,0,Wolves,Daka
-Stuart Armstrong,MID,Southampton,2.1,0,0,0,0,0.0,339,4,0,0,0.0,0.0,2021-08-14T14:00:00Z,0,0,0,0,0,1,0,29374,1,3,0.0,0,0,0,0,60,False,0,Everton,S.Armstrong
-Ismaila Sarr,MID,Watford,1.6,0,2,30,0,46.1,399,8,2,1,13.9,48.4,2021-08-14T14:00:00Z,90,0,0,0,0,1,0,192715,2,3,44.0,9,0,0,0,60,True,0,Aston Villa,Sarr
-Owen Otasowie,MID,Wolves,0.5,0,0,0,0,0.0,442,5,0,0,0.0,0.0,2021-08-14T14:00:00Z,0,0,0,0,0,1,0,20548,0,1,0.0,0,0,0,0,45,False,0,Leicester,Otasowie
-Reece Hannam,DEF,Crystal Palace,0.5,0,0,0,0,0.0,540,3,0,0,0.0,0.0,2021-08-14T14:00:00Z,0,0,0,0,0,1,0,0,0,3,0.0,0,0,0,0,40,False,0,Chelsea,Hannam
-Martin Dubravka,GK,Newcastle,0.0,0,0,0,0,0.0,295,9,0,0,0.0,0.0,2021-08-15T13:00:00Z,0,0,0,0,0,1,0,12762,4,2,0.0,0,0,0,0,45,True,0,West Ham,Dubravka
-Nathaniel Clyne,DEF,Crystal Palace,1.2,0,0,0,0,0.0,493,3,0,0,0.0,0.0,2021-08-14T14:00:00Z,0,0,0,0,0,1,0,7285,0,3,0.0,0,0,0,0,45,False,0,Chelsea,Clyne
-Lukasz Fabianski,GK,West Ham,3.6,0,0,10,0,0.0,408,9,2,0,1.3,13.2,2021-08-15T13:00:00Z,90,0,0,0,0,1,1,145096,4,2,0.0,1,0,0,0,50,False,0,Newcastle,Fabianski
-Gylfi Sigurdsson,MID,Everton,2.4,0,0,0,0,0.0,164,4,0,0,0.0,0.0,2021-08-14T14:00:00Z,0,0,0,0,0,1,0,144120,1,3,0.0,0,0,0,0,70,True,0,Southampton,Sigurdsson
-Yerry Mina,DEF,Everton,2.2,0,0,3,0,0.0,175,4,0,0,0.2,2.0,2021-08-14T14:00:00Z,7,0,0,0,0,1,0,41893,1,3,0.0,1,0,0,0,50,True,0,Southampton,Mina
-Nathan Collins,DEF,Burnley,1.2,0,0,0,0,0.0,451,2,0,0,0.0,0.0,2021-08-14T14:00:00Z,0,0,0,0,0,1,0,7002,2,1,0.0,0,0,0,0,45,True,0,Brighton,Collins
-Mattéo Guendouzi,MID,Arsenal,0.0,0,0,0,0,0.0,25,1,0,0,0.0,0.0,2021-08-13T19:00:00Z,0,0,0,0,0,1,0,221,0,2,0.0,0,0,0,0,45,False,0,Brentford,Guendouzi
-Shandon Baptiste,MID,Brentford,0.4,0,0,0,0,0.0,499,1,0,0,0.0,0.0,2021-08-13T19:00:00Z,0,0,0,0,0,1,0,2794,0,2,0.0,0,0,0,0,50,True,0,Arsenal,Baptiste
-James Justin,DEF,Leicester,0.0,0,0,0,0,0.0,218,5,0,0,0.0,0.0,2021-08-14T14:00:00Z,0,0,0,0,0,1,0,2893,0,1,0.0,0,0,0,0,50,True,0,Wolves,Justin
-Conor Coventry,MID,West Ham,2.0,0,0,0,0,0.0,522,9,0,0,0.0,0.0,2021-08-15T13:00:00Z,0,0,0,0,0,1,0,6773,4,2,0.0,0,0,0,0,45,False,0,Newcastle,Coventry
-Grant Hanley,DEF,Norwich,0.7,0,0,20,0,10.1,319,7,3,0,7.0,25.6,2021-08-14T16:30:00Z,90,0,0,0,0,1,0,12650,3,0,34.0,1,0,0,0,45,True,0,Liverpool,Hanley
-Emiliano Martínez,GK,Aston Villa,3.8,0,0,18,0,0.0,30,8,3,0,2.8,28.2,2021-08-14T14:00:00Z,90,0,0,0,0,1,4,2386407,2,3,0.0,2,0,0,0,55,False,0,Watford,Martínez
-Oriol Romeu Vidal,MID,Southampton,1.0,0,0,12,0,6.3,335,4,2,0,2.2,7.4,2021-08-14T14:00:00Z,79,0,0,0,0,1,0,37248,1,3,8.0,2,0,0,0,45,False,0,Everton,Romeu
-Emil Krafth,DEF,Newcastle,0.7,0,0,10,0,1.3,303,9,4,0,1.5,9.4,2021-08-15T13:00:00Z,84,0,0,0,0,1,0,4670,4,2,4.0,0,0,0,0,45,True,0,West Ham,Krafth
-Christian Pulisic,MID,Chelsea,3.2,0,0,21,1,3.4,137,3,0,1,8.2,36.8,2021-08-14T14:00:00Z,81,0,0,0,0,1,0,94495,0,3,42.0,8,0,0,0,80,True,0,Crystal Palace,Pulisic
-Jarosław Jach,DEF,Crystal Palace,1.2,0,0,0,0,0.0,158,3,0,0,0.0,0.0,2021-08-14T14:00:00Z,0,0,0,0,0,1,0,3499,0,3,0.0,0,0,0,0,45,False,0,Chelsea,Jach
-Tom Cleverley,MID,Watford,0.9,1,0,17,0,12.0,381,8,1,0,3.7,22.8,2021-08-14T14:00:00Z,78,0,0,0,0,1,0,6655,2,3,2.0,5,0,0,0,50,True,0,Aston Villa,Cleverley
-Çaglar Söyüncü,DEF,Leicester,2.7,0,0,23,1,0.3,217,5,0,0,2.4,23.8,2021-08-14T14:00:00Z,90,0,0,0,0,1,0,184568,0,1,0.0,6,0,0,0,50,True,0,Wolves,Söyüncü
-John Stones,DEF,Man City,3.1,0,0,0,0,0.0,252,10,0,0,0.0,0.0,2021-08-15T15:30:00Z,0,0,0,0,0,1,0,778503,0,1,0.0,0,0,0,0,55,False,0,Spurs,Stones
-Pedro Lomba Neto,MID,Wolves,0.0,0,0,0,0,0.0,441,5,0,0,0.0,0.0,2021-08-14T14:00:00Z,0,0,0,0,0,1,0,2873,0,1,0.0,0,0,0,0,65,False,0,Leicester,Neto
-Danny Ings,FWD,Aston Villa,3.0,0,1,29,0,0.9,337,8,3,1,6.0,34.2,2021-08-14T14:00:00Z,90,0,0,0,0,1,0,2574177,2,3,25.0,7,0,0,0,80,False,0,Watford,Ings
-Gabriel Fernando de Jesus,FWD,Man City,3.2,0,0,4,0,13.6,263,10,0,0,1.6,2.4,2021-08-15T15:30:00Z,20,0,0,0,0,1,0,208816,0,1,0.0,1,0,0,0,85,False,0,Spurs,Jesus
-Scott McTominay,MID,Man Utd,2.4,0,0,14,0,12.4,285,6,1,0,4.8,15.6,2021-08-14T11:30:00Z,68,0,0,0,0,1,0,36489,1,5,20.0,2,0,0,0,55,True,0,Leeds,McTominay
-Pablo Marí,DEF,Arsenal,2.7,0,0,14,0,1.3,8,1,2,0,2.5,16.6,2021-08-13T19:00:00Z,90,0,0,0,0,1,0,9359,0,2,7.0,1,0,0,0,45,False,0,Brentford,Marí
-Taylor Richards,MID,Brighton,1.5,0,0,0,0,0.0,537,2,0,0,0.0,0.0,2021-08-14T14:00:00Z,0,0,0,0,0,1,0,0,2,1,0.0,0,0,0,0,45,False,0,Burnley,Richards
-Florin Andone,FWD,Brighton,1.8,0,0,0,0,0.0,500,2,0,0,0.0,0.0,2021-08-14T14:00:00Z,0,0,0,0,0,1,0,12723,2,1,0.0,0,0,0,0,50,False,0,Burnley,Andone
-Dominic Calvert-Lewin,FWD,Everton,2.5,0,1,26,0,2.3,177,4,1,1,12.0,34.2,2021-08-14T14:00:00Z,90,0,0,0,0,1,0,686033,1,3,83.0,7,0,0,0,80,True,0,Southampton,Calvert-Lewin
-Kalvin Phillips,MID,Leeds,0.9,0,0,0,0,0.0,191,6,0,0,0.0,0.0,2021-08-14T11:30:00Z,0,0,0,0,0,1,0,161941,1,5,0.0,0,0,0,0,50,False,0,Man Utd,Phillips
-Oliver Skipp,MID,Spurs,0.5,0,0,11,1,0.8,373,10,0,0,1.7,16.2,2021-08-15T15:30:00Z,90,0,0,0,0,1,0,17425,0,1,0.0,3,0,0,0,45,True,0,Man City,Skipp
-Ollie Watkins,FWD,Aston Villa,2.2,0,0,0,0,0.0,40,8,0,0,0.0,0.0,2021-08-14T14:00:00Z,0,0,0,0,0,1,0,312088,2,3,0.0,0,0,0,0,75,False,0,Watford,Watkins
-Ethan Pinnock,DEF,Brentford,0.7,1,2,32,1,11.1,91,1,0,0,4.8,36.8,2021-08-13T19:00:00Z,90,0,0,0,0,1,0,13971,0,2,0.0,11,0,0,0,45,True,0,Arsenal,Pinnock
-Vitaly Janelt,MID,Brentford,0.4,0,0,6,1,1.4,84,1,0,0,1.0,6.2,2021-08-13T19:00:00Z,90,0,0,0,0,1,0,3003,0,2,2.0,3,0,0,0,50,True,0,Arsenal,Janelt
-Davinson Sánchez,DEF,Spurs,1.2,0,0,21,1,0.3,367,10,0,0,2.5,18.8,2021-08-15T15:30:00Z,90,0,0,0,0,1,0,37061,0,1,6.0,5,0,0,0,45,True,1,Man City,Sánchez
-Mark Gillespie,GK,Newcastle,0.0,0,0,0,0,0.0,514,9,0,0,0.0,0.0,2021-08-15T13:00:00Z,0,0,0,0,0,1,0,12284,4,2,0.0,0,0,0,0,40,True,0,West Ham,Gillespie
-Bryan Mbeumo,MID,Brentford,0.9,0,0,4,1,13.3,96,1,0,0,3.8,2.4,2021-08-13T19:00:00Z,85,0,0,0,0,1,0,73833,0,2,22.0,3,0,0,0,55,True,0,Arsenal,Mbeumo
-Abdoulaye Doucouré,MID,Everton,1.9,0,2,31,0,4.6,173,4,1,1,8.3,41.8,2021-08-14T14:00:00Z,90,0,0,0,0,1,0,19357,1,3,37.0,8,0,0,0,55,True,1,Southampton,Doucouré
-Tim Krul,GK,Norwich,0.8,0,0,15,0,0.0,314,7,3,0,3.1,30.8,2021-08-14T16:30:00Z,90,0,0,0,0,1,3,99090,3,0,0.0,2,0,0,0,45,True,0,Liverpool,Krul
-Jacob Sørensen,DEF,Norwich,0.7,0,0,0,0,0.0,327,7,0,0,0.0,0.0,2021-08-14T16:30:00Z,0,0,0,0,0,1,0,5315,3,0,0.0,0,0,0,0,45,True,0,Liverpool,Sørensen
-Jamal Lewis,DEF,Newcastle,0.7,0,0,0,0,0.0,311,9,0,0,0.0,0.0,2021-08-15T13:00:00Z,0,0,0,0,0,1,0,11767,4,2,0.0,0,0,0,0,45,True,0,West Ham,Lewis
-Rodrigo Hernandez,MID,Man City,2.4,0,0,0,0,0.0,266,10,0,0,0.0,0.0,2021-08-15T15:30:00Z,0,0,0,0,0,1,0,28016,0,1,0.0,0,0,0,0,55,False,0,Spurs,Rodrigo
-Winston Reid,DEF,West Ham,2.0,0,0,0,0,0.0,410,9,0,0,0.0,0.0,2021-08-15T13:00:00Z,0,0,0,0,0,1,0,125953,4,2,0.0,0,0,0,0,40,False,0,Newcastle,Reid
-Axel Tuanzebe,DEF,Aston Villa,2.2,0,0,0,0,0.0,283,8,0,0,0.0,0.0,2021-08-14T14:00:00Z,0,0,0,0,0,1,0,52507,2,3,0.0,0,0,0,0,45,False,0,Watford,Tuanzebe
-Hakim Ziyech,MID,Chelsea,0.0,0,0,0,0,0.0,131,3,0,0,0.0,0.0,2021-08-14T14:00:00Z,0,0,0,0,0,1,0,37887,0,3,0.0,0,0,0,0,75,True,0,Crystal Palace,Ziyech
-Patrick Bamford,FWD,Leeds,2.0,0,0,0,0,10.8,189,6,5,0,1.8,0.0,2021-08-14T11:30:00Z,76,0,0,0,0,1,0,1258401,1,5,8.0,2,0,0,0,80,False,0,Man Utd,Bamford
-William Saliba,DEF,Arsenal,0.0,0,0,0,0,0.0,27,1,0,0,0.0,0.0,2021-08-13T19:00:00Z,0,0,0,0,0,1,0,385,0,2,0.0,0,0,0,0,45,False,0,Brentford,Saliba
-Marc Albrighton,MID,Leicester,2.4,0,0,0,0,0.0,202,5,0,0,0.0,0.0,2021-08-14T14:00:00Z,0,0,0,0,0,1,0,14368,0,1,0.0,0,0,0,0,55,True,0,Wolves,Albrighton
-Kevin Long,DEF,Burnley,0.0,0,0,0,0,0.0,103,2,0,0,0.0,0.0,2021-08-14T14:00:00Z,0,0,0,0,0,1,0,12414,2,1,0.0,0,0,0,0,40,True,0,Brighton,Long
-Jamie Vardy,FWD,Leicester,3.9,0,0,23,1,24.7,205,5,0,1,12.1,37.2,2021-08-14T14:00:00Z,90,0,0,0,0,1,0,1032316,0,1,59.0,5,0,0,0,105,True,1,Wolves,Vardy
-Alisson Ramses Becker,GK,Liverpool,5.0,0,0,26,1,0.0,231,7,0,0,2.9,29.4,2021-08-14T16:30:00Z,90,0,0,0,0,1,3,382936,3,0,0.0,7,0,0,0,60,False,0,Norwich,Alisson
-Emiliano Buendía Stati,MID,Aston Villa,2.8,0,0,6,0,5.3,43,8,3,0,2.0,4.2,2021-08-14T14:00:00Z,71,0,0,0,0,1,0,386824,2,3,10.0,2,0,0,0,65,False,0,Watford,Buendía
-Miguel Almirón,MID,Newcastle,0.9,0,0,12,0,13.8,308,9,4,0,4.2,10.0,2021-08-15T13:00:00Z,90,0,0,0,0,1,0,34866,4,2,18.0,2,0,0,0,55,True,0,West Ham,Almirón
-Pablo Fornals,MID,West Ham,3.1,1,0,24,0,48.9,423,9,2,0,11.1,37.6,2021-08-15T13:00:00Z,90,0,0,0,0,1,0,27855,4,2,24.0,5,0,0,0,60,False,0,Newcastle,Fornals
-Moisés Caicedo,MID,Brighton,1.5,0,0,0,0,0.0,538,2,0,0,0.0,0.0,2021-08-14T14:00:00Z,0,0,0,0,0,1,0,0,2,1,0.0,0,0,0,0,45,False,0,Burnley,Caicedo
-Andros Townsend,MID,Everton,1.9,1,0,21,0,40.5,482,4,1,0,7.1,30.8,2021-08-14T14:00:00Z,69,0,0,0,0,1,0,47331,1,3,0.0,5,0,0,0,55,True,0,Southampton,Townsend
-Jonjo Shelvey,MID,Newcastle,0.9,0,0,7,0,14.4,291,9,4,0,1.8,3.6,2021-08-15T13:00:00Z,69,0,0,0,0,1,0,9252,4,2,0.0,1,0,0,0,55,True,1,West Ham,Shelvey
-Matt Doherty,DEF,Spurs,1.7,0,0,4,0,0.3,360,10,0,0,0.3,3.0,2021-08-15T15:30:00Z,7,0,0,0,0,1,0,50765,0,1,0.0,1,0,0,0,50,True,0,Man City,Doherty
-Jean-Philippe Gbamin,MID,Everton,1.0,0,0,0,0,0.0,504,4,0,0,0.0,0.0,2021-08-14T14:00:00Z,0,0,0,0,0,1,0,2036,1,3,0.0,0,0,0,0,45,True,0,Southampton,Gbamin
-Yan Valery,DEF,Southampton,1.0,0,0,0,0,0.0,546,4,0,0,0.0,0.0,2021-08-14T14:00:00Z,0,0,0,0,0,1,0,0,1,3,0.0,0,0,0,0,40,False,0,Everton,Valery
-Charlie Goode,DEF,Brentford,0.0,0,0,0,0,0.0,87,1,0,0,0.0,0.0,2021-08-13T19:00:00Z,0,0,0,0,0,1,0,90851,0,2,0.0,0,0,0,0,40,True,0,Arsenal,Goode
-Marcos Alonso,DEF,Chelsea,3.1,0,3,46,1,35.5,122,3,0,1,12.1,56.0,2021-08-14T14:00:00Z,85,0,0,0,0,1,0,101537,0,3,29.0,15,0,0,0,55,True,0,Crystal Palace,Alonso
-Pelenda Joshua Dasilva,MID,Brentford,0.0,0,0,0,0,0.0,82,1,0,0,0.0,0.0,2021-08-13T19:00:00Z,0,0,0,0,0,1,0,1911,0,2,0.0,0,0,0,0,55,True,0,Arsenal,Dasilva
-Allan Marques Loureiro,MID,Everton,1.0,0,0,6,0,2.0,171,4,1,0,2.0,11.4,2021-08-14T14:00:00Z,90,0,0,0,0,1,0,78248,1,3,7.0,2,0,0,0,45,True,0,Southampton,Allan
-Oleksandr Zinchenko,DEF,Man City,3.1,0,0,3,0,0.6,264,10,0,0,0.3,2.8,2021-08-15T15:30:00Z,11,0,0,0,0,1,0,104388,0,1,0.0,1,0,0,0,55,False,0,Spurs,Zinchenko
-Nathaniel Phillips,DEF,Liverpool,2.7,0,0,0,0,0.0,241,7,0,0,0.0,0.0,2021-08-14T16:30:00Z,0,0,0,0,0,1,0,23686,3,0,0.0,0,0,0,0,45,False,0,Norwich,Phillips
-Adam Armstrong,FWD,Southampton,1.8,0,0,24,0,1.0,525,4,3,1,7.4,33.2,2021-08-14T14:00:00Z,90,0,0,0,0,1,0,65676,1,3,40.0,6,0,0,0,60,False,0,Everton,A.Armstrong
-Joshua Sargent,FWD,Norwich,0.6,0,0,5,0,0.3,516,7,0,0,0.7,2.4,2021-08-14T16:30:00Z,13,0,0,0,0,1,0,8779,3,0,4.0,1,0,0,0,55,True,0,Liverpool,Sargent
-Phil Bardsley,DEF,Burnley,0.5,0,0,0,0,0.0,99,2,0,0,0.0,0.0,2021-08-14T14:00:00Z,0,0,0,0,0,1,0,56223,2,1,0.0,0,0,0,0,40,True,0,Brighton,Bardsley
-James Milner,MID,Liverpool,2.4,0,0,10,1,18.8,221,7,0,0,4.0,21.0,2021-08-14T16:30:00Z,90,0,0,0,0,1,0,6425,3,0,0.0,2,0,0,0,50,False,1,Norwich,Milner
-Jed Steer,GK,Aston Villa,1.5,0,0,0,0,0.0,28,8,0,0,0.0,0.0,2021-08-14T14:00:00Z,0,0,0,0,0,1,0,71768,2,3,0.0,0,0,0,0,40,False,0,Watford,Steer
-Mark Noble,MID,West Ham,2.0,0,0,0,0,0.0,406,9,0,0,0.0,0.0,2021-08-15T13:00:00Z,0,0,0,0,0,1,0,44904,4,2,0.0,0,0,0,0,45,False,0,Newcastle,Noble
-Pierre-Emerick Aubameyang,FWD,Arsenal,1.1,0,0,0,0,0.0,4,1,0,0,0.0,0.0,2021-08-13T19:00:00Z,0,0,0,0,0,1,0,200068,0,2,0.0,0,0,0,0,100,False,0,Brentford,Aubameyang
-José Malheiro de Sá,GK,Wolves,2.1,0,0,17,0,0.0,475,5,1,0,2.6,26.2,2021-08-14T14:00:00Z,90,0,0,0,0,1,4,23035,0,1,0.0,3,0,0,0,50,False,0,Leicester,Sá
-Fraser Forster,GK,Southampton,1.8,0,0,0,0,0.0,333,4,0,0,0.0,0.0,2021-08-14T14:00:00Z,0,0,0,0,0,1,0,81382,1,3,0.0,0,0,0,0,45,False,0,Everton,Forster
-Matthew Cash,DEF,Aston Villa,2.7,0,0,21,0,13.7,44,8,3,0,3.0,14.8,2021-08-14T14:00:00Z,90,0,0,0,0,1,0,126813,2,3,1.0,1,0,0,0,50,False,0,Watford,Cash
-Allan Saint-Maximin,FWD,Newcastle,1.1,1,1,34,0,48.3,307,9,4,0,9.8,39.6,2021-08-15T13:00:00Z,90,0,0,0,0,1,0,293340,4,2,10.0,6,0,0,0,65,True,0,West Ham,Saint-Maximin
-Jarrad Branthwaite,DEF,Everton,1.0,0,0,0,0,0.0,544,4,0,0,0.0,0.0,2021-08-14T14:00:00Z,0,0,0,0,0,1,0,0,1,3,0.0,0,0,0,0,40,True,0,Southampton,Branthwaite
-Joel Ward,DEF,Crystal Palace,1.2,0,0,15,0,1.3,474,3,3,0,2.5,23.8,2021-08-14T14:00:00Z,90,0,0,0,0,1,0,15214,0,3,0.0,1,0,0,0,45,False,0,Chelsea,Ward
-Milot Rashica,MID,Norwich,0.9,0,0,5,0,29.2,449,7,3,0,3.9,3.4,2021-08-14T16:30:00Z,76,0,0,0,0,1,0,14489,3,0,6.0,2,0,0,0,55,True,0,Liverpool,Rashica
-Vladimir Coufal,DEF,West Ham,3.2,0,0,18,0,23.9,418,9,2,0,5.0,20.4,2021-08-15T13:00:00Z,90,0,0,0,0,1,0,932002,4,2,6.0,1,0,0,0,50,False,0,Newcastle,Coufal
-Fabian Delph,MID,Everton,1.0,0,0,0,0,0.0,163,4,0,0,0.0,0.0,2021-08-14T14:00:00Z,0,0,0,0,0,1,0,12377,1,3,0.0,0,0,0,0,45,True,0,Southampton,Delph
-Ben Johnson,DEF,West Ham,2.0,0,0,4,0,0.1,425,9,0,0,0.1,1.0,2021-08-15T13:00:00Z,1,0,0,0,0,1,0,169647,4,2,0.0,1,0,0,0,40,False,0,Newcastle,Johnson
-Emile Smith Rowe,MID,Arsenal,2.9,0,0,13,0,35.3,21,1,2,0,7.3,13.0,2021-08-13T19:00:00Z,90,0,0,0,0,1,0,497578,0,2,25.0,2,0,0,0,55,False,0,Brentford,Smith Rowe
-Toby Alderweireld,DEF,Spurs,0.0,0,0,0,0,0.0,355,10,0,0,0.0,0.0,2021-08-15T15:30:00Z,0,0,0,0,0,1,0,3820,0,1,0.0,0,0,0,0,50,True,0,Man City,Alderweireld
-Joelinton Cássio Apolinário de Lira,FWD,Newcastle,0.8,0,0,3,0,0.8,310,9,0,0,0.1,0.0,2021-08-15T13:00:00Z,5,0,0,0,0,1,0,44613,4,2,0.0,1,0,0,0,60,True,0,West Ham,Joelinton
-Karl Darlow,GK,Newcastle,0.2,0,0,0,0,0.0,294,9,0,0,0.0,0.0,2021-08-15T13:00:00Z,0,0,0,0,0,1,0,53679,4,2,0.0,0,0,0,0,45,True,0,West Ham,Darlow
-Kiernan Dewsbury-Hall,MID,Leicester,1.5,0,0,0,0,0.0,505,5,0,0,0.0,0.0,2021-08-14T14:00:00Z,0,0,0,0,0,1,0,2531,0,1,0.0,0,0,0,0,45,True,0,Wolves,Dewsbury-Hall
-Christian Benteke,FWD,Crystal Palace,1.6,0,0,1,0,0.3,149,3,1,0,0.1,0.0,2021-08-14T14:00:00Z,33,0,0,0,0,1,0,96513,0,3,4.0,1,0,0,0,65,False,0,Chelsea,Benteke
-Riyad Mahrez,MID,Man City,3.5,0,0,9,0,22.1,254,10,1,0,4.7,6.4,2021-08-15T15:30:00Z,78,0,0,0,0,1,0,533583,0,1,18.0,2,0,0,0,90,False,0,Spurs,Mahrez
-Bamidele Alli,MID,Spurs,1.8,0,0,6,1,2.2,363,10,0,0,1.5,12.4,2021-08-15T15:30:00Z,90,0,0,0,0,1,0,84222,0,1,0.0,3,0,0,0,65,True,0,Man City,Dele
-Frank Onyeka,MID,Brentford,0.4,0,0,9,1,15.5,479,1,0,0,2.5,5.4,2021-08-13T19:00:00Z,79,0,0,0,0,1,0,4896,0,2,4.0,3,0,0,0,50,True,0,Arsenal,Onyeka
-Jay Rodriguez,FWD,Burnley,1.1,0,0,10,1,2.5,104,2,0,0,2.6,6.6,2021-08-14T14:00:00Z,69,0,0,0,0,1,0,58733,2,1,17.0,2,0,0,0,55,True,0,Brighton,Rodriguez
-Ellery Balcombe,GK,Brentford,0.0,0,0,0,0,0.0,92,1,0,0,0.0,0.0,2021-08-13T19:00:00Z,0,0,0,0,0,1,0,1347,0,2,0.0,0,0,0,0,40,True,0,Arsenal,Balcombe
-Marco Stiepermann,MID,Norwich,0.0,0,0,0,0,0.0,316,7,0,0,0.0,0.0,2021-08-14T16:30:00Z,0,0,0,0,0,1,0,77,3,0,0.0,0,0,0,0,50,True,0,Liverpool,Stiepermann
-Tino Livramento,DEF,Southampton,1.0,0,0,12,0,10.2,491,4,3,0,3.5,23.0,2021-08-14T14:00:00Z,90,0,0,0,0,1,0,114247,1,3,2.0,1,0,0,0,40,False,0,Everton,Livramento
-Joe Hart,GK,Spurs,0.0,0,0,0,0,0.0,352,10,0,0,0.0,0.0,2021-08-15T15:30:00Z,0,0,0,0,0,1,0,3224,0,1,0.0,0,0,0,0,45,True,0,Man City,Hart
-Ashley Westwood,MID,Burnley,1.4,1,2,27,0,32.4,107,2,2,0,6.0,27.8,2021-08-14T14:00:00Z,90,0,0,0,0,1,0,46788,2,1,0.0,7,0,0,0,55,True,0,Brighton,Westwood
-Charlie Taylor,DEF,Burnley,1.2,0,0,13,0,15.6,113,2,2,0,3.2,14.4,2021-08-14T14:00:00Z,90,0,0,0,0,1,0,41905,2,1,2.0,1,0,0,0,45,True,0,Brighton,Taylor
-Mads Bidstrup,MID,Brentford,0.0,0,0,4,0,0.3,97,1,0,0,0.5,4.2,2021-08-13T19:00:00Z,10,0,0,0,0,1,0,4979,0,2,0.0,1,0,0,0,45,True,0,Arsenal,Bidstrup
-Mason Holgate,DEF,Everton,1.7,0,0,13,0,0.2,178,4,1,0,2.0,19.6,2021-08-14T14:00:00Z,90,0,0,0,0,1,0,54382,1,3,0.0,2,0,0,0,45,True,0,Southampton,Holgate
-Jack Stephens,DEF,Southampton,1.7,0,0,6,0,0.5,338,4,3,0,1.3,10.0,2021-08-14T14:00:00Z,90,0,0,0,0,1,0,7152,1,3,2.0,1,0,0,0,45,False,0,Everton,Stephens
-Anthony Gordon,MID,Everton,1.0,0,0,2,0,0.5,503,4,0,0,0.1,0.0,2021-08-14T14:00:00Z,1,0,0,0,0,1,0,2025,1,3,0.0,1,0,0,0,45,True,0,Southampton,Gordon
-Chris Wood,FWD,Burnley,1.7,0,0,3,0,12.0,109,2,2,0,4.1,3.8,2021-08-14T14:00:00Z,90,0,0,0,0,1,0,220337,2,1,25.0,2,0,0,0,70,True,0,Brighton,Wood
-Nélson Cabral Semedo,DEF,Wolves,1.7,0,0,0,0,0.0,437,5,0,0,0.0,0.0,2021-08-14T14:00:00Z,0,0,0,0,0,1,0,117436,0,1,0.0,0,0,0,0,50,False,0,Leicester,Semedo
-Scott Banks,MID,Crystal Palace,0.5,0,0,0,0,0.0,543,3,0,0,0.0,0.0,2021-08-14T14:00:00Z,0,0,0,0,0,1,0,0,0,3,0.0,0,0,0,0,45,False,0,Chelsea,Banks
-Romain Saïss,DEF,Wolves,1.7,0,0,15,0,11.5,431,5,1,0,3.3,17.6,2021-08-14T14:00:00Z,90,0,0,0,0,1,0,40940,0,1,4.0,2,0,0,0,50,False,0,Leicester,Saïss
-Ben Gibson,DEF,Norwich,0.7,0,0,15,0,0.6,456,7,3,0,8.4,32.4,2021-08-14T16:30:00Z,90,0,0,0,0,1,0,6190,3,0,51.0,1,0,0,0,45,True,0,Liverpool,Gibson
-Oghenekaro Peter Etebo,MID,Watford,0.5,0,0,16,0,11.6,467,8,2,0,3.0,18.0,2021-08-14T14:00:00Z,90,0,0,0,0,1,0,12764,2,3,0.0,1,0,0,0,45,True,1,Aston Villa,Etebo
-Alphonse Areola,GK,West Ham,3.6,0,0,0,0,0.0,489,9,0,0,0.0,0.0,2021-08-15T13:00:00Z,0,0,0,0,0,1,0,86830,4,2,0.0,0,0,0,0,50,False,0,Newcastle,Areola
-Jordan Ayew,FWD,Crystal Palace,1.3,0,0,0,0,11.9,153,3,3,0,4.6,14.8,2021-08-14T14:00:00Z,90,0,0,0,0,1,0,48838,0,3,19.0,2,0,0,0,60,False,0,Chelsea,Ayew
-Fernando Marçal,DEF,Wolves,1.2,0,0,10,0,24.6,432,5,1,0,4.0,13.2,2021-08-14T14:00:00Z,90,0,0,0,0,1,0,5788,0,1,2.0,1,0,0,0,45,False,1,Leicester,Marçal
-Alex Nicolao Telles,DEF,Man Utd,0.0,0,0,0,0,0.0,279,6,0,0,0.0,0.0,2021-08-14T11:30:00Z,0,0,0,0,0,1,0,1436,1,5,0.0,0,0,0,0,50,True,0,Leeds,Telles
-Zack Steffen,GK,Man City,2.3,0,0,0,0,0.0,260,10,0,0,0.0,0.0,2021-08-15T15:30:00Z,0,0,0,0,0,1,0,15690,0,1,0.0,0,0,0,0,45,False,0,Spurs,Steffen
-Lucas Rodrigues Moura da Silva,MID,Spurs,1.8,0,0,9,1,37.6,362,10,0,0,9.7,16.4,2021-08-15T15:30:00Z,90,0,0,0,0,1,0,53342,0,1,43.0,2,0,0,0,65,True,1,Man City,Lucas Moura
-Steven Bergwijn,MID,Spurs,1.6,1,0,13,1,21.9,369,10,0,0,6.8,22.8,2021-08-15T15:30:00Z,76,0,0,0,0,1,0,18514,0,1,23.0,6,0,0,0,60,True,0,Man City,Bergwijn
-Roberto Firmino,FWD,Liverpool,3.9,0,2,30,0,14.2,228,7,0,1,7.3,37.6,2021-08-14T16:30:00Z,29,0,0,0,0,1,0,406171,3,0,21.0,7,0,0,0,90,False,0,Norwich,Firmino
-Callum Hudson-Odoi,MID,Chelsea,2.4,0,0,0,0,0.0,140,3,0,0,0.0,0.0,2021-08-14T14:00:00Z,0,0,0,0,0,1,0,14532,0,3,0.0,0,0,0,0,55,True,0,Crystal Palace,Hudson-Odoi
-Morgan Sanson,MID,Aston Villa,0.0,0,0,0,0,0.0,34,8,0,0,0.0,0.0,2021-08-14T14:00:00Z,0,0,0,0,0,1,0,947,2,3,0.0,0,0,0,0,50,False,0,Watford,Sanson
-Harry Maguire,DEF,Man Utd,3.1,0,0,12,0,0.9,273,6,1,0,1.5,10.0,2021-08-14T11:30:00Z,90,0,0,0,0,1,0,842854,1,5,4.0,2,0,0,0,55,True,0,Leeds,Maguire
-Max Kilman,DEF,Wolves,1.2,0,0,17,0,1.4,439,5,1,0,7.9,24.6,2021-08-14T14:00:00Z,90,0,0,0,0,1,0,11773,0,1,53.0,2,0,0,0,45,False,0,Leicester,Kilman
-Teemu Pukki,FWD,Norwich,0.8,0,0,0,0,2.5,315,7,3,0,2.3,3.6,2021-08-14T16:30:00Z,76,0,0,0,0,1,0,449744,3,0,17.0,2,0,0,0,60,True,0,Liverpool,Pukki
-Mohamed Naser El Sayed Elneny,MID,Arsenal,2.0,0,0,0,0,0.0,12,1,0,0,0.0,0.0,2021-08-13T19:00:00Z,0,0,0,0,0,1,0,44765,0,2,0.0,0,0,0,0,45,False,0,Brentford,Elneny
-William Smallbone,MID,Southampton,0.0,0,0,0,0,0.0,347,4,0,0,0.0,0.0,2021-08-14T14:00:00Z,0,0,0,0,0,1,0,880,1,3,0.0,0,0,0,0,45,False,0,Everton,Smallbone
-Adedapo Awokoya-Mebude,FWD,Watford,0.0,0,0,0,0,0.0,469,8,0,0,0.0,0.0,2021-08-14T14:00:00Z,0,0,0,0,0,1,0,20264,2,3,0.0,0,0,0,0,45,True,0,Aston Villa,Mebude
-Kelechi Iheanacho,FWD,Leicester,2.9,0,0,2,0,3.7,213,5,0,0,1.3,1.4,2021-08-14T14:00:00Z,18,0,0,0,0,1,0,929331,0,1,8.0,1,0,0,0,75,True,0,Wolves,Iheanacho
-Ashley Fletcher,FWD,Watford,0.8,0,0,0,0,0.0,395,8,0,0,0.0,0.0,2021-08-14T14:00:00Z,0,0,0,0,0,1,0,17050,2,3,0.0,0,0,0,0,50,True,0,Aston Villa,Fletcher
-Daniel James,MID,Man Utd,2.6,0,0,3,0,12.8,287,6,1,0,6.4,8.6,2021-08-14T11:30:00Z,74,0,0,0,0,1,0,9452,1,5,43.0,2,0,0,0,60,True,0,Leeds,James
-Lewis Richardson,FWD,Burnley,0.5,0,0,0,0,0.0,533,2,0,0,0.0,0.0,2021-08-14T14:00:00Z,0,0,0,0,0,1,0,0,2,1,0.0,0,0,0,0,45,True,0,Brighton,Richardson
-Kieran Tierney,DEF,Arsenal,3.2,0,0,17,0,87.0,16,1,2,0,15.5,26.8,2021-08-13T19:00:00Z,90,0,0,0,0,1,0,540892,0,2,41.0,1,0,0,0,50,False,0,Brentford,Tierney
-Ben Foster,GK,Watford,0.5,0,0,0,0,0.0,376,8,0,0,0.0,0.0,2021-08-14T14:00:00Z,0,0,0,0,0,1,0,1859663,2,3,0.0,0,0,0,0,40,True,0,Aston Villa,Foster
-Adam Webster,DEF,Brighton,2.2,0,0,11,0,2.8,61,2,1,0,2.6,23.6,2021-08-14T14:00:00Z,90,0,0,0,0,1,0,38441,2,1,0.0,2,0,0,0,45,False,0,Burnley,Webster
-Alex McCarthy,GK,Southampton,1.8,0,0,16,0,0.0,334,4,3,0,2.2,22.0,2021-08-14T14:00:00Z,90,0,0,0,0,1,3,105810,1,3,0.0,2,0,0,0,45,False,0,Everton,McCarthy
-Matthew Pollock,DEF,Watford,0.5,0,0,0,0,0.0,454,8,0,0,0.0,0.0,2021-08-14T14:00:00Z,0,0,0,0,0,1,0,58021,2,3,0.0,0,0,0,0,40,True,0,Aston Villa,Pollock
-Ki-Jana Hoever,DEF,Wolves,0.5,0,0,6,0,16.7,443,5,1,0,3.6,13.6,2021-08-14T14:00:00Z,90,0,0,0,0,1,0,134452,0,1,6.0,1,0,0,0,40,False,1,Leicester,Hoever
-Aaron Wan-Bissaka,DEF,Man Utd,3.1,0,0,8,0,2.3,288,6,1,0,0.9,4.8,2021-08-14T11:30:00Z,90,0,0,0,0,1,0,704348,1,5,2.0,2,0,0,0,55,True,0,Leeds,Wan-Bissaka
-Joël Veltman,DEF,Brighton,2.2,0,0,0,0,0.0,62,2,0,0,0.0,0.0,2021-08-14T14:00:00Z,0,0,0,0,0,1,0,271608,2,1,0.0,0,0,0,0,45,False,0,Burnley,Veltman
-Stuart Dallas,MID,Leeds,1.4,1,0,25,0,13.1,188,6,5,0,4.3,29.6,2021-08-14T11:30:00Z,90,0,0,0,0,1,0,1045606,1,5,0.0,5,0,0,0,55,False,0,Man Utd,Dallas
-Carney Chukwuemeka,MID,Aston Villa,1.5,0,0,0,0,0.0,526,8,0,0,0.0,0.0,2021-08-14T14:00:00Z,0,0,0,0,0,1,0,1933,2,3,0.0,0,0,0,0,45,False,0,Watford,Chukwuemeka
-Ben Godfrey,DEF,Everton,2.2,0,0,0,0,0.0,179,4,0,0,0.0,0.0,2021-08-14T14:00:00Z,0,0,0,0,0,1,0,73737,1,3,0.0,0,0,0,0,50,True,0,Southampton,Godfrey
-Pierre Lees-Melou,MID,Norwich,0.4,0,0,15,0,30.1,471,7,3,0,6.3,29.0,2021-08-14T16:30:00Z,90,0,0,0,0,1,0,4850,3,0,4.0,2,0,0,0,50,True,0,Liverpool,Lees-Melou
-Tyler Roberts,MID,Leeds,0.9,0,0,7,0,14.3,193,6,0,0,2.2,4.4,2021-08-14T11:30:00Z,13,0,0,0,0,1,0,4628,1,5,3.0,1,0,0,0,50,False,0,Man Utd,Roberts
-Andreas Pereira,MID,Man Utd,1.9,0,0,0,0,0.0,511,6,0,0,0.0,0.0,2021-08-14T11:30:00Z,0,0,0,0,0,1,0,1693,1,5,0.0,0,0,0,0,50,True,0,Leeds,Pereira
-Jamie Shackleton,MID,Leeds,0.5,0,0,0,0,0.0,197,6,0,0,0.0,0.0,2021-08-14T11:30:00Z,0,0,0,0,0,1,0,4409,1,5,0.0,0,0,0,0,45,False,0,Man Utd,Shackleton
-Ross Barkley,MID,Chelsea,2.4,0,0,0,0,0.0,124,3,0,0,0.0,0.0,2021-08-14T14:00:00Z,0,0,0,0,0,1,0,9890,0,3,0.0,0,0,0,0,55,True,0,Crystal Palace,Barkley
-Ivan Toney,FWD,Brentford,1.1,0,0,4,1,15.8,78,1,0,0,2.6,6.2,2021-08-13T19:00:00Z,90,0,0,0,0,1,0,2065056,0,2,4.0,2,0,0,0,65,True,0,Arsenal,Toney
-Lewis Dunk,DEF,Brighton,2.7,0,0,14,0,0.7,59,2,1,0,2.0,19.6,2021-08-14T14:00:00Z,90,0,0,0,0,1,0,437885,2,1,0.0,2,0,0,0,50,False,0,Burnley,Dunk
-Jason Steele,GK,Brighton,1.5,0,0,0,0,0.0,54,2,0,0,0.0,0.0,2021-08-14T14:00:00Z,0,0,0,0,0,1,0,177975,2,1,0.0,0,0,0,0,40,False,0,Burnley,Steele
-Cole Palmer,MID,Man City,1.5,0,0,0,0,0.0,507,10,0,0,0.0,0.0,2021-08-15T15:30:00Z,0,0,0,0,0,1,0,2450,0,1,0.0,0,0,0,0,45,False,0,Spurs,Palmer
-James Maddison,MID,Leicester,2.9,0,0,9,1,15.2,212,5,0,0,2.1,4.2,2021-08-14T14:00:00Z,61,0,0,0,0,1,0,833924,0,1,2.0,3,0,0,0,70,True,0,Wolves,Maddison
-Solomon March,MID,Brighton,2.4,0,0,12,0,45.3,60,2,1,0,7.5,18.6,2021-08-14T14:00:00Z,90,0,0,0,0,1,0,6789,2,1,11.0,2,0,0,0,55,False,0,Burnley,March
-Jesurun Rak-Sakyi,MID,Crystal Palace,0.5,0,0,3,0,5.0,541,3,0,0,0.6,1.0,2021-08-14T14:00:00Z,13,0,0,0,0,1,0,0,0,3,0.0,1,0,0,0,45,False,0,Chelsea,Rak-Sakyi
-Kyle Walker,DEF,Man City,3.1,0,0,0,0,0.0,249,10,0,0,0.0,0.0,2021-08-15T15:30:00Z,0,0,0,0,0,1,0,371353,0,1,0.0,0,0,0,0,55,False,0,Spurs,Walker
-Isaac Hayden,MID,Newcastle,0.0,0,0,14,0,3.3,306,9,4,0,2.0,8.8,2021-08-15T13:00:00Z,90,0,0,0,0,1,0,10633,4,2,8.0,2,0,0,0,45,True,0,West Ham,Hayden
-Giovani Lo Celso,MID,Spurs,1.6,0,0,6,0,1.0,372,10,0,0,0.6,3.0,2021-08-15T15:30:00Z,13,0,0,0,0,1,0,10720,0,1,2.0,1,0,0,0,60,True,0,Man City,Lo Celso
-Vicente Guaita,GK,Crystal Palace,1.3,0,0,20,0,0.0,146,3,3,0,2.4,24.0,2021-08-14T14:00:00Z,90,0,0,0,0,1,3,361754,0,3,0.0,2,0,0,0,45,False,0,Chelsea,Guaita
-Marc Navarro,DEF,Watford,0.5,0,0,0,0,0.0,398,8,0,0,0.0,0.0,2021-08-14T14:00:00Z,0,0,0,0,0,1,0,53117,2,3,0.0,0,0,0,0,40,True,0,Aston Villa,Navarro
-Mathias Jensen,MID,Brentford,0.0,0,0,0,0,0.0,86,1,0,0,0.0,0.0,2021-08-13T19:00:00Z,0,0,0,0,0,1,0,2850,0,2,0.0,0,0,0,0,50,True,0,Arsenal,Jensen
-Moussa Djenepo,MID,Southampton,1.9,0,0,5,0,7.2,350,4,3,0,3.8,17.2,2021-08-14T14:00:00Z,90,0,0,0,0,1,0,4568,1,3,14.0,2,0,0,0,55,False,0,Everton,Djenepo
-Japhet Tanganga,DEF,Spurs,1.2,0,0,20,1,5.7,371,10,0,0,2.2,13.8,2021-08-15T15:30:00Z,82,0,0,0,0,1,0,11654,0,1,2.0,6,0,0,0,45,True,0,Man City,Tanganga
-Olivier Giroud,FWD,Chelsea,0.0,0,0,0,0,0.0,120,3,0,0,0.0,0.0,2021-08-14T14:00:00Z,0,0,0,0,0,1,0,2369,0,3,0.0,0,0,0,0,65,True,0,Crystal Palace,Giroud
-Tariq Lamptey,DEF,Brighton,0.0,0,0,0,0,0.0,71,2,0,0,0.0,0.0,2021-08-14T14:00:00Z,0,0,0,0,0,1,0,41209,2,1,0.0,0,0,0,0,45,False,0,Burnley,Lamptey
-Ken Sema,MID,Watford,1.4,0,0,4,0,25.2,391,8,2,0,3.7,8.0,2021-08-14T14:00:00Z,90,0,0,0,0,1,0,4107,2,3,4.0,1,0,0,0,55,True,1,Aston Villa,Sema
-Edinson Cavani,FWD,Man Utd,0.0,0,0,0,0,0.0,269,6,0,0,0.0,0.0,2021-08-14T11:30:00Z,0,0,0,0,0,1,0,556860,1,5,0.0,0,0,0,0,85,True,0,Leeds,Cavani
-Héctor Junior Firpo Adames,DEF,Leeds,1.7,0,0,4,0,0.8,463,6,4,0,0.5,3.8,2021-08-14T11:30:00Z,45,0,0,0,0,1,0,61450,1,5,0.0,-1,0,0,0,50,False,0,Man Utd,Firpo
-Pierre-Emile Højbjerg,MID,Spurs,0.9,0,0,13,1,21.8,365,10,0,0,4.6,12.6,2021-08-15T15:30:00Z,89,0,0,0,0,1,0,203490,0,1,12.0,3,0,0,0,50,True,0,Man City,Højbjerg
-Imrân Louza,MID,Watford,1.4,0,0,0,0,0.0,403,8,0,0,0.0,0.0,2021-08-14T14:00:00Z,0,0,0,0,0,1,0,2882,2,3,0.0,0,0,0,0,55,True,0,Aston Villa,Louza
-Trent Alexander-Arnold,DEF,Liverpool,5.0,0,0,24,1,48.6,237,7,0,0,7.1,18.4,2021-08-14T16:30:00Z,90,0,0,0,0,1,0,2245431,3,0,4.0,6,0,0,0,75,False,0,Norwich,Alexander-Arnold
-Ricardo Domingos Barbosa Pereira,DEF,Leicester,3.1,1,3,34,1,17.5,207,5,0,0,5.1,33.2,2021-08-14T14:00:00Z,90,0,0,0,0,1,0,150617,0,1,0.0,12,0,0,0,55,True,0,Wolves,Pereira
-Michael Obafemi,FWD,Southampton,1.0,0,0,0,0,0.0,348,4,0,0,0.0,0.0,2021-08-14T14:00:00Z,0,0,0,0,0,1,0,849691,1,3,0.0,0,0,0,0,45,False,0,Everton,Obafemi
-James Tarkowski,DEF,Burnley,1.7,0,0,13,0,0.6,98,2,2,1,9.4,49.0,2021-08-14T14:00:00Z,90,0,0,0,0,1,0,92401,2,1,44.0,6,0,0,0,50,True,1,Brighton,Tarkowski
-Cheikhou Kouyaté,DEF,Crystal Palace,1.2,0,0,16,0,0.6,150,3,3,0,1.7,16.4,2021-08-14T14:00:00Z,90,0,0,0,0,1,0,30144,0,3,0.0,1,0,0,0,45,False,0,Chelsea,Kouyaté
-Naby Keita,MID,Liverpool,2.4,0,0,12,1,16.8,239,7,0,0,3.4,13.4,2021-08-14T16:30:00Z,82,0,0,0,0,1,0,11589,3,0,4.0,3,0,0,0,50,False,0,Norwich,Keita
-Kristoffer Ajer,DEF,Brentford,0.7,0,0,23,1,11.2,483,1,0,0,2.3,8.2,2021-08-13T19:00:00Z,70,0,0,0,0,1,0,35174,0,2,4.0,6,0,0,0,45,True,0,Arsenal,Ajer
-Michael McGovern,GK,Norwich,0.0,0,0,0,0,0.0,313,7,0,0,0.0,0.0,2021-08-14T16:30:00Z,0,0,0,0,0,1,0,45779,3,0,0.0,0,0,0,0,40,True,0,Liverpool,McGovern
-Jack Grealish,MID,Man City,3.2,0,0,17,0,28.6,33,10,1,0,11.0,18.2,2021-08-15T15:30:00Z,90,0,0,0,0,1,0,1605017,0,1,63.0,1,0,0,0,80,False,1,Spurs,Grealish
-Matthew Lowton,DEF,Burnley,1.2,0,0,10,0,15.9,110,2,2,0,2.9,12.8,2021-08-14T14:00:00Z,90,0,0,0,0,1,0,181765,2,1,0.0,1,0,0,0,45,True,0,Brighton,Lowton
-Erik Lamela,MID,Spurs,0.0,0,0,0,0,0.0,356,10,0,0,0.0,0.0,2021-08-15T15:30:00Z,0,0,0,0,0,1,0,707,0,1,0.0,0,0,0,0,60,True,0,Man City,Lamela
-Rúben Santos Gato Alves Dias,DEF,Man City,3.4,0,0,14,0,1.0,262,10,1,0,2.3,19.8,2021-08-15T15:30:00Z,90,0,0,0,0,1,0,1704318,0,1,2.0,2,0,0,0,60,False,0,Spurs,Dias
-Xherdan Shaqiri,MID,Liverpool,3.1,0,0,0,0,0.0,226,7,0,0,0.0,0.0,2021-08-14T16:30:00Z,0,0,0,0,0,1,0,7832,3,0,0.0,0,0,0,0,60,False,0,Norwich,Shaqiri
-Ashley Barnes,FWD,Burnley,1.1,0,0,3,0,10.1,105,2,2,0,1.2,2.2,2021-08-14T14:00:00Z,20,0,0,0,0,1,0,133470,2,1,0.0,1,0,0,0,55,True,0,Brighton,Barnes
-Daniel Bachmann,GK,Watford,1.3,0,0,9,0,0.0,389,8,2,0,0.3,2.8,2021-08-14T14:00:00Z,90,0,0,0,0,1,0,149145,2,3,0.0,1,0,0,0,45,True,0,Aston Villa,Bachmann
-Romelu Lukaku,FWD,Chelsea,0.0,0,0,0,0,0.0,529,3,0,0,0.0,0.0,2021-08-14T14:00:00Z,0,0,0,0,0,1,0,485681,0,3,0.0,0,0,0,0,115,True,0,Crystal Palace,Lukaku
-Conor Hourihane,MID,Aston Villa,1.9,0,0,0,0,0.0,29,8,0,0,0.0,0.0,2021-08-14T14:00:00Z,0,0,0,0,0,1,0,3083,2,3,0.0,0,0,0,0,50,False,0,Watford,Hourihane
-William Troost-Ekong,DEF,Watford,1.2,0,0,11,0,0.0,387,8,2,0,0.8,7.8,2021-08-14T14:00:00Z,90,0,0,0,0,1,0,7659,2,3,0.0,1,0,0,0,45,True,0,Aston Villa,Troost-Ekong
-Nathan Tella,MID,Southampton,1.4,0,0,2,0,0.3,346,4,1,0,0.3,0.2,2021-08-14T14:00:00Z,10,0,0,0,0,1,0,9118,1,3,2.0,1,0,0,0,50,False,0,Everton,Tella
-Shane Long,FWD,Southampton,1.6,0,0,0,0,0.0,519,4,0,0,0.0,0.0,2021-08-14T14:00:00Z,0,0,0,0,0,1,0,13833,1,3,0.0,0,0,0,0,55,False,0,Everton,Long
-Bernardo Mota Veiga de Carvalho e Silva,MID,Man City,2.9,0,0,0,0,0.0,261,10,0,0,0.0,0.0,2021-08-15T15:30:00Z,0,0,0,0,0,1,0,88694,0,1,0.0,0,0,0,0,70,False,0,Spurs,Bernardo
-Adam Idah,FWD,Norwich,0.3,0,0,3,0,0.5,329,7,0,0,3.7,3.2,2021-08-14T16:30:00Z,13,0,0,0,0,1,0,31923,3,0,33.0,1,0,0,0,50,True,0,Liverpool,Idah
-Kjell Scherpen,GK,Brighton,0.0,0,0,0,0,0.0,476,2,0,0,0.0,0.0,2021-08-14T14:00:00Z,0,0,0,0,0,1,0,2238,2,1,0.0,0,0,0,0,45,False,0,Burnley,Scherpen
-Conor Coady,DEF,Wolves,1.2,0,0,15,0,0.0,429,5,1,0,1.1,11.2,2021-08-14T14:00:00Z,90,0,0,0,0,1,0,493790,0,1,0.0,2,0,0,0,45,False,0,Leicester,Coady
-Angus Gunn,GK,Norwich,0.0,0,0,0,0,0.0,448,7,0,0,0.0,0.0,2021-08-14T16:30:00Z,0,0,0,0,0,1,0,103597,3,0,0.0,0,0,0,0,40,True,0,Liverpool,Gunn
-Mbwana Ally Samatta,FWD,Aston Villa,0.0,0,0,0,0,0.0,48,8,0,0,0.0,0.0,2021-08-14T14:00:00Z,0,0,0,0,0,1,0,129,2,3,0.0,0,0,0,0,55,False,0,Watford,Samatta
-Adam Lallana,MID,Brighton,2.4,0,0,7,0,3.0,53,2,0,0,0.7,1.6,2021-08-14T14:00:00Z,45,0,0,0,0,1,0,17460,2,1,2.0,1,0,0,0,55,False,0,Burnley,Lallana
-Youri Tielemans,MID,Leicester,2.8,0,0,23,1,17.8,210,5,0,0,5.8,33.4,2021-08-14T14:00:00Z,90,0,0,0,0,1,0,364491,0,1,7.0,3,0,0,0,65,True,0,Wolves,Tielemans
-Hugo Lloris,GK,Spurs,2.8,0,3,28,1,0.0,353,10,0,0,3.2,31.8,2021-08-15T15:30:00Z,90,0,0,0,0,1,4,224734,0,1,0.0,10,0,0,0,55,True,0,Man City,Lloris
-Craig Cathcart,DEF,Watford,1.2,0,0,6,0,0.8,379,8,2,0,1.3,11.8,2021-08-14T14:00:00Z,90,0,0,0,0,1,0,10383,2,3,0.0,1,0,0,0,45,True,0,Aston Villa,Cathcart
-Saman Ghoddos,MID,Brentford,0.9,0,0,0,0,0.0,85,1,0,0,0.0,0.0,2021-08-13T19:00:00Z,0,0,0,0,0,1,0,4061,0,2,0.0,0,0,0,0,55,True,0,Arsenal,Ghoddos
-Illan Meslier,GK,Leeds,2.1,0,0,17,0,0.0,199,6,5,0,2.2,21.6,2021-08-14T11:30:00Z,90,0,0,0,0,1,3,281639,1,5,0.0,1,0,0,0,50,False,0,Man Utd,Meslier
-Francisco Casilla Cortés,GK,Leeds,0.0,0,0,0,0,0.0,183,6,0,0,0.0,0.0,2021-08-14T11:30:00Z,0,0,0,0,0,1,0,881,1,5,0.0,0,0,0,0,45,False,0,Man Utd,Casilla
-Gabriel Magalhães,DEF,Arsenal,0.0,0,0,0,0,0.0,23,1,0,0,0.0,0.0,2021-08-13T19:00:00Z,0,0,0,0,0,1,0,6701,0,2,0.0,0,0,0,0,50,False,0,Brentford,Gabriel
-Tanguy Ndombele,MID,Spurs,1.6,0,0,0,0,0.0,375,10,0,0,0.0,0.0,2021-08-15T15:30:00Z,0,0,0,0,0,1,0,22204,0,1,0.0,0,0,0,0,60,True,0,Man City,Ndombele
-Francisco Sierralta,DEF,Watford,1.2,0,0,0,0,0.0,396,8,0,0,0.0,0.0,2021-08-14T14:00:00Z,0,0,0,0,0,1,0,13068,2,3,0.0,0,0,0,0,45,True,0,Aston Villa,Sierralta
-Jordan Henderson,MID,Liverpool,2.4,0,0,0,0,0.0,222,7,0,0,0.0,0.0,2021-08-14T16:30:00Z,0,0,0,0,0,1,0,47909,3,0,0.0,0,0,0,0,50,False,0,Norwich,Henderson
-Ibrahima Diallo,MID,Southampton,1.0,0,0,3,0,0.9,349,4,1,0,2.0,0.6,2021-08-14T14:00:00Z,10,0,0,0,0,1,0,7483,1,3,18.0,1,0,0,0,45,False,0,Everton,Diallo
-Calum Chambers,DEF,Arsenal,2.7,0,0,14,0,16.8,10,1,2,0,4.2,13.2,2021-08-13T19:00:00Z,80,0,0,0,0,1,0,26222,0,2,12.0,1,0,0,0,45,False,0,Brentford,Chambers
-Dwight McNeil,MID,Burnley,1.6,0,0,10,0,30.6,118,2,2,0,5.2,21.6,2021-08-14T14:00:00Z,78,0,0,0,0,1,0,20227,2,1,0.0,2,0,0,0,60,True,0,Brighton,McNeil
-Jonathan Castro Otto,DEF,Wolves,0.0,0,0,0,0,0.0,433,5,0,0,0.0,0.0,2021-08-14T14:00:00Z,0,0,0,0,0,1,0,408,0,1,0.0,0,0,0,0,45,False,0,Leicester,Jonny
-Patrik Gunnarsson,GK,Brentford,0.0,0,0,0,0,0.0,94,1,0,0,0.0,0.0,2021-08-13T19:00:00Z,0,0,0,0,0,1,0,93320,0,2,0.0,0,0,0,0,40,True,0,Arsenal,Gunnarsson
-Matthew Longstaff,MID,Newcastle,0.0,0,0,0,0,0.0,312,9,0,0,0.0,0.0,2021-08-15T13:00:00Z,0,0,0,0,0,1,0,9525,4,2,0.0,0,0,0,0,45,True,0,West Ham,M.Longstaff
-James Tomkins,DEF,Crystal Palace,1.2,0,0,0,0,0.0,147,3,0,0,0.0,0.0,2021-08-14T14:00:00Z,0,0,0,0,0,1,0,9200,0,3,0.0,0,0,0,0,45,False,0,Chelsea,Tomkins
-Timo Werner,FWD,Chelsea,3.4,0,0,6,1,12.8,134,3,0,0,4.0,1.2,2021-08-14T14:00:00Z,90,0,0,0,0,1,0,335608,0,3,26.0,2,0,0,0,90,True,0,Crystal Palace,Werner
-David Raya Martin,GK,Brentford,0.8,0,1,30,1,0.0,80,1,0,0,2.8,27.8,2021-08-13T19:00:00Z,90,0,0,0,0,1,4,96605,0,2,0.0,8,0,0,0,45,True,0,Arsenal,Raya
-Nick Pope,GK,Burnley,2.8,0,0,17,0,0.0,112,2,2,0,3.0,30.0,2021-08-14T14:00:00Z,90,0,0,0,0,1,4,280784,2,1,0.0,2,0,0,0,55,True,0,Brighton,Pope
-Ezri Konsa Ngoyo,DEF,Aston Villa,2.7,0,0,15,0,1.3,45,8,3,0,2.3,19.6,2021-08-14T14:00:00Z,90,0,0,0,0,1,0,75220,2,3,2.0,1,0,0,0,50,False,0,Watford,Konsa
-Kristoffer Klaesson,GK,Leeds,1.3,0,0,0,0,0.0,490,6,0,0,0.0,0.0,2021-08-14T11:30:00Z,0,0,0,0,0,1,0,9800,1,5,0.0,0,0,0,0,45,False,0,Man Utd,Klaesson
-Gabriel Teodoro Martinelli Silva,MID,Arsenal,2.9,0,0,7,0,22.4,26,1,1,0,3.6,2.2,2021-08-13T19:00:00Z,70,0,0,0,0,1,0,25036,0,2,11.0,2,0,0,0,55,False,0,Brentford,Martinelli
-Christian Marques,DEF,Wolves,0.5,0,0,0,0,0.0,549,5,0,0,0.0,0.0,2021-08-14T14:00:00Z,0,0,0,0,0,1,0,0,0,1,0.0,0,0,0,0,40,False,0,Leicester,Marques
-Heung-Min Son,MID,Spurs,2.8,0,2,27,1,19.7,359,10,0,1,9.4,32.8,2021-08-15T15:30:00Z,90,0,0,0,0,1,0,1412718,0,1,41.0,10,0,0,0,100,True,0,Man City,Son
-Jack Cork,MID,Burnley,0.5,0,0,3,0,1.1,101,2,2,0,1.4,0.8,2021-08-14T14:00:00Z,84,0,0,0,0,1,0,7356,2,1,12.0,2,0,0,0,45,True,0,Brighton,Cork
-Domingos Quina,MID,Watford,0.5,0,0,0,0,0.0,397,8,0,0,0.0,0.0,2021-08-14T14:00:00Z,0,0,0,0,0,1,0,6842,2,3,0.0,0,0,0,0,45,True,0,Aston Villa,Quina
-Aaron Ramsey,MID,Aston Villa,1.5,0,0,0,0,0.0,496,8,0,0,0.0,0.0,2021-08-14T14:00:00Z,0,0,0,0,0,1,0,8453,2,3,0.0,0,0,0,0,45,False,0,Watford,Ramsey
-Patrick Cutrone,FWD,Wolves,0.8,0,0,0,0,0.0,523,5,0,0,0.0,0.0,2021-08-14T14:00:00Z,0,0,0,0,0,1,0,17822,0,1,0.0,0,0,0,0,50,False,0,Leicester,Cutrone
-Jacob Ramsey,MID,Aston Villa,1.5,0,0,2,0,12.1,51,8,1,0,1.8,0.6,2021-08-14T14:00:00Z,45,0,0,0,0,1,0,22121,2,3,5.0,1,0,0,0,45,False,0,Watford,Ramsey
-Nathan Aké,DEF,Man City,2.7,0,0,15,0,0.3,258,10,1,0,2.8,23.8,2021-08-15T15:30:00Z,90,0,0,0,0,1,0,22462,0,1,4.0,2,0,0,0,50,False,0,Spurs,Aké
-Jonjoe Kenny,DEF,Everton,1.7,0,0,0,0,0.0,502,4,0,0,0.0,0.0,2021-08-14T14:00:00Z,0,0,0,0,0,1,0,4273,1,3,0.0,0,0,0,0,45,True,0,Southampton,Kenny
-Dennis Praet,MID,Leicester,1.9,0,0,0,0,0.0,206,5,0,0,0.0,0.0,2021-08-14T14:00:00Z,0,0,0,0,0,1,0,4344,0,1,0.0,0,0,0,0,50,True,0,Wolves,Praet
-Joseph Willock,MID,Newcastle,1.1,0,0,0,0,0.0,19,9,0,0,0.0,0.0,2021-08-15T13:00:00Z,0,0,0,0,0,1,0,95790,4,2,0.0,0,0,0,0,60,True,0,West Ham,Willock
-Angelo Ogbonna,DEF,West Ham,1.6,0,0,18,0,0.9,409,9,2,0,1.3,12.0,2021-08-15T13:00:00Z,90,0,0,0,0,1,0,9668,4,2,0.0,1,0,0,0,50,False,0,Newcastle,Ogbonna
-Pablo Hernández Domínguez,MID,Leeds,0.0,0,0,0,0,0.0,182,6,0,0,0.0,0.0,2021-08-14T11:30:00Z,0,0,0,0,0,1,0,392,1,5,0.0,0,0,0,0,55,False,0,Man Utd,Hernández
-Reiss Nelson,MID,Arsenal,2.4,0,0,4,0,11.6,531,1,1,0,3.6,4.0,2021-08-13T19:00:00Z,19,0,0,0,0,1,0,0,0,2,20.0,1,0,0,0,50,False,0,Brentford,Nelson
-Rob Holding,DEF,Arsenal,2.7,0,0,0,0,0.0,14,1,0,0,0.0,0.0,2021-08-13T19:00:00Z,0,0,0,0,0,1,0,154190,0,2,0.0,0,0,0,0,45,False,0,Brentford,Holding
-Harry Kane,FWD,Spurs,2.6,0,0,0,0,0.0,357,10,0,0,0.0,0.0,2021-08-15T15:30:00Z,0,0,0,0,0,1,0,991445,0,1,0.0,0,0,0,0,125,True,0,Man City,Kane
-Troy Deeney,FWD,Watford,1.1,0,0,3,0,0.3,380,8,1,0,0.2,2.0,2021-08-14T14:00:00Z,11,0,0,0,0,1,0,225411,2,3,0.0,1,0,0,0,55,True,0,Aston Villa,Deeney
-Seamus Coleman,DEF,Everton,2.2,0,0,10,0,16.6,165,4,1,0,3.7,20.6,2021-08-14T14:00:00Z,90,0,0,0,0,1,0,41053,1,3,0.0,2,0,0,0,50,True,0,Southampton,Coleman
-Harvey Barnes,MID,Leicester,2.9,0,0,-1,1,1.5,215,5,0,0,2.7,2.8,2021-08-14T14:00:00Z,71,0,0,0,0,1,0,916129,0,1,23.0,3,0,0,0,70,True,0,Wolves,Barnes
-Sergio Reguilón,DEF,Spurs,1.7,0,1,22,1,25.3,370,10,0,0,3.8,10.4,2021-08-15T15:30:00Z,90,0,0,0,0,1,0,188039,0,1,2.0,7,0,0,0,50,True,0,Man City,Reguilón
-Timothy Castagne,DEF,Leicester,2.3,0,0,0,0,0.0,209,5,0,0,0.0,0.0,2021-08-14T14:00:00Z,0,0,0,0,0,1,0,83726,0,1,0.0,0,0,0,0,55,True,0,Wolves,Castagne
-Joachim Andersen,DEF,Crystal Palace,1.2,0,0,9,0,0.3,488,3,1,0,1.0,7.4,2021-08-14T14:00:00Z,33,0,0,0,0,1,0,33665,0,3,2.0,1,0,0,0,45,False,0,Chelsea,Andersen
-Bailey Peacock-Farrell,GK,Burnley,0.0,0,0,0,0,0.0,117,2,0,0,0.0,0.0,2021-08-14T14:00:00Z,0,0,0,0,0,1,0,830,2,1,0.0,0,0,0,0,45,True,0,Brighton,Peacock-Farrell
-Tom Heaton,GK,Man Utd,1.5,0,0,0,0,0.0,509,6,0,0,0.0,0.0,2021-08-14T11:30:00Z,0,0,0,0,0,1,0,25705,1,5,0.0,0,0,0,0,40,True,0,Leeds,Heaton
-Pierluigi Gollini,GK,Spurs,1.3,0,0,0,0,0.0,486,10,0,0,0.0,0.0,2021-08-15T15:30:00Z,0,0,0,0,0,1,0,18475,0,1,0.0,0,0,0,0,45,True,0,Man City,Gollini
-Josh Brownhill,MID,Burnley,0.5,0,0,8,0,10.5,115,2,0,0,1.8,7.2,2021-08-14T14:00:00Z,11,0,0,0,0,1,0,288638,2,1,0.0,1,0,0,0,45,True,0,Brighton,Brownhill
-João Pedro Junqueira de Jesus,FWD,Watford,0.0,0,0,0,0,0.0,404,8,0,0,0.0,0.0,2021-08-14T14:00:00Z,0,0,0,0,0,1,0,16092,2,3,0.0,0,0,0,0,55,True,0,Aston Villa,João Pedro
-Ian Carlo Poveda-Ocampo,MID,Leeds,0.5,0,0,0,0,0.0,195,6,0,0,0.0,0.0,2021-08-14T11:30:00Z,0,0,0,0,0,1,0,5955,1,5,0.0,0,0,0,0,45,False,0,Man Utd,Poveda
-Frederico Rodrigues de Paula Santos,MID,Man Utd,1.9,0,0,25,0,7.2,274,6,1,1,6.2,37.8,2021-08-14T11:30:00Z,90,0,0,0,0,1,0,13665,1,5,17.0,7,0,0,0,50,True,0,Leeds,Fred
-Yerson Mosquera Valdelamar,DEF,Wolves,0.3,0,0,0,0,0.0,446,5,0,0,0.0,0.0,2021-08-14T14:00:00Z,0,0,0,0,0,1,0,2407,0,1,0.0,0,0,0,0,45,False,0,Leicester,Mosquera
-Tyrick Mitchell,DEF,Crystal Palace,1.2,0,0,5,0,1.9,162,3,3,0,0.6,4.0,2021-08-14T14:00:00Z,90,0,0,0,0,1,0,44446,0,3,0.0,1,0,0,0,45,False,0,Chelsea,Mitchell
-Wayne Hennessey,GK,Burnley,1.3,0,0,0,0,0.0,480,2,0,0,0.0,0.0,2021-08-14T14:00:00Z,0,0,0,0,0,1,0,17185,2,1,0.0,0,0,0,0,45,True,0,Brighton,Hennessey
-Andreas Christensen,DEF,Chelsea,2.7,0,1,27,1,1.3,133,3,0,0,2.0,18.6,2021-08-14T14:00:00Z,90,0,0,0,0,1,0,51896,0,3,0.0,7,0,0,0,50,True,0,Crystal Palace,Christensen
-Jack Harrison,MID,Leeds,1.6,0,0,8,0,21.1,267,6,5,0,3.8,10.2,2021-08-14T11:30:00Z,68,0,0,0,0,1,0,330990,1,5,7.0,2,0,0,0,60,False,0,Man Utd,Harrison
-David de Gea,GK,Man Utd,3.1,0,0,16,0,0.0,270,6,1,0,1.3,13.2,2021-08-14T11:30:00Z,90,0,0,0,0,1,2,173508,1,5,0.0,2,0,0,0,50,True,0,Leeds,de Gea
-Victor Lindelöf,DEF,Man Utd,2.7,1,0,23,0,13.4,284,6,1,0,4.4,30.2,2021-08-14T11:30:00Z,90,0,0,0,0,1,0,38513,1,5,0.0,5,0,0,0,50,True,0,Leeds,Lindelöf
-Jannik Vestergaard,DEF,Leicester,2.7,0,0,3,0,0.1,340,5,0,0,0.4,3.6,2021-08-14T14:00:00Z,28,0,0,0,0,1,0,97933,0,1,0.0,1,0,0,0,50,True,0,Wolves,Vestergaard
-Ayoze Pérez,MID,Leicester,2.6,0,0,7,1,35.2,211,5,0,0,4.4,7.2,2021-08-14T14:00:00Z,61,0,0,0,0,1,0,18150,0,1,2.0,3,0,0,0,60,True,0,Wolves,Pérez
-Neal Maupay,FWD,Brighton,2.6,0,0,20,0,6.5,63,2,1,1,11.5,34.0,2021-08-14T14:00:00Z,90,0,0,0,0,1,0,160421,2,1,74.0,5,0,0,0,65,False,1,Burnley,Maupay
-Danny Welbeck,FWD,Brighton,0.0,0,0,0,0,0.0,447,2,0,0,0.0,0.0,2021-08-14T14:00:00Z,0,0,0,0,0,1,0,12873,2,1,0.0,0,0,0,0,60,False,0,Burnley,Welbeck
-Tomas Soucek,MID,West Ham,3.1,0,1,34,0,3.8,422,9,2,1,15.0,53.6,2021-08-15T13:00:00Z,90,0,0,0,0,1,0,753486,4,2,93.0,8,0,0,0,60,False,0,Newcastle,Soucek
-Aaron Connolly,FWD,Brighton,2.1,0,0,0,0,0.0,72,2,0,0,0.0,0.0,2021-08-14T14:00:00Z,0,0,0,0,0,1,0,15789,2,1,0.0,0,0,0,0,55,False,0,Burnley,Connolly
-Javier Manquillo,DEF,Newcastle,0.0,0,0,0,0,0.0,302,9,0,0,0.0,0.0,2021-08-15T13:00:00Z,0,0,0,0,0,1,0,688449,4,2,0.0,0,0,0,0,40,True,0,West Ham,Manquillo
-Romain Perraud,DEF,Southampton,2.2,0,0,7,0,11.5,460,4,3,0,1.9,7.6,2021-08-14T14:00:00Z,82,0,0,0,0,1,0,7538,1,3,0.0,1,0,0,0,50,False,0,Everton,Perraud
-Will Hughes,MID,Watford,0.9,0,0,0,0,0.0,386,8,0,0,0.0,0.0,2021-08-14T14:00:00Z,0,0,0,0,0,1,0,5046,2,3,0.0,0,0,0,0,50,True,0,Aston Villa,Hughes
-Ben Davies,DEF,Spurs,1.2,0,0,0,0,0.0,364,10,0,0,0.0,0.0,2021-08-15T15:30:00Z,0,0,0,0,0,1,0,18832,0,1,0.0,0,0,0,0,45,True,0,Man City,Davies
-Nicolas Pépé,MID,Arsenal,3.5,0,0,9,0,43.9,17,1,2,0,10.3,7.6,2021-08-13T19:00:00Z,90,0,0,0,0,1,0,243459,0,2,51.0,2,0,0,0,75,False,0,Brentford,Pépé
-Martin Kelly,DEF,Crystal Palace,0.5,0,0,0,0,0.0,151,3,0,0,0.0,0.0,2021-08-14T14:00:00Z,0,0,0,0,0,1,0,80769,0,3,0.0,0,0,0,0,40,False,0,Chelsea,Kelly
-Andreas Söndergaard,GK,Wolves,0.5,0,0,0,0,0.0,444,5,0,0,0.0,0.0,2021-08-14T14:00:00Z,0,0,0,0,0,1,0,80400,0,1,0.0,0,0,0,0,40,False,0,Leicester,Söndergaard
-Will Norris,GK,Burnley,1.3,0,0,0,0,0.0,114,2,0,0,0.0,0.0,2021-08-14T14:00:00Z,0,0,0,0,0,1,0,8993,2,1,0.0,0,0,0,0,45,True,0,Brighton,Norris
-Granit Xhaka,MID,Arsenal,2.4,0,0,13,0,24.7,7,1,2,0,4.5,15.2,2021-08-13T19:00:00Z,90,0,0,0,0,1,0,61422,0,2,5.0,2,0,0,0,50,False,0,Brentford,Xhaka
-Jan Zamburek,MID,Brentford,0.0,0,0,0,0,0.0,93,1,0,0,0.0,0.0,2021-08-13T19:00:00Z,0,0,0,0,0,1,0,49963,0,2,0.0,0,0,0,0,45,True,0,Arsenal,Zamburek
-Andi Zeqiri,FWD,Brighton,1.5,0,0,0,0,0.0,535,2,0,0,0.0,0.0,2021-08-14T14:00:00Z,0,0,0,0,0,1,0,0,2,1,0.0,0,0,0,0,45,False,0,Burnley,Zeqiri
-Fabio Silva,FWD,Wolves,1.3,0,0,3,0,0.0,445,5,0,0,0.0,0.0,2021-08-14T14:00:00Z,1,0,0,0,0,1,0,59391,0,1,0.0,1,0,0,0,60,False,0,Leicester,Fabio Silva
-Michail Antonio,FWD,West Ham,3.4,2,3,40,0,18.7,413,9,2,1,12.9,55.6,2021-08-15T13:00:00Z,90,0,1,0,0,1,0,1617415,4,2,55.0,13,0,0,0,75,False,0,Newcastle,Antonio
-Bernardo Fernandes Da Silva Junior,DEF,Brighton,0.0,0,0,0,0,0.0,68,2,0,0,0.0,0.0,2021-08-14T14:00:00Z,0,0,0,0,0,1,0,1037,2,1,0.0,0,0,0,0,40,False,0,Burnley,Bernardo
-Yves Bissouma,MID,Brighton,1.5,0,0,14,0,5.2,70,2,1,0,1.3,7.6,2021-08-14T14:00:00Z,90,0,0,0,0,1,0,882586,2,1,0.0,2,0,0,0,45,False,0,Burnley,Bissouma
-Luke Ayling,DEF,Leeds,1.2,0,0,23,0,4.8,185,6,5,1,7.0,52.4,2021-08-14T11:30:00Z,90,0,0,0,0,1,0,787277,1,5,13.0,6,0,0,0,45,False,0,Man Utd,Ayling
-Mads Roerslev Rasmussen,DEF,Brentford,0.7,0,0,0,0,0.0,89,1,0,0,0.0,0.0,2021-08-13T19:00:00Z,0,0,0,0,0,1,0,6247,0,2,0.0,0,0,0,0,45,True,0,Arsenal,Roerslev
-Jonny Evans,DEF,Leicester,0.0,0,0,0,0,0.0,201,5,0,0,0.0,0.0,2021-08-14T14:00:00Z,0,0,0,0,0,1,0,17182,0,1,0.0,0,0,0,0,55,True,0,Wolves,Evans
-Anthony Elanga,MID,Man Utd,1.9,0,0,0,0,0.0,512,6,0,0,0.0,0.0,2021-08-14T11:30:00Z,0,0,0,0,0,1,0,1515,1,5,0.0,0,0,0,0,50,True,0,Leeds,Elanga
-Joe Rodon,DEF,Spurs,1.2,0,0,0,0,0.0,374,10,0,0,0.0,0.0,2021-08-15T15:30:00Z,0,0,0,0,0,1,0,8844,0,1,0.0,0,0,0,0,45,True,0,Man City,Rodon
-Ferran Torres,MID,Man City,2.9,0,0,4,0,2.9,268,10,1,0,4.0,5.0,2021-08-15T15:30:00Z,90,0,0,0,0,1,0,129946,0,1,32.0,2,0,0,0,70,False,0,Spurs,Torres
-Wesley Moraes,FWD,Aston Villa,2.1,0,0,0,0,0.0,47,8,0,0,0.0,0.0,2021-08-14T14:00:00Z,0,0,0,0,0,1,0,16681,2,3,0.0,0,0,0,0,55,False,0,Watford,Wesley
-Jordan Pickford,GK,Everton,2.6,0,0,14,0,0.0,170,4,1,0,2.0,19.6,2021-08-14T14:00:00Z,90,0,0,0,0,1,2,446969,1,3,0.0,2,0,0,0,50,True,0,Southampton,Pickford
-Erik Pieters,DEF,Burnley,1.2,0,0,0,0,0.0,100,2,0,0,0.0,0.0,2021-08-14T14:00:00Z,0,0,0,0,0,1,0,13554,2,1,0.0,0,0,0,0,45,True,0,Brighton,Pieters
-Juan Camilo Hernández Suárez,FWD,Watford,0.8,0,1,28,0,0.3,472,8,2,1,6.3,36.2,2021-08-14T14:00:00Z,24,0,0,0,0,1,0,22290,2,3,26.0,6,0,0,0,50,True,0,Aston Villa,Cucho
-Bernd Leno,GK,Arsenal,3.6,0,0,11,0,0.0,1,1,2,0,1.2,11.8,2021-08-13T19:00:00Z,90,0,0,0,0,1,1,153122,0,2,0.0,1,0,0,0,50,False,0,Brentford,Leno
-Kai Havertz,MID,Chelsea,3.3,0,0,1,0,0.8,141,3,0,0,0.2,0.0,2021-08-14T14:00:00Z,8,0,0,0,0,1,0,834989,0,3,2.0,1,0,0,0,85,True,0,Crystal Palace,Havertz
-Daniel N'Lundulu,FWD,Southampton,0.0,0,0,0,0,0.0,344,4,0,0,0.0,0.0,2021-08-14T14:00:00Z,0,0,0,0,0,1,0,2798,1,3,0.0,0,0,0,0,45,False,0,Everton,Nlundulu
-Leon Bailey,MID,Aston Villa,2.8,1,0,14,0,14.8,492,8,1,0,5.6,20.0,2021-08-14T14:00:00Z,30,0,0,0,0,1,0,171733,2,3,21.0,4,0,0,0,65,False,0,Watford,Bailey
-Michael Olise,MID,Crystal Palace,0.0,0,0,0,0,0.0,464,3,0,0,0.0,0.0,2021-08-14T14:00:00Z,0,0,0,0,0,1,0,3327,0,3,0.0,0,0,0,0,55,False,0,Chelsea,Olise
-Morgan Gibbs-White,MID,Wolves,0.5,0,0,2,0,0.4,440,5,0,0,2.0,0.0,2021-08-14T14:00:00Z,4,0,0,0,0,1,0,30702,0,1,20.0,1,0,0,0,45,False,0,Leicester,Gibbs-White
-Jeff Hendrick,MID,Newcastle,0.4,0,0,0,0,0.0,297,9,0,0,0.0,0.0,2021-08-15T13:00:00Z,0,0,0,0,0,1,0,4139,4,2,0.0,0,0,0,0,50,True,0,West Ham,Hendrick
-Michael Keane,DEF,Everton,2.2,0,0,9,0,10.9,169,4,1,0,4.7,15.6,2021-08-14T14:00:00Z,90,0,0,0,0,1,0,203108,1,3,20.0,2,0,0,0,50,True,0,Southampton,Keane
-Mason Greenwood,MID,Man Utd,3.0,0,1,28,0,23.7,289,6,1,1,9.2,41.2,2021-08-14T11:30:00Z,90,0,0,0,0,1,0,506276,1,5,27.0,8,0,0,0,75,True,0,Leeds,Greenwood
-João Virgínia,GK,Everton,1.0,0,0,0,0,0.0,181,4,0,0,0.0,0.0,2021-08-14T14:00:00Z,0,0,0,0,0,1,0,167543,1,3,0.0,0,0,0,0,40,True,0,Southampton,Virgínia
-Adam Masina,DEF,Watford,1.2,0,0,8,0,0.3,390,8,2,0,0.8,7.2,2021-08-14T14:00:00Z,90,0,0,0,0,1,0,7697,2,3,0.0,1,0,0,0,45,True,0,Aston Villa,Masina
-Ryan Sessegnon,DEF,Spurs,1.2,0,0,0,0,0.0,368,10,0,0,0.0,0.0,2021-08-15T15:30:00Z,0,0,0,0,0,1,0,10883,0,1,0.0,0,0,0,0,45,True,0,Man City,Sessegnon
-Bryan Gil Salvatierra,MID,Spurs,1.2,0,0,0,0,0.0,487,10,0,0,0.0,0.0,2021-08-15T15:30:00Z,0,0,0,0,0,1,0,9372,0,1,0.0,0,0,0,0,60,True,0,Man City,Bryan
-Daniel Amartey,DEF,Leicester,1.5,0,0,27,1,0.8,208,5,0,0,1.6,15.4,2021-08-14T14:00:00Z,90,0,0,0,0,1,0,985291,0,1,0.0,6,0,0,0,40,True,0,Wolves,Amartey
-Chem Campbell,MID,Wolves,0.5,0,0,0,0,0.0,548,5,0,0,0.0,0.0,2021-08-14T14:00:00Z,0,0,0,0,0,1,0,0,0,1,0.0,0,0,0,0,45,False,0,Leicester,Campbell
-César Azpilicueta,DEF,Chelsea,3.4,0,0,25,1,8.6,119,3,0,0,2.5,10.4,2021-08-14T14:00:00Z,66,0,0,0,0,1,0,254999,0,3,6.0,6,0,0,0,60,True,0,Crystal Palace,Azpilicueta
-Caoimhin Kelleher,GK,Liverpool,2.8,0,0,0,0,0.0,242,7,0,0,0.0,0.0,2021-08-14T16:30:00Z,0,0,0,0,0,1,0,7681,3,0,0.0,0,0,0,0,45,False,0,Norwich,Kelleher
-Dan Burn,DEF,Brighton,0.0,0,0,0,0,0.0,58,2,0,0,0.0,0.0,2021-08-14T14:00:00Z,0,0,0,0,0,1,0,3067,2,1,0.0,0,0,0,0,45,False,0,Burnley,Burn
-Andrew Omobamidele,DEF,Norwich,0.0,0,0,0,0,0.0,331,7,0,0,0.0,0.0,2021-08-14T16:30:00Z,0,0,0,0,0,1,0,111756,3,0,0.0,0,0,0,0,40,True,0,Liverpool,Omobamidele
-Phil Foden,MID,Man City,0.0,0,0,0,0,0.0,265,10,0,0,0.0,0.0,2021-08-15T15:30:00Z,0,0,0,0,0,1,0,105611,0,1,0.0,0,0,0,0,80,False,0,Spurs,Foden
-Thiago Alcántara do Nascimento,MID,Liverpool,2.9,0,0,0,0,0.0,225,7,0,0,0.0,0.0,2021-08-14T16:30:00Z,0,0,0,0,0,1,0,72500,3,0,0.0,0,0,0,0,55,False,0,Norwich,Thiago
-Kieran Dowell,MID,Norwich,0.9,0,0,5,0,20.8,323,7,0,0,2.9,4.2,2021-08-14T16:30:00Z,4,0,0,0,0,1,0,4891,3,0,4.0,1,0,0,0,55,True,0,Liverpool,Dowell
-Ryan Bertrand,DEF,Leicester,2.7,0,0,0,0,0.0,473,5,0,0,0.0,0.0,2021-08-14T14:00:00Z,0,0,0,0,0,1,0,144893,0,1,0.0,0,0,0,0,50,True,0,Wolves,Bertrand
-Lucas Digne,DEF,Everton,2.6,0,0,9,0,25.9,168,4,1,0,4.5,8.2,2021-08-14T14:00:00Z,90,0,0,0,0,1,0,1292519,1,3,11.0,2,0,0,0,55,True,0,Southampton,Digne
-Ben Woodburn,MID,Liverpool,2.0,0,0,0,0,0.0,553,7,0,0,0.0,0.0,2021-08-14T16:30:00Z,0,0,0,0,0,1,0,0,3,0,0.0,0,0,0,0,45,False,0,Norwich,Woodburn
-Danny Ward,GK,Leicester,1.5,0,0,0,0,0.0,204,5,0,0,0.0,0.0,2021-08-14T14:00:00Z,0,0,0,0,0,1,0,230909,0,1,0.0,0,0,0,0,40,True,0,Wolves,Ward
-Sead Kolasinac,DEF,Arsenal,2.7,0,0,0,0,0.0,11,1,0,0,0.0,0.0,2021-08-13T19:00:00Z,0,0,0,0,0,1,0,9282,0,2,0.0,0,0,0,0,45,False,0,Brentford,Kolasinac
-Samuel Edozie,MID,Man City,1.9,0,0,0,0,0.0,508,10,0,0,0.0,0.0,2021-08-15T15:30:00Z,0,0,0,0,0,1,0,1270,0,1,0.0,0,0,0,0,50,False,0,Spurs,Edozie
-Alex Oxlade-Chamberlain,MID,Liverpool,3.1,0,0,3,1,5.3,227,7,0,0,0.7,0.0,2021-08-14T16:30:00Z,60,0,0,0,0,1,0,9191,3,0,4.0,3,0,0,0,60,False,0,Norwich,Chamberlain
-Josh Benson,MID,Burnley,0.0,0,0,0,0,0.0,116,2,0,0,0.0,0.0,2021-08-14T14:00:00Z,0,0,0,0,0,1,0,408,2,1,0.0,0,0,0,0,45,True,0,Brighton,Benson
-Craig Dawson,DEF,West Ham,3.2,0,0,16,0,1.1,414,9,2,0,4.4,22.6,2021-08-15T13:00:00Z,90,0,0,0,0,1,0,21144,4,2,20.0,1,0,0,0,50,False,0,Newcastle,Dawson
-Kasper Schmeichel,GK,Leicester,3.1,0,2,31,1,0.0,200,5,0,0,2.6,26.0,2021-08-14T14:00:00Z,90,0,0,0,0,1,3,1114563,0,1,0.0,9,0,0,0,50,True,0,Wolves,Schmeichel
-Ben White,DEF,Arsenal,2.7,0,0,12,0,0.5,67,1,2,0,1.1,10.8,2021-08-13T19:00:00Z,90,0,0,0,0,1,0,1716768,0,2,0.0,1,0,0,0,45,False,0,Brentford,White
-Christos Tzolis,MID,Norwich,0.4,0,0,0,0,0.0,528,7,0,0,0.0,0.0,2021-08-14T16:30:00Z,0,0,0,0,0,1,0,4851,3,0,0.0,0,0,0,0,50,True,0,Liverpool,Tzolis
-Thiago Emiliano da Silva,DEF,Chelsea,3.1,0,0,0,0,0.0,121,3,0,0,0.0,0.0,2021-08-14T14:00:00Z,0,0,0,0,0,1,0,219781,0,3,0.0,0,0,0,0,55,True,0,Crystal Palace,Thiago Silva
-Daniel Castelo Podence,MID,Wolves,0.0,0,0,0,0,0.0,438,5,0,0,0.0,0.0,2021-08-14T14:00:00Z,0,0,0,0,0,1,0,710,0,1,0.0,0,0,0,0,55,False,0,Leicester,Podence
-Halil Dervişoğlu,FWD,Brentford,0.6,0,0,0,0,0.0,95,1,0,0,0.0,0.0,2021-08-13T19:00:00Z,0,0,0,0,0,1,0,3289,0,2,0.0,0,0,0,0,55,True,0,Arsenal,Dervişoğlu
-Jadon Sancho,MID,Man Utd,3.6,0,0,3,0,5.8,485,6,0,0,0.7,1.0,2021-08-14T11:30:00Z,15,0,0,0,0,1,0,683763,1,5,0.0,1,0,0,0,95,True,0,Leeds,Sancho
-Kurt Zouma,DEF,Chelsea,3.1,0,0,0,0,0.0,128,3,0,0,0.0,0.0,2021-08-14T14:00:00Z,0,0,0,0,0,1,0,99447,0,3,0.0,0,0,0,0,55,True,0,Crystal Palace,Zouma
-Lukas Rupp,MID,Norwich,0.0,0,0,13,0,2.2,317,7,3,0,2.8,5.2,2021-08-14T16:30:00Z,90,0,0,0,0,1,0,8058,3,0,21.0,2,0,0,0,45,True,0,Liverpool,Rupp
-Aaron Cresswell,DEF,West Ham,3.6,0,0,30,0,17.5,411,9,2,1,9.1,55.8,2021-08-15T13:00:00Z,90,0,0,0,0,1,0,1213434,4,2,18.0,7,0,0,0,55,False,0,Newcastle,Cresswell
-Jordan Hugill,FWD,Norwich,0.6,0,0,0,0,0.0,322,7,0,0,0.0,0.0,2021-08-14T16:30:00Z,0,0,0,0,0,1,0,3139,3,0,0.0,0,0,0,0,55,True,0,Liverpool,Hugill
-Nathan Broadhead,FWD,Everton,1.0,0,0,0,0,0.0,545,4,0,0,0.0,0.0,2021-08-14T14:00:00Z,0,0,0,0,0,1,0,0,1,3,0.0,0,0,0,0,45,True,0,Southampton,Broadhead
-Federico Fernández,DEF,Newcastle,0.7,0,0,20,0,0.3,465,9,4,0,5.1,46.8,2021-08-15T13:00:00Z,90,0,0,0,0,1,0,14823,4,2,4.0,0,0,0,0,45,True,0,West Ham,Fernández
-Curtis Jones,MID,Liverpool,0.0,0,0,0,0,0.0,244,7,0,0,0.0,0.0,2021-08-14T16:30:00Z,0,0,0,0,0,1,0,1989,3,0,0.0,0,0,0,0,50,False,0,Norwich,Jones
-John Ruddy,GK,Wolves,1.3,0,0,0,0,0.0,452,5,0,0,0.0,0.0,2021-08-14T14:00:00Z,0,0,0,0,0,1,0,14394,0,1,0.0,0,0,0,0,45,False,0,Leicester,Ruddy
-Mohammed Salisu,DEF,Southampton,1.7,0,0,14,0,1.4,351,4,3,0,4.4,23.4,2021-08-14T14:00:00Z,90,0,0,0,0,1,0,6041,1,3,19.0,1,0,0,0,45,False,0,Everton,Salisu
-N'Golo Kanté,MID,Chelsea,1.5,0,0,0,0,0.0,130,3,0,0,0.0,0.0,2021-08-14T14:00:00Z,0,0,0,0,0,1,0,316399,0,3,0.0,0,0,0,0,50,True,0,Crystal Palace,Kanté
-Josh Martin,MID,Norwich,0.0,0,0,0,0,0.0,330,7,0,0,0.0,0.0,2021-08-14T16:30:00Z,0,0,0,0,0,1,0,55,3,0,0.0,0,0,0,0,50,True,0,Liverpool,Martin
-Wilfred Ndidi,MID,Leicester,1.9,0,0,20,1,3.3,216,5,0,0,2.0,16.4,2021-08-14T14:00:00Z,90,0,0,0,0,1,0,106828,0,1,0.0,3,0,0,0,50,True,0,Wolves,Ndidi
-Matt Ritchie,DEF,Newcastle,1.2,1,0,24,0,54.9,292,9,4,0,9.7,28.0,2021-08-15T13:00:00Z,90,0,0,0,0,1,0,16998,4,2,14.0,3,0,0,0,50,True,0,West Ham,Ritchie
-Nathan Redmond,MID,Southampton,2.1,0,0,4,0,1.4,336,4,0,0,0.6,2.6,2021-08-14T14:00:00Z,7,0,0,0,0,1,0,8313,1,3,2.0,1,0,0,0,60,False,0,Everton,Redmond
-Mathew Ryan,GK,Brighton,0.0,0,0,0,0,0.0,65,2,0,0,0.0,0.0,2021-08-14T14:00:00Z,0,0,0,0,0,1,0,1410,2,1,0.0,0,0,0,0,45,False,0,Burnley,Ryan
-Ryan Fredericks,DEF,West Ham,2.7,0,0,3,0,0.0,415,9,0,0,0.0,0.0,2021-08-15T13:00:00Z,2,0,0,0,0,1,0,9545,4,2,0.0,1,0,0,0,45,False,0,Newcastle,Fredericks
+name,position,team,xP,assists,bonus,bps,clean_sheets,creativity,element,fixture,goals_conceded,goals_scored,ict_index,influence,kickoff_time,minutes,own_goals,penalties_missed,penalties_saved,red_cards,round,saves,selected,team_a_score,team_h_score,threat,total_points,transfers_balance,transfers_in,transfers_out,value,was_home,yellow_cards,opponent_team
+Eric Bailly,DEF,Man Utd,0.0,0,0,0,0,0.0,286,6,0,0,0.0,0.0,2021-08-14T11:30:00Z,0,0,0,0,0,1,0,9363,1,5,0.0,0,0,0,0,50,True,0,Leeds
+Keinan Davis,FWD,Aston Villa,0.4,0,0,0,0,0.0,49,8,0,0,0.0,0.0,2021-08-14T14:00:00Z,0,0,0,0,0,1,0,169789,2,3,0.0,0,0,0,0,45,False,0,Watford
+Ayotomiwa Dele-Bashiru,MID,Watford,0.0,0,0,0,0,0.0,394,8,0,0,0.0,0.0,2021-08-14T14:00:00Z,0,0,0,0,0,1,0,4092,2,3,0.0,0,0,0,0,45,True,0,Aston Villa
+James Ward-Prowse,MID,Southampton,2.3,0,0,20,0,30.5,341,4,3,0,5.2,21.6,2021-08-14T14:00:00Z,90,0,0,0,0,1,0,299682,1,3,0.0,2,0,0,0,65,False,0,Everton
+Bruno Fernandes,MID,Man Utd,4.4,0,3,61,0,35.9,277,6,1,3,20.1,106.2,2021-08-14T11:30:00Z,90,0,0,0,0,1,0,3381004,1,5,59.0,20,0,0,0,120,True,0,Leeds
+Adrián San Miguel del Castillo,GK,Liverpool,2.8,0,0,0,0,0.0,223,7,0,0,0.0,0.0,2021-08-14T16:30:00Z,0,0,0,0,0,1,0,17548,3,0,0.0,0,0,0,0,45,False,0,Norwich
+James McArthur,MID,Crystal Palace,0.5,0,0,22,0,26.0,148,3,3,0,5.5,24.8,2021-08-14T14:00:00Z,90,0,0,0,0,1,0,16857,0,3,4.0,2,0,0,0,45,False,0,Chelsea
+Kwadwo Baah,MID,Watford,0.5,0,0,0,0,0.0,405,8,0,0,0.0,0.0,2021-08-14T14:00:00Z,0,0,0,0,0,1,0,6634,2,3,0.0,0,0,0,0,45,True,0,Aston Villa
+Paul Dummett,DEF,Newcastle,0.0,0,0,0,0,0.0,301,9,0,0,0.0,0.0,2021-08-15T13:00:00Z,0,0,0,0,0,1,0,1515,4,2,0.0,0,0,0,0,45,True,0,West Ham
+Jairo Riedewald,MID,Crystal Palace,0.9,0,0,8,0,5.4,157,3,3,0,0.8,2.8,2021-08-14T14:00:00Z,76,0,0,0,0,1,0,2741,0,3,0.0,2,0,0,0,50,False,0,Chelsea
+Alexis Mac Allister,MID,Brighton,2.4,0,3,28,0,0.4,74,2,0,1,5.6,38.2,2021-08-14T14:00:00Z,14,0,0,0,0,1,0,3931,2,1,17.0,9,0,0,0,55,False,0,Burnley
+Alireza Jahanbakhsh,MID,Brighton,0.0,0,0,0,0,0.0,66,2,0,0,0.0,0.0,2021-08-14T14:00:00Z,0,0,0,0,0,1,0,203,2,1,0.0,0,0,0,0,55,False,0,Burnley
+Willy Boly,DEF,Wolves,0.4,0,0,0,0,0.0,428,5,0,0,0.0,0.0,2021-08-14T14:00:00Z,0,0,0,0,0,1,0,8049,0,1,0.0,0,0,0,0,50,False,0,Leicester
+Diogo Dalot,DEF,Man Utd,2.2,0,0,0,0,0.0,510,6,0,0,0.0,0.0,2021-08-14T11:30:00Z,0,0,0,0,0,1,0,4750,1,5,0.0,0,0,0,0,45,True,0,Leeds
+Jeffrey Schlupp,MID,Crystal Palace,1.4,0,0,3,0,1.4,155,3,2,0,0.6,1.0,2021-08-14T14:00:00Z,56,0,0,0,0,1,0,4667,0,3,4.0,1,0,0,0,55,False,0,Chelsea
+Joshua King,FWD,Watford,0.0,0,0,0,0,0.0,468,8,0,0,0.0,0.0,2021-08-14T14:00:00Z,0,0,0,0,0,1,0,21981,2,3,0.0,0,0,0,0,55,True,0,Aston Villa
+Richarlison de Andrade,FWD,Everton,2.4,1,3,41,0,29.3,180,4,1,1,13.0,63.8,2021-08-14T14:00:00Z,88,0,0,0,0,1,0,640325,1,3,37.0,11,0,0,0,75,True,1,Southampton
+Jamal Baptiste,DEF,West Ham,2.0,0,0,0,0,0.0,554,9,0,0,0.0,0.0,2021-08-15T13:00:00Z,0,0,0,0,0,1,0,0,4,2,0.0,0,0,0,0,40,False,0,Newcastle
+Sam Byram,DEF,Norwich,0.0,0,0,0,0,0.0,321,7,0,0,0.0,0.0,2021-08-14T16:30:00Z,0,0,0,0,0,1,0,2098,3,0,0.0,0,0,0,0,45,True,0,Liverpool
+Danny Rose,DEF,Watford,1.2,0,0,0,0,0.0,377,8,0,0,0.0,0.0,2021-08-14T14:00:00Z,0,0,0,0,0,1,0,47198,2,3,0.0,0,0,0,0,45,True,0,Aston Villa
+Ederson Santana de Moraes,GK,Man City,4.5,0,0,10,0,0.0,257,10,1,0,0.7,6.6,2021-08-15T15:30:00Z,90,0,0,0,0,1,1,683423,0,1,0.0,2,0,0,0,60,False,0,Spurs
+Liam Cooper,DEF,Leeds,1.2,0,0,10,0,10.5,184,6,5,0,3.8,25.4,2021-08-14T11:30:00Z,90,0,0,0,0,1,0,21528,1,5,2.0,-1,0,0,0,45,False,1,Man Utd
+Frédéric Guilbert,DEF,Aston Villa,1.7,0,0,0,0,0.0,46,8,0,0,0.0,0.0,2021-08-14T14:00:00Z,0,0,0,0,0,1,0,1794,2,3,0.0,0,0,0,0,45,False,0,Watford
+Matt Targett,DEF,Aston Villa,2.7,0,0,4,0,14.8,39,8,2,0,1.8,3.0,2021-08-14T14:00:00Z,45,0,0,0,0,1,0,675492,2,3,0.0,0,0,0,0,50,False,0,Watford
+Adama Traoré,MID,Wolves,1.6,0,0,10,0,13.4,435,5,1,0,12.1,20.6,2021-08-14T14:00:00Z,90,0,0,0,0,1,0,71206,0,1,87.0,2,0,0,0,60,False,0,Leicester
+Jorge Luiz Frello Filho,MID,Chelsea,2.6,0,0,14,1,21.4,123,3,0,0,4.3,19.6,2021-08-14T14:00:00Z,90,0,0,0,0,1,0,328061,0,3,2.0,3,0,0,0,60,True,0,Crystal Palace
+Diogo Jota,MID,Liverpool,3.5,0,0,21,1,1.9,240,7,0,1,7.6,37.8,2021-08-14T16:30:00Z,60,0,0,0,0,1,0,777536,3,0,36.0,8,0,0,0,75,False,0,Norwich
+Ilkay Gündogan,MID,Man City,3.0,0,0,8,0,7.8,250,10,1,0,5.2,12.4,2021-08-15T15:30:00Z,90,0,0,0,0,1,0,577874,0,1,32.0,2,0,0,0,75,False,0,Spurs
+Luke Shaw,DEF,Man Utd,3.1,0,0,5,0,28.7,275,6,1,0,4.1,6.2,2021-08-14T11:30:00Z,90,0,0,0,0,1,0,3743944,1,5,6.0,1,0,0,0,55,True,1,Leeds
+Armando Broja,FWD,Southampton,1.3,0,0,0,0,0.0,518,4,0,0,0.0,0.0,2021-08-14T14:00:00Z,0,0,0,0,0,1,0,50205,1,3,0.0,0,0,0,0,50,False,0,Everton
+Stipe Perica,FWD,Watford,0.5,0,0,0,0,0.0,388,8,0,0,0.0,0.0,2021-08-14T14:00:00Z,0,0,0,0,0,1,0,305769,2,3,0.0,0,0,0,0,45,True,0,Aston Villa
+Emerson Palmieri dos Santos,DEF,Chelsea,2.2,0,0,3,0,0.1,539,3,0,0,0.2,0.0,2021-08-14T14:00:00Z,4,0,0,0,0,1,0,0,0,3,2.0,1,0,0,0,45,True,0,Crystal Palace
+Isaac Success Ajayi,FWD,Watford,0.8,0,0,0,0,0.0,393,8,0,0,0.0,0.0,2021-08-14T14:00:00Z,0,0,0,0,0,1,0,38535,2,3,0.0,0,0,0,0,50,True,0,Aston Villa
+Declan Rice,MID,West Ham,2.4,0,0,22,0,25.3,421,9,2,0,5.9,27.8,2021-08-15T13:00:00Z,90,0,0,0,0,1,0,299441,4,2,6.0,2,0,0,0,50,False,0,Newcastle
+Juan Mata,MID,Man Utd,1.9,0,0,0,0,0.0,459,6,0,0,0.0,0.0,2021-08-14T11:30:00Z,0,0,0,0,0,1,0,3734,1,5,0.0,0,0,0,0,50,True,0,Leeds
+Hélder Costa,MID,Leeds,1.4,0,0,1,0,0.4,192,6,0,0,0.0,0.0,2021-08-14T11:30:00Z,21,0,0,0,0,1,0,14333,1,5,1.0,1,0,0,0,55,False,0,Man Utd
+Robert Street,FWD,Crystal Palace,0.5,0,0,0,0,0.0,542,3,0,0,0.0,0.0,2021-08-14T14:00:00Z,0,0,0,0,0,1,0,0,0,3,0.0,0,0,0,0,45,False,0,Chelsea
+Harvey Elliott,MID,Liverpool,2.9,0,0,3,0,0.8,506,7,0,0,0.3,0.4,2021-08-14T16:30:00Z,7,0,0,0,0,1,0,6475,3,0,2.0,1,0,0,0,55,False,0,Norwich
+Mahmoud Ahmed Ibrahim Hassan,MID,Aston Villa,0.0,0,0,0,0,0.0,37,8,0,0,0.0,0.0,2021-08-14T14:00:00Z,0,0,0,0,0,1,0,612,2,3,0.0,0,0,0,0,55,False,0,Watford
+Ashley Young,DEF,Aston Villa,2.7,0,0,13,0,22.7,52,8,3,0,3.7,8.4,2021-08-14T14:00:00Z,90,0,0,0,0,1,0,63216,2,3,6.0,1,0,0,0,50,False,0,Watford
+Hamza Choudhury,MID,Leicester,1.5,0,0,0,0,0.0,214,5,0,0,0.0,0.0,2021-08-14T14:00:00Z,0,0,0,0,0,1,0,8491,0,1,0.0,0,0,0,0,45,True,0,Wolves
+Christoph Zimmermann,DEF,Norwich,0.7,0,0,0,0,0.0,324,7,0,0,0.0,0.0,2021-08-14T16:30:00Z,0,0,0,0,0,1,0,7768,3,0,0.0,0,0,0,0,45,True,0,Liverpool
+Tammy Abraham,FWD,Chelsea,2.6,0,0,0,0,0.0,136,3,0,0,0.0,0.0,2021-08-14T14:00:00Z,0,0,0,0,0,1,0,45383,0,3,0.0,0,0,0,0,65,True,0,Crystal Palace
+Shane Duffy,DEF,Brighton,1.5,0,0,22,0,0.2,56,2,1,0,9.2,34.8,2021-08-14T14:00:00Z,90,0,0,0,0,1,0,226602,2,1,57.0,2,0,0,0,40,False,0,Burnley
+Juraj Kucka,MID,Watford,1.4,0,0,3,1,0.8,495,8,0,0,1.1,8.2,2021-08-14T14:00:00Z,68,0,0,0,0,1,0,2737,2,3,2.0,2,0,0,0,55,True,1,Aston Villa
+André Filipe Tavares Gomes,MID,Everton,1.4,0,0,0,0,0.0,172,4,0,0,0.0,0.0,2021-08-14T14:00:00Z,0,0,0,0,0,1,0,10273,1,3,0.0,0,0,0,0,50,True,0,Southampton
+Reece James,DEF,Chelsea,3.1,0,0,4,0,2.1,142,3,0,0,0.6,2.2,2021-08-14T14:00:00Z,23,0,0,0,0,1,0,465500,0,3,2.0,1,0,0,0,55,True,0,Crystal Palace
+Luke Cundle,MID,Wolves,0.5,0,0,0,0,0.0,547,5,0,0,0.0,0.0,2021-08-14T14:00:00Z,0,0,0,0,0,1,0,0,0,1,0.0,0,0,0,0,45,False,0,Leicester
+Adam Forshaw,MID,Leeds,0.5,0,0,0,0,0.0,552,6,0,0,0.0,0.0,2021-08-14T11:30:00Z,0,0,0,0,0,1,0,0,1,5,0.0,0,0,0,0,45,False,0,Man Utd
+Kepa Arrizabalaga,GK,Chelsea,3.1,0,0,0,0,0.0,129,3,0,0,0.0,0.0,2021-08-14T14:00:00Z,0,0,0,0,0,1,0,19536,0,3,0.0,0,0,0,0,50,True,0,Crystal Palace
+Kortney Hause,DEF,Aston Villa,2.2,0,0,0,0,0.0,36,8,0,0,0.0,0.0,2021-08-14T14:00:00Z,0,0,0,0,0,1,0,8179,2,3,0.0,0,0,0,0,45,False,0,Watford
+Tyrone Mings,DEF,Aston Villa,2.7,0,0,12,0,0.8,38,8,3,0,1.6,15.6,2021-08-14T14:00:00Z,90,0,0,0,0,1,0,572675,2,3,0.0,0,0,0,0,50,False,1,Watford
+Ainsley Maitland-Niles,MID,Arsenal,2.9,0,0,0,0,0.0,13,1,0,0,0.0,0.0,2021-08-13T19:00:00Z,0,0,0,0,0,1,0,6271,0,2,0.0,0,0,0,0,55,False,0,Brentford
+Jesse Lingard,MID,Man Utd,0.7,0,0,0,0,0.0,276,6,0,0,0.0,0.0,2021-08-14T11:30:00Z,0,0,0,0,0,1,0,150273,1,5,0.0,0,0,0,0,70,True,0,Leeds
+Billy Gilmour,MID,Norwich,0.0,0,0,14,0,2.1,145,7,3,0,1.4,11.6,2021-08-14T16:30:00Z,90,0,0,0,0,1,0,592329,3,0,0.0,2,0,0,0,45,True,0,Liverpool
+Jaden Philogene-Bidace,MID,Aston Villa,1.9,0,0,0,0,0.0,497,8,0,0,0.0,0.0,2021-08-14T14:00:00Z,0,0,0,0,0,1,0,1298,2,3,0.0,0,0,0,0,50,False,0,Watford
+Fernando Luiz Rosa,MID,Man City,1.9,0,0,10,0,28.7,453,10,1,0,4.8,11.2,2021-08-15T15:30:00Z,90,0,0,0,0,1,0,22889,0,1,8.0,2,0,0,0,50,False,0,Spurs
+Björn Engels,DEF,Aston Villa,0.0,0,0,0,0,0.0,31,8,0,0,0.0,0.0,2021-08-14T14:00:00Z,0,0,0,0,0,1,0,95,2,3,0.0,0,0,0,0,45,False,0,Watford
+Tariqe Fosu-Henry,MID,Brentford,0.9,0,0,0,0,0.0,79,1,0,0,0.0,0.0,2021-08-13T19:00:00Z,0,0,0,0,0,1,0,7791,0,2,0.0,0,0,0,0,55,True,0,Arsenal
+Thomas Partey,MID,Arsenal,0.0,0,0,0,0,0.0,15,1,0,0,0.0,0.0,2021-08-13T19:00:00Z,0,0,0,0,0,1,0,5080,0,2,0.0,0,0,0,0,50,False,0,Brentford
+Karl Hein,GK,Arsenal,2.0,0,0,0,0,0.0,532,1,0,0,0.0,0.0,2021-08-13T19:00:00Z,0,0,0,0,0,1,0,0,0,2,0.0,0,0,0,0,40,False,0,Brentford
+Kiko Femenía,DEF,Watford,1.2,0,0,0,0,0.0,382,8,0,0,0.0,0.0,2021-08-14T14:00:00Z,0,0,0,0,0,1,0,15648,2,3,0.0,0,0,0,0,45,True,0,Aston Villa
+Raúl Jiménez,FWD,Wolves,1.9,0,0,2,0,36.9,430,5,1,0,5.9,4.0,2021-08-14T14:00:00Z,90,0,0,0,0,1,0,240264,0,1,18.0,2,0,0,0,75,False,0,Leicester
+Sean Longstaff,MID,Newcastle,0.0,0,0,3,0,0.4,309,9,0,0,0.5,4.4,2021-08-15T13:00:00Z,6,0,0,0,0,1,0,22857,4,2,0.0,1,0,0,0,45,True,0,West Ham
+Boubakary Soumaré,MID,Leicester,1.9,0,0,4,0,0.9,458,5,0,0,0.4,3.4,2021-08-14T14:00:00Z,28,0,0,0,0,1,0,7397,0,1,0.0,1,0,0,0,50,True,0,Wolves
+Héctor Bellerín,DEF,Arsenal,3.2,0,0,0,0,0.0,9,1,0,0,0.0,0.0,2021-08-13T19:00:00Z,0,0,0,0,0,1,0,72864,0,2,0.0,0,0,0,0,50,False,0,Brentford
+Emmanuel Dennis,FWD,Watford,0.8,1,3,44,1,33.4,450,8,0,1,18.3,62.2,2021-08-14T14:00:00Z,65,0,0,0,0,1,0,25528,2,3,87.0,12,0,0,0,50,True,0,Aston Villa
+Lucas Torreira,MID,Arsenal,2.0,0,0,0,0,0.0,18,1,0,0,0.0,0.0,2021-08-13T19:00:00Z,0,0,0,0,0,1,0,29602,0,2,0.0,0,0,0,0,45,False,0,Brentford
+Nampalys Mendy,MID,Leicester,1.5,0,0,0,0,0.0,203,5,0,0,0.0,0.0,2021-08-14T14:00:00Z,0,0,0,0,0,1,0,31304,0,1,0.0,0,0,0,0,45,True,0,Wolves
+Ryan Fraser,MID,Newcastle,0.9,0,0,2,0,1.3,298,9,0,0,0.5,0.0,2021-08-15T13:00:00Z,20,0,0,0,0,1,0,9176,4,2,5.0,1,0,0,0,55,True,0,West Ham
+Paul Pogba,MID,Man Utd,3.1,4,2,46,0,60.0,272,6,1,0,15.0,74.8,2021-08-14T11:30:00Z,74,0,0,0,0,1,0,214089,1,5,15.0,16,0,0,0,75,True,0,Leeds
+Bertrand Traoré,MID,Aston Villa,2.6,1,0,16,0,1.6,32,8,0,0,3.3,5.8,2021-08-14T14:00:00Z,18,0,0,0,0,1,0,141304,2,3,26.0,4,0,0,0,60,False,0,Watford
+Leandro Trossard,MID,Brighton,2.8,0,0,4,0,1.9,64,2,1,0,1.2,2.2,2021-08-14T14:00:00Z,75,0,0,0,0,1,0,88156,2,1,8.0,2,0,0,0,65,False,0,Burnley
+Christian Nørgaard,MID,Brentford,0.4,0,0,25,1,1.8,77,1,0,1,8.0,38.4,2021-08-13T19:00:00Z,90,0,0,0,0,1,0,13090,0,2,40.0,8,0,0,0,50,True,0,Arsenal
+Wesley Fofana,DEF,Leicester,0.0,0,0,0,0,0.0,220,5,0,0,0.0,0.0,2021-08-14T14:00:00Z,0,0,0,0,0,1,0,60900,0,1,0.0,0,0,0,0,45,True,0,Wolves
+Nemanja Matic,MID,Man Utd,1.5,0,0,4,0,1.7,271,6,0,0,0.8,6.6,2021-08-14T11:30:00Z,21,0,0,0,0,1,0,14969,1,5,0.0,1,0,0,0,45,True,0,Leeds
+Arthur Masuaku,DEF,West Ham,2.0,0,0,0,0,0.0,417,9,0,0,0.0,0.0,2021-08-15T13:00:00Z,0,0,0,0,0,1,0,5351,4,2,0.0,0,0,0,0,45,False,0,Newcastle
+Bernard Anício Caldeira Duarte,MID,Everton,0.0,0,0,0,0,0.0,167,4,0,0,0.0,0.0,2021-08-14T14:00:00Z,0,0,0,0,0,1,0,471,1,3,0.0,0,0,0,0,55,True,0,Southampton
+Brandon Williams,DEF,Man Utd,1.5,0,0,0,0,0.0,290,6,0,0,0.0,0.0,2021-08-14T11:30:00Z,0,0,0,0,0,1,0,135410,1,5,0.0,0,0,0,0,40,True,0,Leeds
+Kenny McLean,MID,Norwich,0.4,0,0,0,0,0.0,318,7,0,0,0.0,0.0,2021-08-14T16:30:00Z,0,0,0,0,0,1,0,3511,3,0,0.0,0,0,0,0,50,True,0,Liverpool
+Jeremy Ngakia,DEF,Watford,1.2,0,0,0,0,0.0,400,8,0,0,0.0,0.0,2021-08-14T14:00:00Z,0,0,0,0,0,1,0,4345,2,3,0.0,0,0,0,0,45,True,0,Aston Villa
+Sadio Mané,MID,Liverpool,4.9,0,0,11,1,44.0,230,7,0,0,11.2,16.4,2021-08-14T16:30:00Z,90,0,0,0,0,1,0,306339,3,0,52.0,3,0,0,0,120,False,0,Norwich
+Eddie Nketiah,FWD,Arsenal,0.0,0,0,0,0,0.0,20,1,0,0,0.0,0.0,2021-08-13T19:00:00Z,0,0,0,0,0,1,0,8562,0,2,0.0,0,0,0,0,55,False,0,Brentford
+Jakub Moder,MID,Brighton,1.5,1,0,13,0,10.8,75,2,0,0,5.1,21.2,2021-08-14T14:00:00Z,18,0,0,0,0,1,0,8712,2,1,19.0,4,0,0,0,45,False,0,Burnley
+Ben Davies,DEF,Liverpool,2.0,0,0,0,0,0.0,248,7,0,0,0.0,0.0,2021-08-14T16:30:00Z,0,0,0,0,0,1,0,29413,3,0,0.0,0,0,0,0,40,False,0,Norwich
+Trevoh Chalobah,DEF,Chelsea,2.7,0,2,37,1,7.0,527,3,0,1,6.3,45.4,2021-08-14T14:00:00Z,90,0,0,0,0,1,0,8103,0,3,11.0,14,0,0,0,50,True,0,Crystal Palace
+Bali Mumba,DEF,Norwich,0.0,0,0,0,0,0.0,515,7,0,0,0.0,0.0,2021-08-14T16:30:00Z,0,0,0,0,0,1,0,21526,3,0,0.0,0,0,0,0,40,True,0,Liverpool
+Enock Mwepu,MID,Brighton,2.6,0,0,5,0,12.1,462,2,1,0,1.8,2.2,2021-08-14T14:00:00Z,45,0,0,0,0,1,0,9904,2,1,4.0,1,0,0,0,60,False,0,Burnley
+Theo Walcott,MID,Southampton,2.1,0,0,8,0,1.8,332,4,2,0,0.9,1.6,2021-08-14T14:00:00Z,79,0,0,0,0,1,0,16692,1,3,6.0,2,0,0,0,60,False,0,Everton
+Fabian Schär,DEF,Newcastle,0.7,0,0,0,0,0.0,305,9,0,0,0.0,0.0,2021-08-15T13:00:00Z,0,0,0,0,0,1,0,17533,4,2,0.0,0,0,0,0,45,True,0,West Ham
+Mateusz Klich,MID,Leeds,1.4,0,0,7,0,5.2,186,6,5,0,2.1,5.8,2021-08-14T11:30:00Z,90,0,0,0,0,1,0,31003,1,5,10.0,2,0,0,0,55,False,0,Man Utd
+Che Adams,FWD,Southampton,2.2,1,0,16,0,18.3,345,4,3,0,5.5,26.4,2021-08-14T14:00:00Z,90,0,0,0,0,1,0,122487,1,3,10.0,5,0,0,0,70,False,0,Everton
+Andriy Yarmolenko,MID,West Ham,2.9,0,0,3,0,1.0,412,9,0,0,0.1,0.0,2021-08-15T13:00:00Z,1,0,0,0,0,1,0,18464,4,2,0.0,1,0,0,0,55,False,0,Newcastle
+Onel Hernández,MID,Norwich,0.4,0,0,0,0,0.0,320,7,0,0,0.0,0.0,2021-08-14T16:30:00Z,0,0,0,0,0,1,0,4889,3,0,0.0,0,0,0,0,50,True,0,Liverpool
+Ben Chilwell,DEF,Chelsea,3.4,0,0,0,0,0.0,135,3,0,0,0.0,0.0,2021-08-14T14:00:00Z,0,0,0,0,0,1,0,896206,0,3,0.0,0,0,0,0,60,True,0,Crystal Palace
+Leander Dendoncker,MID,Wolves,0.9,0,0,4,0,0.6,434,5,0,0,1.2,11.6,2021-08-14T14:00:00Z,24,0,0,0,0,1,0,14765,0,1,0.0,1,0,0,0,50,False,0,Leicester
+Andrew Robertson,DEF,Liverpool,0.0,0,0,0,0,0.0,234,7,0,0,0.0,0.0,2021-08-14T16:30:00Z,0,0,0,0,0,1,0,106719,3,0,0.0,0,0,0,0,70,False,0,Norwich
+Marcus Rashford,MID,Man Utd,0.0,0,0,0,0,0.0,281,6,0,0,0.0,0.0,2021-08-14T11:30:00Z,0,0,0,0,0,1,0,21167,1,5,0.0,0,0,0,0,95,True,0,Leeds
+Rayan Ait Nouri,DEF,Wolves,1.2,0,0,0,0,0.0,470,5,0,0,0.0,0.0,2021-08-14T14:00:00Z,0,0,0,0,0,1,0,44020,0,1,0.0,0,0,0,0,45,False,0,Leicester
+Michal Karbownik,DEF,Brighton,1.5,0,0,0,0,0.0,536,2,0,0,0.0,0.0,2021-08-14T14:00:00Z,0,0,0,0,0,1,0,0,2,1,0.0,0,0,0,0,40,False,0,Burnley
+Ciaran Clark,DEF,Newcastle,0.7,0,0,12,0,11.6,293,9,4,0,5.6,16.6,2021-08-15T13:00:00Z,90,0,0,0,0,1,0,9309,4,2,28.0,0,0,0,0,45,True,0,West Ham
+Pascal Groß,MID,Brighton,2.6,1,1,24,0,35.3,55,2,1,0,7.6,26.4,2021-08-14T14:00:00Z,90,0,0,0,0,1,0,34936,2,1,14.0,6,0,0,0,60,False,0,Burnley
+Bobby Thomas,DEF,Burnley,0.5,0,0,0,0,0.0,534,2,0,0,0.0,0.0,2021-08-14T14:00:00Z,0,0,0,0,0,1,0,0,2,1,0.0,0,0,0,0,40,True,0,Brighton
+John McGinn,MID,Aston Villa,2.6,0,0,28,0,2.1,35,8,3,1,5.6,40.4,2021-08-14T14:00:00Z,90,0,0,0,0,1,0,60533,2,3,13.0,7,0,0,0,60,False,0,Watford
+Bukayo Saka,MID,Arsenal,3.3,0,0,4,0,12.3,22,1,1,0,3.1,6.6,2021-08-13T19:00:00Z,31,0,0,0,0,1,0,1014984,0,2,12.0,1,0,0,0,65,False,0,Brentford
+Takumi Minamino,MID,Liverpool,2.9,0,0,0,0,0.0,236,7,0,0,0.0,0.0,2021-08-14T16:30:00Z,0,0,0,0,0,1,0,9552,3,0,0.0,0,0,0,0,55,False,0,Norwich
+Rhys Williams,DEF,Liverpool,2.7,0,0,0,0,0.0,247,7,0,0,0.0,0.0,2021-08-14T16:30:00Z,0,0,0,0,0,1,0,4581,3,0,0.0,0,0,0,0,45,False,0,Norwich
+Jack Butland,GK,Crystal Palace,1.3,0,0,0,0,0.0,156,3,0,0,0.0,0.0,2021-08-14T14:00:00Z,0,0,0,0,0,1,0,30766,0,3,0.0,0,0,0,0,45,False,0,Chelsea
+João Cancelo,DEF,Man City,3.4,0,0,21,0,38.5,256,10,1,0,7.2,21.2,2021-08-15T15:30:00Z,90,0,0,0,0,1,0,484049,0,1,12.0,2,0,0,0,60,False,0,Spurs
+Marvelous Nakamba,MID,Aston Villa,1.5,0,0,13,0,6.5,41,8,3,0,1.3,6.4,2021-08-14T14:00:00Z,90,0,0,0,0,1,0,7728,2,3,0.0,2,0,0,0,45,False,0,Watford
+Cédric Soares,DEF,Arsenal,2.7,0,0,0,0,0.0,5,1,0,0,0.0,0.0,2021-08-13T19:00:00Z,0,0,0,0,0,1,0,17385,0,2,0.0,0,0,0,0,45,False,0,Brentford
+Joseph Gomez,DEF,Liverpool,3.2,0,0,0,0,0.0,238,7,0,0,0.0,0.0,2021-08-14T16:30:00Z,0,0,0,0,0,1,0,52503,3,0,0.0,0,0,0,0,50,False,0,Norwich
+Johann Berg Gudmundsson,MID,Burnley,1.4,0,0,5,0,2.6,108,2,2,0,1.2,7.2,2021-08-14T14:00:00Z,90,0,0,0,0,1,0,4960,2,1,2.0,1,0,0,0,55,True,1,Brighton
+Eric Dier,DEF,Spurs,1.2,0,1,22,1,0.1,361,10,0,0,1.7,17.0,2021-08-15T15:30:00Z,90,0,0,0,0,1,0,96915,0,1,0.0,7,0,0,0,45,True,0,Man City
+Jan Bednarek,DEF,Southampton,1.7,0,0,0,0,0.0,343,4,0,0,0.0,0.0,2021-08-14T14:00:00Z,0,0,0,0,0,1,0,82735,1,3,0.0,0,0,0,0,45,False,0,Everton
+Steven Alzate,MID,Brighton,1.9,0,0,12,0,24.1,73,2,1,0,3.7,10.4,2021-08-14T14:00:00Z,71,0,0,0,0,1,0,3347,2,1,2.0,2,0,0,0,50,False,0,Burnley
+Nathaniel Chalobah,MID,Watford,0.0,0,0,0,0,0.0,385,8,0,0,0.0,0.0,2021-08-14T14:00:00Z,0,0,0,0,0,1,0,1795,2,3,0.0,0,0,0,0,50,True,0,Aston Villa
+Fabio Henrique Tavares,MID,Liverpool,2.9,0,0,4,0,4.6,232,7,0,0,0.6,1.6,2021-08-14T16:30:00Z,29,0,0,0,0,1,0,57480,3,0,0.0,1,0,0,0,55,False,0,Norwich
+Pontus Jansson,DEF,Brentford,0.7,0,0,22,1,0.0,76,1,0,0,1.1,10.8,2021-08-13T19:00:00Z,90,0,0,0,0,1,0,28324,0,2,0.0,6,0,0,0,45,True,0,Arsenal
+João Moutinho,MID,Wolves,0.9,0,0,16,0,14.9,426,5,1,0,2.3,7.2,2021-08-14T14:00:00Z,65,0,0,0,0,1,0,30970,0,1,1.0,2,0,0,0,50,False,0,Leicester
+Asmir Begović,GK,Everton,1.0,0,0,0,0,0.0,481,4,0,0,0.0,0.0,2021-08-14T14:00:00Z,0,0,0,0,0,1,0,153135,1,3,0.0,0,0,0,0,40,True,0,Southampton
+Aymeric Laporte,DEF,Man City,3.1,0,0,0,0,0.0,259,10,0,0,0.0,0.0,2021-08-15T15:30:00Z,0,0,0,0,0,1,0,100948,0,1,0.0,0,0,0,0,55,False,0,Spurs
+Nuno Tavares,DEF,Arsenal,2.7,0,0,0,0,0.7,466,1,0,0,0.1,0.0,2021-08-13T19:00:00Z,9,0,0,0,0,1,0,21150,0,2,1.0,1,0,0,0,45,False,0,Brentford
+Konstantinos Tsimikas,DEF,Liverpool,2.0,0,0,21,1,2.9,245,7,0,0,4.9,9.4,2021-08-14T16:30:00Z,90,0,0,0,0,1,0,1540416,3,0,37.0,6,0,0,0,40,False,0,Norwich
+Jacob Murphy,MID,Newcastle,0.4,0,0,23,0,20.3,304,9,4,1,9.4,43.4,2021-08-15T13:00:00Z,90,0,0,0,0,1,0,7373,4,2,30.0,7,0,0,0,50,True,0,West Ham
+Mason Mount,MID,Chelsea,3.0,1,0,19,1,18.5,138,3,0,0,6.2,14.2,2021-08-14T14:00:00Z,90,0,0,0,0,1,0,1404414,0,3,29.0,6,0,0,0,75,True,0,Crystal Palace
+Yoane Wissa,MID,Brentford,1.1,0,0,0,0,0.0,524,1,0,0,0.0,0.0,2021-08-13T19:00:00Z,0,0,0,0,0,1,0,4209,0,2,0.0,0,0,0,0,60,True,0,Arsenal
+Donny van de Beek,MID,Man Utd,2.6,0,0,0,0,0.0,282,6,0,0,0.0,0.0,2021-08-14T11:30:00Z,0,0,0,0,0,1,0,10131,1,5,0.0,0,0,0,0,60,True,0,Leeds
+Divock Origi,FWD,Liverpool,2.3,0,0,0,0,0.0,235,7,0,0,0.0,0.0,2021-08-14T16:30:00Z,0,0,0,0,0,1,0,80854,3,0,0.0,0,0,0,0,50,False,0,Norwich
+Dimitris Giannoulis,DEF,Norwich,0.7,0,0,18,0,12.2,457,7,3,0,3.6,21.4,2021-08-14T16:30:00Z,90,0,0,0,0,1,0,6451,3,0,2.0,1,0,0,0,45,True,0,Liverpool
+Anwar El Ghazi,MID,Aston Villa,2.6,0,0,1,0,2.7,42,8,2,0,0.8,1.4,2021-08-14T14:00:00Z,59,0,0,0,0,1,0,82948,2,3,4.0,1,0,0,0,60,False,0,Watford
+Kyle Walker-Peters,DEF,Southampton,2.2,0,0,0,0,0.0,342,4,0,0,0.0,0.0,2021-08-14T14:00:00Z,0,0,0,0,0,1,0,55553,1,3,0.0,0,0,0,0,50,False,0,Everton
+Mohamed Elyounoussi,MID,Southampton,1.9,0,0,0,0,0.0,517,4,0,0,0.0,0.0,2021-08-14T14:00:00Z,0,0,0,0,0,1,0,1933,1,3,0.0,0,0,0,0,55,False,0,Everton
+Christian Kabasele,DEF,Watford,1.2,0,0,12,0,0.1,384,8,2,0,2.4,20.2,2021-08-14T14:00:00Z,90,0,0,0,0,1,0,6905,2,3,4.0,1,0,0,0,45,True,0,Aston Villa
+Andre Gray,FWD,Watford,1.1,0,0,0,0,0.0,383,8,0,0,0.0,0.0,2021-08-14T14:00:00Z,0,0,0,0,0,1,0,19046,2,3,0.0,0,0,0,0,55,True,0,Aston Villa
+Ibrahima Konaté,DEF,Liverpool,3.6,0,0,0,0,0.0,243,7,0,0,0.0,0.0,2021-08-14T16:30:00Z,0,0,0,0,0,1,0,212508,3,0,0.0,0,0,0,0,55,False,0,Norwich
+Jean-Philippe Mateta,FWD,Crystal Palace,1.1,0,0,5,0,1.3,159,3,2,0,0.8,6.4,2021-08-14T14:00:00Z,56,0,0,0,0,1,0,8209,0,3,0.0,1,0,0,0,55,False,0,Chelsea
+Dane Scarlett,FWD,Spurs,0.5,0,0,0,0,0.0,520,10,0,0,0.0,0.0,2021-08-15T15:30:00Z,0,0,0,0,0,1,0,112697,0,1,0.0,0,0,0,0,45,True,0,Man City
+Luke Thomas,DEF,Leicester,2.2,0,1,29,1,5.7,219,5,0,0,3.1,25.4,2021-08-14T14:00:00Z,90,0,0,0,0,1,0,14916,0,1,0.0,7,0,0,0,45,True,0,Wolves
+Diego Llorente,DEF,Leeds,0.0,0,0,0,0,0.0,190,6,0,0,0.0,0.0,2021-08-14T11:30:00Z,0,0,0,0,0,1,0,8101,1,5,0.0,0,0,0,0,45,False,0,Man Utd
+Robin Koch,DEF,Leeds,1.2,0,0,14,0,0.3,194,6,5,0,1.5,14.4,2021-08-14T11:30:00Z,90,0,0,0,0,1,0,21640,1,5,0.0,0,0,0,0,45,False,0,Man Utd
+Albert Sambi Lokonga,MID,Arsenal,2.4,0,0,13,0,34.3,478,1,2,0,6.2,19.4,2021-08-13T19:00:00Z,90,0,0,0,0,1,0,15087,0,2,8.0,2,0,0,0,50,False,0,Brentford
+Sam Greenwood,FWD,Leeds,0.5,0,0,0,0,0.0,550,6,0,0,0.0,0.0,2021-08-14T11:30:00Z,0,0,0,0,0,1,0,0,1,5,0.0,0,0,0,0,45,False,0,Man Utd
+Nathan Ferguson,DEF,Crystal Palace,0.0,0,0,0,0,0.0,161,3,0,0,0.0,0.0,2021-08-14T14:00:00Z,0,0,0,0,0,1,0,331,0,3,0.0,0,0,0,0,45,False,0,Chelsea
+Alexandre Lacazette,FWD,Arsenal,0.9,0,0,0,0,0.0,6,1,0,0,0.0,0.0,2021-08-13T19:00:00Z,0,0,0,0,0,1,0,192345,0,2,0.0,0,0,0,0,85,False,0,Brentford
+Kevin De Bruyne,MID,Man City,2.2,0,0,4,0,11.6,251,10,0,0,2.8,9.0,2021-08-15T15:30:00Z,11,0,0,0,0,1,0,170476,0,1,7.0,1,0,0,0,120,False,0,Spurs
+Mohamed Salah,MID,Liverpool,5.0,2,3,49,1,36.4,233,7,0,1,17.7,70.6,2021-08-14T16:30:00Z,90,0,0,0,0,1,0,3548693,3,0,70.0,17,0,0,0,125,False,0,Norwich
+Raheem Sterling,MID,Man City,4.1,0,0,1,0,4.2,255,10,1,0,3.9,4.2,2021-08-15T15:30:00Z,69,0,0,0,0,1,0,207534,0,1,31.0,2,0,0,0,110,False,0,Spurs
+Wilfried Zaha,MID,Crystal Palace,1.9,0,0,1,0,3.0,154,3,3,0,2.6,1.0,2021-08-14T14:00:00Z,90,0,0,0,0,1,0,460453,0,3,22.0,2,0,0,0,70,False,0,Chelsea
+Freddie Woodman,GK,Newcastle,0.8,0,0,30,0,0.0,513,9,4,0,5.1,51.0,2021-08-15T13:00:00Z,90,0,0,1,0,1,4,10930,4,2,0.0,6,0,0,0,45,True,0,West Ham
+Robert Sánchez,GK,Brighton,2.3,0,0,19,0,10.0,69,2,1,0,3.0,20.0,2021-08-14T14:00:00Z,90,0,0,0,0,1,2,1701303,2,1,0.0,2,0,0,0,45,False,0,Burnley
+Neco Williams,DEF,Liverpool,2.0,0,0,0,0,0.0,246,7,0,0,0.0,0.0,2021-08-14T16:30:00Z,0,0,0,0,0,1,0,63346,3,0,0.0,0,0,0,0,40,False,0,Norwich
+Ben Mee,DEF,Burnley,1.7,0,0,8,0,0.8,106,2,2,0,1.7,9.6,2021-08-14T14:00:00Z,90,0,0,0,0,1,0,59668,2,1,7.0,1,0,0,0,50,True,0,Brighton
+Pascal Struijk,DEF,Leeds,1.2,0,0,15,0,0.0,198,6,5,0,1.6,16.4,2021-08-14T11:30:00Z,90,0,0,0,0,1,0,29507,1,5,0.0,0,0,0,0,45,False,0,Man Utd
+Tom Davies,MID,Everton,1.4,0,0,0,0,0.0,176,4,0,0,0.0,0.0,2021-08-14T14:00:00Z,0,0,0,0,0,1,0,5901,1,3,0.0,0,0,0,0,50,True,0,Southampton
+Konstantinos Mavropanos,DEF,Arsenal,0.0,0,0,0,0,0.0,24,1,0,0,0.0,0.0,2021-08-13T19:00:00Z,0,0,0,0,0,1,0,99,0,2,0.0,0,0,0,0,45,False,0,Brentford
+Alex Iwobi,MID,Everton,2.1,1,0,7,0,11.0,174,4,0,0,5.5,20.6,2021-08-14T14:00:00Z,20,0,0,0,0,1,0,12093,1,3,23.0,4,0,0,0,60,True,0,Southampton
+Edouard Mendy,GK,Chelsea,4.5,0,0,20,1,0.0,143,3,0,0,1.1,11.2,2021-08-14T14:00:00Z,90,0,0,0,0,1,1,613542,0,3,0.0,6,0,0,0,60,True,0,Crystal Palace
+Serge Aurier,DEF,Spurs,1.7,0,0,0,0,0.0,358,10,0,0,0.0,0.0,2021-08-15T15:30:00Z,0,0,0,0,0,1,0,40214,0,1,0.0,0,0,0,0,50,True,0,Man City
+Marc Guéhi,DEF,Crystal Palace,1.2,0,0,14,0,11.9,477,3,3,0,2.8,13.8,2021-08-14T14:00:00Z,90,0,0,0,0,1,0,21817,0,3,2.0,1,0,0,0,45,False,0,Chelsea
+Matej Vydra,FWD,Burnley,1.1,0,0,2,0,0.3,111,2,0,0,1.0,0.0,2021-08-14T14:00:00Z,5,0,0,0,0,1,0,69784,2,1,12.0,1,0,0,0,55,True,0,Brighton
+Ethan Ampadu,DEF,Chelsea,2.2,0,0,0,0,0.0,139,3,0,0,0.0,0.0,2021-08-14T14:00:00Z,0,0,0,0,0,1,0,7410,0,3,0.0,0,0,0,0,45,True,0,Crystal Palace
+Marcus Forss,FWD,Brentford,0.6,0,0,1,0,1.3,88,1,0,0,0.1,0.0,2021-08-13T19:00:00Z,4,0,0,0,0,1,0,11516,0,2,0.0,1,0,0,0,55,True,0,Arsenal
+Todd Cantwell,MID,Norwich,0.7,0,0,14,0,31.4,325,7,3,0,4.5,12.4,2021-08-14T16:30:00Z,85,0,0,0,0,1,0,47808,3,0,1.0,1,0,0,0,55,True,1,Liverpool
+Jarrod Bowen,MID,West Ham,3.3,0,0,8,0,20.2,420,9,2,0,7.2,20.0,2021-08-15T13:00:00Z,89,0,0,0,0,1,0,114253,4,2,32.0,2,0,0,0,65,False,0,Newcastle
+Folarin Balogun,FWD,Arsenal,2.3,0,0,-2,0,0.4,530,1,1,0,0.9,0.0,2021-08-13T19:00:00Z,58,0,0,0,0,1,0,16628,0,2,15.0,1,0,0,0,50,False,0,Brentford
+Benjamin Mendy,DEF,Man City,3.1,0,1,22,0,29.1,253,10,1,0,4.6,15.2,2021-08-15T15:30:00Z,78,0,0,0,0,1,0,57602,0,1,2.0,3,0,0,0,55,False,0,Spurs
+Willian,MID,Arsenal,3.3,0,0,0,0,0.0,3,1,0,0,0.0,0.0,2021-08-13T19:00:00Z,0,0,0,0,0,1,0,22000,0,2,0.0,0,0,0,0,65,False,0,Brentford
+Francisco Machado Mota de Castro Trincão,MID,Wolves,1.6,0,0,10,0,22.3,461,5,1,0,6.4,15.0,2021-08-14T14:00:00Z,85,0,0,0,0,1,0,30883,0,1,27.0,2,0,0,0,60,False,0,Leicester
+Manuel Lanzini,MID,West Ham,2.3,0,0,0,0,0.0,416,9,0,0,0.0,0.0,2021-08-15T13:00:00Z,0,0,0,0,0,1,0,9936,4,2,0.0,0,0,0,0,60,False,0,Newcastle
+Moussa Sissoko,MID,Spurs,0.5,0,0,0,0,0.0,354,10,0,0,0.0,0.0,2021-08-15T15:30:00Z,0,0,0,0,0,1,0,95256,0,1,0.0,0,0,0,0,45,True,0,Man City
+Luka Milivojevic,MID,Crystal Palace,0.0,0,0,0,0,0.0,152,3,0,0,0.0,0.0,2021-08-14T14:00:00Z,0,0,0,0,0,1,0,9126,0,3,0.0,0,0,0,0,55,False,0,Chelsea
+Ruben Loftus-Cheek,MID,Chelsea,2.4,0,0,0,0,0.0,132,3,0,0,0.0,0.0,2021-08-14T14:00:00Z,0,0,0,0,0,1,0,7043,0,3,0.0,0,0,0,0,55,True,0,Crystal Palace
+Dominic Thompson,DEF,Brentford,0.7,0,0,0,0,0.0,498,1,0,0,0.0,0.0,2021-08-13T19:00:00Z,0,0,0,0,0,1,0,2758,0,2,0.0,0,0,0,0,45,True,0,Arsenal
+Rúnar Alex Rúnarsson,GK,Arsenal,2.0,0,0,0,0,0.0,2,1,0,0,0.0,0.0,2021-08-13T19:00:00Z,0,0,0,0,0,1,0,91500,0,2,0.0,0,0,0,0,40,False,0,Brentford
+Rui Patrício,GK,Wolves,0.0,0,0,0,0,0.0,427,5,0,0,0.0,0.0,2021-08-14T14:00:00Z,0,0,0,0,0,1,0,3082,0,1,0.0,0,0,0,0,50,False,0,Leicester
+Eberechi Eze,MID,Crystal Palace,0.0,0,0,0,0,0.0,160,3,0,0,0.0,0.0,2021-08-14T14:00:00Z,0,0,0,0,0,1,0,3447,0,3,0.0,0,0,0,0,60,False,0,Chelsea
+Joseph Hungbo,MID,Watford,0.5,0,0,0,0,0.0,402,8,0,0,0.0,0.0,2021-08-14T14:00:00Z,0,0,0,0,0,1,0,3366,2,3,0.0,0,0,0,0,45,True,0,Aston Villa
+Dale Stephens,MID,Burnley,0.0,0,0,0,0,0.0,102,2,0,0,0.0,0.0,2021-08-14T14:00:00Z,0,0,0,0,0,1,0,1674,2,1,0.0,0,0,0,0,45,True,0,Brighton
+James Rodríguez,MID,Everton,0.0,0,0,0,0,0.0,166,4,0,0,0.0,0.0,2021-08-14T14:00:00Z,0,0,0,0,0,1,0,139782,1,3,0.0,0,0,0,0,70,True,0,Southampton
+Dwight Gayle,FWD,Newcastle,0.6,0,0,0,0,0.0,300,9,0,0,0.0,0.0,2021-08-15T13:00:00Z,0,0,0,0,0,1,0,16263,4,2,0.0,0,0,0,0,55,True,0,West Ham
+Raphael Dias Belloli,MID,Leeds,1.8,0,0,9,0,19.4,196,6,5,0,4.7,11.6,2021-08-14T11:30:00Z,90,0,0,0,0,1,0,1238151,1,5,16.0,1,0,0,0,65,False,1,Man Utd
+Issa Diop,DEF,West Ham,2.7,0,0,0,0,0.0,424,9,0,0,0.0,0.0,2021-08-15T13:00:00Z,0,0,0,0,0,1,0,30917,4,2,0.0,0,0,0,0,45,False,0,Newcastle
+Michy Batshuayi,FWD,Chelsea,2.1,0,0,0,0,0.0,126,3,0,0,0.0,0.0,2021-08-14T14:00:00Z,0,0,0,0,0,1,0,14838,0,3,0.0,0,0,0,0,55,True,0,Crystal Palace
+Rúben Neves,MID,Wolves,1.4,0,0,14,0,31.2,436,5,1,0,4.5,12.8,2021-08-14T14:00:00Z,90,0,0,0,0,1,0,107318,0,1,1.0,2,0,0,0,55,False,0,Leicester
+Mateo Kovacic,MID,Chelsea,1.9,1,0,24,1,28.5,125,3,0,0,5.7,24.6,2021-08-14T14:00:00Z,90,0,0,0,0,1,0,17075,0,3,4.0,6,0,0,0,50,True,0,Crystal Palace
+Conor Gallagher,MID,Crystal Palace,0.0,0,0,0,0,0.0,144,3,0,0,0.0,0.0,2021-08-14T14:00:00Z,0,0,0,0,0,1,0,2134,0,3,0.0,0,0,0,0,55,False,0,Chelsea
+Anthony Martial,FWD,Man Utd,3.0,0,0,5,0,1.2,278,6,0,0,0.4,2.4,2021-08-14T11:30:00Z,15,0,0,0,0,1,0,130051,1,5,0.0,1,0,0,0,80,True,0,Leeds
+Crysencio Summerville,MID,Leeds,0.5,0,0,0,0,0.0,551,6,0,0,0.0,0.0,2021-08-14T11:30:00Z,0,0,0,0,0,1,0,0,1,5,0.0,0,0,0,0,45,False,0,Man Utd
+Rico Henry,DEF,Brentford,0.7,0,0,22,1,1.3,83,1,0,0,1.7,13.2,2021-08-13T19:00:00Z,90,0,0,0,0,1,0,38378,0,2,2.0,6,0,0,0,45,True,0,Arsenal
+Harry Winks,MID,Spurs,0.5,0,0,0,0,0.0,366,10,0,0,0.0,0.0,2021-08-15T15:30:00Z,0,0,0,0,0,1,0,74300,0,1,0.0,0,0,0,0,45,True,0,Man City
+Davy Pröpper,MID,Brighton,0.0,0,0,0,0,0.0,57,2,0,0,0.0,0.0,2021-08-14T14:00:00Z,0,0,0,0,0,1,0,107,2,1,0.0,0,0,0,0,45,False,0,Burnley
+Frederik Alves,DEF,West Ham,2.0,0,0,0,0,0.0,521,9,0,0,0.0,0.0,2021-08-15T13:00:00Z,0,0,0,0,0,1,0,34822,4,2,0.0,0,0,0,0,40,False,0,Newcastle
+Rodrigo Moreno,FWD,Leeds,1.6,0,0,7,0,1.3,187,6,1,0,0.5,3.6,2021-08-14T11:30:00Z,45,0,0,0,0,1,0,112933,1,5,0.0,1,0,0,0,65,False,0,Man Utd
+Cristian Romero,DEF,Spurs,1.3,0,0,3,0,0.2,494,10,0,0,0.0,0.2,2021-08-15T15:30:00Z,1,0,0,0,0,1,0,22135,0,1,0.0,1,0,0,0,50,True,0,Man City
+Callum Wilson,FWD,Newcastle,1.4,0,0,26,0,1.1,296,9,4,1,10.4,33.0,2021-08-15T13:00:00Z,84,0,0,0,0,1,0,484010,4,2,70.0,6,0,0,0,75,True,0,West Ham
+Joel Matip,DEF,Liverpool,3.2,0,0,25,1,3.8,224,7,0,0,3.3,7.0,2021-08-14T16:30:00Z,90,0,0,0,0,1,0,25704,3,0,22.0,6,0,0,0,50,False,0,Norwich
+Dan Gosling,MID,Watford,0.9,0,0,3,0,0.3,378,8,2,0,0.3,2.6,2021-08-14T14:00:00Z,21,0,0,0,0,1,0,4874,2,3,0.0,1,0,0,0,50,True,0,Aston Villa
+Virgil van Dijk,DEF,Liverpool,4.3,0,1,27,1,17.6,229,7,0,0,3.9,15.6,2021-08-14T16:30:00Z,90,0,0,0,0,1,0,736976,3,0,6.0,7,0,0,0,65,False,0,Norwich
+Ben Wilmot,DEF,Watford,0.0,0,0,0,0,0.0,401,8,0,0,0.0,0.0,2021-08-14T14:00:00Z,0,0,0,0,0,1,0,64,2,3,0.0,0,0,0,0,45,True,0,Aston Villa
+Saïd Benrahma,MID,West Ham,3.1,1,2,39,0,15.0,419,9,2,1,12.8,52.6,2021-08-15T13:00:00Z,87,0,0,0,0,1,0,420297,4,2,60.0,12,0,0,0,60,False,0,Newcastle
+Max Aarons,DEF,Norwich,0.7,0,0,15,0,12.4,326,7,3,0,4.3,29.4,2021-08-14T16:30:00Z,90,0,0,0,0,1,0,156882,3,0,1.0,1,0,0,0,45,True,0,Liverpool
+Demarai Gray,MID,Everton,1.9,0,0,10,0,16.8,484,4,1,0,3.0,10.8,2021-08-14T14:00:00Z,82,0,0,0,0,1,0,27308,1,3,2.0,2,0,0,0,55,True,0,Southampton
+Antonio Rüdiger,DEF,Chelsea,3.1,0,0,22,1,3.4,127,3,0,0,1.8,14.6,2021-08-14T14:00:00Z,90,0,0,0,0,1,0,446404,0,3,0.0,6,0,0,0,55,True,0,Crystal Palace
+Philip Zinckernagel,MID,Watford,0.0,0,0,0,0,0.0,392,8,0,0,0.0,0.0,2021-08-14T14:00:00Z,0,0,0,0,0,1,0,744,2,3,0.0,0,0,0,0,55,True,0,Aston Villa
+Dean Henderson,GK,Man Utd,0.8,0,0,0,0,0.0,280,6,0,0,0.0,0.0,2021-08-14T11:30:00Z,0,0,0,0,0,1,0,117077,1,5,0.0,0,0,0,0,50,True,0,Leeds
+Jamaal Lascelles,DEF,Newcastle,0.7,0,0,0,0,0.0,299,9,0,0,0.0,0.0,2021-08-15T13:00:00Z,0,0,0,0,0,1,0,27048,4,2,0.0,0,0,0,0,45,True,0,West Ham
+Darren Randolph,GK,West Ham,2.8,0,0,0,0,0.0,407,9,0,0,0.0,0.0,2021-08-15T13:00:00Z,0,0,0,0,0,1,0,11617,4,2,0.0,0,0,0,0,45,False,0,Newcastle
+Mads Bech Sørensen,DEF,Brentford,0.7,0,0,3,0,0.0,90,1,0,0,0.0,0.0,2021-08-13T19:00:00Z,19,0,0,0,0,1,0,8201,0,2,0.0,1,0,0,0,45,True,0,Arsenal
+Malang Sarr,DEF,Chelsea,2.7,0,0,0,0,0.0,501,3,0,0,0.0,0.0,2021-08-14T14:00:00Z,0,0,0,0,0,1,0,3636,0,3,0.0,0,0,0,0,50,True,0,Crystal Palace
+Douglas Luiz Soares de Paulo,MID,Aston Villa,0.0,0,0,0,0,0.0,50,8,0,0,0.0,0.0,2021-08-14T14:00:00Z,0,0,0,0,0,1,0,72328,2,3,0.0,0,0,0,0,45,False,0,Watford
+Sergi Canós,MID,Brentford,0.9,0,3,33,1,14.8,81,1,0,1,11.0,60.2,2021-08-13T19:00:00Z,90,0,0,0,0,1,0,15606,0,2,35.0,11,0,0,0,55,True,0,Arsenal
+Przemyslaw Placheta,MID,Norwich,0.0,0,0,0,0,0.0,328,7,0,0,0.0,0.0,2021-08-14T16:30:00Z,0,0,0,0,0,1,0,1551,3,0,0.0,0,0,0,0,50,True,0,Liverpool
+Patson Daka,FWD,Leicester,2.9,0,0,0,0,0.0,455,5,0,0,0.0,0.0,2021-08-14T14:00:00Z,0,0,0,0,0,1,0,105111,0,1,0.0,0,0,0,0,75,True,0,Wolves
+Stuart Armstrong,MID,Southampton,2.1,0,0,0,0,0.0,339,4,0,0,0.0,0.0,2021-08-14T14:00:00Z,0,0,0,0,0,1,0,29374,1,3,0.0,0,0,0,0,60,False,0,Everton
+Ismaila Sarr,MID,Watford,1.6,0,2,30,0,46.1,399,8,2,1,13.9,48.4,2021-08-14T14:00:00Z,90,0,0,0,0,1,0,192715,2,3,44.0,9,0,0,0,60,True,0,Aston Villa
+Owen Otasowie,MID,Wolves,0.5,0,0,0,0,0.0,442,5,0,0,0.0,0.0,2021-08-14T14:00:00Z,0,0,0,0,0,1,0,20548,0,1,0.0,0,0,0,0,45,False,0,Leicester
+Reece Hannam,DEF,Crystal Palace,0.5,0,0,0,0,0.0,540,3,0,0,0.0,0.0,2021-08-14T14:00:00Z,0,0,0,0,0,1,0,0,0,3,0.0,0,0,0,0,40,False,0,Chelsea
+Martin Dubravka,GK,Newcastle,0.0,0,0,0,0,0.0,295,9,0,0,0.0,0.0,2021-08-15T13:00:00Z,0,0,0,0,0,1,0,12762,4,2,0.0,0,0,0,0,45,True,0,West Ham
+Nathaniel Clyne,DEF,Crystal Palace,1.2,0,0,0,0,0.0,493,3,0,0,0.0,0.0,2021-08-14T14:00:00Z,0,0,0,0,0,1,0,7285,0,3,0.0,0,0,0,0,45,False,0,Chelsea
+Lukasz Fabianski,GK,West Ham,3.6,0,0,10,0,0.0,408,9,2,0,1.3,13.2,2021-08-15T13:00:00Z,90,0,0,0,0,1,1,145096,4,2,0.0,1,0,0,0,50,False,0,Newcastle
+Gylfi Sigurdsson,MID,Everton,2.4,0,0,0,0,0.0,164,4,0,0,0.0,0.0,2021-08-14T14:00:00Z,0,0,0,0,0,1,0,144120,1,3,0.0,0,0,0,0,70,True,0,Southampton
+Yerry Mina,DEF,Everton,2.2,0,0,3,0,0.0,175,4,0,0,0.2,2.0,2021-08-14T14:00:00Z,7,0,0,0,0,1,0,41893,1,3,0.0,1,0,0,0,50,True,0,Southampton
+Nathan Collins,DEF,Burnley,1.2,0,0,0,0,0.0,451,2,0,0,0.0,0.0,2021-08-14T14:00:00Z,0,0,0,0,0,1,0,7002,2,1,0.0,0,0,0,0,45,True,0,Brighton
+Mattéo Guendouzi,MID,Arsenal,0.0,0,0,0,0,0.0,25,1,0,0,0.0,0.0,2021-08-13T19:00:00Z,0,0,0,0,0,1,0,221,0,2,0.0,0,0,0,0,45,False,0,Brentford
+Shandon Baptiste,MID,Brentford,0.4,0,0,0,0,0.0,499,1,0,0,0.0,0.0,2021-08-13T19:00:00Z,0,0,0,0,0,1,0,2794,0,2,0.0,0,0,0,0,50,True,0,Arsenal
+James Justin,DEF,Leicester,0.0,0,0,0,0,0.0,218,5,0,0,0.0,0.0,2021-08-14T14:00:00Z,0,0,0,0,0,1,0,2893,0,1,0.0,0,0,0,0,50,True,0,Wolves
+Conor Coventry,MID,West Ham,2.0,0,0,0,0,0.0,522,9,0,0,0.0,0.0,2021-08-15T13:00:00Z,0,0,0,0,0,1,0,6773,4,2,0.0,0,0,0,0,45,False,0,Newcastle
+Grant Hanley,DEF,Norwich,0.7,0,0,20,0,10.1,319,7,3,0,7.0,25.6,2021-08-14T16:30:00Z,90,0,0,0,0,1,0,12650,3,0,34.0,1,0,0,0,45,True,0,Liverpool
+Emiliano Martínez,GK,Aston Villa,3.8,0,0,18,0,0.0,30,8,3,0,2.8,28.2,2021-08-14T14:00:00Z,90,0,0,0,0,1,4,2386407,2,3,0.0,2,0,0,0,55,False,0,Watford
+Oriol Romeu,MID,Southampton,1.0,0,0,12,0,6.3,335,4,2,0,2.2,7.4,2021-08-14T14:00:00Z,79,0,0,0,0,1,0,37248,1,3,8.0,2,0,0,0,45,False,0,Everton
+Emil Krafth,DEF,Newcastle,0.7,0,0,10,0,1.3,303,9,4,0,1.5,9.4,2021-08-15T13:00:00Z,84,0,0,0,0,1,0,4670,4,2,4.0,0,0,0,0,45,True,0,West Ham
+Christian Pulisic,MID,Chelsea,3.2,0,0,21,1,3.4,137,3,0,1,8.2,36.8,2021-08-14T14:00:00Z,81,0,0,0,0,1,0,94495,0,3,42.0,8,0,0,0,80,True,0,Crystal Palace
+Jarosław Jach,DEF,Crystal Palace,1.2,0,0,0,0,0.0,158,3,0,0,0.0,0.0,2021-08-14T14:00:00Z,0,0,0,0,0,1,0,3499,0,3,0.0,0,0,0,0,45,False,0,Chelsea
+Tom Cleverley,MID,Watford,0.9,1,0,17,0,12.0,381,8,1,0,3.7,22.8,2021-08-14T14:00:00Z,78,0,0,0,0,1,0,6655,2,3,2.0,5,0,0,0,50,True,0,Aston Villa
+Çaglar Söyüncü,DEF,Leicester,2.7,0,0,23,1,0.3,217,5,0,0,2.4,23.8,2021-08-14T14:00:00Z,90,0,0,0,0,1,0,184568,0,1,0.0,6,0,0,0,50,True,0,Wolves
+John Stones,DEF,Man City,3.1,0,0,0,0,0.0,252,10,0,0,0.0,0.0,2021-08-15T15:30:00Z,0,0,0,0,0,1,0,778503,0,1,0.0,0,0,0,0,55,False,0,Spurs
+Pedro Neto,MID,Wolves,0.0,0,0,0,0,0.0,441,5,0,0,0.0,0.0,2021-08-14T14:00:00Z,0,0,0,0,0,1,0,2873,0,1,0.0,0,0,0,0,65,False,0,Leicester
+Danny Ings,FWD,Aston Villa,3.0,0,1,29,0,0.9,337,8,3,1,6.0,34.2,2021-08-14T14:00:00Z,90,0,0,0,0,1,0,2574177,2,3,25.0,7,0,0,0,80,False,0,Watford
+Gabriel Jesus,FWD,Man City,3.2,0,0,4,0,13.6,263,10,0,0,1.6,2.4,2021-08-15T15:30:00Z,20,0,0,0,0,1,0,208816,0,1,0.0,1,0,0,0,85,False,0,Spurs
+Scott McTominay,MID,Man Utd,2.4,0,0,14,0,12.4,285,6,1,0,4.8,15.6,2021-08-14T11:30:00Z,68,0,0,0,0,1,0,36489,1,5,20.0,2,0,0,0,55,True,0,Leeds
+Pablo Marí,DEF,Arsenal,2.7,0,0,14,0,1.3,8,1,2,0,2.5,16.6,2021-08-13T19:00:00Z,90,0,0,0,0,1,0,9359,0,2,7.0,1,0,0,0,45,False,0,Brentford
+Taylor Richards,MID,Brighton,1.5,0,0,0,0,0.0,537,2,0,0,0.0,0.0,2021-08-14T14:00:00Z,0,0,0,0,0,1,0,0,2,1,0.0,0,0,0,0,45,False,0,Burnley
+Florin Andone,FWD,Brighton,1.8,0,0,0,0,0.0,500,2,0,0,0.0,0.0,2021-08-14T14:00:00Z,0,0,0,0,0,1,0,12723,2,1,0.0,0,0,0,0,50,False,0,Burnley
+Dominic Calvert-Lewin,FWD,Everton,2.5,0,1,26,0,2.3,177,4,1,1,12.0,34.2,2021-08-14T14:00:00Z,90,0,0,0,0,1,0,686033,1,3,83.0,7,0,0,0,80,True,0,Southampton
+Kalvin Phillips,MID,Leeds,0.9,0,0,0,0,0.0,191,6,0,0,0.0,0.0,2021-08-14T11:30:00Z,0,0,0,0,0,1,0,161941,1,5,0.0,0,0,0,0,50,False,0,Man Utd
+Oliver Skipp,MID,Spurs,0.5,0,0,11,1,0.8,373,10,0,0,1.7,16.2,2021-08-15T15:30:00Z,90,0,0,0,0,1,0,17425,0,1,0.0,3,0,0,0,45,True,0,Man City
+Ollie Watkins,FWD,Aston Villa,2.2,0,0,0,0,0.0,40,8,0,0,0.0,0.0,2021-08-14T14:00:00Z,0,0,0,0,0,1,0,312088,2,3,0.0,0,0,0,0,75,False,0,Watford
+Ethan Pinnock,DEF,Brentford,0.7,1,2,32,1,11.1,91,1,0,0,4.8,36.8,2021-08-13T19:00:00Z,90,0,0,0,0,1,0,13971,0,2,0.0,11,0,0,0,45,True,0,Arsenal
+Vitaly Janelt,MID,Brentford,0.4,0,0,6,1,1.4,84,1,0,0,1.0,6.2,2021-08-13T19:00:00Z,90,0,0,0,0,1,0,3003,0,2,2.0,3,0,0,0,50,True,0,Arsenal
+Davinson Sánchez,DEF,Spurs,1.2,0,0,21,1,0.3,367,10,0,0,2.5,18.8,2021-08-15T15:30:00Z,90,0,0,0,0,1,0,37061,0,1,6.0,5,0,0,0,45,True,1,Man City
+Mark Gillespie,GK,Newcastle,0.0,0,0,0,0,0.0,514,9,0,0,0.0,0.0,2021-08-15T13:00:00Z,0,0,0,0,0,1,0,12284,4,2,0.0,0,0,0,0,40,True,0,West Ham
+Bryan Mbeumo,MID,Brentford,0.9,0,0,4,1,13.3,96,1,0,0,3.8,2.4,2021-08-13T19:00:00Z,85,0,0,0,0,1,0,73833,0,2,22.0,3,0,0,0,55,True,0,Arsenal
+Abdoulaye Doucouré,MID,Everton,1.9,0,2,31,0,4.6,173,4,1,1,8.3,41.8,2021-08-14T14:00:00Z,90,0,0,0,0,1,0,19357,1,3,37.0,8,0,0,0,55,True,1,Southampton
+Tim Krul,GK,Norwich,0.8,0,0,15,0,0.0,314,7,3,0,3.1,30.8,2021-08-14T16:30:00Z,90,0,0,0,0,1,3,99090,3,0,0.0,2,0,0,0,45,True,0,Liverpool
+Jacob Sørensen,DEF,Norwich,0.7,0,0,0,0,0.0,327,7,0,0,0.0,0.0,2021-08-14T16:30:00Z,0,0,0,0,0,1,0,5315,3,0,0.0,0,0,0,0,45,True,0,Liverpool
+Jamal Lewis,DEF,Newcastle,0.7,0,0,0,0,0.0,311,9,0,0,0.0,0.0,2021-08-15T13:00:00Z,0,0,0,0,0,1,0,11767,4,2,0.0,0,0,0,0,45,True,0,West Ham
+Rodri,MID,Man City,2.4,0,0,0,0,0.0,266,10,0,0,0.0,0.0,2021-08-15T15:30:00Z,0,0,0,0,0,1,0,28016,0,1,0.0,0,0,0,0,55,False,0,Spurs
+Winston Reid,DEF,West Ham,2.0,0,0,0,0,0.0,410,9,0,0,0.0,0.0,2021-08-15T13:00:00Z,0,0,0,0,0,1,0,125953,4,2,0.0,0,0,0,0,40,False,0,Newcastle
+Axel Tuanzebe,DEF,Aston Villa,2.2,0,0,0,0,0.0,283,8,0,0,0.0,0.0,2021-08-14T14:00:00Z,0,0,0,0,0,1,0,52507,2,3,0.0,0,0,0,0,45,False,0,Watford
+Hakim Ziyech,MID,Chelsea,0.0,0,0,0,0,0.0,131,3,0,0,0.0,0.0,2021-08-14T14:00:00Z,0,0,0,0,0,1,0,37887,0,3,0.0,0,0,0,0,75,True,0,Crystal Palace
+Patrick Bamford,FWD,Leeds,2.0,0,0,0,0,10.8,189,6,5,0,1.8,0.0,2021-08-14T11:30:00Z,76,0,0,0,0,1,0,1258401,1,5,8.0,2,0,0,0,80,False,0,Man Utd
+William Saliba,DEF,Arsenal,0.0,0,0,0,0,0.0,27,1,0,0,0.0,0.0,2021-08-13T19:00:00Z,0,0,0,0,0,1,0,385,0,2,0.0,0,0,0,0,45,False,0,Brentford
+Marc Albrighton,MID,Leicester,2.4,0,0,0,0,0.0,202,5,0,0,0.0,0.0,2021-08-14T14:00:00Z,0,0,0,0,0,1,0,14368,0,1,0.0,0,0,0,0,55,True,0,Wolves
+Kevin Long,DEF,Burnley,0.0,0,0,0,0,0.0,103,2,0,0,0.0,0.0,2021-08-14T14:00:00Z,0,0,0,0,0,1,0,12414,2,1,0.0,0,0,0,0,40,True,0,Brighton
+Jamie Vardy,FWD,Leicester,3.9,0,0,23,1,24.7,205,5,0,1,12.1,37.2,2021-08-14T14:00:00Z,90,0,0,0,0,1,0,1032316,0,1,59.0,5,0,0,0,105,True,1,Wolves
+Alisson Ramses Becker,GK,Liverpool,5.0,0,0,26,1,0.0,231,7,0,0,2.9,29.4,2021-08-14T16:30:00Z,90,0,0,0,0,1,3,382936,3,0,0.0,7,0,0,0,60,False,0,Norwich
+Emiliano Buendía,MID,Aston Villa,2.8,0,0,6,0,5.3,43,8,3,0,2.0,4.2,2021-08-14T14:00:00Z,71,0,0,0,0,1,0,386824,2,3,10.0,2,0,0,0,65,False,0,Watford
+Miguel Almirón,MID,Newcastle,0.9,0,0,12,0,13.8,308,9,4,0,4.2,10.0,2021-08-15T13:00:00Z,90,0,0,0,0,1,0,34866,4,2,18.0,2,0,0,0,55,True,0,West Ham
+Pablo Fornals,MID,West Ham,3.1,1,0,24,0,48.9,423,9,2,0,11.1,37.6,2021-08-15T13:00:00Z,90,0,0,0,0,1,0,27855,4,2,24.0,5,0,0,0,60,False,0,Newcastle
+Moisés Caicedo,MID,Brighton,1.5,0,0,0,0,0.0,538,2,0,0,0.0,0.0,2021-08-14T14:00:00Z,0,0,0,0,0,1,0,0,2,1,0.0,0,0,0,0,45,False,0,Burnley
+Andros Townsend,MID,Everton,1.9,1,0,21,0,40.5,482,4,1,0,7.1,30.8,2021-08-14T14:00:00Z,69,0,0,0,0,1,0,47331,1,3,0.0,5,0,0,0,55,True,0,Southampton
+Jonjo Shelvey,MID,Newcastle,0.9,0,0,7,0,14.4,291,9,4,0,1.8,3.6,2021-08-15T13:00:00Z,69,0,0,0,0,1,0,9252,4,2,0.0,1,0,0,0,55,True,1,West Ham
+Matt Doherty,DEF,Spurs,1.7,0,0,4,0,0.3,360,10,0,0,0.3,3.0,2021-08-15T15:30:00Z,7,0,0,0,0,1,0,50765,0,1,0.0,1,0,0,0,50,True,0,Man City
+Jean-Philippe Gbamin,MID,Everton,1.0,0,0,0,0,0.0,504,4,0,0,0.0,0.0,2021-08-14T14:00:00Z,0,0,0,0,0,1,0,2036,1,3,0.0,0,0,0,0,45,True,0,Southampton
+Yan Valery,DEF,Southampton,1.0,0,0,0,0,0.0,546,4,0,0,0.0,0.0,2021-08-14T14:00:00Z,0,0,0,0,0,1,0,0,1,3,0.0,0,0,0,0,40,False,0,Everton
+Charlie Goode,DEF,Brentford,0.0,0,0,0,0,0.0,87,1,0,0,0.0,0.0,2021-08-13T19:00:00Z,0,0,0,0,0,1,0,90851,0,2,0.0,0,0,0,0,40,True,0,Arsenal
+Marcos Alonso,DEF,Chelsea,3.1,0,3,46,1,35.5,122,3,0,1,12.1,56.0,2021-08-14T14:00:00Z,85,0,0,0,0,1,0,101537,0,3,29.0,15,0,0,0,55,True,0,Crystal Palace
+Josh Dasilva,MID,Brentford,0.0,0,0,0,0,0.0,82,1,0,0,0.0,0.0,2021-08-13T19:00:00Z,0,0,0,0,0,1,0,1911,0,2,0.0,0,0,0,0,55,True,0,Arsenal
+Allan Marques Loureiro,MID,Everton,1.0,0,0,6,0,2.0,171,4,1,0,2.0,11.4,2021-08-14T14:00:00Z,90,0,0,0,0,1,0,78248,1,3,7.0,2,0,0,0,45,True,0,Southampton
+Oleksandr Zinchenko,DEF,Man City,3.1,0,0,3,0,0.6,264,10,0,0,0.3,2.8,2021-08-15T15:30:00Z,11,0,0,0,0,1,0,104388,0,1,0.0,1,0,0,0,55,False,0,Spurs
+Nathaniel Phillips,DEF,Liverpool,2.7,0,0,0,0,0.0,241,7,0,0,0.0,0.0,2021-08-14T16:30:00Z,0,0,0,0,0,1,0,23686,3,0,0.0,0,0,0,0,45,False,0,Norwich
+Adam Armstrong,FWD,Southampton,1.8,0,0,24,0,1.0,525,4,3,1,7.4,33.2,2021-08-14T14:00:00Z,90,0,0,0,0,1,0,65676,1,3,40.0,6,0,0,0,60,False,0,Everton
+Joshua Sargent,FWD,Norwich,0.6,0,0,5,0,0.3,516,7,0,0,0.7,2.4,2021-08-14T16:30:00Z,13,0,0,0,0,1,0,8779,3,0,4.0,1,0,0,0,55,True,0,Liverpool
+Phil Bardsley,DEF,Burnley,0.5,0,0,0,0,0.0,99,2,0,0,0.0,0.0,2021-08-14T14:00:00Z,0,0,0,0,0,1,0,56223,2,1,0.0,0,0,0,0,40,True,0,Brighton
+James Milner,MID,Liverpool,2.4,0,0,10,1,18.8,221,7,0,0,4.0,21.0,2021-08-14T16:30:00Z,90,0,0,0,0,1,0,6425,3,0,0.0,2,0,0,0,50,False,1,Norwich
+Jed Steer,GK,Aston Villa,1.5,0,0,0,0,0.0,28,8,0,0,0.0,0.0,2021-08-14T14:00:00Z,0,0,0,0,0,1,0,71768,2,3,0.0,0,0,0,0,40,False,0,Watford
+Mark Noble,MID,West Ham,2.0,0,0,0,0,0.0,406,9,0,0,0.0,0.0,2021-08-15T13:00:00Z,0,0,0,0,0,1,0,44904,4,2,0.0,0,0,0,0,45,False,0,Newcastle
+Pierre-Emerick Aubameyang,FWD,Arsenal,1.1,0,0,0,0,0.0,4,1,0,0,0.0,0.0,2021-08-13T19:00:00Z,0,0,0,0,0,1,0,200068,0,2,0.0,0,0,0,0,100,False,0,Brentford
+José Sá,GK,Wolves,2.1,0,0,17,0,0.0,475,5,1,0,2.6,26.2,2021-08-14T14:00:00Z,90,0,0,0,0,1,4,23035,0,1,0.0,3,0,0,0,50,False,0,Leicester
+Fraser Forster,GK,Southampton,1.8,0,0,0,0,0.0,333,4,0,0,0.0,0.0,2021-08-14T14:00:00Z,0,0,0,0,0,1,0,81382,1,3,0.0,0,0,0,0,45,False,0,Everton
+Matthew Cash,DEF,Aston Villa,2.7,0,0,21,0,13.7,44,8,3,0,3.0,14.8,2021-08-14T14:00:00Z,90,0,0,0,0,1,0,126813,2,3,1.0,1,0,0,0,50,False,0,Watford
+Allan Saint-Maximin,FWD,Newcastle,1.1,1,1,34,0,48.3,307,9,4,0,9.8,39.6,2021-08-15T13:00:00Z,90,0,0,0,0,1,0,293340,4,2,10.0,6,0,0,0,65,True,0,West Ham
+Jarrad Branthwaite,DEF,Everton,1.0,0,0,0,0,0.0,544,4,0,0,0.0,0.0,2021-08-14T14:00:00Z,0,0,0,0,0,1,0,0,1,3,0.0,0,0,0,0,40,True,0,Southampton
+Joel Ward,DEF,Crystal Palace,1.2,0,0,15,0,1.3,474,3,3,0,2.5,23.8,2021-08-14T14:00:00Z,90,0,0,0,0,1,0,15214,0,3,0.0,1,0,0,0,45,False,0,Chelsea
+Milot Rashica,MID,Norwich,0.9,0,0,5,0,29.2,449,7,3,0,3.9,3.4,2021-08-14T16:30:00Z,76,0,0,0,0,1,0,14489,3,0,6.0,2,0,0,0,55,True,0,Liverpool
+Vladimir Coufal,DEF,West Ham,3.2,0,0,18,0,23.9,418,9,2,0,5.0,20.4,2021-08-15T13:00:00Z,90,0,0,0,0,1,0,932002,4,2,6.0,1,0,0,0,50,False,0,Newcastle
+Fabian Delph,MID,Everton,1.0,0,0,0,0,0.0,163,4,0,0,0.0,0.0,2021-08-14T14:00:00Z,0,0,0,0,0,1,0,12377,1,3,0.0,0,0,0,0,45,True,0,Southampton
+Ben Johnson,DEF,West Ham,2.0,0,0,4,0,0.1,425,9,0,0,0.1,1.0,2021-08-15T13:00:00Z,1,0,0,0,0,1,0,169647,4,2,0.0,1,0,0,0,40,False,0,Newcastle
+Emile Smith Rowe,MID,Arsenal,2.9,0,0,13,0,35.3,21,1,2,0,7.3,13.0,2021-08-13T19:00:00Z,90,0,0,0,0,1,0,497578,0,2,25.0,2,0,0,0,55,False,0,Brentford
+Toby Alderweireld,DEF,Spurs,0.0,0,0,0,0,0.0,355,10,0,0,0.0,0.0,2021-08-15T15:30:00Z,0,0,0,0,0,1,0,3820,0,1,0.0,0,0,0,0,50,True,0,Man City
+Joelinton Cássio Apolinário de Lira,FWD,Newcastle,0.8,0,0,3,0,0.8,310,9,0,0,0.1,0.0,2021-08-15T13:00:00Z,5,0,0,0,0,1,0,44613,4,2,0.0,1,0,0,0,60,True,0,West Ham
+Karl Darlow,GK,Newcastle,0.2,0,0,0,0,0.0,294,9,0,0,0.0,0.0,2021-08-15T13:00:00Z,0,0,0,0,0,1,0,53679,4,2,0.0,0,0,0,0,45,True,0,West Ham
+Kiernan Dewsbury-Hall,MID,Leicester,1.5,0,0,0,0,0.0,505,5,0,0,0.0,0.0,2021-08-14T14:00:00Z,0,0,0,0,0,1,0,2531,0,1,0.0,0,0,0,0,45,True,0,Wolves
+Christian Benteke,FWD,Crystal Palace,1.6,0,0,1,0,0.3,149,3,1,0,0.1,0.0,2021-08-14T14:00:00Z,33,0,0,0,0,1,0,96513,0,3,4.0,1,0,0,0,65,False,0,Chelsea
+Riyad Mahrez,MID,Man City,3.5,0,0,9,0,22.1,254,10,1,0,4.7,6.4,2021-08-15T15:30:00Z,78,0,0,0,0,1,0,533583,0,1,18.0,2,0,0,0,90,False,0,Spurs
+Dele Alli,MID,Spurs,1.8,0,0,6,1,2.2,363,10,0,0,1.5,12.4,2021-08-15T15:30:00Z,90,0,0,0,0,1,0,84222,0,1,0.0,3,0,0,0,65,True,0,Man City
+Frank Onyeka,MID,Brentford,0.4,0,0,9,1,15.5,479,1,0,0,2.5,5.4,2021-08-13T19:00:00Z,79,0,0,0,0,1,0,4896,0,2,4.0,3,0,0,0,50,True,0,Arsenal
+Jay Rodriguez,FWD,Burnley,1.1,0,0,10,1,2.5,104,2,0,0,2.6,6.6,2021-08-14T14:00:00Z,69,0,0,0,0,1,0,58733,2,1,17.0,2,0,0,0,55,True,0,Brighton
+Ellery Balcombe,GK,Brentford,0.0,0,0,0,0,0.0,92,1,0,0,0.0,0.0,2021-08-13T19:00:00Z,0,0,0,0,0,1,0,1347,0,2,0.0,0,0,0,0,40,True,0,Arsenal
+Marco Stiepermann,MID,Norwich,0.0,0,0,0,0,0.0,316,7,0,0,0.0,0.0,2021-08-14T16:30:00Z,0,0,0,0,0,1,0,77,3,0,0.0,0,0,0,0,50,True,0,Liverpool
+Tino Livramento,DEF,Southampton,1.0,0,0,12,0,10.2,491,4,3,0,3.5,23.0,2021-08-14T14:00:00Z,90,0,0,0,0,1,0,114247,1,3,2.0,1,0,0,0,40,False,0,Everton
+Joe Hart,GK,Spurs,0.0,0,0,0,0,0.0,352,10,0,0,0.0,0.0,2021-08-15T15:30:00Z,0,0,0,0,0,1,0,3224,0,1,0.0,0,0,0,0,45,True,0,Man City
+Ashley Westwood,MID,Burnley,1.4,1,2,27,0,32.4,107,2,2,0,6.0,27.8,2021-08-14T14:00:00Z,90,0,0,0,0,1,0,46788,2,1,0.0,7,0,0,0,55,True,0,Brighton
+Charlie Taylor,DEF,Burnley,1.2,0,0,13,0,15.6,113,2,2,0,3.2,14.4,2021-08-14T14:00:00Z,90,0,0,0,0,1,0,41905,2,1,2.0,1,0,0,0,45,True,0,Brighton
+Mads Bidstrup,MID,Brentford,0.0,0,0,4,0,0.3,97,1,0,0,0.5,4.2,2021-08-13T19:00:00Z,10,0,0,0,0,1,0,4979,0,2,0.0,1,0,0,0,45,True,0,Arsenal
+Mason Holgate,DEF,Everton,1.7,0,0,13,0,0.2,178,4,1,0,2.0,19.6,2021-08-14T14:00:00Z,90,0,0,0,0,1,0,54382,1,3,0.0,2,0,0,0,45,True,0,Southampton
+Jack Stephens,DEF,Southampton,1.7,0,0,6,0,0.5,338,4,3,0,1.3,10.0,2021-08-14T14:00:00Z,90,0,0,0,0,1,0,7152,1,3,2.0,1,0,0,0,45,False,0,Everton
+Anthony Gordon,MID,Everton,1.0,0,0,2,0,0.5,503,4,0,0,0.1,0.0,2021-08-14T14:00:00Z,1,0,0,0,0,1,0,2025,1,3,0.0,1,0,0,0,45,True,0,Southampton
+Chris Wood,FWD,Burnley,1.7,0,0,3,0,12.0,109,2,2,0,4.1,3.8,2021-08-14T14:00:00Z,90,0,0,0,0,1,0,220337,2,1,25.0,2,0,0,0,70,True,0,Brighton
+Nélson Semedo,DEF,Wolves,1.7,0,0,0,0,0.0,437,5,0,0,0.0,0.0,2021-08-14T14:00:00Z,0,0,0,0,0,1,0,117436,0,1,0.0,0,0,0,0,50,False,0,Leicester
+Scott Banks,MID,Crystal Palace,0.5,0,0,0,0,0.0,543,3,0,0,0.0,0.0,2021-08-14T14:00:00Z,0,0,0,0,0,1,0,0,0,3,0.0,0,0,0,0,45,False,0,Chelsea
+Romain Saïss,DEF,Wolves,1.7,0,0,15,0,11.5,431,5,1,0,3.3,17.6,2021-08-14T14:00:00Z,90,0,0,0,0,1,0,40940,0,1,4.0,2,0,0,0,50,False,0,Leicester
+Ben Gibson,DEF,Norwich,0.7,0,0,15,0,0.6,456,7,3,0,8.4,32.4,2021-08-14T16:30:00Z,90,0,0,0,0,1,0,6190,3,0,51.0,1,0,0,0,45,True,0,Liverpool
+Oghenekaro Etebo,MID,Watford,0.5,0,0,16,0,11.6,467,8,2,0,3.0,18.0,2021-08-14T14:00:00Z,90,0,0,0,0,1,0,12764,2,3,0.0,1,0,0,0,45,True,1,Aston Villa
+Alphonse Areola,GK,West Ham,3.6,0,0,0,0,0.0,489,9,0,0,0.0,0.0,2021-08-15T13:00:00Z,0,0,0,0,0,1,0,86830,4,2,0.0,0,0,0,0,50,False,0,Newcastle
+Jordan Ayew,FWD,Crystal Palace,1.3,0,0,0,0,11.9,153,3,3,0,4.6,14.8,2021-08-14T14:00:00Z,90,0,0,0,0,1,0,48838,0,3,19.0,2,0,0,0,60,False,0,Chelsea
+Fernando Marçal,DEF,Wolves,1.2,0,0,10,0,24.6,432,5,1,0,4.0,13.2,2021-08-14T14:00:00Z,90,0,0,0,0,1,0,5788,0,1,2.0,1,0,0,0,45,False,1,Leicester
+Alex Telles,DEF,Man Utd,0.0,0,0,0,0,0.0,279,6,0,0,0.0,0.0,2021-08-14T11:30:00Z,0,0,0,0,0,1,0,1436,1,5,0.0,0,0,0,0,50,True,0,Leeds
+Zack Steffen,GK,Man City,2.3,0,0,0,0,0.0,260,10,0,0,0.0,0.0,2021-08-15T15:30:00Z,0,0,0,0,0,1,0,15690,0,1,0.0,0,0,0,0,45,False,0,Spurs
+Lucas Rodrigues Moura da Silva,MID,Spurs,1.8,0,0,9,1,37.6,362,10,0,0,9.7,16.4,2021-08-15T15:30:00Z,90,0,0,0,0,1,0,53342,0,1,43.0,2,0,0,0,65,True,1,Man City
+Steven Bergwijn,MID,Spurs,1.6,1,0,13,1,21.9,369,10,0,0,6.8,22.8,2021-08-15T15:30:00Z,76,0,0,0,0,1,0,18514,0,1,23.0,6,0,0,0,60,True,0,Man City
+Roberto Firmino,FWD,Liverpool,3.9,0,2,30,0,14.2,228,7,0,1,7.3,37.6,2021-08-14T16:30:00Z,29,0,0,0,0,1,0,406171,3,0,21.0,7,0,0,0,90,False,0,Norwich
+Callum Hudson-Odoi,MID,Chelsea,2.4,0,0,0,0,0.0,140,3,0,0,0.0,0.0,2021-08-14T14:00:00Z,0,0,0,0,0,1,0,14532,0,3,0.0,0,0,0,0,55,True,0,Crystal Palace
+Morgan Sanson,MID,Aston Villa,0.0,0,0,0,0,0.0,34,8,0,0,0.0,0.0,2021-08-14T14:00:00Z,0,0,0,0,0,1,0,947,2,3,0.0,0,0,0,0,50,False,0,Watford
+Harry Maguire,DEF,Man Utd,3.1,0,0,12,0,0.9,273,6,1,0,1.5,10.0,2021-08-14T11:30:00Z,90,0,0,0,0,1,0,842854,1,5,4.0,2,0,0,0,55,True,0,Leeds
+Max Kilman,DEF,Wolves,1.2,0,0,17,0,1.4,439,5,1,0,7.9,24.6,2021-08-14T14:00:00Z,90,0,0,0,0,1,0,11773,0,1,53.0,2,0,0,0,45,False,0,Leicester
+Teemu Pukki,FWD,Norwich,0.8,0,0,0,0,2.5,315,7,3,0,2.3,3.6,2021-08-14T16:30:00Z,76,0,0,0,0,1,0,449744,3,0,17.0,2,0,0,0,60,True,0,Liverpool
+Mohamed Elneny,MID,Arsenal,2.0,0,0,0,0,0.0,12,1,0,0,0.0,0.0,2021-08-13T19:00:00Z,0,0,0,0,0,1,0,44765,0,2,0.0,0,0,0,0,45,False,0,Brentford
+William Smallbone,MID,Southampton,0.0,0,0,0,0,0.0,347,4,0,0,0.0,0.0,2021-08-14T14:00:00Z,0,0,0,0,0,1,0,880,1,3,0.0,0,0,0,0,45,False,0,Everton
+Adedapo Awokoya-Mebude,FWD,Watford,0.0,0,0,0,0,0.0,469,8,0,0,0.0,0.0,2021-08-14T14:00:00Z,0,0,0,0,0,1,0,20264,2,3,0.0,0,0,0,0,45,True,0,Aston Villa
+Kelechi Iheanacho,FWD,Leicester,2.9,0,0,2,0,3.7,213,5,0,0,1.3,1.4,2021-08-14T14:00:00Z,18,0,0,0,0,1,0,929331,0,1,8.0,1,0,0,0,75,True,0,Wolves
+Ashley Fletcher,FWD,Watford,0.8,0,0,0,0,0.0,395,8,0,0,0.0,0.0,2021-08-14T14:00:00Z,0,0,0,0,0,1,0,17050,2,3,0.0,0,0,0,0,50,True,0,Aston Villa
+Daniel James,MID,Man Utd,2.6,0,0,3,0,12.8,287,6,1,0,6.4,8.6,2021-08-14T11:30:00Z,74,0,0,0,0,1,0,9452,1,5,43.0,2,0,0,0,60,True,0,Leeds
+Lewis Richardson,FWD,Burnley,0.5,0,0,0,0,0.0,533,2,0,0,0.0,0.0,2021-08-14T14:00:00Z,0,0,0,0,0,1,0,0,2,1,0.0,0,0,0,0,45,True,0,Brighton
+Kieran Tierney,DEF,Arsenal,3.2,0,0,17,0,87.0,16,1,2,0,15.5,26.8,2021-08-13T19:00:00Z,90,0,0,0,0,1,0,540892,0,2,41.0,1,0,0,0,50,False,0,Brentford
+Ben Foster,GK,Watford,0.5,0,0,0,0,0.0,376,8,0,0,0.0,0.0,2021-08-14T14:00:00Z,0,0,0,0,0,1,0,1859663,2,3,0.0,0,0,0,0,40,True,0,Aston Villa
+Adam Webster,DEF,Brighton,2.2,0,0,11,0,2.8,61,2,1,0,2.6,23.6,2021-08-14T14:00:00Z,90,0,0,0,0,1,0,38441,2,1,0.0,2,0,0,0,45,False,0,Burnley
+Alex McCarthy,GK,Southampton,1.8,0,0,16,0,0.0,334,4,3,0,2.2,22.0,2021-08-14T14:00:00Z,90,0,0,0,0,1,3,105810,1,3,0.0,2,0,0,0,45,False,0,Everton
+Matthew Pollock,DEF,Watford,0.5,0,0,0,0,0.0,454,8,0,0,0.0,0.0,2021-08-14T14:00:00Z,0,0,0,0,0,1,0,58021,2,3,0.0,0,0,0,0,40,True,0,Aston Villa
+Ki-Jana Hoever,DEF,Wolves,0.5,0,0,6,0,16.7,443,5,1,0,3.6,13.6,2021-08-14T14:00:00Z,90,0,0,0,0,1,0,134452,0,1,6.0,1,0,0,0,40,False,1,Leicester
+Aaron Wan-Bissaka,DEF,Man Utd,3.1,0,0,8,0,2.3,288,6,1,0,0.9,4.8,2021-08-14T11:30:00Z,90,0,0,0,0,1,0,704348,1,5,2.0,2,0,0,0,55,True,0,Leeds
+Joël Veltman,DEF,Brighton,2.2,0,0,0,0,0.0,62,2,0,0,0.0,0.0,2021-08-14T14:00:00Z,0,0,0,0,0,1,0,271608,2,1,0.0,0,0,0,0,45,False,0,Burnley
+Stuart Dallas,MID,Leeds,1.4,1,0,25,0,13.1,188,6,5,0,4.3,29.6,2021-08-14T11:30:00Z,90,0,0,0,0,1,0,1045606,1,5,0.0,5,0,0,0,55,False,0,Man Utd
+Carney Chukwuemeka,MID,Aston Villa,1.5,0,0,0,0,0.0,526,8,0,0,0.0,0.0,2021-08-14T14:00:00Z,0,0,0,0,0,1,0,1933,2,3,0.0,0,0,0,0,45,False,0,Watford
+Ben Godfrey,DEF,Everton,2.2,0,0,0,0,0.0,179,4,0,0,0.0,0.0,2021-08-14T14:00:00Z,0,0,0,0,0,1,0,73737,1,3,0.0,0,0,0,0,50,True,0,Southampton
+Pierre Lees-Melou,MID,Norwich,0.4,0,0,15,0,30.1,471,7,3,0,6.3,29.0,2021-08-14T16:30:00Z,90,0,0,0,0,1,0,4850,3,0,4.0,2,0,0,0,50,True,0,Liverpool
+Tyler Roberts,MID,Leeds,0.9,0,0,7,0,14.3,193,6,0,0,2.2,4.4,2021-08-14T11:30:00Z,13,0,0,0,0,1,0,4628,1,5,3.0,1,0,0,0,50,False,0,Man Utd
+Andreas Pereira,MID,Man Utd,1.9,0,0,0,0,0.0,511,6,0,0,0.0,0.0,2021-08-14T11:30:00Z,0,0,0,0,0,1,0,1693,1,5,0.0,0,0,0,0,50,True,0,Leeds
+Jamie Shackleton,MID,Leeds,0.5,0,0,0,0,0.0,197,6,0,0,0.0,0.0,2021-08-14T11:30:00Z,0,0,0,0,0,1,0,4409,1,5,0.0,0,0,0,0,45,False,0,Man Utd
+Ross Barkley,MID,Chelsea,2.4,0,0,0,0,0.0,124,3,0,0,0.0,0.0,2021-08-14T14:00:00Z,0,0,0,0,0,1,0,9890,0,3,0.0,0,0,0,0,55,True,0,Crystal Palace
+Ivan Toney,FWD,Brentford,1.1,0,0,4,1,15.8,78,1,0,0,2.6,6.2,2021-08-13T19:00:00Z,90,0,0,0,0,1,0,2065056,0,2,4.0,2,0,0,0,65,True,0,Arsenal
+Lewis Dunk,DEF,Brighton,2.7,0,0,14,0,0.7,59,2,1,0,2.0,19.6,2021-08-14T14:00:00Z,90,0,0,0,0,1,0,437885,2,1,0.0,2,0,0,0,50,False,0,Burnley
+Jason Steele,GK,Brighton,1.5,0,0,0,0,0.0,54,2,0,0,0.0,0.0,2021-08-14T14:00:00Z,0,0,0,0,0,1,0,177975,2,1,0.0,0,0,0,0,40,False,0,Burnley
+Cole Palmer,MID,Man City,1.5,0,0,0,0,0.0,507,10,0,0,0.0,0.0,2021-08-15T15:30:00Z,0,0,0,0,0,1,0,2450,0,1,0.0,0,0,0,0,45,False,0,Spurs
+James Maddison,MID,Leicester,2.9,0,0,9,1,15.2,212,5,0,0,2.1,4.2,2021-08-14T14:00:00Z,61,0,0,0,0,1,0,833924,0,1,2.0,3,0,0,0,70,True,0,Wolves
+Solly March,MID,Brighton,2.4,0,0,12,0,45.3,60,2,1,0,7.5,18.6,2021-08-14T14:00:00Z,90,0,0,0,0,1,0,6789,2,1,11.0,2,0,0,0,55,False,0,Burnley
+Jesurun Rak-Sakyi,MID,Crystal Palace,0.5,0,0,3,0,5.0,541,3,0,0,0.6,1.0,2021-08-14T14:00:00Z,13,0,0,0,0,1,0,0,0,3,0.0,1,0,0,0,45,False,0,Chelsea
+Kyle Walker,DEF,Man City,3.1,0,0,0,0,0.0,249,10,0,0,0.0,0.0,2021-08-15T15:30:00Z,0,0,0,0,0,1,0,371353,0,1,0.0,0,0,0,0,55,False,0,Spurs
+Isaac Hayden,MID,Newcastle,0.0,0,0,14,0,3.3,306,9,4,0,2.0,8.8,2021-08-15T13:00:00Z,90,0,0,0,0,1,0,10633,4,2,8.0,2,0,0,0,45,True,0,West Ham
+Giovani Lo Celso,MID,Spurs,1.6,0,0,6,0,1.0,372,10,0,0,0.6,3.0,2021-08-15T15:30:00Z,13,0,0,0,0,1,0,10720,0,1,2.0,1,0,0,0,60,True,0,Man City
+Vicente Guaita,GK,Crystal Palace,1.3,0,0,20,0,0.0,146,3,3,0,2.4,24.0,2021-08-14T14:00:00Z,90,0,0,0,0,1,3,361754,0,3,0.0,2,0,0,0,45,False,0,Chelsea
+Marc Navarro,DEF,Watford,0.5,0,0,0,0,0.0,398,8,0,0,0.0,0.0,2021-08-14T14:00:00Z,0,0,0,0,0,1,0,53117,2,3,0.0,0,0,0,0,40,True,0,Aston Villa
+Mathias Jensen,MID,Brentford,0.0,0,0,0,0,0.0,86,1,0,0,0.0,0.0,2021-08-13T19:00:00Z,0,0,0,0,0,1,0,2850,0,2,0.0,0,0,0,0,50,True,0,Arsenal
+Moussa Djenepo,MID,Southampton,1.9,0,0,5,0,7.2,350,4,3,0,3.8,17.2,2021-08-14T14:00:00Z,90,0,0,0,0,1,0,4568,1,3,14.0,2,0,0,0,55,False,0,Everton
+Japhet Tanganga,DEF,Spurs,1.2,0,0,20,1,5.7,371,10,0,0,2.2,13.8,2021-08-15T15:30:00Z,82,0,0,0,0,1,0,11654,0,1,2.0,6,0,0,0,45,True,0,Man City
+Olivier Giroud,FWD,Chelsea,0.0,0,0,0,0,0.0,120,3,0,0,0.0,0.0,2021-08-14T14:00:00Z,0,0,0,0,0,1,0,2369,0,3,0.0,0,0,0,0,65,True,0,Crystal Palace
+Tariq Lamptey,DEF,Brighton,0.0,0,0,0,0,0.0,71,2,0,0,0.0,0.0,2021-08-14T14:00:00Z,0,0,0,0,0,1,0,41209,2,1,0.0,0,0,0,0,45,False,0,Burnley
+Ken Sema,MID,Watford,1.4,0,0,4,0,25.2,391,8,2,0,3.7,8.0,2021-08-14T14:00:00Z,90,0,0,0,0,1,0,4107,2,3,4.0,1,0,0,0,55,True,1,Aston Villa
+Edinson Cavani,FWD,Man Utd,0.0,0,0,0,0,0.0,269,6,0,0,0.0,0.0,2021-08-14T11:30:00Z,0,0,0,0,0,1,0,556860,1,5,0.0,0,0,0,0,85,True,0,Leeds
+Junior Firpo,DEF,Leeds,1.7,0,0,4,0,0.8,463,6,4,0,0.5,3.8,2021-08-14T11:30:00Z,45,0,0,0,0,1,0,61450,1,5,0.0,-1,0,0,0,50,False,0,Man Utd
+Pierre-Emile Højbjerg,MID,Spurs,0.9,0,0,13,1,21.8,365,10,0,0,4.6,12.6,2021-08-15T15:30:00Z,89,0,0,0,0,1,0,203490,0,1,12.0,3,0,0,0,50,True,0,Man City
+Imrân Louza,MID,Watford,1.4,0,0,0,0,0.0,403,8,0,0,0.0,0.0,2021-08-14T14:00:00Z,0,0,0,0,0,1,0,2882,2,3,0.0,0,0,0,0,55,True,0,Aston Villa
+Trent Alexander-Arnold,DEF,Liverpool,5.0,0,0,24,1,48.6,237,7,0,0,7.1,18.4,2021-08-14T16:30:00Z,90,0,0,0,0,1,0,2245431,3,0,4.0,6,0,0,0,75,False,0,Norwich
+Ricardo Pereira,DEF,Leicester,3.1,1,3,34,1,17.5,207,5,0,0,5.1,33.2,2021-08-14T14:00:00Z,90,0,0,0,0,1,0,150617,0,1,0.0,12,0,0,0,55,True,0,Wolves
+Michael Obafemi,FWD,Southampton,1.0,0,0,0,0,0.0,348,4,0,0,0.0,0.0,2021-08-14T14:00:00Z,0,0,0,0,0,1,0,849691,1,3,0.0,0,0,0,0,45,False,0,Everton
+James Tarkowski,DEF,Burnley,1.7,0,0,13,0,0.6,98,2,2,1,9.4,49.0,2021-08-14T14:00:00Z,90,0,0,0,0,1,0,92401,2,1,44.0,6,0,0,0,50,True,1,Brighton
+Cheikhou Kouyaté,DEF,Crystal Palace,1.2,0,0,16,0,0.6,150,3,3,0,1.7,16.4,2021-08-14T14:00:00Z,90,0,0,0,0,1,0,30144,0,3,0.0,1,0,0,0,45,False,0,Chelsea
+Naby Keita,MID,Liverpool,2.4,0,0,12,1,16.8,239,7,0,0,3.4,13.4,2021-08-14T16:30:00Z,82,0,0,0,0,1,0,11589,3,0,4.0,3,0,0,0,50,False,0,Norwich
+Kristoffer Ajer,DEF,Brentford,0.7,0,0,23,1,11.2,483,1,0,0,2.3,8.2,2021-08-13T19:00:00Z,70,0,0,0,0,1,0,35174,0,2,4.0,6,0,0,0,45,True,0,Arsenal
+Michael McGovern,GK,Norwich,0.0,0,0,0,0,0.0,313,7,0,0,0.0,0.0,2021-08-14T16:30:00Z,0,0,0,0,0,1,0,45779,3,0,0.0,0,0,0,0,40,True,0,Liverpool
+Jack Grealish,MID,Man City,3.2,0,0,17,0,28.6,33,10,1,0,11.0,18.2,2021-08-15T15:30:00Z,90,0,0,0,0,1,0,1605017,0,1,63.0,1,0,0,0,80,False,1,Spurs
+Matthew Lowton,DEF,Burnley,1.2,0,0,10,0,15.9,110,2,2,0,2.9,12.8,2021-08-14T14:00:00Z,90,0,0,0,0,1,0,181765,2,1,0.0,1,0,0,0,45,True,0,Brighton
+Erik Lamela,MID,Spurs,0.0,0,0,0,0,0.0,356,10,0,0,0.0,0.0,2021-08-15T15:30:00Z,0,0,0,0,0,1,0,707,0,1,0.0,0,0,0,0,60,True,0,Man City
+Rúben Dias,DEF,Man City,3.4,0,0,14,0,1.0,262,10,1,0,2.3,19.8,2021-08-15T15:30:00Z,90,0,0,0,0,1,0,1704318,0,1,2.0,2,0,0,0,60,False,0,Spurs
+Xherdan Shaqiri,MID,Liverpool,3.1,0,0,0,0,0.0,226,7,0,0,0.0,0.0,2021-08-14T16:30:00Z,0,0,0,0,0,1,0,7832,3,0,0.0,0,0,0,0,60,False,0,Norwich
+Ashley Barnes,FWD,Burnley,1.1,0,0,3,0,10.1,105,2,2,0,1.2,2.2,2021-08-14T14:00:00Z,20,0,0,0,0,1,0,133470,2,1,0.0,1,0,0,0,55,True,0,Brighton
+Daniel Bachmann,GK,Watford,1.3,0,0,9,0,0.0,389,8,2,0,0.3,2.8,2021-08-14T14:00:00Z,90,0,0,0,0,1,0,149145,2,3,0.0,1,0,0,0,45,True,0,Aston Villa
+Romelu Lukaku,FWD,Chelsea,0.0,0,0,0,0,0.0,529,3,0,0,0.0,0.0,2021-08-14T14:00:00Z,0,0,0,0,0,1,0,485681,0,3,0.0,0,0,0,0,115,True,0,Crystal Palace
+Conor Hourihane,MID,Aston Villa,1.9,0,0,0,0,0.0,29,8,0,0,0.0,0.0,2021-08-14T14:00:00Z,0,0,0,0,0,1,0,3083,2,3,0.0,0,0,0,0,50,False,0,Watford
+William Troost-Ekong,DEF,Watford,1.2,0,0,11,0,0.0,387,8,2,0,0.8,7.8,2021-08-14T14:00:00Z,90,0,0,0,0,1,0,7659,2,3,0.0,1,0,0,0,45,True,0,Aston Villa
+Nathan Tella,MID,Southampton,1.4,0,0,2,0,0.3,346,4,1,0,0.3,0.2,2021-08-14T14:00:00Z,10,0,0,0,0,1,0,9118,1,3,2.0,1,0,0,0,50,False,0,Everton
+Shane Long,FWD,Southampton,1.6,0,0,0,0,0.0,519,4,0,0,0.0,0.0,2021-08-14T14:00:00Z,0,0,0,0,0,1,0,13833,1,3,0.0,0,0,0,0,55,False,0,Everton
+Bernardo Silva,MID,Man City,2.9,0,0,0,0,0.0,261,10,0,0,0.0,0.0,2021-08-15T15:30:00Z,0,0,0,0,0,1,0,88694,0,1,0.0,0,0,0,0,70,False,0,Spurs
+Adam Idah,FWD,Norwich,0.3,0,0,3,0,0.5,329,7,0,0,3.7,3.2,2021-08-14T16:30:00Z,13,0,0,0,0,1,0,31923,3,0,33.0,1,0,0,0,50,True,0,Liverpool
+Kjell Scherpen,GK,Brighton,0.0,0,0,0,0,0.0,476,2,0,0,0.0,0.0,2021-08-14T14:00:00Z,0,0,0,0,0,1,0,2238,2,1,0.0,0,0,0,0,45,False,0,Burnley
+Conor Coady,DEF,Wolves,1.2,0,0,15,0,0.0,429,5,1,0,1.1,11.2,2021-08-14T14:00:00Z,90,0,0,0,0,1,0,493790,0,1,0.0,2,0,0,0,45,False,0,Leicester
+Angus Gunn,GK,Norwich,0.0,0,0,0,0,0.0,448,7,0,0,0.0,0.0,2021-08-14T16:30:00Z,0,0,0,0,0,1,0,103597,3,0,0.0,0,0,0,0,40,True,0,Liverpool
+Mbwana Ally Samatta,FWD,Aston Villa,0.0,0,0,0,0,0.0,48,8,0,0,0.0,0.0,2021-08-14T14:00:00Z,0,0,0,0,0,1,0,129,2,3,0.0,0,0,0,0,55,False,0,Watford
+Adam Lallana,MID,Brighton,2.4,0,0,7,0,3.0,53,2,0,0,0.7,1.6,2021-08-14T14:00:00Z,45,0,0,0,0,1,0,17460,2,1,2.0,1,0,0,0,55,False,0,Burnley
+Youri Tielemans,MID,Leicester,2.8,0,0,23,1,17.8,210,5,0,0,5.8,33.4,2021-08-14T14:00:00Z,90,0,0,0,0,1,0,364491,0,1,7.0,3,0,0,0,65,True,0,Wolves
+Hugo Lloris,GK,Spurs,2.8,0,3,28,1,0.0,353,10,0,0,3.2,31.8,2021-08-15T15:30:00Z,90,0,0,0,0,1,4,224734,0,1,0.0,10,0,0,0,55,True,0,Man City
+Craig Cathcart,DEF,Watford,1.2,0,0,6,0,0.8,379,8,2,0,1.3,11.8,2021-08-14T14:00:00Z,90,0,0,0,0,1,0,10383,2,3,0.0,1,0,0,0,45,True,0,Aston Villa
+Saman Ghoddos,MID,Brentford,0.9,0,0,0,0,0.0,85,1,0,0,0.0,0.0,2021-08-13T19:00:00Z,0,0,0,0,0,1,0,4061,0,2,0.0,0,0,0,0,55,True,0,Arsenal
+Illan Meslier,GK,Leeds,2.1,0,0,17,0,0.0,199,6,5,0,2.2,21.6,2021-08-14T11:30:00Z,90,0,0,0,0,1,3,281639,1,5,0.0,1,0,0,0,50,False,0,Man Utd
+Kiko Casilla,GK,Leeds,0.0,0,0,0,0,0.0,183,6,0,0,0.0,0.0,2021-08-14T11:30:00Z,0,0,0,0,0,1,0,881,1,5,0.0,0,0,0,0,45,False,0,Man Utd
+Gabriel Magalhães,DEF,Arsenal,0.0,0,0,0,0,0.0,23,1,0,0,0.0,0.0,2021-08-13T19:00:00Z,0,0,0,0,0,1,0,6701,0,2,0.0,0,0,0,0,50,False,0,Brentford
+Tanguy Ndombele,MID,Spurs,1.6,0,0,0,0,0.0,375,10,0,0,0.0,0.0,2021-08-15T15:30:00Z,0,0,0,0,0,1,0,22204,0,1,0.0,0,0,0,0,60,True,0,Man City
+Francisco Sierralta,DEF,Watford,1.2,0,0,0,0,0.0,396,8,0,0,0.0,0.0,2021-08-14T14:00:00Z,0,0,0,0,0,1,0,13068,2,3,0.0,0,0,0,0,45,True,0,Aston Villa
+Jordan Henderson,MID,Liverpool,2.4,0,0,0,0,0.0,222,7,0,0,0.0,0.0,2021-08-14T16:30:00Z,0,0,0,0,0,1,0,47909,3,0,0.0,0,0,0,0,50,False,0,Norwich
+Ibrahima Diallo,MID,Southampton,1.0,0,0,3,0,0.9,349,4,1,0,2.0,0.6,2021-08-14T14:00:00Z,10,0,0,0,0,1,0,7483,1,3,18.0,1,0,0,0,45,False,0,Everton
+Calum Chambers,DEF,Arsenal,2.7,0,0,14,0,16.8,10,1,2,0,4.2,13.2,2021-08-13T19:00:00Z,80,0,0,0,0,1,0,26222,0,2,12.0,1,0,0,0,45,False,0,Brentford
+Dwight McNeil,MID,Burnley,1.6,0,0,10,0,30.6,118,2,2,0,5.2,21.6,2021-08-14T14:00:00Z,78,0,0,0,0,1,0,20227,2,1,0.0,2,0,0,0,60,True,0,Brighton
+Jonathan Castro Otto,DEF,Wolves,0.0,0,0,0,0,0.0,433,5,0,0,0.0,0.0,2021-08-14T14:00:00Z,0,0,0,0,0,1,0,408,0,1,0.0,0,0,0,0,45,False,0,Leicester
+Patrik Gunnarsson,GK,Brentford,0.0,0,0,0,0,0.0,94,1,0,0,0.0,0.0,2021-08-13T19:00:00Z,0,0,0,0,0,1,0,93320,0,2,0.0,0,0,0,0,40,True,0,Arsenal
+Matthew Longstaff,MID,Newcastle,0.0,0,0,0,0,0.0,312,9,0,0,0.0,0.0,2021-08-15T13:00:00Z,0,0,0,0,0,1,0,9525,4,2,0.0,0,0,0,0,45,True,0,West Ham
+James Tomkins,DEF,Crystal Palace,1.2,0,0,0,0,0.0,147,3,0,0,0.0,0.0,2021-08-14T14:00:00Z,0,0,0,0,0,1,0,9200,0,3,0.0,0,0,0,0,45,False,0,Chelsea
+Timo Werner,FWD,Chelsea,3.4,0,0,6,1,12.8,134,3,0,0,4.0,1.2,2021-08-14T14:00:00Z,90,0,0,0,0,1,0,335608,0,3,26.0,2,0,0,0,90,True,0,Crystal Palace
+David Raya,GK,Brentford,0.8,0,1,30,1,0.0,80,1,0,0,2.8,27.8,2021-08-13T19:00:00Z,90,0,0,0,0,1,4,96605,0,2,0.0,8,0,0,0,45,True,0,Arsenal
+Nick Pope,GK,Burnley,2.8,0,0,17,0,0.0,112,2,2,0,3.0,30.0,2021-08-14T14:00:00Z,90,0,0,0,0,1,4,280784,2,1,0.0,2,0,0,0,55,True,0,Brighton
+Ezri Konsa Ngoyo,DEF,Aston Villa,2.7,0,0,15,0,1.3,45,8,3,0,2.3,19.6,2021-08-14T14:00:00Z,90,0,0,0,0,1,0,75220,2,3,2.0,1,0,0,0,50,False,0,Watford
+Kristoffer Klaesson,GK,Leeds,1.3,0,0,0,0,0.0,490,6,0,0,0.0,0.0,2021-08-14T11:30:00Z,0,0,0,0,0,1,0,9800,1,5,0.0,0,0,0,0,45,False,0,Man Utd
+Gabriel Martinelli,MID,Arsenal,2.9,0,0,7,0,22.4,26,1,1,0,3.6,2.2,2021-08-13T19:00:00Z,70,0,0,0,0,1,0,25036,0,2,11.0,2,0,0,0,55,False,0,Brentford
+Christian Marques,DEF,Wolves,0.5,0,0,0,0,0.0,549,5,0,0,0.0,0.0,2021-08-14T14:00:00Z,0,0,0,0,0,1,0,0,0,1,0.0,0,0,0,0,40,False,0,Leicester
+Son Heung-Min,MID,Spurs,2.8,0,2,27,1,19.7,359,10,0,1,9.4,32.8,2021-08-15T15:30:00Z,90,0,0,0,0,1,0,1412718,0,1,41.0,10,0,0,0,100,True,0,Man City
+Jack Cork,MID,Burnley,0.5,0,0,3,0,1.1,101,2,2,0,1.4,0.8,2021-08-14T14:00:00Z,84,0,0,0,0,1,0,7356,2,1,12.0,2,0,0,0,45,True,0,Brighton
+Domingos Quina,MID,Watford,0.5,0,0,0,0,0.0,397,8,0,0,0.0,0.0,2021-08-14T14:00:00Z,0,0,0,0,0,1,0,6842,2,3,0.0,0,0,0,0,45,True,0,Aston Villa
+Aaron Ramsey,MID,Aston Villa,1.5,0,0,0,0,0.0,496,8,0,0,0.0,0.0,2021-08-14T14:00:00Z,0,0,0,0,0,1,0,8453,2,3,0.0,0,0,0,0,45,False,0,Watford
+Patrick Cutrone,FWD,Wolves,0.8,0,0,0,0,0.0,523,5,0,0,0.0,0.0,2021-08-14T14:00:00Z,0,0,0,0,0,1,0,17822,0,1,0.0,0,0,0,0,50,False,0,Leicester
+Jacob Ramsey,MID,Aston Villa,1.5,0,0,2,0,12.1,51,8,1,0,1.8,0.6,2021-08-14T14:00:00Z,45,0,0,0,0,1,0,22121,2,3,5.0,1,0,0,0,45,False,0,Watford
+Nathan Aké,DEF,Man City,2.7,0,0,15,0,0.3,258,10,1,0,2.8,23.8,2021-08-15T15:30:00Z,90,0,0,0,0,1,0,22462,0,1,4.0,2,0,0,0,50,False,0,Spurs
+Jonjoe Kenny,DEF,Everton,1.7,0,0,0,0,0.0,502,4,0,0,0.0,0.0,2021-08-14T14:00:00Z,0,0,0,0,0,1,0,4273,1,3,0.0,0,0,0,0,45,True,0,Southampton
+Dennis Praet,MID,Leicester,1.9,0,0,0,0,0.0,206,5,0,0,0.0,0.0,2021-08-14T14:00:00Z,0,0,0,0,0,1,0,4344,0,1,0.0,0,0,0,0,50,True,0,Wolves
+Joe Willock,MID,Newcastle,1.1,0,0,0,0,0.0,19,9,0,0,0.0,0.0,2021-08-15T13:00:00Z,0,0,0,0,0,1,0,95790,4,2,0.0,0,0,0,0,60,True,0,West Ham
+Angelo Ogbonna,DEF,West Ham,1.6,0,0,18,0,0.9,409,9,2,0,1.3,12.0,2021-08-15T13:00:00Z,90,0,0,0,0,1,0,9668,4,2,0.0,1,0,0,0,50,False,0,Newcastle
+Pablo Hernández,MID,Leeds,0.0,0,0,0,0,0.0,182,6,0,0,0.0,0.0,2021-08-14T11:30:00Z,0,0,0,0,0,1,0,392,1,5,0.0,0,0,0,0,55,False,0,Man Utd
+Reiss Nelson,MID,Arsenal,2.4,0,0,4,0,11.6,531,1,1,0,3.6,4.0,2021-08-13T19:00:00Z,19,0,0,0,0,1,0,0,0,2,20.0,1,0,0,0,50,False,0,Brentford
+Rob Holding,DEF,Arsenal,2.7,0,0,0,0,0.0,14,1,0,0,0.0,0.0,2021-08-13T19:00:00Z,0,0,0,0,0,1,0,154190,0,2,0.0,0,0,0,0,45,False,0,Brentford
+Harry Kane,FWD,Spurs,2.6,0,0,0,0,0.0,357,10,0,0,0.0,0.0,2021-08-15T15:30:00Z,0,0,0,0,0,1,0,991445,0,1,0.0,0,0,0,0,125,True,0,Man City
+Troy Deeney,FWD,Watford,1.1,0,0,3,0,0.3,380,8,1,0,0.2,2.0,2021-08-14T14:00:00Z,11,0,0,0,0,1,0,225411,2,3,0.0,1,0,0,0,55,True,0,Aston Villa
+Seamus Coleman,DEF,Everton,2.2,0,0,10,0,16.6,165,4,1,0,3.7,20.6,2021-08-14T14:00:00Z,90,0,0,0,0,1,0,41053,1,3,0.0,2,0,0,0,50,True,0,Southampton
+Harvey Barnes,MID,Leicester,2.9,0,0,-1,1,1.5,215,5,0,0,2.7,2.8,2021-08-14T14:00:00Z,71,0,0,0,0,1,0,916129,0,1,23.0,3,0,0,0,70,True,0,Wolves
+Sergio Reguilón,DEF,Spurs,1.7,0,1,22,1,25.3,370,10,0,0,3.8,10.4,2021-08-15T15:30:00Z,90,0,0,0,0,1,0,188039,0,1,2.0,7,0,0,0,50,True,0,Man City
+Timothy Castagne,DEF,Leicester,2.3,0,0,0,0,0.0,209,5,0,0,0.0,0.0,2021-08-14T14:00:00Z,0,0,0,0,0,1,0,83726,0,1,0.0,0,0,0,0,55,True,0,Wolves
+Joachim Andersen,DEF,Crystal Palace,1.2,0,0,9,0,0.3,488,3,1,0,1.0,7.4,2021-08-14T14:00:00Z,33,0,0,0,0,1,0,33665,0,3,2.0,1,0,0,0,45,False,0,Chelsea
+Bailey Peacock-Farrell,GK,Burnley,0.0,0,0,0,0,0.0,117,2,0,0,0.0,0.0,2021-08-14T14:00:00Z,0,0,0,0,0,1,0,830,2,1,0.0,0,0,0,0,45,True,0,Brighton
+Tom Heaton,GK,Man Utd,1.5,0,0,0,0,0.0,509,6,0,0,0.0,0.0,2021-08-14T11:30:00Z,0,0,0,0,0,1,0,25705,1,5,0.0,0,0,0,0,40,True,0,Leeds
+Pierluigi Gollini,GK,Spurs,1.3,0,0,0,0,0.0,486,10,0,0,0.0,0.0,2021-08-15T15:30:00Z,0,0,0,0,0,1,0,18475,0,1,0.0,0,0,0,0,45,True,0,Man City
+Josh Brownhill,MID,Burnley,0.5,0,0,8,0,10.5,115,2,0,0,1.8,7.2,2021-08-14T14:00:00Z,11,0,0,0,0,1,0,288638,2,1,0.0,1,0,0,0,45,True,0,Brighton
+João Pedro Junqueira de Jesus,FWD,Watford,0.0,0,0,0,0,0.0,404,8,0,0,0.0,0.0,2021-08-14T14:00:00Z,0,0,0,0,0,1,0,16092,2,3,0.0,0,0,0,0,55,True,0,Aston Villa
+Ian Poveda-Ocampo,MID,Leeds,0.5,0,0,0,0,0.0,195,6,0,0,0.0,0.0,2021-08-14T11:30:00Z,0,0,0,0,0,1,0,5955,1,5,0.0,0,0,0,0,45,False,0,Man Utd
+Frederico Rodrigues de Paula Santos,MID,Man Utd,1.9,0,0,25,0,7.2,274,6,1,1,6.2,37.8,2021-08-14T11:30:00Z,90,0,0,0,0,1,0,13665,1,5,17.0,7,0,0,0,50,True,0,Leeds
+Yerson Mosquera Valdelamar,DEF,Wolves,0.3,0,0,0,0,0.0,446,5,0,0,0.0,0.0,2021-08-14T14:00:00Z,0,0,0,0,0,1,0,2407,0,1,0.0,0,0,0,0,45,False,0,Leicester
+Tyrick Mitchell,DEF,Crystal Palace,1.2,0,0,5,0,1.9,162,3,3,0,0.6,4.0,2021-08-14T14:00:00Z,90,0,0,0,0,1,0,44446,0,3,0.0,1,0,0,0,45,False,0,Chelsea
+Wayne Hennessey,GK,Burnley,1.3,0,0,0,0,0.0,480,2,0,0,0.0,0.0,2021-08-14T14:00:00Z,0,0,0,0,0,1,0,17185,2,1,0.0,0,0,0,0,45,True,0,Brighton
+Andreas Christensen,DEF,Chelsea,2.7,0,1,27,1,1.3,133,3,0,0,2.0,18.6,2021-08-14T14:00:00Z,90,0,0,0,0,1,0,51896,0,3,0.0,7,0,0,0,50,True,0,Crystal Palace
+Jack Harrison,MID,Leeds,1.6,0,0,8,0,21.1,267,6,5,0,3.8,10.2,2021-08-14T11:30:00Z,68,0,0,0,0,1,0,330990,1,5,7.0,2,0,0,0,60,False,0,Man Utd
+David de Gea,GK,Man Utd,3.1,0,0,16,0,0.0,270,6,1,0,1.3,13.2,2021-08-14T11:30:00Z,90,0,0,0,0,1,2,173508,1,5,0.0,2,0,0,0,50,True,0,Leeds
+Victor Lindelöf,DEF,Man Utd,2.7,1,0,23,0,13.4,284,6,1,0,4.4,30.2,2021-08-14T11:30:00Z,90,0,0,0,0,1,0,38513,1,5,0.0,5,0,0,0,50,True,0,Leeds
+Jannik Vestergaard,DEF,Leicester,2.7,0,0,3,0,0.1,340,5,0,0,0.4,3.6,2021-08-14T14:00:00Z,28,0,0,0,0,1,0,97933,0,1,0.0,1,0,0,0,50,True,0,Wolves
+Ayoze Pérez,MID,Leicester,2.6,0,0,7,1,35.2,211,5,0,0,4.4,7.2,2021-08-14T14:00:00Z,61,0,0,0,0,1,0,18150,0,1,2.0,3,0,0,0,60,True,0,Wolves
+Neal Maupay,FWD,Brighton,2.6,0,0,20,0,6.5,63,2,1,1,11.5,34.0,2021-08-14T14:00:00Z,90,0,0,0,0,1,0,160421,2,1,74.0,5,0,0,0,65,False,1,Burnley
+Danny Welbeck,FWD,Brighton,0.0,0,0,0,0,0.0,447,2,0,0,0.0,0.0,2021-08-14T14:00:00Z,0,0,0,0,0,1,0,12873,2,1,0.0,0,0,0,0,60,False,0,Burnley
+Tomas Soucek,MID,West Ham,3.1,0,1,34,0,3.8,422,9,2,1,15.0,53.6,2021-08-15T13:00:00Z,90,0,0,0,0,1,0,753486,4,2,93.0,8,0,0,0,60,False,0,Newcastle
+Aaron Connolly,FWD,Brighton,2.1,0,0,0,0,0.0,72,2,0,0,0.0,0.0,2021-08-14T14:00:00Z,0,0,0,0,0,1,0,15789,2,1,0.0,0,0,0,0,55,False,0,Burnley
+Javier Manquillo,DEF,Newcastle,0.0,0,0,0,0,0.0,302,9,0,0,0.0,0.0,2021-08-15T13:00:00Z,0,0,0,0,0,1,0,688449,4,2,0.0,0,0,0,0,40,True,0,West Ham
+Romain Perraud,DEF,Southampton,2.2,0,0,7,0,11.5,460,4,3,0,1.9,7.6,2021-08-14T14:00:00Z,82,0,0,0,0,1,0,7538,1,3,0.0,1,0,0,0,50,False,0,Everton
+Will Hughes,MID,Watford,0.9,0,0,0,0,0.0,386,8,0,0,0.0,0.0,2021-08-14T14:00:00Z,0,0,0,0,0,1,0,5046,2,3,0.0,0,0,0,0,50,True,0,Aston Villa
+Ben Davies,DEF,Spurs,1.2,0,0,0,0,0.0,364,10,0,0,0.0,0.0,2021-08-15T15:30:00Z,0,0,0,0,0,1,0,18832,0,1,0.0,0,0,0,0,45,True,0,Man City
+Nicolas Pépé,MID,Arsenal,3.5,0,0,9,0,43.9,17,1,2,0,10.3,7.6,2021-08-13T19:00:00Z,90,0,0,0,0,1,0,243459,0,2,51.0,2,0,0,0,75,False,0,Brentford
+Martin Kelly,DEF,Crystal Palace,0.5,0,0,0,0,0.0,151,3,0,0,0.0,0.0,2021-08-14T14:00:00Z,0,0,0,0,0,1,0,80769,0,3,0.0,0,0,0,0,40,False,0,Chelsea
+Andreas Söndergaard,GK,Wolves,0.5,0,0,0,0,0.0,444,5,0,0,0.0,0.0,2021-08-14T14:00:00Z,0,0,0,0,0,1,0,80400,0,1,0.0,0,0,0,0,40,False,0,Leicester
+Will Norris,GK,Burnley,1.3,0,0,0,0,0.0,114,2,0,0,0.0,0.0,2021-08-14T14:00:00Z,0,0,0,0,0,1,0,8993,2,1,0.0,0,0,0,0,45,True,0,Brighton
+Granit Xhaka,MID,Arsenal,2.4,0,0,13,0,24.7,7,1,2,0,4.5,15.2,2021-08-13T19:00:00Z,90,0,0,0,0,1,0,61422,0,2,5.0,2,0,0,0,50,False,0,Brentford
+Jan Zamburek,MID,Brentford,0.0,0,0,0,0,0.0,93,1,0,0,0.0,0.0,2021-08-13T19:00:00Z,0,0,0,0,0,1,0,49963,0,2,0.0,0,0,0,0,45,True,0,Arsenal
+Andi Zeqiri,FWD,Brighton,1.5,0,0,0,0,0.0,535,2,0,0,0.0,0.0,2021-08-14T14:00:00Z,0,0,0,0,0,1,0,0,2,1,0.0,0,0,0,0,45,False,0,Burnley
+Fabio Silva,FWD,Wolves,1.3,0,0,3,0,0.0,445,5,0,0,0.0,0.0,2021-08-14T14:00:00Z,1,0,0,0,0,1,0,59391,0,1,0.0,1,0,0,0,60,False,0,Leicester
+Michail Antonio,FWD,West Ham,3.4,2,3,40,0,18.7,413,9,2,1,12.9,55.6,2021-08-15T13:00:00Z,90,0,1,0,0,1,0,1617415,4,2,55.0,13,0,0,0,75,False,0,Newcastle
+Bernardo Fernandes Da Silva Junior,DEF,Brighton,0.0,0,0,0,0,0.0,68,2,0,0,0.0,0.0,2021-08-14T14:00:00Z,0,0,0,0,0,1,0,1037,2,1,0.0,0,0,0,0,40,False,0,Burnley
+Yves Bissouma,MID,Brighton,1.5,0,0,14,0,5.2,70,2,1,0,1.3,7.6,2021-08-14T14:00:00Z,90,0,0,0,0,1,0,882586,2,1,0.0,2,0,0,0,45,False,0,Burnley
+Luke Ayling,DEF,Leeds,1.2,0,0,23,0,4.8,185,6,5,1,7.0,52.4,2021-08-14T11:30:00Z,90,0,0,0,0,1,0,787277,1,5,13.0,6,0,0,0,45,False,0,Man Utd
+Mads Roerslev,DEF,Brentford,0.7,0,0,0,0,0.0,89,1,0,0,0.0,0.0,2021-08-13T19:00:00Z,0,0,0,0,0,1,0,6247,0,2,0.0,0,0,0,0,45,True,0,Arsenal
+Jonny Evans,DEF,Leicester,0.0,0,0,0,0,0.0,201,5,0,0,0.0,0.0,2021-08-14T14:00:00Z,0,0,0,0,0,1,0,17182,0,1,0.0,0,0,0,0,55,True,0,Wolves
+Anthony Elanga,MID,Man Utd,1.9,0,0,0,0,0.0,512,6,0,0,0.0,0.0,2021-08-14T11:30:00Z,0,0,0,0,0,1,0,1515,1,5,0.0,0,0,0,0,50,True,0,Leeds
+Joe Rodon,DEF,Spurs,1.2,0,0,0,0,0.0,374,10,0,0,0.0,0.0,2021-08-15T15:30:00Z,0,0,0,0,0,1,0,8844,0,1,0.0,0,0,0,0,45,True,0,Man City
+Ferran Torres,MID,Man City,2.9,0,0,4,0,2.9,268,10,1,0,4.0,5.0,2021-08-15T15:30:00Z,90,0,0,0,0,1,0,129946,0,1,32.0,2,0,0,0,70,False,0,Spurs
+Wesley Moraes,FWD,Aston Villa,2.1,0,0,0,0,0.0,47,8,0,0,0.0,0.0,2021-08-14T14:00:00Z,0,0,0,0,0,1,0,16681,2,3,0.0,0,0,0,0,55,False,0,Watford
+Jordan Pickford,GK,Everton,2.6,0,0,14,0,0.0,170,4,1,0,2.0,19.6,2021-08-14T14:00:00Z,90,0,0,0,0,1,2,446969,1,3,0.0,2,0,0,0,50,True,0,Southampton
+Erik Pieters,DEF,Burnley,1.2,0,0,0,0,0.0,100,2,0,0,0.0,0.0,2021-08-14T14:00:00Z,0,0,0,0,0,1,0,13554,2,1,0.0,0,0,0,0,45,True,0,Brighton
+Juan Camilo Hernández,FWD,Watford,0.8,0,1,28,0,0.3,472,8,2,1,6.3,36.2,2021-08-14T14:00:00Z,24,0,0,0,0,1,0,22290,2,3,26.0,6,0,0,0,50,True,0,Aston Villa
+Bernd Leno,GK,Arsenal,3.6,0,0,11,0,0.0,1,1,2,0,1.2,11.8,2021-08-13T19:00:00Z,90,0,0,0,0,1,1,153122,0,2,0.0,1,0,0,0,50,False,0,Brentford
+Kai Havertz,MID,Chelsea,3.3,0,0,1,0,0.8,141,3,0,0,0.2,0.0,2021-08-14T14:00:00Z,8,0,0,0,0,1,0,834989,0,3,2.0,1,0,0,0,85,True,0,Crystal Palace
+Daniel N'Lundulu,FWD,Southampton,0.0,0,0,0,0,0.0,344,4,0,0,0.0,0.0,2021-08-14T14:00:00Z,0,0,0,0,0,1,0,2798,1,3,0.0,0,0,0,0,45,False,0,Everton
+Leon Bailey,MID,Aston Villa,2.8,1,0,14,0,14.8,492,8,1,0,5.6,20.0,2021-08-14T14:00:00Z,30,0,0,0,0,1,0,171733,2,3,21.0,4,0,0,0,65,False,0,Watford
+Michael Olise,MID,Crystal Palace,0.0,0,0,0,0,0.0,464,3,0,0,0.0,0.0,2021-08-14T14:00:00Z,0,0,0,0,0,1,0,3327,0,3,0.0,0,0,0,0,55,False,0,Chelsea
+Morgan Gibbs-White,MID,Wolves,0.5,0,0,2,0,0.4,440,5,0,0,2.0,0.0,2021-08-14T14:00:00Z,4,0,0,0,0,1,0,30702,0,1,20.0,1,0,0,0,45,False,0,Leicester
+Jeff Hendrick,MID,Newcastle,0.4,0,0,0,0,0.0,297,9,0,0,0.0,0.0,2021-08-15T13:00:00Z,0,0,0,0,0,1,0,4139,4,2,0.0,0,0,0,0,50,True,0,West Ham
+Michael Keane,DEF,Everton,2.2,0,0,9,0,10.9,169,4,1,0,4.7,15.6,2021-08-14T14:00:00Z,90,0,0,0,0,1,0,203108,1,3,20.0,2,0,0,0,50,True,0,Southampton
+Mason Greenwood,MID,Man Utd,3.0,0,1,28,0,23.7,289,6,1,1,9.2,41.2,2021-08-14T11:30:00Z,90,0,0,0,0,1,0,506276,1,5,27.0,8,0,0,0,75,True,0,Leeds
+João Virgínia,GK,Everton,1.0,0,0,0,0,0.0,181,4,0,0,0.0,0.0,2021-08-14T14:00:00Z,0,0,0,0,0,1,0,167543,1,3,0.0,0,0,0,0,40,True,0,Southampton
+Adam Masina,DEF,Watford,1.2,0,0,8,0,0.3,390,8,2,0,0.8,7.2,2021-08-14T14:00:00Z,90,0,0,0,0,1,0,7697,2,3,0.0,1,0,0,0,45,True,0,Aston Villa
+Ryan Sessegnon,DEF,Spurs,1.2,0,0,0,0,0.0,368,10,0,0,0.0,0.0,2021-08-15T15:30:00Z,0,0,0,0,0,1,0,10883,0,1,0.0,0,0,0,0,45,True,0,Man City
+Bryan Gil Salvatierra,MID,Spurs,1.2,0,0,0,0,0.0,487,10,0,0,0.0,0.0,2021-08-15T15:30:00Z,0,0,0,0,0,1,0,9372,0,1,0.0,0,0,0,0,60,True,0,Man City
+Daniel Amartey,DEF,Leicester,1.5,0,0,27,1,0.8,208,5,0,0,1.6,15.4,2021-08-14T14:00:00Z,90,0,0,0,0,1,0,985291,0,1,0.0,6,0,0,0,40,True,0,Wolves
+Chem Campbell,MID,Wolves,0.5,0,0,0,0,0.0,548,5,0,0,0.0,0.0,2021-08-14T14:00:00Z,0,0,0,0,0,1,0,0,0,1,0.0,0,0,0,0,45,False,0,Leicester
+César Azpilicueta,DEF,Chelsea,3.4,0,0,25,1,8.6,119,3,0,0,2.5,10.4,2021-08-14T14:00:00Z,66,0,0,0,0,1,0,254999,0,3,6.0,6,0,0,0,60,True,0,Crystal Palace
+Caoimhin Kelleher,GK,Liverpool,2.8,0,0,0,0,0.0,242,7,0,0,0.0,0.0,2021-08-14T16:30:00Z,0,0,0,0,0,1,0,7681,3,0,0.0,0,0,0,0,45,False,0,Norwich
+Dan Burn,DEF,Brighton,0.0,0,0,0,0,0.0,58,2,0,0,0.0,0.0,2021-08-14T14:00:00Z,0,0,0,0,0,1,0,3067,2,1,0.0,0,0,0,0,45,False,0,Burnley
+Andrew Omobamidele,DEF,Norwich,0.0,0,0,0,0,0.0,331,7,0,0,0.0,0.0,2021-08-14T16:30:00Z,0,0,0,0,0,1,0,111756,3,0,0.0,0,0,0,0,40,True,0,Liverpool
+Phil Foden,MID,Man City,0.0,0,0,0,0,0.0,265,10,0,0,0.0,0.0,2021-08-15T15:30:00Z,0,0,0,0,0,1,0,105611,0,1,0.0,0,0,0,0,80,False,0,Spurs
+Thiago Alcántara do Nascimento,MID,Liverpool,2.9,0,0,0,0,0.0,225,7,0,0,0.0,0.0,2021-08-14T16:30:00Z,0,0,0,0,0,1,0,72500,3,0,0.0,0,0,0,0,55,False,0,Norwich
+Kieran Dowell,MID,Norwich,0.9,0,0,5,0,20.8,323,7,0,0,2.9,4.2,2021-08-14T16:30:00Z,4,0,0,0,0,1,0,4891,3,0,4.0,1,0,0,0,55,True,0,Liverpool
+Ryan Bertrand,DEF,Leicester,2.7,0,0,0,0,0.0,473,5,0,0,0.0,0.0,2021-08-14T14:00:00Z,0,0,0,0,0,1,0,144893,0,1,0.0,0,0,0,0,50,True,0,Wolves
+Lucas Digne,DEF,Everton,2.6,0,0,9,0,25.9,168,4,1,0,4.5,8.2,2021-08-14T14:00:00Z,90,0,0,0,0,1,0,1292519,1,3,11.0,2,0,0,0,55,True,0,Southampton
+Ben Woodburn,MID,Liverpool,2.0,0,0,0,0,0.0,553,7,0,0,0.0,0.0,2021-08-14T16:30:00Z,0,0,0,0,0,1,0,0,3,0,0.0,0,0,0,0,45,False,0,Norwich
+Danny Ward,GK,Leicester,1.5,0,0,0,0,0.0,204,5,0,0,0.0,0.0,2021-08-14T14:00:00Z,0,0,0,0,0,1,0,230909,0,1,0.0,0,0,0,0,40,True,0,Wolves
+Sead Kolasinac,DEF,Arsenal,2.7,0,0,0,0,0.0,11,1,0,0,0.0,0.0,2021-08-13T19:00:00Z,0,0,0,0,0,1,0,9282,0,2,0.0,0,0,0,0,45,False,0,Brentford
+Samuel Edozie,MID,Man City,1.9,0,0,0,0,0.0,508,10,0,0,0.0,0.0,2021-08-15T15:30:00Z,0,0,0,0,0,1,0,1270,0,1,0.0,0,0,0,0,50,False,0,Spurs
+Alex Oxlade-Chamberlain,MID,Liverpool,3.1,0,0,3,1,5.3,227,7,0,0,0.7,0.0,2021-08-14T16:30:00Z,60,0,0,0,0,1,0,9191,3,0,4.0,3,0,0,0,60,False,0,Norwich
+Josh Benson,MID,Burnley,0.0,0,0,0,0,0.0,116,2,0,0,0.0,0.0,2021-08-14T14:00:00Z,0,0,0,0,0,1,0,408,2,1,0.0,0,0,0,0,45,True,0,Brighton
+Craig Dawson,DEF,West Ham,3.2,0,0,16,0,1.1,414,9,2,0,4.4,22.6,2021-08-15T13:00:00Z,90,0,0,0,0,1,0,21144,4,2,20.0,1,0,0,0,50,False,0,Newcastle
+Kasper Schmeichel,GK,Leicester,3.1,0,2,31,1,0.0,200,5,0,0,2.6,26.0,2021-08-14T14:00:00Z,90,0,0,0,0,1,3,1114563,0,1,0.0,9,0,0,0,50,True,0,Wolves
+Ben White,DEF,Arsenal,2.7,0,0,12,0,0.5,67,1,2,0,1.1,10.8,2021-08-13T19:00:00Z,90,0,0,0,0,1,0,1716768,0,2,0.0,1,0,0,0,45,False,0,Brentford
+Christos Tzolis,MID,Norwich,0.4,0,0,0,0,0.0,528,7,0,0,0.0,0.0,2021-08-14T16:30:00Z,0,0,0,0,0,1,0,4851,3,0,0.0,0,0,0,0,50,True,0,Liverpool
+Thiago Emiliano da Silva,DEF,Chelsea,3.1,0,0,0,0,0.0,121,3,0,0,0.0,0.0,2021-08-14T14:00:00Z,0,0,0,0,0,1,0,219781,0,3,0.0,0,0,0,0,55,True,0,Crystal Palace
+Daniel Podence,MID,Wolves,0.0,0,0,0,0,0.0,438,5,0,0,0.0,0.0,2021-08-14T14:00:00Z,0,0,0,0,0,1,0,710,0,1,0.0,0,0,0,0,55,False,0,Leicester
+Halil Dervişoğlu,FWD,Brentford,0.6,0,0,0,0,0.0,95,1,0,0,0.0,0.0,2021-08-13T19:00:00Z,0,0,0,0,0,1,0,3289,0,2,0.0,0,0,0,0,55,True,0,Arsenal
+Jadon Sancho,MID,Man Utd,3.6,0,0,3,0,5.8,485,6,0,0,0.7,1.0,2021-08-14T11:30:00Z,15,0,0,0,0,1,0,683763,1,5,0.0,1,0,0,0,95,True,0,Leeds
+Kurt Zouma,DEF,Chelsea,3.1,0,0,0,0,0.0,128,3,0,0,0.0,0.0,2021-08-14T14:00:00Z,0,0,0,0,0,1,0,99447,0,3,0.0,0,0,0,0,55,True,0,Crystal Palace
+Lukas Rupp,MID,Norwich,0.0,0,0,13,0,2.2,317,7,3,0,2.8,5.2,2021-08-14T16:30:00Z,90,0,0,0,0,1,0,8058,3,0,21.0,2,0,0,0,45,True,0,Liverpool
+Aaron Cresswell,DEF,West Ham,3.6,0,0,30,0,17.5,411,9,2,1,9.1,55.8,2021-08-15T13:00:00Z,90,0,0,0,0,1,0,1213434,4,2,18.0,7,0,0,0,55,False,0,Newcastle
+Jordan Hugill,FWD,Norwich,0.6,0,0,0,0,0.0,322,7,0,0,0.0,0.0,2021-08-14T16:30:00Z,0,0,0,0,0,1,0,3139,3,0,0.0,0,0,0,0,55,True,0,Liverpool
+Nathan Broadhead,FWD,Everton,1.0,0,0,0,0,0.0,545,4,0,0,0.0,0.0,2021-08-14T14:00:00Z,0,0,0,0,0,1,0,0,1,3,0.0,0,0,0,0,45,True,0,Southampton
+Federico Fernández,DEF,Newcastle,0.7,0,0,20,0,0.3,465,9,4,0,5.1,46.8,2021-08-15T13:00:00Z,90,0,0,0,0,1,0,14823,4,2,4.0,0,0,0,0,45,True,0,West Ham
+Curtis Jones,MID,Liverpool,0.0,0,0,0,0,0.0,244,7,0,0,0.0,0.0,2021-08-14T16:30:00Z,0,0,0,0,0,1,0,1989,3,0,0.0,0,0,0,0,50,False,0,Norwich
+John Ruddy,GK,Wolves,1.3,0,0,0,0,0.0,452,5,0,0,0.0,0.0,2021-08-14T14:00:00Z,0,0,0,0,0,1,0,14394,0,1,0.0,0,0,0,0,45,False,0,Leicester
+Mohammed Salisu,DEF,Southampton,1.7,0,0,14,0,1.4,351,4,3,0,4.4,23.4,2021-08-14T14:00:00Z,90,0,0,0,0,1,0,6041,1,3,19.0,1,0,0,0,45,False,0,Everton
+N'Golo Kanté,MID,Chelsea,1.5,0,0,0,0,0.0,130,3,0,0,0.0,0.0,2021-08-14T14:00:00Z,0,0,0,0,0,1,0,316399,0,3,0.0,0,0,0,0,50,True,0,Crystal Palace
+Josh Martin,MID,Norwich,0.0,0,0,0,0,0.0,330,7,0,0,0.0,0.0,2021-08-14T16:30:00Z,0,0,0,0,0,1,0,55,3,0,0.0,0,0,0,0,50,True,0,Liverpool
+Wilfred Ndidi,MID,Leicester,1.9,0,0,20,1,3.3,216,5,0,0,2.0,16.4,2021-08-14T14:00:00Z,90,0,0,0,0,1,0,106828,0,1,0.0,3,0,0,0,50,True,0,Wolves
+Matt Ritchie,DEF,Newcastle,1.2,1,0,24,0,54.9,292,9,4,0,9.7,28.0,2021-08-15T13:00:00Z,90,0,0,0,0,1,0,16998,4,2,14.0,3,0,0,0,50,True,0,West Ham
+Nathan Redmond,MID,Southampton,2.1,0,0,4,0,1.4,336,4,0,0,0.6,2.6,2021-08-14T14:00:00Z,7,0,0,0,0,1,0,8313,1,3,2.0,1,0,0,0,60,False,0,Everton
+Mat Ryan,GK,Brighton,0.0,0,0,0,0,0.0,65,2,0,0,0.0,0.0,2021-08-14T14:00:00Z,0,0,0,0,0,1,0,1410,2,1,0.0,0,0,0,0,45,False,0,Burnley
+Ryan Fredericks,DEF,West Ham,2.7,0,0,3,0,0.0,415,9,0,0,0.0,0.0,2021-08-15T13:00:00Z,2,0,0,0,0,1,0,9545,4,2,0.0,1,0,0,0,45,False,0,Newcastle

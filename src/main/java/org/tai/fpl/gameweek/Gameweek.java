@@ -21,6 +21,8 @@ import java.time.format.DateTimeFormatter;
 import java.util.HashMap;
 import java.util.Map;
 
+import static org.tai.fpl.gameweek.NameFormatter.formatName;
+
 public class Gameweek {
     private static final Logger LOGGER = LogManager.getLogger(Main.class);
     private static final String TARGET_URL = "https://fantasy.premierleague.com/api/element-summary/";
@@ -51,7 +53,6 @@ public class Gameweek {
                     String opponentTeam = formatTeam(playerGameweekData.getInt("opponent_team"));
                     playerGameweekData.put("opponent_team", opponentTeam);
                     playerGameweekData.put(PlayerColumns.NAME, playerIdentifiers.get(PlayerColumns.NAME));
-                    playerGameweekData.put(PlayerColumns.WEB_NAME, playerIdentifiers.get(PlayerColumns.WEB_NAME));
                     playerGameweekData.put(PlayerColumns.POSITION, playerIdentifiers.get(PlayerColumns.POSITION));
                     playerGameweekData.put(PlayerColumns.TEAM, playerIdentifiers.get(PlayerColumns.TEAM));
                     playerGameweekData.put(PlayerColumns.XP, playerIdentifiers.get(PlayerColumns.XP));
@@ -65,16 +66,14 @@ public class Gameweek {
     private Map<String, Object> getPlayerAttributes(JSONObject player) {
         Map<String, Object> playerAttributes = new HashMap<>();
 
-        String name = String.format("%s %s", player.getString(PlayerColumns.FIRST_NAME),
-                player.getString(PlayerColumns.SECOND_NAME));
-        String webName = player.getString(PlayerColumns.WEB_NAME);
+        String name = formatName(String.format("%s %s", player.getString(PlayerColumns.FIRST_NAME),
+                player.getString(PlayerColumns.SECOND_NAME)));
         Integer id = player.getInt(PlayerColumns.ID);
         String position = formatPosition(player.getInt(PlayerColumns.ELEMENT_TYPE));
         String team = formatTeam(player.getInt(PlayerColumns.TEAM));
         Double expectedPoints = player.getDouble(PlayerColumns.EP_THIS);
 
         playerAttributes.put(PlayerColumns.NAME, name);
-        playerAttributes.put(PlayerColumns.WEB_NAME, webName);
         playerAttributes.put(PlayerColumns.ID, id);
         playerAttributes.put(PlayerColumns.POSITION, position);
         playerAttributes.put(PlayerColumns.TEAM, team);

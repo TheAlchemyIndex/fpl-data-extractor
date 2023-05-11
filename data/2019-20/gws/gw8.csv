@@ -1,552 +1,552 @@
-name,assists,bonus,bps,clean_sheets,creativity,element,fixture,goals_conceded,goals_scored,ict_index,influence,kickoff_time,minutes,own_goals,penalties_missed,penalties_saved,red_cards,round,saves,selected,team_a_score,team_h_score,threat,total_points,transfers_balance,transfers_in,transfers_out,value,was_home,yellow_cards,opponent_team,team,position,web_name
-Aaron Connolly,0,3,53,1,23.8,534,72,0,2,20.1,70.2,2019-10-05T11:30:00Z,79,0,0,0,0,8,0,35026,0,3,107.0,13,2156,5952,3796,45,True,0,Spurs,Brighton,FWD,Connolly
-Aaron Cresswell,0,0,16,0,1.3,376,80,1,0,1.8,13.0,2019-10-05T16:30:00Z,83,0,0,0,0,8,0,167821,2,1,4.0,2,106465,111664,5199,49,True,0,Crystal Palace,West Ham,DEF,Cresswell
-Aaron Lennon,0,0,3,0,0.8,430,73,0,0,0.1,0.0,2019-10-05T14:00:00Z,6,0,0,0,0,8,0,7140,0,1,0.0,1,-379,155,534,48,True,0,Everton,Burnley,MID,Lennon
-Aaron Mooy,0,0,15,1,14.9,516,72,0,0,3.5,19.0,2019-10-05T11:30:00Z,90,0,0,0,0,8,0,11138,0,3,1.0,3,-370,324,694,48,True,0,Spurs,Brighton,MID,Mooy
-Aaron Ramsdale,0,0,10,0,0.0,494,71,1,0,1.1,10.6,2019-10-06T13:00:00Z,90,0,0,0,0,8,1,58222,0,1,0.0,2,6643,12532,5889,45,False,0,Arsenal,Bournemouth,GK,Ramsdale
-Aaron Wan-Bissaka,0,0,0,0,0.0,122,76,0,0,0.0,0.0,2019-10-06T15:30:00Z,0,0,0,0,0,8,0,1407083,0,1,0.0,0,-200518,4987,205505,55,False,0,Newcastle,Man Utd,DEF,Wan-Bissaka
-Abdoulaye Doucouré,0,0,9,1,7.5,368,79,0,0,3.3,12.8,2019-10-05T14:00:00Z,90,0,0,0,0,8,0,69647,0,0,13.0,3,-4812,796,5608,57,True,0,Sheffield Utd,Watford,MID,Doucouré
-Adama Traoré,0,3,59,1,14.3,417,75,0,2,12.5,84.4,2019-10-06T13:00:00Z,90,0,0,0,0,8,0,26625,2,0,26.0,16,-461,2170,2631,50,False,0,Man City,Wolves,MID,Traoré
-Adam Idah,0,0,0,0,0.0,538,77,0,0,0.0,0.0,2019-10-05T14:00:00Z,0,0,0,0,0,8,0,6427,5,1,0.0,0,130,1059,929,45,True,0,Aston Villa,Norwich,FWD,Idah
-Adam Lallana,0,0,3,0,0.1,195,74,0,0,0.0,0.2,2019-10-05T14:00:00Z,1,0,0,0,0,8,0,7420,1,2,0.0,1,-289,111,400,58,True,0,Leicester,Liverpool,MID,Lallana
-Adam Masina,0,0,0,0,0.0,355,79,0,0,0.0,0.0,2019-10-05T14:00:00Z,0,0,0,0,0,8,0,4247,0,0,0.0,0,-134,22,156,44,True,0,Sheffield Utd,Watford,DEF,Masina
-Adam Smith,0,0,0,0,0.0,63,71,0,0,0.0,0.0,2019-10-06T13:00:00Z,0,0,0,0,0,8,0,34248,0,1,0.0,0,-5160,18,5178,43,False,0,Arsenal,Bournemouth,DEF,Adam Smith
-Adam Webster,0,0,32,1,10.8,493,72,0,0,3.8,24.8,2019-10-05T11:30:00Z,90,0,0,0,0,8,0,8328,0,3,2.0,6,212,728,516,44,True,0,Spurs,Brighton,DEF,Webster
-Addji Keaninkin Marc-Israel Guehi,0,0,0,0,0.0,545,78,0,0,0.0,0.0,2019-10-06T13:00:00Z,0,0,0,0,0,8,0,1832,4,1,0.0,0,947,1119,172,40,False,0,Southampton,Chelsea,DEF,Guehi
-Ademola Lookman,0,0,0,0,0.0,155,73,0,0,0.0,0.0,2019-10-05T14:00:00Z,0,0,0,0,0,8,0,459,0,1,0.0,0,-12,7,19,50,False,0,Burnley,Everton,MID,Lookman
-Adrian Mariappa,0,0,0,0,0.0,356,79,0,0,0.0,0.0,2019-10-05T14:00:00Z,0,0,0,0,0,8,0,11059,0,0,0.0,0,-411,137,548,43,True,0,Sheffield Utd,Watford,DEF,Mariappa
-Adrián San Miguel del Castillo,0,0,10,0,0.0,526,74,1,0,0.5,4.8,2019-10-05T14:00:00Z,90,0,0,0,0,8,0,479476,1,2,0.0,2,7035,32847,25812,46,True,0,Leicester,Liverpool,GK,Adrián
-Ahmed El Mohamady,0,0,0,0,0.0,22,77,0,0,0.0,0.0,2019-10-05T14:00:00Z,0,0,0,0,0,8,0,79229,5,1,0.0,0,-6403,1485,7888,43,False,0,Norwich,Aston Villa,DEF,El Mohamady
-Ainsley Maitland-Niles,0,0,0,0,0.0,4,71,0,0,0.0,0.0,2019-10-06T13:00:00Z,0,0,0,0,0,8,0,368825,0,1,0.0,0,-36045,6617,42662,50,True,0,Bournemouth,Arsenal,DEF,Maitland-Niles
-Akin Famewo,0,0,0,0,0.0,552,77,0,0,0.0,0.0,2019-10-05T14:00:00Z,0,0,0,0,0,8,0,0,5,1,0.0,0,0,0,0,40,True,0,Aston Villa,Norwich,DEF,Famewo
-Albian Ajeti,0,0,0,0,0.0,514,80,0,0,0.0,0.0,2019-10-05T16:30:00Z,0,0,0,0,0,8,0,2553,2,1,0.0,0,-60,109,169,58,True,0,Crystal Palace,West Ham,FWD,Ajeti
-Alexander Tettey,0,0,0,0,0.0,289,77,0,0,0.0,0.0,2019-10-05T14:00:00Z,0,0,0,0,0,8,0,12378,5,1,0.0,0,-1221,19,1240,45,True,0,Aston Villa,Norwich,MID,Tettey
-Alexandre Nascimento Costa Silva,0,0,0,0,0.0,387,80,0,0,0.0,0.0,2019-10-05T16:30:00Z,0,0,0,0,0,8,0,85759,2,1,0.0,0,-3690,2490,6180,44,True,0,Crystal Palace,West Ham,FWD,Xande Silva
-Alexandre Lacazette,0,0,0,0,0.0,12,71,0,0,0.0,0.0,2019-10-06T13:00:00Z,0,0,0,0,0,8,0,101731,0,1,0.0,0,-5536,219,5755,93,True,0,Bournemouth,Arsenal,FWD,Lacazette
-Alexis Sánchez,0,0,0,0,0.0,240,76,0,0,0.0,0.0,2019-10-06T15:30:00Z,0,0,0,0,0,8,0,30754,0,1,0.0,0,-671,49,720,68,False,0,Newcastle,Man Utd,MID,Sánchez
-Alex Iwobi,0,0,15,0,18.9,17,73,1,0,9.1,13.6,2019-10-05T14:00:00Z,90,0,0,0,0,8,0,113141,0,1,58.0,2,-12702,3598,16300,59,False,0,Burnley,Everton,MID,Iwobi
-Alex McCarthy,0,0,0,0,0.0,318,78,0,0,0.0,0.0,2019-10-06T13:00:00Z,0,0,0,0,0,8,0,28899,4,1,0.0,0,-1703,20,1723,44,True,0,Chelsea,Southampton,GK,McCarthy
-Alex Oxlade-Chamberlain,0,0,0,0,0.0,193,74,0,0,0.0,0.0,2019-10-05T14:00:00Z,0,0,0,0,0,8,0,22200,1,2,0.0,0,-1331,482,1813,63,True,0,Leicester,Liverpool,MID,Chamberlain
-Alfie Whiteman,0,0,0,0,0.0,543,72,0,0,0.0,0.0,2019-10-05T11:30:00Z,0,0,0,0,0,8,0,17278,0,3,0.0,0,3735,4819,1084,40,False,0,Brighton,Spurs,GK,Whiteman
-Alireza Jahanbakhsh,0,0,0,0,0.0,50,72,0,0,0.0,0.0,2019-10-05T11:30:00Z,0,0,0,0,0,8,0,4329,0,3,0.0,0,-59,42,101,58,True,0,Spurs,Brighton,MID,Jahanbakhsh
-Alisson Ramses Becker,0,0,0,0,0.0,189,74,0,0,0.0,0.0,2019-10-05T14:00:00Z,0,0,0,0,0,8,0,376371,1,2,0.0,0,-8719,5147,13866,58,True,0,Leicester,Liverpool,GK,Alisson
-Allan Saint-Maximin,0,0,9,1,22.0,500,76,0,0,4.3,6.2,2019-10-06T15:30:00Z,82,0,0,0,0,8,0,14236,0,1,15.0,3,-96,693,789,54,True,0,Man Utd,Newcastle,MID,Saint-Maximin
-Andreas Christensen,0,0,0,0,0.0,108,78,0,0,0.0,0.0,2019-10-06T13:00:00Z,0,0,0,0,0,8,0,65843,4,1,0.0,0,1963,4611,2648,50,False,0,Southampton,Chelsea,DEF,Christensen
-Andreas Pereira,0,0,8,0,5.0,246,76,1,0,3.1,9.0,2019-10-06T15:30:00Z,90,0,0,0,0,8,0,32745,0,1,17.0,2,-2090,1420,3510,50,False,0,Newcastle,Man Utd,MID,Pereira
-Andrew Robertson,0,0,20,0,16.9,181,74,1,0,5.7,19.0,2019-10-05T14:00:00Z,90,0,0,0,0,8,0,1347696,1,2,21.0,2,4261,37689,33428,69,True,0,Leicester,Liverpool,DEF,Robertson
-Andrew Surman,0,0,0,0,0.0,80,71,0,0,0.0,0.0,2019-10-06T13:00:00Z,0,0,0,0,0,8,0,3036,0,1,0.0,0,-154,45,199,48,False,0,Arsenal,Bournemouth,MID,Surman
-Andre Gray,0,0,1,0,12.8,364,79,0,0,2.5,1.6,2019-10-05T14:00:00Z,58,0,0,0,0,8,0,34500,0,0,11.0,1,-2389,1235,3624,58,True,0,Sheffield Utd,Watford,FWD,Gray
-Andre Green,0,0,0,0,0.0,32,77,0,0,0.0,0.0,2019-10-05T14:00:00Z,0,0,0,0,0,8,0,817,5,1,0.0,0,-28,13,41,49,False,0,Norwich,Aston Villa,MID,Green
-Andriy Yarmolenko,0,0,10,0,18.6,392,80,1,0,2.6,5.4,2019-10-05T16:30:00Z,77,0,0,0,0,8,0,412689,2,1,2.0,1,299400,309371,9971,60,True,1,Crystal Palace,West Ham,MID,Yarmolenko
-Andros Townsend,0,0,2,0,0.5,135,80,0,0,0.1,0.2,2019-10-05T16:30:00Z,9,0,0,0,0,8,0,113659,2,1,0.0,1,-2940,2290,5230,57,False,0,West Ham,Crystal Palace,MID,Townsend
-André Filipe Tavares Gomes,0,0,3,0,1.5,422,73,0,0,0.2,0.4,2019-10-05T14:00:00Z,6,0,0,0,0,8,0,29184,0,1,0.0,1,-2775,151,2926,53,False,0,Burnley,Everton,MID,André Gomes
-Andy Carroll,0,0,3,0,0.5,520,76,0,0,0.6,1.2,2019-10-06T15:30:00Z,34,0,0,0,0,8,0,7384,0,1,4.0,1,88,730,642,54,True,0,Man Utd,Newcastle,FWD,Carroll
-Andy King,0,0,0,0,0.0,480,74,0,0,0.0,0.0,2019-10-05T14:00:00Z,0,0,0,0,0,8,0,20892,1,2,0.0,0,-1262,106,1368,44,False,0,Liverpool,Leicester,MID,King
-Andy Lonergan,0,0,0,0,0.0,530,74,0,0,0.0,0.0,2019-10-05T14:00:00Z,0,0,0,0,0,8,0,1615,1,2,0.0,0,-69,34,103,44,True,0,Leicester,Liverpool,GK,Lonergan
-Angelo Ogbonna,0,0,16,0,1.1,377,80,2,0,2.6,21.0,2019-10-05T16:30:00Z,90,0,0,0,0,8,0,34574,2,1,4.0,1,1790,3511,1721,45,True,0,Crystal Palace,West Ham,DEF,Ogbonna
-Angel Gomes,0,0,0,0,0.0,245,76,0,0,0.0,0.0,2019-10-06T15:30:00Z,0,0,0,0,0,8,0,6657,0,1,0.0,0,-453,86,539,48,False,0,Newcastle,Man Utd,MID,Gomes
-Angus Gunn,0,0,14,0,0.0,319,78,4,0,1.8,17.8,2019-10-06T13:00:00Z,90,0,0,0,0,8,3,242592,4,1,0.0,1,-6814,8043,14857,45,True,0,Chelsea,Southampton,GK,Gunn
-Anthony Knockaert,0,0,0,0,0.0,52,72,0,0,0.0,0.0,2019-10-05T11:30:00Z,0,0,0,0,0,8,0,671,0,3,0.0,0,-8,10,18,54,True,0,Spurs,Brighton,MID,Knockaert
-Anthony Martial,0,0,0,0,0.0,239,76,0,0,0.0,0.0,2019-10-06T15:30:00Z,0,0,0,0,0,8,0,219426,0,1,0.0,0,-39023,1276,40299,75,False,0,Newcastle,Man Utd,MID,Martial
-Antonio Rüdiger,0,0,0,0,0.0,104,78,0,0,0.0,0.0,2019-10-06T13:00:00Z,0,0,0,0,0,8,0,7124,4,1,0.0,0,-734,50,784,60,False,0,Southampton,Chelsea,DEF,Rüdiger
-Anwar El Ghazi,2,0,29,1,36.0,30,77,0,0,14.4,47.2,2019-10-05T14:00:00Z,63,0,0,0,0,8,0,44853,5,1,61.0,9,14210,17035,2825,55,False,0,Norwich,Aston Villa,MID,El Ghazi
-Archie Mair,0,0,0,0,0.0,551,77,0,0,0.0,0.0,2019-10-05T14:00:00Z,0,0,0,0,0,8,0,0,5,1,0.0,0,0,0,0,40,True,0,Aston Villa,Norwich,GK,Mair
-Arnaut Danjuma Groeneveld,0,0,2,0,0.0,492,71,0,0,0.7,0.4,2019-10-06T13:00:00Z,11,0,0,0,0,8,0,1695,0,1,7.0,1,-1,74,75,58,False,0,Arsenal,Bournemouth,MID,Danjuma
-Arthur Masuaku,0,0,0,0,0.0,378,80,0,0,0.0,0.0,2019-10-05T16:30:00Z,0,0,0,0,0,8,0,63675,2,1,0.0,0,-7095,1082,8177,45,True,0,Crystal Palace,West Ham,DEF,Masuaku
-Artur Boruc,0,0,0,0,0.0,73,71,0,0,0.0,0.0,2019-10-06T13:00:00Z,0,0,0,0,0,8,0,21334,0,1,0.0,0,-655,326,981,44,False,0,Arsenal,Bournemouth,GK,Boruc
-Ashley Barnes,0,0,4,1,0.1,90,73,0,0,1.4,2.0,2019-10-05T14:00:00Z,72,0,0,0,0,8,0,480535,0,1,12.0,2,-85491,17311,102802,65,True,0,Everton,Burnley,FWD,Barnes
-Ashley Westwood,1,0,20,1,39.4,101,73,0,0,7.0,30.2,2019-10-05T14:00:00Z,90,0,0,0,0,8,0,35192,0,1,0.0,5,-1937,1333,3270,54,True,1,Everton,Burnley,MID,Westwood
-Ashley Young,0,0,21,0,88.1,224,76,1,0,12.0,27.8,2019-10-06T15:30:00Z,85,0,0,0,0,8,0,26913,0,1,4.0,2,107,1621,1514,54,False,0,Newcastle,Man Utd,DEF,Young
-Asmir Begovic,0,0,0,0,0.0,72,71,0,0,0.0,0.0,2019-10-06T13:00:00Z,0,0,0,0,0,8,0,84972,0,1,0.0,0,-5958,173,6131,43,False,0,Arsenal,Bournemouth,GK,Begovic
-Axel Tuanzebe,0,0,14,0,2.3,481,76,1,0,1.5,13.0,2019-10-06T15:30:00Z,90,0,0,0,0,8,0,10607,0,1,0.0,2,1356,1880,524,44,False,0,Newcastle,Man Utd,DEF,Tuanzebe
-Aymeric Laporte,0,0,0,0,0.0,202,75,0,0,0.0,0.0,2019-10-06T13:00:00Z,0,0,0,0,0,8,0,166222,2,0,0.0,0,-11298,236,11534,63,True,0,Wolves,Man City,DEF,Laporte
-Ayoze Pérez,1,0,11,0,10.3,265,74,1,0,3.1,16.4,2019-10-05T14:00:00Z,17,0,0,0,0,8,0,227827,1,2,4.0,4,-15398,2856,18254,60,False,0,Liverpool,Leicester,MID,Pérez
-Bailey Peacock-Farrell,0,0,0,0,0.0,495,73,0,0,0.0,0.0,2019-10-05T14:00:00Z,0,0,0,0,0,8,0,5572,0,1,0.0,0,-105,73,178,45,True,0,Everton,Burnley,GK,Peacock-Farrell
-Bamidele Alli,0,0,0,0,0.0,344,72,0,0,0.0,0.0,2019-10-05T11:30:00Z,0,0,0,0,0,8,0,29512,0,3,0.0,0,-1128,1502,2630,84,False,0,Brighton,Spurs,MID,Alli
-Benjamin Chilwell,0,0,5,0,4.7,161,74,2,0,1.8,9.0,2019-10-05T14:00:00Z,90,0,0,0,0,8,0,272151,1,2,4.0,1,1756,12540,10784,54,False,0,Liverpool,Leicester,DEF,Chilwell
-Benjamin Mendy,0,0,0,0,0.0,204,75,0,0,0.0,0.0,2019-10-06T13:00:00Z,0,0,0,0,0,8,0,35252,2,0,0.0,0,-1254,3613,4867,59,True,0,Wolves,Man City,DEF,Mendy
-Ben Davies,0,0,12,0,3.7,329,72,3,0,1.8,11.8,2019-10-05T11:30:00Z,90,0,0,0,0,8,0,10793,0,3,2.0,1,-508,418,926,54,False,0,Brighton,Spurs,DEF,Davies
-Ben Foster,0,3,29,1,0.0,366,79,0,0,2.4,23.6,2019-10-05T14:00:00Z,90,0,0,0,0,8,3,110852,0,0,0.0,10,-2553,2873,5426,48,True,0,Sheffield Utd,Watford,GK,Foster
-Ben Gibson,0,0,0,0,0.0,89,73,0,0,0.0,0.0,2019-10-05T14:00:00Z,0,0,0,0,0,8,0,193490,0,1,0.0,0,-3644,3569,7213,40,True,0,Everton,Burnley,DEF,Gibson
-Ben Godfrey,0,0,13,0,0.5,273,77,5,0,2.3,21.0,2019-10-05T14:00:00Z,90,0,0,0,0,8,0,18977,5,1,1.0,0,415,1513,1098,45,True,0,Aston Villa,Norwich,DEF,Godfrey
-Ben Johnson,0,0,0,0,0.0,384,80,0,0,0.0,0.0,2019-10-05T16:30:00Z,0,0,0,0,0,8,0,104534,2,1,0.0,0,-1500,3233,4733,40,True,0,Crystal Palace,West Ham,DEF,Johnson
-Ben Mee,0,0,24,1,10.3,83,73,0,0,4.5,28.2,2019-10-05T14:00:00Z,90,0,0,0,0,8,0,65938,0,1,6.0,6,-886,2836,3722,50,True,0,Everton,Burnley,DEF,Mee
-Ben Osborn,0,0,0,0,0.0,472,79,0,0,0.0,0.0,2019-10-05T14:00:00Z,0,0,0,0,0,8,0,2335,0,0,0.0,0,-82,21,103,48,False,0,Watford,Sheffield Utd,MID,Osborn
-Beram Kayal,0,0,0,0,0.0,56,72,0,0,0.0,0.0,2019-10-05T11:30:00Z,0,0,0,0,0,8,0,3902,0,3,0.0,0,-526,87,613,44,True,0,Spurs,Brighton,MID,Kayal
-Bernardo Mota Veiga de Carvalho e Silva,0,0,4,0,4.9,218,75,2,0,3.3,2.2,2019-10-06T13:00:00Z,30,0,0,0,0,8,0,1041656,2,0,26.0,1,43785,139826,96041,79,True,0,Wolves,Man City,MID,Bernardo Silva
-Bernardo Fernandes da Silva Junior,0,0,0,0,0.0,39,72,0,0,0.0,0.0,2019-10-05T11:30:00Z,0,0,0,0,0,8,0,7680,0,3,0.0,0,-649,4,653,44,True,0,Spurs,Brighton,DEF,Bernardo
-Bernard Anício Caldeira Duarte,0,0,0,0,0.0,152,73,0,0,0.0,0.0,2019-10-05T14:00:00Z,0,0,0,0,0,8,0,67388,0,1,0.0,0,-20536,158,20694,65,False,0,Burnley,Everton,MID,Bernard
-Bernd Leno,0,0,24,1,0.0,14,71,0,0,1.5,15.0,2019-10-06T13:00:00Z,90,0,0,0,0,8,2,422070,0,1,0.0,6,17314,31190,13876,50,True,0,Bournemouth,Arsenal,GK,Leno
-Billy Gilmour,0,0,0,0,0.0,533,78,0,0,0.0,0.0,2019-10-06T13:00:00Z,0,0,0,0,0,8,0,1465,4,1,0.0,0,16,175,159,45,False,0,Southampton,Chelsea,MID,Gilmour
-Billy Sharp,0,0,3,0,0.3,298,79,0,0,0.3,0.2,2019-10-05T14:00:00Z,19,0,0,0,0,8,0,26041,0,0,2.0,1,-1199,369,1568,57,False,0,Watford,Sheffield Utd,FWD,Sharp
-Birkir Bjarnason,0,0,0,0,0.0,33,77,0,0,0.0,0.0,2019-10-05T14:00:00Z,0,0,0,0,0,8,0,3406,5,1,0.0,0,-227,15,242,45,False,0,Norwich,Aston Villa,MID,Bjarnason
-Bjorn Engels,0,0,23,1,0.3,455,77,0,0,2.5,20.2,2019-10-05T14:00:00Z,74,0,0,0,0,8,0,71533,5,1,4.0,6,-4881,1531,6412,45,False,0,Norwich,Aston Villa,DEF,Engels
-Brandon Williams,0,0,0,0,0.0,549,76,0,0,0.0,0.0,2019-10-06T15:30:00Z,0,0,0,0,0,8,0,4998,0,1,0.0,0,2729,3139,410,40,False,0,Newcastle,Man Utd,DEF,Williams
-Bukayo Saka,0,0,10,1,26.3,541,71,0,0,6.3,12.2,2019-10-06T13:00:00Z,82,0,0,0,0,8,0,57643,0,1,24.0,3,43815,46489,2674,45,True,0,Bournemouth,Arsenal,MID,Saka
-Callum Hudson-Odoi,1,0,14,0,34.8,116,78,1,0,10.6,26.6,2019-10-06T13:00:00Z,79,0,0,0,0,8,0,49727,4,1,45.0,5,25897,27719,1822,59,False,0,Southampton,Chelsea,MID,Hudson-Odoi
-Callum Robinson,0,0,5,1,1.7,453,79,0,0,4.3,5.4,2019-10-05T14:00:00Z,70,0,0,0,0,8,0,42867,0,0,36.0,3,333,4873,4540,53,False,0,Watford,Sheffield Utd,MID,Callum Robinson
-Callum Slattery,0,0,0,0,0.0,327,78,0,0,0.0,0.0,2019-10-06T13:00:00Z,0,0,0,0,0,8,0,26624,4,1,0.0,0,412,3062,2650,44,True,0,Chelsea,Southampton,MID,Slattery
-Callum Wilson,0,0,14,0,22.7,67,71,1,0,5.1,11.6,2019-10-06T13:00:00Z,90,0,0,0,0,8,0,812209,0,1,17.0,2,44440,85411,40971,79,False,0,Arsenal,Bournemouth,FWD,Callum Wilson
-Calum Chambers,0,2,27,1,13.0,467,71,0,0,7.3,15.4,2019-10-06T13:00:00Z,90,0,0,0,0,8,0,72961,0,1,45.0,8,6625,10093,3468,44,True,0,Bournemouth,Arsenal,DEF,Chambers
-Caoimhin Kelleher,0,0,0,0,0.0,531,74,0,0,0.0,0.0,2019-10-05T14:00:00Z,0,0,0,0,0,8,0,1558,1,2,0.0,0,-35,40,75,45,True,0,Leicester,Liverpool,GK,Kelleher
-Carlos Sánchez,0,0,0,0,0.0,397,80,0,0,0.0,0.0,2019-10-05T16:30:00Z,0,0,0,0,0,8,0,23829,2,1,0.0,0,-1015,343,1358,45,True,0,Crystal Palace,West Ham,MID,Carlos Sánchez
-Carl Jenkinson,0,0,0,0,0.0,9,71,0,0,0.0,0.0,2019-10-06T13:00:00Z,0,0,0,0,0,8,0,1726,0,1,0.0,0,-40,17,57,45,True,0,Bournemouth,Arsenal,DEF,Jenkinson
-Cenk Tosun,0,0,0,0,0.0,146,73,0,0,0.0,0.0,2019-10-05T14:00:00Z,0,0,0,0,0,8,0,7871,0,1,0.0,0,-189,228,417,57,False,0,Burnley,Everton,FWD,Tosun
-Charlie Austin,0,0,0,0,0.0,312,78,0,0,0.0,0.0,2019-10-06T13:00:00Z,0,0,0,0,0,8,0,3785,4,1,0.0,0,-108,24,132,60,True,0,Chelsea,Southampton,FWD,Austin
-Charlie Daniels,0,0,0,0,0.0,60,71,0,0,0.0,0.0,2019-10-06T13:00:00Z,0,0,0,0,0,8,0,8021,0,1,0.0,0,-621,10,631,44,False,0,Arsenal,Bournemouth,DEF,Daniels
-Charlie Taylor,0,0,5,0,14.6,87,73,0,0,3.1,14.0,2019-10-05T14:00:00Z,35,0,0,0,0,8,0,41043,0,1,2.0,1,-2274,565,2839,42,True,0,Everton,Burnley,DEF,Taylor
-Cheikhou Kouyaté,1,0,20,0,3.8,139,80,1,0,1.4,4.4,2019-10-05T16:30:00Z,90,0,0,0,0,8,0,10032,2,1,6.0,5,110,649,539,49,False,0,West Ham,Crystal Palace,MID,Kouyaté
-Che Adams,0,0,0,0,0.0,437,78,1,0,0.2,0.0,2019-10-06T13:00:00Z,9,0,0,0,0,8,0,35647,4,1,4.0,1,-4216,1128,5344,56,True,0,Chelsea,Southampton,FWD,Adams
-Christian Atsu,0,0,3,0,0.0,267,76,0,0,0.0,0.0,2019-10-06T15:30:00Z,7,0,0,0,0,8,0,15430,0,1,0.0,1,-2030,1112,3142,54,True,0,Man Utd,Newcastle,MID,Atsu
-Christian Benteke,0,0,-1,0,0.0,129,80,0,0,0.4,2.0,2019-10-05T16:30:00Z,1,0,0,0,0,8,0,44661,2,1,2.0,0,-2622,645,3267,58,False,1,West Ham,Crystal Palace,FWD,Benteke
-Christian Eriksen,0,0,7,0,5.3,343,72,3,0,3.1,10.0,2019-10-05T11:30:00Z,90,0,0,0,0,8,0,265642,0,3,16.0,2,-2566,11540,14106,88,False,0,Brighton,Spurs,MID,Eriksen
-Christian Fuchs,0,0,0,0,0.0,163,74,0,0,0.0,0.0,2019-10-05T14:00:00Z,0,0,0,0,0,8,0,29199,1,2,0.0,0,-1777,400,2177,44,False,0,Liverpool,Leicester,DEF,Fuchs
-Christian Kabasele,0,1,28,1,0.3,354,79,0,0,3.3,30.2,2019-10-05T14:00:00Z,90,0,0,0,0,8,0,11224,0,0,2.0,7,-419,200,619,43,True,0,Sheffield Utd,Watford,DEF,Kabasele
-Christian Pulisic,1,0,16,0,13.5,431,78,0,0,3.3,17.4,2019-10-06T13:00:00Z,10,0,0,0,0,8,0,226758,4,1,2.0,4,-50537,1964,52501,72,False,0,Southampton,Chelsea,MID,Pulisic
-Christoph Zimmermann,0,0,0,0,0.0,275,77,0,0,0.0,0.0,2019-10-05T14:00:00Z,0,0,0,0,0,8,0,1023,5,1,0.0,0,-61,7,68,45,True,0,Aston Villa,Norwich,DEF,Zimmermann
-Chris Basham,0,0,20,1,3.2,423,79,0,0,2.3,13.4,2019-10-05T14:00:00Z,90,0,0,0,0,8,0,13731,0,0,6.0,6,277,718,441,45,False,0,Watford,Sheffield Utd,DEF,Basham
-Chris Mepham,0,0,0,0,0.0,61,71,0,0,0.0,0.0,2019-10-06T13:00:00Z,0,0,0,0,0,8,0,77220,0,1,0.0,0,-8224,149,8373,45,False,0,Arsenal,Bournemouth,DEF,Mepham
-Chris Smalling,0,0,0,0,0.0,223,76,0,0,0.0,0.0,2019-10-06T15:30:00Z,0,0,0,0,0,8,0,9853,0,1,0.0,0,-381,17,398,53,False,0,Newcastle,Man Utd,DEF,Smalling
-Chris Wood,0,0,5,1,1.1,91,73,0,0,1.2,2.4,2019-10-05T14:00:00Z,90,0,0,0,0,8,0,93127,0,1,8.0,2,29628,36120,6492,62,True,0,Everton,Burnley,FWD,Wood
-Ciaran Clark,0,0,22,1,0.2,259,76,0,0,1.1,10.6,2019-10-06T15:30:00Z,90,0,0,0,0,8,0,9751,0,1,0.0,6,-376,50,426,44,True,0,Man Utd,Newcastle,DEF,Clark
-Claudio Bravo,0,0,0,0,0.0,213,75,0,0,0.0,0.0,2019-10-06T13:00:00Z,0,0,0,0,0,8,0,18660,2,0,0.0,0,-478,155,633,48,True,0,Wolves,Man City,GK,Bravo
-Connor Wickham,0,0,0,0,0.0,130,80,0,0,0.0,0.0,2019-10-05T16:30:00Z,0,0,0,0,0,8,0,249754,2,1,0.0,0,-25271,205,25476,45,False,0,West Ham,Crystal Palace,FWD,Wickham
-Conor Coady,0,0,24,1,0.1,403,75,0,0,2.6,26.0,2019-10-06T13:00:00Z,90,0,0,0,0,8,0,96931,2,0,0.0,6,-3443,1002,4445,50,False,0,Man City,Wolves,DEF,Coady
-Conor Hourihane,1,1,33,1,36.3,28,77,0,1,10.4,55.0,2019-10-05T14:00:00Z,77,0,0,0,0,8,0,7706,5,1,13.0,11,-329,106,435,57,False,1,Norwich,Aston Villa,MID,Hourihane
-Craig Cathcart,0,0,23,1,1.1,358,79,0,0,1.8,16.4,2019-10-05T14:00:00Z,90,0,0,0,0,8,0,109579,0,0,0.0,6,-5552,1056,6608,44,True,0,Sheffield Utd,Watford,DEF,Cathcart
-Craig Dawson,0,0,1,0,0.2,439,79,0,0,3.4,17.2,2019-10-05T14:00:00Z,33,0,0,0,0,8,0,13770,0,0,17.0,1,-257,687,944,49,True,0,Sheffield Utd,Watford,DEF,Dawson
-Cédric Soares,0,0,0,0,0.0,486,78,0,0,0.0,0.0,2019-10-06T13:00:00Z,0,0,0,0,0,8,0,15882,4,1,0.0,0,-2523,97,2620,49,True,0,Chelsea,Arsenal,DEF,Cédric
-César Azpilicueta,0,0,8,0,2.2,105,78,1,0,1.2,9.8,2019-10-06T13:00:00Z,90,0,0,0,0,8,0,425472,4,1,0.0,2,8405,19139,10734,59,False,0,Southampton,Chelsea,DEF,Azpilicueta
-Dale Stephens,0,0,9,1,4.0,57,72,0,0,1.7,4.8,2019-10-05T11:30:00Z,89,0,0,0,0,8,0,199779,0,3,8.0,2,3528,14706,11178,45,True,1,Spurs,Brighton,MID,Stephens
-Daniel Amartey,0,0,0,0,0.0,178,74,0,0,0.0,0.0,2019-10-05T14:00:00Z,0,0,0,0,0,8,0,20193,1,2,0.0,0,-351,827,1178,44,False,0,Liverpool,Leicester,MID,Amartey
-Daniel Ceballos Fernández,0,0,17,1,41.3,469,71,0,0,5.4,10.2,2019-10-06T13:00:00Z,74,0,0,0,0,8,0,637763,0,1,2.0,3,-98247,12871,111118,56,True,0,Bournemouth,Arsenal,MID,Ceballos
-Daniel Drinkwater,0,0,0,0,0.0,120,73,0,0,0.0,0.0,2019-10-05T14:00:00Z,0,0,0,0,0,8,0,60476,0,1,0.0,0,-5234,100,5334,44,True,0,Everton,Aston Villa,MID,Drinkwater
-Daniel James,0,0,5,0,3.7,243,76,1,0,2.9,5.8,2019-10-06T15:30:00Z,90,0,0,0,0,8,0,823518,0,1,19.0,2,-28488,54305,82793,62,False,0,Newcastle,Man Utd,MID,James
-Daniel N'Lundulu,0,0,0,0,0.0,535,78,0,0,0.0,0.0,2019-10-06T13:00:00Z,0,0,0,0,0,8,0,6451,4,1,0.0,0,-144,521,665,45,True,0,Chelsea,Southampton,FWD,N'Lundulu
-Danilo Luiz da Silva,0,0,0,0,0.0,209,75,0,0,0.0,0.0,2019-10-06T13:00:00Z,0,0,0,0,0,8,0,3283,2,0,0.0,0,-87,24,111,50,True,0,Wolves,Man City,DEF,Danilo
-Danny Ings,0,1,27,0,10.8,313,78,3,1,10.8,36.4,2019-10-06T13:00:00Z,80,0,0,0,0,8,0,110197,4,1,61.0,7,6341,13465,7124,59,True,0,Chelsea,Southampton,FWD,Ings
-Danny Rose,0,0,0,0,0.0,332,72,0,0,0.0,0.0,2019-10-05T11:30:00Z,0,0,0,0,0,8,0,167635,0,3,0.0,0,-2855,7506,10361,55,False,0,Brighton,Newcastle,DEF,Rose
-Danny Ward,0,0,0,0,0.0,170,74,0,0,0.0,0.0,2019-10-05T14:00:00Z,0,0,0,0,0,8,0,14054,1,2,0.0,0,-234,125,359,44,False,0,Liverpool,Leicester,GK,Ward
-Danny Welbeck,0,0,0,1,2.3,512,79,0,0,2.8,4.6,2019-10-05T14:00:00Z,76,0,0,0,0,8,0,11996,0,0,21.0,2,611,1425,814,59,True,0,Sheffield Utd,Watford,FWD,Welbeck
-Dan Burn,0,0,23,1,25.8,475,72,0,0,5.9,24.8,2019-10-05T11:30:00Z,90,0,0,0,0,8,0,16375,0,3,8.0,6,-269,590,859,45,True,0,Spurs,Brighton,DEF,Burn
-Dan Gosling,0,0,0,0,0.0,81,71,0,0,0.0,0.0,2019-10-06T13:00:00Z,0,0,0,0,0,8,0,703,0,1,0.0,0,-26,5,31,49,False,0,Arsenal,Bournemouth,MID,Gosling
-Daryl Janmaat,0,3,29,1,28.3,359,79,0,0,4.6,18.0,2019-10-05T14:00:00Z,90,0,0,0,0,8,0,24321,0,0,0.0,9,-674,794,1468,43,True,0,Sheffield Utd,Watford,DEF,Janmaat
-Davide Zappacosta,0,0,0,0,0.0,109,78,0,0,0.0,0.0,2019-10-06T13:00:00Z,0,0,0,0,0,8,0,13874,4,1,0.0,0,-552,51,603,43,False,0,Southampton,Chelsea,DEF,Zappacosta
-David Brooks,0,0,0,0,0.0,76,71,0,0,0.0,0.0,2019-10-06T13:00:00Z,0,0,0,0,0,8,0,8018,0,1,0.0,0,-284,24,308,63,False,0,Arsenal,Bournemouth,MID,Brooks
-David Button,0,0,0,0,0.0,48,72,0,0,0.0,0.0,2019-10-05T11:30:00Z,0,0,0,0,0,8,0,1705377,0,3,0.0,0,-19076,11197,30273,40,True,0,Spurs,Brighton,GK,Button
-David de Gea,0,0,10,0,0.0,235,76,1,0,0.8,7.6,2019-10-06T15:30:00Z,90,0,0,0,0,8,1,1209638,0,1,0.0,2,-2096,30109,32205,56,False,0,Newcastle,Man Utd,GK,de Gea
-David Luiz Moreira Marinho,0,3,39,1,3.4,106,71,0,1,6.2,41.2,2019-10-06T13:00:00Z,90,0,0,0,0,8,0,364462,0,1,17.0,15,-10359,4838,15197,58,True,0,Bournemouth,Arsenal,DEF,David Luiz
-David Martin,0,0,0,0,0.0,553,80,0,0,0.0,0.0,2019-10-05T16:30:00Z,0,0,0,0,0,8,0,0,2,1,0.0,0,0,0,0,40,True,0,Crystal Palace,West Ham,GK,Martin
-David McGoldrick,0,0,0,0,0.0,303,79,0,0,0.0,0.0,2019-10-05T14:00:00Z,0,0,0,0,0,8,0,11266,0,0,0.0,0,-2341,42,2383,54,False,0,Watford,Sheffield Utd,FWD,McGoldrick
-David Silva,0,0,0,1,17.2,219,75,0,0,4.5,0.0,2019-10-06T13:00:00Z,74,0,0,0,0,8,0,715344,2,0,28.0,3,20422,87377,66955,76,True,0,Wolves,Man City,MID,David Silva
-Davinson Sánchez,0,0,0,0,0.0,333,72,0,0,0.0,0.0,2019-10-05T11:30:00Z,0,0,0,0,0,8,0,62207,0,3,0.0,0,-3170,691,3861,54,False,0,Brighton,Spurs,DEF,Sánchez
-Davy Pröpper,0,0,0,0,0.0,54,72,0,0,0.0,0.0,2019-10-05T11:30:00Z,0,0,0,0,0,8,0,36432,0,3,0.0,0,-9301,60,9361,50,True,0,Spurs,Brighton,MID,Pröpper
-DeAndre Yedlin,0,0,18,1,5.0,253,76,0,0,1.7,7.8,2019-10-06T15:30:00Z,90,0,0,0,0,8,0,2724,0,1,4.0,5,130,210,80,44,True,1,Man Utd,Newcastle,DEF,Yedlin
-Dean Henderson,0,0,24,1,0.0,471,79,0,0,1.8,17.6,2019-10-05T14:00:00Z,90,0,0,0,0,8,2,223047,0,0,0.0,6,50768,56255,5487,45,False,0,Watford,Sheffield Utd,GK,Henderson
-Declan Rice,0,0,11,0,3.3,395,80,2,0,1.0,6.8,2019-10-05T16:30:00Z,90,0,0,0,0,8,0,123629,2,1,0.0,2,-3142,4144,7286,49,True,0,Crystal Palace,West Ham,MID,Rice
-Dejan Lovren,0,0,18,0,0.0,186,74,1,0,2.6,19.8,2019-10-05T14:00:00Z,90,0,0,0,0,8,0,12209,1,2,6.0,2,-198,317,515,53,True,0,Leicester,Liverpool,DEF,Lovren
-Demarai Gray,0,0,0,0,0.0,175,74,0,0,0.0,0.0,2019-10-05T14:00:00Z,0,0,0,0,0,8,0,21393,1,2,0.0,0,-1163,388,1551,53,False,0,Liverpool,Leicester,MID,Gray
-Dennis Praet,0,0,10,0,3.1,517,74,1,0,1.3,8.8,2019-10-05T14:00:00Z,72,0,0,0,0,8,0,4460,1,2,1.0,2,273,487,214,53,False,0,Liverpool,Leicester,MID,Praet
-Dennis Srbeny,0,0,3,0,0.1,279,77,1,0,0.1,1.0,2019-10-05T14:00:00Z,10,0,0,0,0,8,0,3585,5,1,0.0,1,-169,156,325,53,True,0,Aston Villa,Norwich,FWD,Srbeny
-Diego Rico,0,0,11,0,19.2,65,71,1,0,3.7,17.6,2019-10-06T13:00:00Z,90,0,0,0,0,8,0,756845,0,1,0.0,2,17162,43325,26163,41,False,0,Arsenal,Bournemouth,DEF,Rico
-Dimitri Foulquier,0,0,0,0,0.0,542,79,0,0,0.0,0.0,2019-10-05T14:00:00Z,0,0,0,0,0,8,0,7836,0,0,0.0,0,762,1596,834,40,True,0,Sheffield Utd,Watford,DEF,Foulquier
-Diogo Jota,0,0,0,0,0.0,410,75,0,0,0.0,0.0,2019-10-06T13:00:00Z,0,0,0,0,0,8,0,259164,2,0,0.0,0,-63421,746,64167,62,False,0,Man City,Wolves,FWD,Jota
-Divock Origi,0,0,3,0,0.3,188,74,1,0,0.3,2.2,2019-10-05T14:00:00Z,12,0,0,0,0,8,0,206375,1,2,0.0,1,-7895,4429,12324,53,True,0,Leicester,Liverpool,FWD,Origi
-Djibril Sidibé,0,0,1,0,1.5,511,73,1,0,0.4,0.8,2019-10-05T14:00:00Z,31,0,0,0,0,8,0,10944,0,1,2.0,0,-438,159,597,53,False,1,Burnley,Everton,DEF,Sidibé
-Domingos Quina,0,0,0,0,0.0,375,79,0,0,0.0,0.0,2019-10-05T14:00:00Z,0,0,0,0,0,8,0,7004,0,0,0.0,0,-269,118,387,45,True,0,Sheffield Utd,Watford,MID,Quina
-Dominic Calvert-Lewin,0,0,4,0,0.8,147,73,1,0,0.0,0.0,2019-10-05T14:00:00Z,73,0,0,0,0,8,0,78623,0,1,0.0,2,11248,15875,4627,58,False,0,Burnley,Everton,FWD,Calvert-Lewin
-Dominic Solanke,0,0,-1,0,11.9,69,71,1,0,2.3,3.4,2019-10-06T13:00:00Z,62,0,0,0,0,8,0,30326,0,1,8.0,2,77,2350,2273,54,False,0,Arsenal,Bournemouth,FWD,Solanke
-Douglas Luiz Soares de Paulo,0,0,20,0,0.6,470,77,1,1,4.0,32.6,2019-10-05T14:00:00Z,12,0,0,0,0,8,0,262675,5,1,7.0,6,-30690,9448,40138,45,False,0,Norwich,Aston Villa,MID,Douglas Luiz
-Dwight Gayle,0,0,0,0,0.0,554,76,0,0,0.0,0.0,2019-10-06T15:30:00Z,0,0,0,0,0,8,0,0,0,1,0.0,0,0,0,0,50,True,0,Man Utd,Newcastle,FWD,Gayle
-Dwight McNeil,0,0,15,1,2.3,97,73,0,0,1.9,12.6,2019-10-05T14:00:00Z,90,0,0,0,0,8,0,30994,0,1,4.0,3,-606,3019,3625,60,True,0,Everton,Burnley,MID,McNeil
-Ederson Santana de Moraes,0,0,5,0,0.0,212,75,2,0,0.3,2.8,2019-10-06T13:00:00Z,90,0,0,0,0,8,0,1508794,2,0,0.0,0,10211,40520,30309,61,True,1,Wolves,Man City,GK,Ederson
-Edward Nketiah,0,0,0,0,0.0,13,71,0,0,0.0,0.0,2019-10-06T13:00:00Z,0,0,0,0,0,8,0,53287,0,1,0.0,0,-3235,979,4214,44,True,0,Bournemouth,Arsenal,FWD,Nketiah
-Eldin Jakupovic,0,0,0,0,0.0,169,74,0,0,0.0,0.0,2019-10-05T14:00:00Z,0,0,0,0,0,8,0,7282,1,2,0.0,0,-127,68,195,44,False,0,Liverpool,Leicester,GK,Jakupovic
-Emerson Palmieri dos Santos,0,0,0,0,0.0,107,78,0,0,0.0,0.0,2019-10-06T13:00:00Z,0,0,0,0,0,8,0,62650,4,1,0.0,0,-11132,68,11200,55,False,0,Southampton,Chelsea,DEF,Emerson
-Emiliano Buendía,0,0,11,0,38.8,283,77,5,0,11.3,21.8,2019-10-05T14:00:00Z,90,0,0,0,0,8,0,139080,5,1,52.0,2,-3786,16219,20005,60,True,0,Aston Villa,Norwich,MID,Buendía
-Emiliano Martínez,0,0,0,0,0.0,427,71,0,0,0.0,0.0,2019-10-06T13:00:00Z,0,0,0,0,0,8,0,18897,0,1,0.0,0,-293,289,582,44,True,0,Bournemouth,Arsenal,GK,Martínez
-Emil Krafth,0,0,2,0,0.0,519,76,0,0,0.0,0.0,2019-10-06T15:30:00Z,1,0,0,0,0,8,0,5885,0,1,0.0,1,-359,77,436,45,True,0,Man Utd,Newcastle,DEF,Krafth
-Enda Stevens,0,0,27,1,7.7,291,79,0,0,2.1,12.0,2019-10-05T14:00:00Z,90,0,0,0,0,8,0,44322,0,0,1.0,6,5584,7975,2391,50,False,0,Watford,Sheffield Utd,DEF,Stevens
-Eric Bailly,0,0,0,0,0.0,228,76,0,0,0.0,0.0,2019-10-06T15:30:00Z,0,0,0,0,0,8,0,2182,0,1,0.0,0,-77,17,94,49,False,0,Newcastle,Man Utd,DEF,Bailly
-Eric Dier,0,0,7,0,11.0,350,72,3,0,2.7,15.8,2019-10-05T11:30:00Z,90,0,0,0,0,8,0,12346,0,3,0.0,1,-176,356,532,49,False,1,Brighton,Spurs,MID,Dier
-Eric Garcia,0,0,0,0,0.0,544,75,0,0,0.0,0.0,2019-10-06T13:00:00Z,0,0,0,0,0,8,0,656,2,0,0.0,0,30,130,100,45,True,0,Wolves,Man City,DEF,Garcia
-Erik Lamela,0,0,12,0,24.9,346,72,3,0,6.1,18.4,2019-10-05T11:30:00Z,90,0,0,0,0,8,0,299148,0,3,18.0,2,-73073,12245,85318,61,False,0,Brighton,Spurs,MID,Lamela
-Erik Pieters,0,0,5,0,14.6,447,73,0,0,2.0,4.8,2019-10-05T14:00:00Z,54,0,0,0,0,8,0,888618,0,1,1.0,1,74056,90963,16907,48,True,0,Everton,Burnley,DEF,Pieters
-Ethan Ampadu,0,0,0,0,0.0,121,78,0,0,0.0,0.0,2019-10-06T13:00:00Z,0,0,0,0,0,8,0,1322,4,1,0.0,0,-94,53,147,44,False,0,Southampton,Chelsea,MID,Ampadu
-Etienne Capoue,0,0,0,0,0.0,373,79,0,0,0.0,0.0,2019-10-05T14:00:00Z,0,0,0,0,0,8,0,30397,0,0,0.0,0,-1265,960,2225,48,True,0,Sheffield Utd,Watford,MID,Capoue
-Ezequiel Schelotto,0,0,0,0,0.0,546,72,0,0,0.0,0.0,2019-10-05T11:30:00Z,0,0,0,0,0,8,0,1915,0,3,0.0,0,986,1262,276,40,True,0,Spurs,Brighton,DEF,Schelotto
-Ezri Konsa Ngoyo,0,0,4,0,0.3,452,77,1,0,0.7,6.2,2019-10-05T14:00:00Z,15,0,0,0,0,8,0,4524,5,1,0.0,1,-146,37,183,44,False,0,Norwich,Aston Villa,DEF,Konsa
-Fabian Delph,0,0,14,0,13.0,205,73,1,0,3.2,10.8,2019-10-05T14:00:00Z,90,0,0,0,0,8,0,18199,0,1,8.0,2,-244,771,1015,54,False,0,Burnley,Everton,DEF,Delph
-Fabian Schär,0,0,22,1,0.2,252,76,0,0,3.7,24.4,2019-10-06T15:30:00Z,90,0,0,0,0,8,0,171020,0,1,12.0,5,-11408,4620,16028,50,True,1,Man Utd,Newcastle,DEF,Schär
-Fabio Henrique Tavares,0,0,10,0,6.7,197,74,1,0,2.1,14.6,2019-10-05T14:00:00Z,90,0,0,0,0,8,0,103562,1,2,0.0,1,-2151,4693,6844,55,True,1,Leicester,Liverpool,MID,Fabinho
-Fabián Balbuena,0,0,0,0,0.0,382,80,0,0,0.0,0.0,2019-10-05T16:30:00Z,0,0,0,0,0,8,0,18985,2,1,0.0,0,-730,424,1154,43,True,0,Crystal Palace,West Ham,DEF,Balbuena
-Federico Fernández,0,0,0,0,0.0,254,76,0,0,0.0,0.0,2019-10-06T15:30:00Z,0,0,0,0,0,8,0,10144,0,1,0.0,0,-372,72,444,44,True,0,Man Utd,Newcastle,DEF,Fernández
-Felipe Anderson Pereira Gomes,0,0,10,0,16.4,390,80,2,0,6.1,21.6,2019-10-05T16:30:00Z,90,0,0,0,0,8,0,319305,2,1,23.0,2,17524,28997,11473,69,True,0,Crystal Palace,West Ham,MID,Felipe Anderson
-Fernando Luiz Rosa,0,0,12,0,2.3,221,75,2,0,3.2,25.2,2019-10-06T13:00:00Z,90,0,0,0,0,8,0,46633,2,0,4.0,1,-472,1672,2144,52,True,1,Wolves,Man City,MID,Fernandinho
-Fikayo Tomori,0,0,8,0,0.8,529,78,1,0,1.3,11.8,2019-10-06T13:00:00Z,90,0,0,0,0,8,0,341651,4,1,0.0,2,157252,163889,6637,47,False,0,Southampton,Chelsea,DEF,Tomori
-Florian Lejeune,0,0,0,0,0.0,257,76,0,0,0.0,0.0,2019-10-06T15:30:00Z,0,0,0,0,0,8,0,190,0,1,0.0,0,-5,12,17,45,True,0,Man Utd,Newcastle,DEF,Lejeune
-Florin Andone,0,0,0,0,0.0,46,72,0,0,0.0,0.0,2019-10-05T11:30:00Z,0,0,0,0,0,8,0,38752,0,3,0.0,0,-4243,55,4298,49,True,0,Spurs,Brighton,FWD,Andone
-Francisco Femenía Far,0,0,0,0,0.0,357,79,0,0,0.0,0.0,2019-10-05T14:00:00Z,0,0,0,0,0,8,0,29864,0,0,0.0,0,-2388,645,3033,43,True,0,Sheffield Utd,Watford,DEF,Kiko Femenía
-Fraser Forster,0,0,0,0,0.0,317,78,0,0,0.0,0.0,2019-10-06T13:00:00Z,0,0,0,0,0,8,0,32383,4,1,0.0,0,-1647,23,1670,44,True,0,Chelsea,Southampton,GK,Forster
-Frederick Woodman,0,0,0,0,0.0,264,76,0,0,0.0,0.0,2019-10-06T15:30:00Z,0,0,0,0,0,8,0,63734,0,1,0.0,0,-565,1005,1570,40,True,0,Man Utd,Newcastle,GK,Woodman
-Frederico Rodrigues de Paula Santos,0,0,9,0,8.0,244,76,1,0,2.1,12.2,2019-10-06T15:30:00Z,90,0,0,0,0,8,0,9059,0,1,1.0,1,-250,237,487,53,False,1,Newcastle,Man Utd,MID,Fred
-Frédéric Guilbert,0,0,7,0,11.9,458,77,1,0,2.8,16.4,2019-10-05T14:00:00Z,90,0,0,0,0,8,0,54410,5,1,0.0,1,2611,5161,2550,44,False,1,Norwich,Aston Villa,DEF,Guilbert
-Gabriel Fernando de Jesus,0,0,2,0,2.3,211,75,2,0,1.2,0.0,2019-10-06T13:00:00Z,15,0,0,0,0,8,0,102835,2,0,10.0,1,2471,5231,2760,95,True,0,Wolves,Man City,FWD,Jesus
-Gabriel Teodoro Martinelli Silva,0,0,-4,0,3.8,504,71,0,0,2.2,4.4,2019-10-06T13:00:00Z,27,0,0,0,0,8,0,96280,0,1,14.0,0,2306,8858,6552,45,True,1,Bournemouth,Arsenal,FWD,Martinelli
-Gary Cahill,0,0,17,0,10.8,503,80,1,0,6.3,16.6,2019-10-05T16:30:00Z,90,0,0,0,0,8,0,126477,2,1,36.0,2,135,4316,4181,45,False,0,West Ham,Crystal Palace,DEF,Cahill
-Gaëtan Bong,0,0,3,0,0.5,41,72,0,0,0.1,0.6,2019-10-05T11:30:00Z,2,0,0,0,0,8,0,8617,0,3,0.0,1,-254,90,344,44,True,0,Spurs,Brighton,DEF,Bong
-Georges-Kévin Nkoudou,0,0,0,0,0.0,527,72,0,0,0.0,0.0,2019-10-05T11:30:00Z,0,0,0,0,0,8,0,919,0,3,0.0,0,-25,27,52,50,False,0,Brighton,Spurs,MID,Nkoudou
-George Baldock,0,0,26,1,10.0,294,79,0,0,2.5,11.4,2019-10-05T14:00:00Z,90,0,0,0,0,8,0,48447,0,0,4.0,6,2754,4993,2239,45,False,0,Watford,Sheffield Utd,DEF,Baldock
-Georginio Wijnaldum,0,0,5,1,2.1,199,74,0,0,2.4,5.0,2019-10-05T14:00:00Z,77,0,0,0,0,8,0,167380,1,2,17.0,3,21453,27485,6032,54,True,0,Leicester,Liverpool,MID,Wijnaldum
-Gerard Deulofeu,0,0,8,0,11.3,363,79,0,0,1.8,4.2,2019-10-05T14:00:00Z,31,0,0,0,0,8,0,136217,0,0,2.0,1,-3455,7956,11411,61,True,0,Sheffield Utd,Watford,FWD,Deulofeu
-Giovani Lo Celso,0,0,0,0,0.0,523,72,0,0,0.0,0.0,2019-10-05T11:30:00Z,0,0,0,0,0,8,0,15867,0,3,0.0,0,-686,38,724,73,False,0,Brighton,Spurs,MID,Lo Celso
-Glenn Murray,0,0,3,0,0.1,44,72,0,0,0.0,0.0,2019-10-05T11:30:00Z,1,0,0,0,0,8,0,73828,0,3,0.0,1,-6385,643,7028,57,True,0,Spurs,Brighton,FWD,Murray
-Grady Diangana,0,0,0,0,0.0,398,80,0,0,0.0,0.0,2019-10-05T16:30:00Z,0,0,0,0,0,8,0,6030,2,1,0.0,0,-569,212,781,44,True,0,Crystal Palace,West Ham,MID,Diangana
-Granit Xhaka,0,0,11,1,2.3,18,71,0,0,2.2,15.6,2019-10-06T13:00:00Z,90,0,0,0,0,8,0,55175,0,1,4.0,3,-1035,2332,3367,53,True,0,Bournemouth,Arsenal,MID,Xhaka
-Grant Hanley,0,0,0,0,0.0,277,77,0,0,0.0,0.0,2019-10-05T14:00:00Z,0,0,0,0,0,8,0,245301,5,1,0.0,0,-11853,10006,21859,40,True,0,Aston Villa,Norwich,DEF,Hanley
-Gylfi Sigurdsson,0,0,7,0,28.2,151,73,0,0,4.6,5.0,2019-10-05T14:00:00Z,58,0,0,0,0,8,0,264190,0,1,13.0,1,-19919,4569,24488,76,False,0,Burnley,Everton,MID,Sigurdsson
-Hamza Choudhury,0,0,-1,0,0.7,180,74,1,0,0.0,0.0,2019-10-05T14:00:00Z,4,0,0,0,0,8,0,78502,1,2,0.0,0,-1127,5846,6973,45,False,1,Liverpool,Leicester,MID,Choudhury
-Harry Kane,0,0,6,0,28.8,338,72,3,0,4.5,4.6,2019-10-05T11:30:00Z,90,0,0,0,0,8,0,1377432,0,3,12.0,2,-28232,40325,68557,110,False,0,Brighton,Spurs,FWD,Kane
-Harry Lewis,0,0,0,0,0.0,548,78,0,0,0.0,0.0,2019-10-06T13:00:00Z,0,0,0,0,0,8,0,3388,4,1,0.0,0,2051,2259,208,40,True,0,Chelsea,Southampton,GK,Lewis
-Harry Maguire,0,0,11,0,23.2,160,76,1,0,7.2,17.4,2019-10-06T15:30:00Z,90,0,0,0,0,8,0,1031541,0,1,31.0,2,-29566,19989,49555,55,False,0,Newcastle,Man Utd,DEF,Maguire
-Harry Wilson,0,0,8,0,14.8,505,71,1,0,2.3,6.6,2019-10-06T13:00:00Z,78,0,0,0,0,8,0,248125,0,1,2.0,2,-18152,15704,33856,61,False,0,Arsenal,Bournemouth,MID,Harry Wilson
-Harry Winks,0,0,9,0,3.5,347,72,1,0,1.3,9.6,2019-10-05T11:30:00Z,45,0,0,0,0,8,0,22790,0,3,0.0,1,-842,750,1592,54,False,0,Brighton,Spurs,MID,Winks
-Harvey Barnes,0,0,0,0,0.8,172,74,1,0,0.5,0.6,2019-10-05T14:00:00Z,45,0,0,0,0,8,0,18382,1,2,4.0,1,-305,1207,1512,59,False,0,Liverpool,Leicester,MID,Barnes
-Harvey Elliott,0,0,0,0,0.0,550,74,0,0,0.0,0.0,2019-10-05T14:00:00Z,0,0,0,0,0,8,0,0,1,2,0.0,0,0,0,0,45,True,0,Leicester,Liverpool,MID,Elliott
-Henrikh Mkhitaryan,0,0,0,0,0.0,16,71,0,0,0.0,0.0,2019-10-06T13:00:00Z,0,0,0,0,0,8,0,63127,0,1,0.0,0,-2329,41,2370,68,True,0,Bournemouth,Arsenal,MID,Mkhitaryan
-Henri Lansbury,0,0,0,0,0.0,35,77,0,0,0.0,0.0,2019-10-05T14:00:00Z,0,0,0,0,0,8,0,49349,5,1,0.0,0,-5651,667,6318,44,False,0,Norwich,Aston Villa,MID,Lansbury
-Heung-Min Son,0,0,12,0,2.4,342,72,3,0,1.9,8.8,2019-10-05T11:30:00Z,72,0,0,0,0,8,0,873496,0,3,8.0,2,188152,231286,43134,98,False,0,Brighton,Spurs,MID,Son
-Heurelho da Silva Gomes,0,0,0,0,0.0,513,79,0,0,0.0,0.0,2019-10-05T14:00:00Z,0,0,0,0,0,8,0,14414,0,0,0.0,0,-192,279,471,45,True,0,Sheffield Utd,Watford,GK,Gomes
-Hugo Lloris,0,0,0,0,0.0,340,72,1,0,0.0,0.0,2019-10-05T11:30:00Z,8,0,0,0,0,8,0,594211,0,3,0.0,1,-7751,15655,23406,55,False,0,Brighton,Spurs,GK,Lloris
-Héctor Bellerín,0,0,0,0,0.0,2,71,0,0,0.0,0.0,2019-10-06T13:00:00Z,0,0,0,0,0,8,0,18486,0,1,0.0,0,5331,6571,1240,54,True,0,Bournemouth,Arsenal,DEF,Bellerín
-Hélder Costa,0,0,0,0,0.0,418,75,0,0,0.0,0.0,2019-10-06T13:00:00Z,0,0,0,0,0,8,0,1150,2,0,0.0,0,-33,23,56,49,False,0,Man City,Wolves,MID,Costa
-Ibrahim Amadou,0,0,14,0,0.0,507,77,5,0,3.1,18.6,2019-10-05T14:00:00Z,90,0,0,0,0,8,0,8114,5,1,12.0,2,658,1194,536,45,True,0,Aston Villa,Norwich,MID,Amadou
-Idrissa Gueye,0,0,0,0,0.0,156,73,0,0,0.0,0.0,2019-10-05T14:00:00Z,0,0,0,0,0,8,0,1358,0,1,0.0,0,-22,36,58,50,False,0,Burnley,Everton,MID,Gueye
-Ilkay Gündogan,0,0,14,0,41.2,222,75,2,0,5.4,10.0,2019-10-06T13:00:00Z,90,0,0,0,0,8,0,98017,2,0,3.0,1,-1580,4532,6112,52,True,1,Wolves,Man City,MID,Gündogan
-Isaac Hayden,0,0,0,0,0.0,271,76,0,0,0.0,0.0,2019-10-06T15:30:00Z,0,0,0,0,0,8,0,364166,0,1,0.0,0,-88414,4294,92708,45,True,0,Man Utd,Newcastle,MID,Hayden
-Isaac Success Ajayi,0,0,0,0,0.0,365,79,0,0,0.0,0.0,2019-10-05T14:00:00Z,0,0,0,0,0,8,0,30751,0,0,0.0,0,-3120,81,3201,48,True,0,Sheffield Utd,Watford,FWD,Success
-Ismaïla Sarr,0,0,3,0,0.5,525,79,0,0,0.3,0.0,2019-10-05T14:00:00Z,13,0,0,0,0,8,0,9208,0,0,2.0,1,-351,455,806,63,True,0,Sheffield Utd,Watford,MID,Sarr
-Issa Diop,0,0,11,0,1.9,381,80,2,0,4.9,14.0,2019-10-05T16:30:00Z,90,0,0,0,0,8,0,362404,2,1,33.0,1,7590,24619,17029,45,True,0,Crystal Palace,West Ham,DEF,Diop
-Ivan Cavaleiro,0,0,0,0,0.0,419,75,0,0,0.0,0.0,2019-10-06T13:00:00Z,0,0,0,0,0,8,0,602,2,0,0.0,0,-28,18,46,49,False,0,Man City,Wolves,MID,Cavaleiro
-Jack Colback,0,0,0,0,0.0,482,76,0,0,0.0,0.0,2019-10-06T15:30:00Z,0,0,0,0,0,8,0,15164,0,1,0.0,0,-2050,60,2110,44,True,0,Man Utd,Newcastle,MID,Colback
-Jack Cork,0,0,0,0,0.0,102,73,0,0,0.0,0.0,2019-10-05T14:00:00Z,0,0,0,0,0,8,0,16337,0,1,0.0,0,-2878,51,2929,50,True,0,Everton,Burnley,MID,Cork
-Jack Grealish,0,0,24,0,27.5,29,77,1,1,12.0,49.8,2019-10-05T14:00:00Z,90,0,0,0,0,8,0,250741,5,1,43.0,7,-18559,5063,23622,59,False,0,Norwich,Aston Villa,MID,Grealish
-Jack O'Connell,0,1,28,1,3.0,293,79,0,0,2.5,20.4,2019-10-05T14:00:00Z,90,0,0,0,0,8,0,21828,0,0,2.0,7,-216,687,903,45,False,0,Watford,Sheffield Utd,DEF,O'Connell
-Jack Simpson,0,0,0,0,0.0,66,71,0,0,0.0,0.0,2019-10-06T13:00:00Z,0,0,0,0,0,8,0,471272,0,1,0.0,0,-6187,10932,17119,40,False,0,Arsenal,Bournemouth,DEF,Simpson
-Jack Stacey,0,0,3,0,1.0,446,71,1,0,3.4,16.2,2019-10-06T13:00:00Z,78,0,0,0,0,8,0,7206,0,1,17.0,1,-116,168,284,44,False,1,Arsenal,Bournemouth,DEF,Stacey
-Jack Stephens,0,0,0,0,0.0,308,78,0,0,0.0,0.0,2019-10-06T13:00:00Z,0,0,0,0,0,8,0,7003,4,1,0.0,0,-288,69,357,44,True,0,Chelsea,Southampton,DEF,Stephens
-Jack Wilshere,0,0,3,0,0.6,394,80,1,0,0.4,1.8,2019-10-05T16:30:00Z,12,0,0,0,0,8,0,21960,2,1,2.0,1,-991,478,1469,48,True,0,Crystal Palace,West Ham,MID,Wilshere
-Jacob Murphy,0,0,0,0,0.0,483,76,0,0,0.0,0.0,2019-10-06T15:30:00Z,0,0,0,0,0,8,0,601,0,1,0.0,0,-20,10,30,48,True,0,Man Utd,Newcastle,MID,Murphy
-Jairo Riedewald,0,0,0,0,0.0,539,80,0,0,0.0,0.0,2019-10-05T16:30:00Z,0,0,0,0,0,8,0,479,2,1,0.0,0,51,118,67,45,False,0,West Ham,Crystal Palace,MID,Riedewald
-Jake Eastwood,0,0,0,0,0.0,299,79,0,0,0.0,0.0,2019-10-05T14:00:00Z,0,0,0,0,0,8,0,13264,0,0,0.0,0,-388,141,529,44,False,0,Watford,Sheffield Utd,GK,Eastwood
-Jamaal Lascelles,0,0,20,1,0.0,258,76,0,0,0.7,6.8,2019-10-06T15:30:00Z,90,0,0,0,0,8,0,336306,0,1,0.0,6,-16457,3478,19935,44,True,0,Man Utd,Newcastle,DEF,Lascelles
-Jamal Lewis,0,0,14,0,18.2,276,77,5,0,4.7,18.0,2019-10-05T14:00:00Z,90,0,0,0,0,8,0,27833,5,1,11.0,0,-3021,1038,4059,45,True,0,Aston Villa,Norwich,DEF,Lewis
-James Chester,0,0,0,0,0.0,23,77,0,0,0.0,0.0,2019-10-05T14:00:00Z,0,0,0,0,0,8,0,3656,5,1,0.0,0,-179,11,190,44,False,0,Norwich,Aston Villa,DEF,Chester
-James Garner,0,0,0,0,0.0,250,76,0,0,0.0,0.0,2019-10-06T15:30:00Z,0,0,0,0,0,8,0,18960,0,1,0.0,0,-1095,428,1523,44,False,0,Newcastle,Man Utd,MID,Garner
-James Justin,0,0,0,0,0.0,433,74,0,0,0.0,0.0,2019-10-05T14:00:00Z,0,0,0,0,0,8,0,6661,1,2,0.0,0,-164,175,339,48,False,0,Liverpool,Leicester,DEF,Justin
-James Maddison,0,0,26,0,14.3,171,74,1,1,7.4,38.6,2019-10-05T14:00:00Z,85,0,0,0,0,8,0,710123,1,2,21.0,7,-15750,40599,56349,71,False,0,Liverpool,Leicester,MID,Maddison
-James McArthur,0,0,15,0,2.1,138,80,1,0,1.4,11.0,2019-10-05T16:30:00Z,90,0,0,0,0,8,0,55943,2,1,1.0,2,-730,1757,2487,53,False,0,West Ham,Crystal Palace,MID,McArthur
-James McCarthy,0,0,12,0,4.1,157,80,1,0,1.9,8.0,2019-10-05T16:30:00Z,80,0,0,0,0,8,0,44225,2,1,7.0,2,911,3893,2982,44,False,0,West Ham,Crystal Palace,MID,McCarthy
-James Milner,1,3,40,0,26.9,200,74,1,1,10.7,58.2,2019-10-05T14:00:00Z,90,0,0,0,0,8,0,41349,1,2,22.0,13,-2290,504,2794,53,True,0,Leicester,Liverpool,MID,Milner
-James Tarkowski,0,3,30,1,10.4,84,73,0,0,4.2,26.0,2019-10-05T14:00:00Z,90,0,0,0,0,8,0,107175,0,1,6.0,9,-3989,1871,5860,50,True,0,Everton,Burnley,DEF,Tarkowski
-James Tomkins,0,0,0,0,0.0,124,80,0,0,0.0,0.0,2019-10-05T16:30:00Z,0,0,0,0,0,8,0,1431,2,1,0.0,0,38,185,147,50,False,0,West Ham,Crystal Palace,DEF,Tomkins
-James Ward-Prowse,0,0,8,0,25.9,321,78,4,0,4.1,13.6,2019-10-06T13:00:00Z,90,0,0,0,0,8,0,50652,4,1,1.0,2,270,4249,3979,58,True,0,Chelsea,Southampton,MID,Ward-Prowse
-Jamie Vardy,0,0,1,0,1.8,166,74,2,0,1.8,6.2,2019-10-05T14:00:00Z,90,0,0,0,0,8,0,634677,1,2,10.0,2,33048,74485,41437,89,False,0,Liverpool,Leicester,FWD,Vardy
-Jannik Vestergaard,0,0,0,0,0.0,304,78,0,0,0.0,0.0,2019-10-06T13:00:00Z,0,0,0,0,0,8,0,434343,4,1,0.0,0,-37144,9076,46220,52,True,0,Chelsea,Southampton,DEF,Vestergaard
-Jan Bednarek,0,0,16,0,0.3,307,78,4,0,1.3,12.8,2019-10-06T13:00:00Z,90,0,0,0,0,8,0,65498,4,1,0.0,0,-4677,523,5200,45,True,0,Chelsea,Southampton,DEF,Bednarek
-Jan Vertonghen,0,0,11,0,0.9,330,72,3,0,2.4,22.6,2019-10-05T11:30:00Z,90,0,0,0,0,8,0,142627,0,3,0.0,1,-1181,5246,6427,53,False,0,Brighton,Spurs,DEF,Vertonghen
-Javier Hernández Balcázar,0,0,0,0,0.0,386,80,0,0,0.0,0.0,2019-10-05T16:30:00Z,0,0,0,0,0,8,0,30768,2,1,0.0,0,-2197,27,2224,60,True,0,Crystal Palace,West Ham,FWD,Chicharito
-Javier Manquillo,0,0,0,0,0.0,256,76,0,0,0.0,0.0,2019-10-06T15:30:00Z,0,0,0,0,0,8,0,10044,0,1,0.0,0,-382,159,541,44,True,0,Man Utd,Newcastle,DEF,Manquillo
-Jay Rodriguez,0,0,7,0,0.6,451,73,0,0,2.5,7.0,2019-10-05T14:00:00Z,17,0,0,0,0,8,0,15104,0,1,17.0,1,367,1073,706,57,True,0,Everton,Burnley,FWD,Rodriguez
-Jean-Philippe Gbamin,0,0,0,0,0.0,497,73,0,0,0.0,0.0,2019-10-05T14:00:00Z,0,0,0,0,0,8,0,2618,0,1,0.0,0,-186,5,191,49,False,0,Burnley,Everton,MID,Gbamin
-Jed Steer,0,0,0,0,0.0,429,77,0,0,0.0,0.0,2019-10-05T14:00:00Z,0,0,0,0,0,8,0,8626,5,1,0.0,0,-180,41,221,44,False,0,Norwich,Aston Villa,GK,Steer
-Jefferson Lerma,0,0,15,0,3.0,82,71,1,0,1.8,13.2,2019-10-06T13:00:00Z,90,0,0,0,0,8,0,10831,0,1,2.0,2,-634,167,801,48,False,0,Arsenal,Bournemouth,MID,Lerma
-Jeffrey Schlupp,0,0,6,0,16.8,137,80,1,0,5.8,5.6,2019-10-05T16:30:00Z,90,0,0,0,0,8,0,9693,2,1,36.0,2,-911,373,1284,55,False,0,West Ham,Crystal Palace,MID,Schlupp
-Jeff Hendrick,0,3,30,1,11.5,100,73,0,1,8.5,38.6,2019-10-05T14:00:00Z,90,0,0,0,0,8,0,5940,0,1,35.0,10,448,711,263,54,True,1,Everton,Burnley,MID,Hendrick
-Jesse Lingard,0,0,0,0,0.0,241,76,0,0,0.0,0.0,2019-10-06T15:30:00Z,0,0,0,0,0,8,0,61983,0,1,0.0,0,-4346,1476,5822,64,False,0,Newcastle,Man Utd,MID,Lingard
-Jesús Vallejo Lázaro,0,0,0,0,0.0,473,75,0,0,0.0,0.0,2019-10-06T13:00:00Z,0,0,0,0,0,8,0,19305,2,0,0.0,0,-830,169,999,48,False,0,Man City,Wolves,DEF,Vallejo
-Jetro Willems,1,3,38,1,30.6,498,76,0,0,9.0,35.8,2019-10-06T15:30:00Z,90,0,0,0,0,8,0,17998,0,1,24.0,12,-2139,742,2881,45,True,0,Man Utd,Newcastle,DEF,Willems
-Joelinton Cássio Apolinário de Lira,0,0,2,0,12.3,466,76,0,0,1.9,0.2,2019-10-06T15:30:00Z,55,0,0,0,0,8,0,91048,0,1,6.0,1,-10756,2642,13398,58,True,0,Man Utd,Newcastle,FWD,Joelinton
-Joel Matip,0,0,0,0,0.0,185,74,0,0,0.0,0.0,2019-10-05T14:00:00Z,0,0,0,0,0,8,0,321515,1,2,0.0,0,-41881,35984,77865,55,True,0,Leicester,Liverpool,DEF,Matip
-Joel Ward,0,0,10,0,6.3,126,80,1,0,2.1,12.6,2019-10-05T16:30:00Z,90,0,0,0,0,8,0,246171,2,1,2.0,1,50188,59275,9087,46,False,1,West Ham,Crystal Palace,DEF,Ward
-Joe Hart,0,0,0,0,0.0,95,73,0,0,0.0,0.0,2019-10-05T14:00:00Z,0,0,0,0,0,8,0,98368,0,1,0.0,0,-3003,896,3899,44,True,0,Everton,Burnley,GK,Hart
-Johann Berg Gudmundsson,0,0,7,1,6.3,96,73,0,0,4.6,6.6,2019-10-05T14:00:00Z,83,0,0,0,0,8,0,43853,0,1,33.0,3,-2212,242,2454,59,True,0,Everton,Burnley,MID,Gudmundsson
-John Egan,0,0,27,1,0.4,295,79,0,0,2.7,19.0,2019-10-05T14:00:00Z,90,0,0,0,0,8,0,14961,0,0,8.0,6,1017,1498,481,45,False,0,Watford,Sheffield Utd,DEF,Egan
-John Fleck,0,0,16,1,11.2,301,79,0,0,4.2,14.0,2019-10-05T14:00:00Z,90,0,0,0,0,8,0,5924,0,0,17.0,3,807,1123,316,48,False,0,Watford,Sheffield Utd,MID,Fleck
-John Lundstram,0,0,20,1,27.5,297,79,0,0,4.5,11.0,2019-10-05T14:00:00Z,90,0,0,0,0,8,0,2115148,0,0,6.0,5,181636,194043,12407,45,False,1,Watford,Sheffield Utd,DEF,Lundstram
-John McGinn,0,0,16,0,18.2,31,77,1,0,4.0,12.0,2019-10-05T14:00:00Z,90,0,0,0,0,8,0,802738,5,1,10.0,1,214463,230374,15911,58,False,1,Norwich,Aston Villa,MID,McGinn
-John Ruddy,0,0,0,0,0.0,412,75,0,0,0.0,0.0,2019-10-06T13:00:00Z,0,0,0,0,0,8,0,31777,2,0,0.0,0,-606,289,895,44,False,0,Man City,Wolves,GK,Ruddy
-John Stones,0,0,0,0,0.0,207,75,0,0,0.0,0.0,2019-10-06T13:00:00Z,0,0,0,0,0,8,0,72388,2,0,0.0,0,-5929,54,5983,53,True,0,Wolves,Man City,DEF,Stones
-Jonas Lössl,0,0,0,0,0.0,479,73,0,0,0.0,0.0,2019-10-05T14:00:00Z,0,0,0,0,0,8,0,26734,0,1,0.0,0,-789,92,881,44,False,0,Burnley,Everton,GK,Lössl
-Jonathan Castro Otto,0,0,2,0,0.0,402,75,0,0,0.0,0.2,2019-10-06T13:00:00Z,16,0,0,0,0,8,0,58676,2,0,0.0,1,-2258,841,3099,54,False,0,Man City,Wolves,DEF,Jonny
-Jonathan Kodjia,0,0,0,0,0.0,26,77,0,0,0.0,0.0,2019-10-05T14:00:00Z,0,0,0,0,0,8,0,7024,5,1,0.0,0,-430,39,469,54,False,0,Norwich,Aston Villa,FWD,Kodjia
-Jonjo Shelvey,0,0,0,0,0.0,269,76,0,0,0.0,0.0,2019-10-06T15:30:00Z,0,0,0,0,0,8,0,19621,0,1,0.0,0,-4201,113,4314,50,True,0,Man Utd,Newcastle,MID,Shelvey
-Jonny Evans,0,0,13,0,0.8,162,74,2,0,2.6,23.4,2019-10-05T14:00:00Z,90,0,0,0,0,8,0,127308,1,2,2.0,0,18706,24825,6119,50,False,1,Liverpool,Leicester,DEF,Evans
-Jordan Ayew,0,3,32,0,2.1,468,80,1,1,9.8,36.4,2019-10-05T16:30:00Z,89,0,0,0,0,8,0,529561,2,1,59.0,9,-35016,29630,64646,51,False,0,West Ham,Crystal Palace,FWD,Ayew
-Jordan Henderson,0,0,5,0,1.6,198,74,1,0,0.4,2.2,2019-10-05T14:00:00Z,12,0,0,0,0,8,0,52876,1,2,0.0,1,-1401,1611,3012,54,True,0,Leicester,Liverpool,MID,Henderson
-Jordan Pickford,0,0,17,0,0.0,148,73,1,0,2.1,20.8,2019-10-05T14:00:00Z,90,0,0,0,0,8,2,659566,0,1,0.0,2,-19111,7837,26948,55,False,0,Burnley,Everton,GK,Pickford
-Jordon Ibe,0,0,0,0,0.0,78,71,0,0,0.0,0.0,2019-10-06T13:00:00Z,0,0,0,0,0,8,0,13567,0,1,0.0,0,-673,217,890,48,False,0,Arsenal,Bournemouth,MID,Ibe
-Jorge Luiz Frello Filho,0,0,12,0,3.6,118,78,1,0,2.2,18.2,2019-10-06T13:00:00Z,90,0,0,0,0,8,0,374386,4,1,0.0,1,117540,130332,12792,50,False,1,Southampton,Chelsea,MID,Jorginho
-Jose Luis Mato Sanmartín,0,0,0,0,0.0,261,76,0,0,0.0,0.0,2019-10-06T15:30:00Z,0,0,0,0,0,8,0,2243,0,1,0.0,0,-74,43,117,50,True,0,Man Utd,Newcastle,FWD,Joselu
-Joseph Gomez,0,0,0,0,0.0,184,74,0,0,0.0,0.0,2019-10-05T14:00:00Z,0,0,0,0,0,8,0,63370,1,2,0.0,0,1514,5368,3854,52,True,0,Leicester,Liverpool,DEF,Gomez
-Joseph Willock,0,0,2,0,10.9,490,71,0,0,1.7,2.0,2019-10-06T13:00:00Z,15,0,0,0,0,8,0,17171,0,1,4.0,1,-560,940,1500,50,True,0,Bournemouth,Arsenal,MID,Willock
-Joshua King,0,0,7,0,13.0,68,71,1,0,3.1,10.0,2019-10-06T13:00:00Z,90,0,0,0,0,8,0,632532,0,1,8.0,2,66925,96994,30069,63,False,0,Arsenal,Bournemouth,FWD,King
-Josip Drmic,0,0,25,0,0.3,434,77,0,1,5.2,33.0,2019-10-05T14:00:00Z,6,0,0,0,0,8,0,5667,5,1,19.0,5,-75,350,425,54,True,0,Aston Villa,Norwich,FWD,Drmic
-José Diogo Dalot Teixeira,0,0,8,0,2.5,229,76,0,0,1.1,8.0,2019-10-06T15:30:00Z,59,0,0,0,0,8,0,6718,0,1,0.0,1,-183,112,295,49,False,0,Newcastle,Man Utd,DEF,Dalot
-José Heriberto Izquierdo Mena,0,0,0,0,0.0,51,72,0,0,0.0,0.0,2019-10-05T11:30:00Z,0,0,0,0,0,8,0,154,0,3,0.0,0,-1,3,4,54,True,0,Spurs,Brighton,MID,Izquierdo
-José Ignacio Peleteiro Romallo,0,0,0,0,0.0,36,77,0,0,0.0,0.0,2019-10-05T14:00:00Z,0,0,0,0,0,8,0,14606,5,1,0.0,0,-1650,300,1950,59,False,0,Norwich,Aston Villa,MID,Jota
-José Ángel Esmorís Tasende,0,0,0,0,0.0,440,75,0,0,0.0,0.0,2019-10-06T13:00:00Z,0,0,0,0,0,8,0,10178,2,0,0.0,0,-376,198,574,47,True,0,Wolves,Man City,DEF,Angeliño
-José Holebas,0,0,26,1,1.6,353,79,0,0,1.6,14.6,2019-10-05T14:00:00Z,90,0,0,0,0,8,0,96780,0,0,0.0,6,-8301,1276,9577,47,True,0,Sheffield Utd,Watford,DEF,Holebas
-João Filipe Iria Santos Moutinho,0,0,12,1,16.0,415,75,0,0,3.2,15.6,2019-10-06T13:00:00Z,90,0,0,0,0,8,0,292599,2,0,0.0,2,-29983,3273,33256,54,False,1,Man City,Wolves,MID,Moutinho
-João Pedro Cavaco Cancelo,0,0,18,0,29.8,518,75,2,0,7.1,24.2,2019-10-06T13:00:00Z,90,0,0,0,0,8,0,55794,2,0,17.0,0,-3584,938,4522,53,True,1,Wolves,Man City,DEF,Cancelo
-Juan Foyth,0,0,0,0,0.0,335,72,0,0,0.0,0.0,2019-10-05T11:30:00Z,0,0,0,0,0,8,0,1737,0,3,0.0,0,114,213,99,49,False,0,Brighton,Spurs,DEF,Foyth
-Juan Mata,0,0,11,1,2.8,242,76,0,0,1.4,7.2,2019-10-06T15:30:00Z,65,0,0,0,0,8,0,25593,0,1,4.0,3,-1107,850,1957,63,False,0,Newcastle,Man Utd,MID,Mata
-Junior Stanislas,0,0,0,0,0.0,77,71,0,0,0.0,0.0,2019-10-06T13:00:00Z,0,0,0,0,0,8,0,271,0,1,0.0,0,-5,5,10,59,False,0,Arsenal,Bournemouth,MID,Stanislas
-Jürgen Locadia,0,0,0,0,0.0,45,72,0,0,0.0,0.0,2019-10-05T11:30:00Z,0,0,0,0,0,8,0,6984,0,3,0.0,0,-473,18,491,53,True,0,Spurs,Brighton,FWD,Locadia
-Karl Darlow,0,0,0,0,0.0,263,76,0,0,0.0,0.0,2019-10-06T15:30:00Z,0,0,0,0,0,8,0,9400,0,1,0.0,0,-188,100,288,44,True,0,Man Utd,Newcastle,GK,Darlow
-Kasper Schmeichel,0,0,23,0,0.0,168,74,2,0,5.0,50.4,2019-10-05T14:00:00Z,90,0,0,0,0,8,6,478331,1,2,0.0,3,18642,37392,18750,50,False,0,Liverpool,Leicester,GK,Schmeichel
-Kayne Ramsay,0,0,0,0,0.0,311,78,0,0,0.0,0.0,2019-10-06T13:00:00Z,0,0,0,0,0,8,0,86861,4,1,0.0,0,-1617,1573,3190,40,True,0,Chelsea,Southampton,DEF,Ramsay
-Keinan Davis,0,0,0,0,0.0,34,77,0,0,0.0,0.0,2019-10-05T14:00:00Z,0,0,0,0,0,8,0,21844,5,1,0.0,0,-664,569,1233,45,False,0,Norwich,Aston Villa,MID,Davis
-Kelechi Iheanacho,0,0,0,0,0.0,167,74,0,0,0.0,0.0,2019-10-05T14:00:00Z,0,0,0,0,0,8,0,14845,1,2,0.0,0,-451,321,772,57,False,0,Liverpool,Leicester,FWD,Iheanacho
-Kenny McLean,0,0,7,0,13.9,286,77,5,0,2.4,8.8,2019-10-05T14:00:00Z,90,0,0,0,0,8,0,14988,5,1,1.0,2,496,1433,937,49,True,0,Aston Villa,Norwich,MID,McLean
-Ken Sema,0,0,0,0,0.0,372,79,0,0,0.0,0.0,2019-10-05T14:00:00Z,0,0,0,0,0,8,0,1525,0,0,0.0,0,-71,11,82,48,True,0,Sheffield Utd,Watford,MID,Sema
-Kepa Arrizabalaga,0,0,10,0,0.0,111,78,1,0,0.8,7.6,2019-10-06T13:00:00Z,90,0,0,0,0,8,1,341347,4,1,0.0,2,6904,16695,9791,55,False,0,Southampton,Chelsea,GK,Kepa
-Kevin Danso,0,0,0,0,0.0,532,78,0,0,0.0,0.0,2019-10-06T13:00:00Z,0,0,0,0,0,8,0,2042,4,1,0.0,0,-136,61,197,45,True,0,Chelsea,Southampton,DEF,Danso
-Kevin De Bruyne,0,0,0,0,0.0,215,75,0,0,0.0,0.0,2019-10-06T13:00:00Z,0,0,0,0,0,8,0,2169368,2,0,0.0,0,-653701,141393,795094,100,True,0,Wolves,Man City,MID,De Bruyne
-Kevin Long,0,0,0,0,0.0,88,73,0,0,0.0,0.0,2019-10-05T14:00:00Z,0,0,0,0,0,8,0,9204,0,1,0.0,0,-287,128,415,44,True,0,Everton,Burnley,DEF,Long
-Kieran Tierney,0,0,0,0,0.0,515,71,0,0,0.0,0.0,2019-10-06T13:00:00Z,0,0,0,0,0,8,0,48724,0,1,0.0,0,15389,16713,1324,54,True,0,Bournemouth,Arsenal,DEF,Tierney
-Kieran Trippier,0,0,0,0,0.0,334,72,0,0,0.0,0.0,2019-10-05T11:30:00Z,0,0,0,0,0,8,0,10045,0,3,0.0,0,-228,44,272,55,False,0,Brighton,Spurs,DEF,Trippier
-Kieron Freeman,0,0,0,0,0.0,292,79,0,0,0.0,0.0,2019-10-05T14:00:00Z,0,0,0,0,0,8,0,7142,0,0,0.0,0,-218,168,386,43,False,0,Watford,Sheffield Utd,DEF,Freeman
-Konstantinos Mavropanos,0,0,0,0,0.0,8,71,0,0,0.0,0.0,2019-10-06T13:00:00Z,0,0,0,0,0,8,0,2641,0,1,0.0,0,-17,62,79,44,True,0,Bournemouth,Arsenal,DEF,Mavropanos
-Kortney Hause,0,0,0,0,0.0,25,77,0,0,0.0,0.0,2019-10-05T14:00:00Z,0,0,0,0,0,8,0,4325,5,1,0.0,0,-145,37,182,45,False,0,Norwich,Aston Villa,DEF,Hause
-Kurt Zouma,0,0,15,0,0.3,459,78,1,0,3.0,25.2,2019-10-06T13:00:00Z,90,0,0,0,0,8,0,107037,4,1,4.0,2,-13967,1035,15002,48,False,0,Southampton,Chelsea,DEF,Zouma
-Kyle Walker-Peters,0,0,0,0,0.0,337,72,0,0,0.0,0.0,2019-10-05T11:30:00Z,0,0,0,0,0,8,0,75331,0,3,0.0,0,-6085,3845,9930,48,False,0,Brighton,Southampton,DEF,Walker-Peters
-Kyle Walker,0,0,10,0,3.1,203,75,0,0,2.0,9.6,2019-10-06T13:00:00Z,45,0,0,0,0,8,0,1157742,2,0,7.0,1,-44040,18600,62640,60,True,0,Wolves,Man City,DEF,Walker
-Laurent Koscielny,0,0,0,0,0.0,7,71,0,0,0.0,0.0,2019-10-06T13:00:00Z,0,0,0,0,0,8,0,6091,0,1,0.0,0,-153,17,170,50,True,0,Bournemouth,Arsenal,DEF,Koscielny
-Leander Dendoncker,0,0,5,1,0.9,420,75,0,0,0.9,7.8,2019-10-06T13:00:00Z,90,0,0,0,0,8,0,699045,2,0,0.0,3,-15499,32342,47841,44,False,0,Man City,Wolves,MID,Dendoncker
-Leandro Trossard,0,0,0,0,0.0,421,72,0,0,0.0,0.0,2019-10-05T11:30:00Z,0,0,0,0,0,8,0,13220,0,3,0.0,0,-2113,30,2143,58,True,0,Spurs,Brighton,MID,Trossard
-Lee Grant,0,0,0,0,0.0,237,76,0,0,0.0,0.0,2019-10-06T15:30:00Z,0,0,0,0,0,8,0,7071,0,1,0.0,0,-136,23,159,49,False,0,Newcastle,Man Utd,GK,Grant
-Leighton Baines,0,0,0,0,0.0,145,73,0,0,0.0,0.0,2019-10-05T14:00:00Z,0,0,0,0,0,8,0,9663,0,1,0.0,0,-172,447,619,49,False,0,Burnley,Everton,DEF,Baines
-Leon Balogun,0,0,0,0,0.0,40,72,0,0,0.0,0.0,2019-10-05T11:30:00Z,0,0,0,0,0,8,0,3926,0,3,0.0,0,-169,23,192,44,True,0,Spurs,Brighton,DEF,Balogun
-Leon Clarke,0,0,0,0,0.0,547,79,0,0,0.0,0.0,2019-10-05T14:00:00Z,0,0,0,0,0,8,0,3358,0,0,0.0,0,2578,3043,465,45,False,0,Watford,Sheffield Utd,FWD,Clarke
-Leroy Sané,0,0,0,0,0.0,216,75,0,0,0.0,0.0,2019-10-06T13:00:00Z,0,0,0,0,0,8,0,17322,2,0,0.0,0,-319,138,457,93,True,0,Wolves,Man City,MID,Sané
-Lewis Cook,0,0,0,0,0.0,79,71,0,0,0.0,0.0,2019-10-06T13:00:00Z,0,0,0,0,0,8,0,1569,0,1,0.0,0,-1,251,252,50,False,0,Arsenal,Bournemouth,MID,Lewis Cook
-Lewis Dunk,1,2,37,1,10.6,42,72,0,0,4.9,38.8,2019-10-05T11:30:00Z,90,0,0,0,0,8,0,695148,0,3,0.0,10,-26998,5451,32449,46,True,1,Spurs,Brighton,DEF,Dunk
-Lewis Gibson,0,0,0,0,0.0,477,73,0,0,0.0,0.0,2019-10-05T14:00:00Z,0,0,0,0,0,8,0,11077,0,1,0.0,0,-324,131,455,44,False,0,Burnley,Everton,DEF,Gibson
-Lloyd Kelly,0,0,0,0,0.0,64,71,0,0,0.0,0.0,2019-10-06T13:00:00Z,0,0,0,0,0,8,0,3823,0,1,0.0,0,227,495,268,44,False,0,Arsenal,Bournemouth,DEF,Kelly
-Lovre Kalinic,0,0,0,0,0.0,474,77,0,0,0.0,0.0,2019-10-05T14:00:00Z,0,0,0,0,0,8,0,6644,5,1,0.0,0,-119,67,186,44,False,0,Norwich,Aston Villa,GK,Kalinic
-Lucas Digne,0,0,14,0,26.8,141,73,1,0,3.8,9.4,2019-10-05T14:00:00Z,90,0,0,0,0,8,0,1562937,0,1,2.0,2,-111089,20887,131976,60,False,0,Burnley,Everton,DEF,Digne
-Lucas Rodrigues Moura da Silva,0,0,5,0,11.4,345,72,0,0,4.8,10.4,2019-10-05T11:30:00Z,17,0,0,0,0,8,0,294491,0,3,26.0,1,-39874,5513,45387,72,False,0,Brighton,Spurs,MID,Lucas Moura
-Lucas Torreira,0,0,3,0,0.5,19,71,0,0,1.2,3.4,2019-10-06T13:00:00Z,7,0,0,0,0,8,0,98964,0,1,8.0,1,-4124,2279,6403,48,True,0,Bournemouth,Arsenal,MID,Torreira
-Lukasz Fabianski,0,0,0,0,0.0,388,80,0,0,0.0,0.0,2019-10-05T16:30:00Z,0,0,0,0,0,8,0,317735,2,1,0.0,0,-139418,11997,151415,51,True,0,Crystal Palace,West Ham,GK,Fabianski
-Luka Milivojevic,0,0,0,0,0.0,134,80,0,0,0.0,0.0,2019-10-05T16:30:00Z,0,0,0,0,0,8,0,188982,2,1,0.0,0,-34022,1185,35207,67,False,0,West Ham,Crystal Palace,MID,Milivojevic
-Luke Amos,0,0,0,0,0.0,351,72,0,0,0.0,0.0,2019-10-05T11:30:00Z,0,0,0,0,0,8,0,950,0,3,0.0,0,-45,18,63,45,False,0,Brighton,Spurs,MID,Amos
-Luke Dreher,0,0,0,0,0.0,140,80,0,0,0.0,0.0,2019-10-05T16:30:00Z,0,0,0,0,0,8,0,6717,2,1,0.0,0,-81,466,547,44,False,0,West Ham,Crystal Palace,MID,Dreher
-Luke Freeman,0,0,0,0,0.0,441,79,0,0,0.0,0.0,2019-10-05T14:00:00Z,0,0,0,0,0,8,0,5709,0,0,0.0,0,-482,90,572,53,False,0,Watford,Sheffield Utd,MID,Freeman
-Luke Shaw,0,0,0,0,0.0,226,76,0,0,0.0,0.0,2019-10-06T15:30:00Z,0,0,0,0,0,8,0,48104,0,1,0.0,0,-3042,62,3104,54,False,0,Newcastle,Man Utd,DEF,Shaw
-Lys Mousset,0,0,3,0,0.9,70,79,0,0,1.7,4.4,2019-10-05T14:00:00Z,28,0,0,0,0,8,0,36361,0,0,12.0,1,5508,8705,3197,49,False,0,Watford,Sheffield Utd,FWD,Mousset
-Maarten Stekelenburg,0,0,0,0,0.0,149,73,0,0,0.0,0.0,2019-10-05T14:00:00Z,0,0,0,0,0,8,0,637592,0,1,0.0,0,-4176,5284,9460,40,False,0,Burnley,Everton,GK,Stekelenburg
-Mahmoud Ahmed Ibrahim Hassan,0,0,0,0,0.3,465,77,1,0,0.3,0.0,2019-10-05T14:00:00Z,26,0,0,0,0,8,0,75965,5,1,3.0,1,-1194,2963,4157,53,False,0,Norwich,Aston Villa,MID,Trézéguet
-Mamadou Sakho,0,0,0,0,0.0,125,80,0,0,0.0,0.0,2019-10-05T16:30:00Z,0,0,0,0,0,8,0,6052,2,1,0.0,0,-915,36,951,50,False,0,West Ham,Crystal Palace,DEF,Sakho
-Manuel Lanzini,0,0,11,0,7.3,391,80,1,0,1.2,0.4,2019-10-05T16:30:00Z,67,0,0,0,0,8,0,122299,2,1,4.0,2,-14528,4662,19190,65,True,0,Crystal Palace,West Ham,MID,Lanzini
-Marcos Alonso,1,0,25,0,17.3,103,78,1,0,6.4,38.8,2019-10-06T13:00:00Z,90,0,0,0,0,8,0,185899,4,1,8.0,5,7994,14834,6840,62,False,0,Southampton,Chelsea,DEF,Alonso
-Marcos Rojo,0,0,-2,0,1.6,227,76,1,0,1.0,4.4,2019-10-06T15:30:00Z,30,0,0,0,0,8,0,9920,0,1,4.0,0,-192,271,463,48,False,1,Newcastle,Man Utd,DEF,Rojo
-Marco Stiepermann,0,0,10,0,11.6,285,77,4,0,11.2,11.0,2019-10-05T14:00:00Z,75,0,0,0,0,8,0,7262,5,1,89.0,2,-281,364,645,54,True,0,Aston Villa,Norwich,MID,Stiepermann
-Marcus Rashford,0,0,6,0,24.2,233,76,1,0,3.2,6.2,2019-10-06T15:30:00Z,90,0,0,0,0,8,0,722006,0,1,2.0,2,-61607,13831,75438,84,False,0,Newcastle,Man Utd,FWD,Rashford
-Marc Albrighton,0,0,5,0,4.8,174,74,1,0,0.3,0.0,2019-10-05T14:00:00Z,45,0,0,0,0,8,0,14051,1,2,0.0,1,-154,570,724,53,False,0,Liverpool,Leicester,MID,Albrighton
-Marc Navarro,0,0,0,0,0.0,360,79,0,0,0.0,0.0,2019-10-05T14:00:00Z,0,0,0,0,0,8,0,6337,0,0,0.0,0,-119,281,400,40,True,0,Sheffield Utd,Watford,DEF,Navarro
-Mario Lemina,0,0,0,0,0.0,324,78,0,0,0.0,0.0,2019-10-06T13:00:00Z,0,0,0,0,0,8,0,4725,4,1,0.0,0,-333,17,350,48,True,0,Chelsea,Southampton,MID,Lemina
-Mario Vrancic,0,0,0,0,0.0,282,77,0,0,0.0,0.0,2019-10-05T14:00:00Z,0,0,0,0,0,8,0,4846,5,1,0.0,0,-358,12,370,62,True,0,Aston Villa,Norwich,MID,Vrancic
-Marko Arnautovic,0,0,0,0,0.0,385,80,0,0,0.0,0.0,2019-10-05T16:30:00Z,0,0,0,0,0,8,0,5417,2,1,0.0,0,-56,50,106,70,True,0,Crystal Palace,West Ham,FWD,Arnautovic
-Mark Duffy,0,0,0,0,0.0,300,79,0,0,0.0,0.0,2019-10-05T14:00:00Z,0,0,0,0,0,8,0,1603,0,0,0.0,0,-84,9,93,53,False,0,Watford,Sheffield Utd,MID,Duffy
-Mark Noble,0,0,10,0,14.8,396,80,2,0,2.7,7.0,2019-10-05T16:30:00Z,90,0,0,0,0,8,0,68017,2,1,5.0,2,178,6563,6385,50,True,0,Crystal Palace,West Ham,MID,Noble
-Mark Travers,0,0,0,0,0.0,74,71,0,0,0.0,0.0,2019-10-06T13:00:00Z,0,0,0,0,0,8,0,12668,0,1,0.0,0,-374,84,458,44,False,0,Arsenal,Bournemouth,GK,Travers
-Martin Dubravka,0,1,26,1,0.0,262,76,0,0,2.3,22.6,2019-10-06T15:30:00Z,90,0,0,0,0,8,3,63141,0,1,0.0,8,-1915,1629,3544,50,True,0,Man Utd,Newcastle,GK,Dubravka
-Martin Kelly,1,2,27,0,10.4,128,80,1,0,5.0,35.4,2019-10-05T16:30:00Z,90,0,0,0,0,8,0,1745313,2,1,4.0,7,42777,64866,22089,41,False,0,West Ham,Crystal Palace,DEF,Kelly
-Martín Montoya,0,0,15,1,4.1,38,72,0,0,2.3,8.4,2019-10-05T11:30:00Z,90,0,0,0,0,8,0,44570,0,3,10.0,6,-2819,535,3354,45,True,0,Spurs,Brighton,DEF,Montoya
-Marvelous Nakamba,0,0,18,0,11.4,491,77,1,0,2.8,16.6,2019-10-05T14:00:00Z,90,0,0,0,0,8,0,81234,5,1,0.0,2,7745,14508,6763,44,False,0,Norwich,Aston Villa,MID,Nakamba
-Mason Greenwood,0,0,3,0,1.7,234,76,1,0,2.2,3.2,2019-10-06T15:30:00Z,24,0,0,0,0,8,0,881019,0,1,17.0,1,-7386,53604,60990,44,False,0,Newcastle,Man Utd,FWD,Greenwood
-Mason Holgate,0,0,0,0,0.0,478,73,0,0,0.0,0.0,2019-10-05T14:00:00Z,0,0,0,0,0,8,0,10337,0,1,0.0,0,-329,101,430,44,False,0,Burnley,Everton,DEF,Holgate
-Mason Mount,0,0,25,0,23.4,463,78,1,1,8.5,36.0,2019-10-06T13:00:00Z,79,0,0,0,0,8,0,2195805,4,1,26.0,7,276286,314939,38653,67,False,0,Southampton,Chelsea,MID,Mount
-Matej Vydra,0,0,0,0,0.0,92,73,0,0,0.0,0.0,2019-10-05T14:00:00Z,0,0,0,0,0,8,0,4578,0,1,0.0,0,-173,194,367,54,True,0,Everton,Burnley,FWD,Vydra
-Mateo Kovacic,0,0,6,0,0.6,432,78,0,0,0.3,2.6,2019-10-06T13:00:00Z,10,0,0,0,0,8,0,67407,4,1,0.0,1,-5049,1676,6725,54,False,0,Southampton,Chelsea,MID,Kovacic
-Mathew Ryan,0,0,30,1,0.0,47,72,0,0,2.0,20.2,2019-10-05T11:30:00Z,90,0,0,0,0,8,3,885290,0,3,0.0,7,27635,42742,15107,46,True,0,Spurs,Brighton,GK,Ryan
-Matteo Darmian,0,0,0,0,0.0,230,76,0,0,0.0,0.0,2019-10-06T15:30:00Z,0,0,0,0,0,8,0,3753,0,1,0.0,0,-160,10,170,49,False,0,Newcastle,Man Utd,DEF,Darmian
-Matteo Guendouzi,0,0,20,1,20.4,21,71,0,0,5.2,17.8,2019-10-06T13:00:00Z,90,0,0,0,0,8,0,751976,0,1,14.0,3,54061,87791,33730,46,True,0,Bournemouth,Arsenal,MID,Guendouzi
-Matthew Clarke,0,0,0,0,0.0,43,72,0,0,0.0,0.0,2019-10-05T11:30:00Z,0,0,0,0,0,8,0,900,0,3,0.0,0,-18,11,29,44,True,0,Spurs,Brighton,DEF,Clarke
-Matthew Longstaff,0,2,31,1,14.8,540,76,0,1,6.3,40.0,2019-10-06T15:30:00Z,90,0,0,0,0,8,0,873,0,1,8.0,10,101,236,135,45,True,0,Man Utd,Newcastle,MID,Matthew Longstaff
-Matthew Lowton,0,0,23,1,4.9,85,73,0,0,2.2,15.0,2019-10-05T14:00:00Z,90,0,0,0,0,8,0,71146,0,1,2.0,6,3955,6914,2959,45,True,0,Everton,Burnley,DEF,Lowton
-Matty James,0,0,0,0,0.0,177,74,0,0,0.0,0.0,2019-10-05T14:00:00Z,0,0,0,0,0,8,0,12078,1,2,0.0,0,-733,80,813,44,False,0,Liverpool,Leicester,MID,James
-Matt Doherty,0,0,4,0,0.3,401,75,0,0,1.2,11.6,2019-10-06T13:00:00Z,22,0,0,0,0,8,0,183861,2,0,0.0,1,14153,20805,6652,60,False,0,Man City,Wolves,DEF,Doherty
-Matt Ritchie,0,0,0,0,0.0,251,76,0,0,0.0,0.0,2019-10-06T15:30:00Z,0,0,0,0,0,8,0,14015,0,1,0.0,0,-1173,28,1201,54,True,0,Man Utd,Newcastle,DEF,Ritchie
-Matt Targett,1,0,26,0,33.3,309,77,1,0,7.0,34.6,2019-10-05T14:00:00Z,90,0,0,0,0,8,0,29286,5,1,2.0,5,-1,1065,1066,44,False,0,Norwich,Aston Villa,DEF,Targett
-Maximillian Aarons,0,0,7,0,14.0,274,77,5,0,3.4,0.2,2019-10-05T14:00:00Z,90,0,0,0,0,8,0,93208,5,1,20.0,0,-1982,1608,3590,44,True,0,Aston Villa,Norwich,DEF,Aarons
-Max Kilman,0,0,0,0,0.0,408,75,0,0,0.0,0.0,2019-10-06T13:00:00Z,0,0,0,0,0,8,0,164079,2,0,0.0,0,-1361,5599,6960,40,False,0,Man City,Wolves,DEF,Kilman
-Max Meyer,0,0,0,0,0.0,136,80,0,0,0.0,0.0,2019-10-05T16:30:00Z,0,0,0,0,0,8,0,7085,2,1,0.0,0,-386,55,441,53,False,0,West Ham,Crystal Palace,MID,Meyer
-Maya Yoshida,0,0,10,0,0.4,310,78,4,0,2.3,13.8,2019-10-06T13:00:00Z,90,0,0,0,0,8,0,25951,4,1,9.0,0,-1076,753,1829,44,True,0,Chelsea,Southampton,DEF,Yoshida
-Mesut Özil,0,0,0,0,0.0,15,71,0,0,0.0,0.0,2019-10-06T13:00:00Z,0,0,0,0,0,8,0,44586,0,1,0.0,0,-2215,1568,3783,73,True,0,Bournemouth,Arsenal,MID,Özil
-Michael Keane,0,0,7,0,0.3,143,73,1,0,2.3,11.6,2019-10-05T14:00:00Z,90,0,0,0,0,8,0,203909,0,1,11.0,2,-11406,1935,13341,55,False,0,Burnley,Everton,DEF,Keane
-Michael McGovern,0,2,38,0,0.0,281,77,5,0,6.4,63.6,2019-10-05T14:00:00Z,90,0,0,1,0,8,7,386373,5,1,0.0,9,24774,30201,5427,40,True,0,Aston Villa,Norwich,GK,McGovern
-Michael Obafemi,0,0,1,0,1.3,314,78,1,0,0.2,1.0,2019-10-06T13:00:00Z,17,0,0,0,0,8,0,12957,4,1,0.0,1,-239,577,816,50,True,0,Chelsea,Southampton,FWD,Obafemi
-Michael Verrips,0,0,0,0,0.0,521,79,0,0,0.0,0.0,2019-10-05T14:00:00Z,0,0,0,0,0,8,0,2785,0,0,0.0,0,-37,45,82,45,False,0,Watford,Sheffield Utd,GK,Verrips
-Michail Antonio,0,0,0,0,0.0,389,80,0,0,0.0,0.0,2019-10-05T16:30:00Z,0,0,0,0,0,8,0,51493,2,1,0.0,0,-1988,36,2024,69,True,0,Crystal Palace,West Ham,MID,Antonio
-Michy Batshuayi,0,1,27,0,0.5,461,78,0,1,5.3,33.4,2019-10-06T13:00:00Z,6,0,0,0,0,8,0,27435,4,1,19.0,6,-358,936,1294,66,False,0,Southampton,Chelsea,FWD,Batshuayi
-Miguel Almirón,0,0,-1,1,0.9,266,76,0,0,2.5,0.0,2019-10-06T15:30:00Z,89,0,0,0,0,8,0,31627,0,1,29.0,2,-2584,551,3135,58,True,1,Man Utd,Newcastle,MID,Almirón
-Mohamed Elneny,0,0,0,0,0.0,20,71,0,0,0.0,0.0,2019-10-06T13:00:00Z,0,0,0,0,0,8,0,50772,0,1,0.0,0,8993,15536,6543,43,True,0,Bournemouth,Arsenal,MID,Elneny
-Mohamed Elyounoussi,0,0,0,0,0.0,322,78,0,0,0.0,0.0,2019-10-06T13:00:00Z,0,0,0,0,0,8,0,2056,4,1,0.0,0,-94,8,102,53,True,0,Chelsea,Southampton,MID,Elyounoussi
-Mohamed Salah,0,0,5,0,37.7,191,74,1,0,15.0,18.2,2019-10-05T14:00:00Z,90,0,0,0,0,8,0,2797360,1,2,94.0,2,-92287,34441,126728,125,True,0,Leicester,Liverpool,MID,Salah
-Moise Kean,0,0,-1,0,1.3,496,73,0,0,0.4,0.2,2019-10-05T14:00:00Z,16,0,0,0,0,8,0,127559,0,1,2.0,1,-9294,1733,11027,66,False,0,Burnley,Everton,FWD,Kean
-Morgan Gibbs-White,0,0,0,0,0.0,416,75,0,0,0.0,0.0,2019-10-06T13:00:00Z,0,0,0,0,0,8,0,5467,2,0,0.0,0,69,331,262,48,False,0,Man City,Wolves,MID,Gibbs-White
-Morgan Schneiderlin,0,0,8,0,13.4,158,73,1,0,1.4,0.2,2019-10-05T14:00:00Z,83,0,0,0,0,8,0,58779,0,1,0.0,2,-1362,1748,3110,45,False,0,Burnley,Everton,MID,Schneiderlin
-Moritz Leitner,0,0,11,0,8.3,288,77,5,0,4.7,13.4,2019-10-05T14:00:00Z,90,0,0,0,0,8,0,18153,5,1,25.0,2,983,2113,1130,45,True,0,Aston Villa,Norwich,MID,Leitner
-Moussa Djenepo,0,0,0,0,0.0,438,78,0,0,0.0,0.0,2019-10-06T13:00:00Z,0,0,0,0,0,8,0,7901,4,1,0.0,0,-2779,95,2874,53,True,0,Chelsea,Southampton,MID,Djenepo
-Moussa Sissoko,0,0,12,0,4.5,349,72,3,0,2.0,11.0,2019-10-05T11:30:00Z,90,0,0,0,0,8,0,145917,0,3,4.0,2,-9683,3545,13228,50,False,0,Brighton,Spurs,MID,Sissoko
-Muhamed Bešić,0,0,0,0,0.0,522,79,0,0,0.0,0.0,2019-10-05T14:00:00Z,0,0,0,0,0,8,0,11749,0,0,0.0,0,-351,301,652,45,False,0,Watford,Sheffield Utd,MID,Bešić
-N'Golo Kanté,0,0,22,0,2.3,119,78,1,1,5.0,40.8,2019-10-06T13:00:00Z,90,0,0,0,0,8,0,330384,4,1,7.0,7,-18450,12300,30750,50,False,0,Southampton,Chelsea,MID,Kanté
-Naby Keita,0,0,0,0,0.0,196,74,0,0,0.0,0.0,2019-10-05T14:00:00Z,0,0,0,0,0,8,0,12134,1,2,0.0,0,54,405,351,58,True,0,Leicester,Liverpool,MID,Keita
-Nacho Monreal,0,0,0,0,0.0,6,71,0,0,0.0,0.0,2019-10-06T13:00:00Z,0,0,0,0,0,8,0,23328,0,1,0.0,0,-2065,23,2088,50,True,0,Bournemouth,Arsenal,DEF,Monreal
-Nampalys Mendy,0,0,0,0,0.0,179,74,0,0,0.0,0.0,2019-10-05T14:00:00Z,0,0,0,0,0,8,0,55355,1,2,0.0,0,-1101,2965,4066,44,False,0,Liverpool,Leicester,MID,Mendy
-Nathaniel Chalobah,0,0,0,0,0.0,374,79,0,0,0.0,0.0,2019-10-05T14:00:00Z,0,0,0,0,0,8,0,13810,0,0,0.0,0,-557,229,786,45,True,0,Sheffield Utd,Watford,MID,Chalobah
-Nathan Aké,0,0,19,0,10.3,59,71,1,0,3.4,23.8,2019-10-06T13:00:00Z,90,0,0,0,0,8,0,822665,0,1,0.0,2,8096,30720,22624,49,False,0,Arsenal,Bournemouth,DEF,Aké
-Nathan Redmond,0,0,6,0,2.3,320,78,3,0,1.2,0.4,2019-10-06T13:00:00Z,80,0,0,0,0,8,0,51030,4,1,9.0,2,-1083,1803,2886,63,True,0,Chelsea,Southampton,MID,Redmond
-Neal Maupay,0,1,35,1,24.0,502,72,0,1,14.3,45.4,2019-10-05T11:30:00Z,90,0,0,0,0,8,0,36236,0,3,74.0,7,-2986,1838,4824,60,True,0,Spurs,Brighton,FWD,Maupay
-Neil Taylor,0,0,0,0,0.0,24,77,0,0,0.0,0.0,2019-10-05T14:00:00Z,0,0,0,0,0,8,0,23469,5,1,0.0,0,-1439,623,2062,45,False,0,Norwich,Aston Villa,DEF,Taylor
-Nemanja Matic,0,0,0,0,0.0,247,76,0,0,0.0,0.0,2019-10-06T15:30:00Z,0,0,0,0,0,8,0,29451,0,1,0.0,0,-1022,949,1971,48,False,0,Newcastle,Man Utd,MID,Matic
-Nick Pope,0,1,25,1,0.0,93,73,0,0,1.4,14.4,2019-10-05T14:00:00Z,90,0,0,0,0,8,2,1025339,0,1,0.0,7,29005,45631,16626,46,True,0,Everton,Burnley,GK,Pope
-Nicolas Pépé,1,0,16,1,19.6,488,71,0,0,4.6,18.2,2019-10-06T13:00:00Z,62,0,0,0,0,8,0,231705,0,1,8.0,6,-4072,21682,25754,93,True,0,Bournemouth,Arsenal,MID,Pépé
-Nicolás Otamendi,0,0,15,0,1.4,208,75,2,0,2.5,16.0,2019-10-06T13:00:00Z,90,0,0,0,0,8,0,578044,2,0,8.0,1,87662,108813,21151,56,True,0,Wolves,Man City,DEF,Otamendi
-Oleksandr Zinchenko,0,0,12,0,49.0,206,75,2,0,8.1,16.4,2019-10-06T13:00:00Z,45,0,0,0,0,8,0,614463,2,0,16.0,0,-45870,12108,57978,55,True,0,Wolves,Man City,DEF,Zinchenko
-Oliver McBurnie,0,0,2,1,14.3,501,79,0,0,2.8,5.4,2019-10-05T14:00:00Z,61,0,0,0,0,8,0,10919,0,0,8.0,1,1499,2486,987,59,False,1,Watford,Sheffield Utd,FWD,McBurnie
-Oliver Norwood,0,0,18,1,43.0,302,79,0,0,7.7,32.0,2019-10-05T14:00:00Z,90,0,0,0,0,8,0,18835,0,0,2.0,3,1327,2735,1408,49,False,0,Watford,Sheffield Utd,MID,Norwood
-Oliver Skipp,0,0,0,0,0.0,352,72,0,0,0.0,0.0,2019-10-05T11:30:00Z,0,0,0,0,0,8,0,34685,0,3,0.0,0,876,3055,2179,44,False,0,Brighton,Spurs,MID,Skipp
-Olivier Giroud,0,0,0,0,0.0,110,78,0,0,0.0,0.0,2019-10-06T13:00:00Z,0,0,0,0,0,8,0,79594,4,1,0.0,0,-4740,331,5071,67,False,0,Southampton,Chelsea,FWD,Giroud
-Onel Hernández,0,0,0,0,0.0,284,77,0,0,0.0,0.0,2019-10-05T14:00:00Z,0,0,0,0,0,8,0,3529,5,1,0.0,0,-210,9,219,53,True,0,Aston Villa,Norwich,MID,Hernández
-Oriol Romeu Vidal,0,0,10,0,4.8,328,78,4,0,3.6,13.6,2019-10-06T13:00:00Z,90,0,0,0,0,8,0,80708,4,1,18.0,2,-829,4234,5063,45,True,0,Chelsea,Southampton,MID,Oriol Romeu
-Pablo Fornals,0,0,3,0,0.8,399,80,1,0,0.1,0.2,2019-10-05T16:30:00Z,22,0,0,0,0,8,0,23427,2,1,0.0,1,-1251,303,1554,61,True,0,Crystal Palace,West Ham,MID,Fornals
-Pablo Zabaleta,0,0,4,0,0.5,379,80,1,0,0.4,3.4,2019-10-05T16:30:00Z,6,0,0,0,0,8,0,38416,2,1,0.0,1,-1434,540,1974,44,True,0,Crystal Palace,West Ham,DEF,Zabaleta
-Pascal Groß,0,0,15,1,58.0,49,72,0,0,11.0,22.4,2019-10-05T11:30:00Z,90,0,0,0,0,8,0,40508,0,3,30.0,3,-3315,1010,4325,64,True,0,Spurs,Brighton,MID,Groß
-Patrick Cutrone,0,0,-3,1,1.5,487,75,0,0,1.2,0.0,2019-10-06T13:00:00Z,67,0,0,0,0,8,0,46443,2,0,11.0,2,-2499,1070,3569,57,False,0,Man City,Wolves,FWD,Cutrone
-Patrick Roberts,0,0,4,0,0.3,435,77,1,0,0.2,1.4,2019-10-05T14:00:00Z,14,0,0,0,0,8,0,4449,5,1,0.0,1,-154,91,245,53,True,0,Aston Villa,Norwich,MID,Roberts
-Patrick van Aanholt,0,1,26,0,24.3,123,80,1,1,8.6,44.4,2019-10-05T16:30:00Z,90,0,0,0,0,8,0,781601,2,1,17.0,9,-6168,23246,29414,56,False,0,West Ham,Crystal Palace,DEF,van Aanholt
-Paulo Gazzaniga,0,0,19,0,0.0,341,72,2,0,2.3,22.6,2019-10-05T11:30:00Z,82,0,0,0,0,8,3,18246,0,3,0.0,2,-263,511,774,44,False,0,Brighton,Spurs,GK,Gazzaniga
-Paul Dummett,0,0,0,0,0.0,255,76,0,0,0.0,0.0,2019-10-06T15:30:00Z,0,0,0,0,0,8,0,22985,0,1,0.0,0,-1826,415,2241,45,True,0,Man Utd,Newcastle,DEF,Dummett
-Paul Pogba,0,0,0,0,0.0,238,76,0,0,0.0,0.0,2019-10-06T15:30:00Z,0,0,0,0,0,8,0,274375,0,1,0.0,0,-16579,4021,20600,84,False,0,Newcastle,Man Utd,MID,Pogba
-Pedro Lomba Neto,0,0,0,0,0.0,528,75,0,0,0.0,0.0,2019-10-06T13:00:00Z,0,0,0,0,0,8,0,2906,2,0,0.0,0,104,295,191,50,False,0,Man City,Wolves,MID,Neto
-Pedro Obiang,0,0,0,0,0.0,400,80,0,0,0.0,0.0,2019-10-05T16:30:00Z,0,0,0,0,0,8,0,3435,2,1,0.0,0,-158,22,180,45,True,0,Crystal Palace,West Ham,MID,Obiang
-Pedro Rodríguez Ledesma,0,0,0,0,0.0,114,78,0,0,0.0,0.0,2019-10-06T13:00:00Z,0,0,0,0,0,8,0,100028,4,1,0.0,0,-2547,1685,4232,69,False,0,Southampton,Chelsea,MID,Pedro
-Philip Billing,0,0,12,0,1.5,476,71,1,0,2.7,22.0,2019-10-06T13:00:00Z,90,0,0,0,0,8,0,12128,0,1,3.0,1,-118,980,1098,50,False,1,Arsenal,Bournemouth,MID,Billing
-Philip Heise,0,0,0,0,0.0,484,77,0,0,0.0,0.0,2019-10-05T14:00:00Z,0,0,0,0,0,8,0,52897,5,1,0.0,0,-941,1397,2338,40,True,0,Aston Villa,Norwich,DEF,Heise
-Phil Bardsley,0,0,0,0,0.0,86,73,0,0,0.0,0.0,2019-10-05T14:00:00Z,0,0,0,0,0,8,0,9626,0,1,0.0,0,-355,96,451,44,True,0,Everton,Burnley,DEF,Bardsley
-Phil Foden,0,0,0,0,0.0,220,75,0,0,0.0,0.0,2019-10-06T13:00:00Z,0,0,0,0,0,8,0,22364,2,0,0.0,0,-637,512,1149,52,True,0,Wolves,Man City,MID,Foden
-Phil Jagielka,0,0,0,0,0.0,444,79,0,0,0.0,0.0,2019-10-05T14:00:00Z,0,0,0,0,0,8,0,30386,0,0,0.0,0,-1236,597,1833,43,False,0,Watford,Sheffield Utd,DEF,Jagielka
-Phil Jones,0,0,0,0,0.0,231,76,0,0,0.0,0.0,2019-10-06T15:30:00Z,0,0,0,0,0,8,0,9782,0,1,0.0,0,-1050,19,1069,48,False,0,Newcastle,Man Utd,DEF,Jones
-Pierre-Emerick Aubameyang,0,0,0,1,12.8,11,71,0,0,6.1,1.0,2019-10-06T13:00:00Z,90,0,0,0,0,8,0,1829633,0,1,47.0,2,201560,219717,18157,110,True,0,Bournemouth,Arsenal,FWD,Aubameyang
-Pierre-Emile Højbjerg,0,0,12,0,30.2,325,78,4,0,3.8,6.4,2019-10-06T13:00:00Z,90,0,0,0,0,8,0,30060,4,1,1.0,2,-913,1527,2440,48,True,0,Chelsea,Southampton,MID,Højbjerg
-Pontus Dahlberg,0,0,0,0,0.0,367,79,0,0,0.0,0.0,2019-10-05T14:00:00Z,0,0,0,0,0,8,0,9504,0,0,0.0,0,-159,60,219,44,True,0,Sheffield Utd,Watford,GK,Dahlberg
-Rachid Ghezzal,0,0,0,0,0.0,173,74,0,0,0.0,0.0,2019-10-05T14:00:00Z,0,0,0,0,0,8,0,2597,1,2,0.0,0,-184,7,191,53,False,0,Liverpool,Leicester,MID,Ghezzal
-Rafael Camacho,0,0,0,0,0.0,201,74,0,0,0.0,0.0,2019-10-05T14:00:00Z,0,0,0,0,0,8,0,426,1,2,0.0,0,-9,15,24,45,True,0,Leicester,Liverpool,MID,Camacho
-Raheem Sterling,0,0,11,0,18.1,214,75,2,0,7.9,12.0,2019-10-06T13:00:00Z,90,0,0,0,0,8,0,2660322,2,0,49.0,2,30421,114576,84155,121,True,0,Wolves,Man City,MID,Sterling
-Ralf Fahrmann,0,0,0,0,0.0,449,77,0,0,0.0,0.0,2019-10-05T14:00:00Z,0,0,0,0,0,8,0,26655,5,1,0.0,0,-925,203,1128,44,True,0,Aston Villa,Norwich,GK,Fahrmann
-Ravel Morrison,0,0,0,0,0.0,456,79,0,0,0.0,0.0,2019-10-05T14:00:00Z,0,0,0,0,0,8,0,6931,0,0,0.0,0,-502,94,596,48,False,0,Watford,Sheffield Utd,MID,Morrison
-Raúl Jiménez,2,2,31,1,31.0,409,75,0,0,10.3,41.8,2019-10-06T13:00:00Z,90,0,0,0,0,8,0,573994,2,0,30.0,10,-91022,3918,94940,72,False,0,Man City,Wolves,FWD,Jiménez
-Reece James,0,0,0,0,0.0,506,78,0,0,0.0,0.0,2019-10-06T13:00:00Z,0,0,0,0,0,8,0,7221,4,1,0.0,0,624,1394,770,50,False,0,Southampton,Chelsea,DEF,James
-Reiss Nelson,0,0,0,0,0.0,489,71,0,0,0.0,0.0,2019-10-06T13:00:00Z,0,0,0,0,0,8,0,8869,0,1,0.0,0,-450,221,671,53,True,0,Bournemouth,Arsenal,MID,Nelson
-Rhian Brewster,0,0,0,0,0.0,464,74,0,0,0.0,0.0,2019-10-05T14:00:00Z,0,0,0,0,0,8,0,42199,1,2,0.0,0,-1900,2017,3917,44,True,0,Leicester,Liverpool,FWD,Brewster
-Ricardo Domingos Barbosa Pereira,0,0,16,0,3.3,159,74,2,0,2.8,24.6,2019-10-05T14:00:00Z,90,0,0,0,0,8,0,557518,1,2,0.0,1,100487,118981,18494,61,False,0,Liverpool,Leicester,DEF,Pereira
-Richard Stearman,0,0,0,0,0.0,296,79,0,0,0.0,0.0,2019-10-05T14:00:00Z,0,0,0,0,0,8,0,183671,0,0,0.0,0,-2252,4123,6375,40,False,0,Watford,Sheffield Utd,DEF,Stearman
-Richarlison de Andrade,0,0,14,0,11.4,150,73,1,0,7.1,16.8,2019-10-05T14:00:00Z,90,0,0,0,0,8,0,487873,0,1,43.0,2,-22746,28383,51129,79,False,0,Burnley,Everton,MID,Richarlison
-Riyad Mahrez,0,0,1,0,4.9,217,75,0,0,2.6,0.0,2019-10-06T13:00:00Z,59,0,0,0,0,8,0,663694,2,0,22.0,1,429862,441634,11772,86,True,0,Wolves,Man City,MID,Mahrez
-Robbie Brady,0,0,0,0,0.0,98,73,0,0,0.0,0.0,2019-10-05T14:00:00Z,0,0,0,0,0,8,0,1721,0,1,0.0,0,5,99,94,55,True,0,Everton,Burnley,MID,Brady
-Robert Kenedy Nunes do Nascimento,0,0,0,0,0.0,462,78,0,0,0.0,0.0,2019-10-06T13:00:00Z,0,0,0,0,0,8,0,2776,4,1,0.0,0,-140,14,154,53,False,0,Southampton,Chelsea,MID,Kenedy
-Roberto Firmino,0,0,10,1,26.5,187,74,0,0,7.2,4.4,2019-10-05T14:00:00Z,77,0,0,0,0,8,0,929756,1,2,41.0,2,-20346,39174,59520,96,True,0,Leicester,Liverpool,FWD,Firmino
-Roberto Jimenez Gago,0,0,10,0,0.0,450,80,2,0,0.7,7.0,2019-10-05T16:30:00Z,90,0,0,0,0,8,1,38263,2,1,0.0,1,17973,19150,1177,44,True,0,Crystal Palace,West Ham,GK,Roberto
-Roberto Pereyra,0,0,9,1,13.0,369,79,0,0,3.4,8.6,2019-10-05T14:00:00Z,90,0,0,0,0,8,0,70850,0,0,12.0,3,-4468,2208,6676,57,True,0,Sheffield Utd,Watford,MID,Pereyra
-Robert Snodgrass,0,0,0,0,0.0,393,80,0,0,0.0,0.0,2019-10-05T16:30:00Z,0,0,0,0,0,8,0,11299,2,1,0.0,0,-708,119,827,53,True,0,Crystal Palace,West Ham,MID,Snodgrass
-Rob Holding,0,0,0,0,0.0,10,71,0,0,0.0,0.0,2019-10-06T13:00:00Z,0,0,0,0,0,8,0,10597,0,1,0.0,0,1037,1770,733,45,True,0,Bournemouth,Arsenal,DEF,Holding
-Rodrigo Hernandez,0,0,14,0,50.2,443,75,2,0,7.3,18.4,2019-10-06T13:00:00Z,90,0,0,0,0,8,0,113681,2,0,4.0,1,-2196,9684,11880,55,True,1,Wolves,Man City,MID,Rodrigo
-Rolando Aarons,0,0,0,0,0.0,499,76,0,0,0.0,0.0,2019-10-06T15:30:00Z,0,0,0,0,0,8,0,2671,0,1,0.0,0,-160,9,169,49,True,0,Man Utd,Newcastle,MID,Aarons
-Romain Saïss,0,0,4,0,0.0,407,75,0,0,0.5,5.0,2019-10-06T13:00:00Z,12,0,0,0,0,8,0,33199,2,0,0.0,1,1483,3552,2069,44,False,0,Man City,Wolves,DEF,Saïss
-Romelu Lukaku,0,0,0,0,0.0,232,76,0,0,0.0,0.0,2019-10-06T15:30:00Z,0,0,0,0,0,8,0,24075,0,1,0.0,0,-338,64,402,85,False,0,Newcastle,Man Utd,FWD,Lukaku
-Ross Barkley,0,0,0,0,0.0,117,78,0,0,0.0,0.0,2019-10-06T13:00:00Z,0,0,0,0,0,8,0,134527,4,1,0.0,0,-7545,2246,9791,56,False,0,Southampton,Chelsea,MID,Barkley
-Ruben Loftus-Cheek,0,0,0,0,0.0,115,78,0,0,0.0,0.0,2019-10-06T13:00:00Z,0,0,0,0,0,8,0,3983,4,1,0.0,0,-117,46,163,64,False,0,Southampton,Chelsea,MID,Loftus-Cheek
-Rui Pedro dos Santos Patrício,0,0,26,1,0.0,411,75,0,0,1.2,11.6,2019-10-06T13:00:00Z,90,0,0,0,0,8,2,625678,2,0,0.0,6,15987,41604,25617,51,False,0,Man City,Wolves,GK,Patrício
-Ryan Bennett,0,0,21,1,0.2,404,75,0,0,1.9,19.0,2019-10-06T13:00:00Z,77,0,0,0,0,8,0,31912,2,0,0.0,6,-3383,225,3608,49,False,0,Man City,Leicester,DEF,Bennett
-Ryan Bertrand,0,0,5,0,10.9,305,78,4,0,2.2,10.6,2019-10-06T13:00:00Z,90,0,0,0,0,8,0,41721,4,1,0.0,0,-1253,627,1880,49,True,0,Chelsea,Southampton,DEF,Bertrand
-Ryan Fraser,0,0,4,0,16.0,75,71,0,0,4.0,6.4,2019-10-06T13:00:00Z,27,0,0,0,0,8,0,290980,0,1,18.0,1,-93055,728,93783,71,False,0,Arsenal,Bournemouth,MID,Fraser
-Ryan Fredericks,1,0,22,0,57.3,380,80,2,0,10.0,40.6,2019-10-05T16:30:00Z,90,0,0,0,0,8,0,72194,2,1,2.0,3,25761,29701,3940,45,True,1,Crystal Palace,West Ham,DEF,Fredericks
-Ryan Sessegnon,0,0,0,0,0.0,524,72,0,0,0.0,0.0,2019-10-05T11:30:00Z,0,0,0,0,0,8,0,4625,0,3,0.0,0,-428,16,444,54,False,0,Brighton,Spurs,MID,Sessegnon
-Rúben Diogo da Silva Neves,0,0,6,1,0.7,414,75,0,0,1.4,13.4,2019-10-06T13:00:00Z,90,0,0,0,0,8,0,452169,2,0,0.0,2,-59260,3654,62914,54,False,1,Man City,Wolves,MID,Neves
-Rúben Gonçalo Silva Nascimento Vinagre,0,0,19,1,0.3,406,75,0,0,1.5,9.0,2019-10-06T13:00:00Z,73,0,0,0,0,8,0,14291,2,0,6.0,6,-792,83,875,44,False,0,Man City,Wolves,DEF,Vinagre
-Sadio Mané,1,2,35,0,16.5,192,74,1,1,11.3,51.6,2019-10-05T14:00:00Z,90,0,0,0,0,8,0,1499465,1,2,45.0,12,25505,88004,62499,116,True,0,Leicester,Liverpool,MID,Mané
-Sam Byram,0,0,0,0,0.0,454,77,0,0,0.0,0.0,2019-10-05T14:00:00Z,0,0,0,0,0,8,0,9958,5,1,0.0,0,-494,224,718,44,True,0,Aston Villa,Norwich,DEF,Byram
-Sam Gallagher,0,0,0,0,0.0,316,78,0,0,0.0,0.0,2019-10-06T13:00:00Z,0,0,0,0,0,8,0,3039,4,1,0.0,0,-107,56,163,45,True,0,Chelsea,Southampton,FWD,Gallagher
-Sam Surridge,0,0,0,0,0.0,71,71,0,0,0.0,0.0,2019-10-06T13:00:00Z,0,0,0,0,0,8,0,43700,0,1,0.0,0,-2096,1062,3158,44,False,0,Arsenal,Bournemouth,FWD,Surridge
-Scott Dann,0,0,0,0,0.0,127,80,0,0,0.0,0.0,2019-10-05T16:30:00Z,0,0,0,0,0,8,0,15007,2,1,0.0,0,-794,157,951,44,False,0,West Ham,Crystal Palace,DEF,Dann
-Scott McTominay,0,0,7,0,13.6,248,76,1,0,4.8,12.2,2019-10-06T15:30:00Z,90,0,0,0,0,8,0,141419,0,1,22.0,1,38759,46526,7767,50,False,1,Newcastle,Man Utd,MID,McTominay
-Sead Kolasinac,0,1,25,1,2.0,3,71,0,0,1.0,8.4,2019-10-06T13:00:00Z,90,0,0,0,0,8,0,58669,0,1,0.0,7,1665,4804,3139,54,True,0,Bournemouth,Arsenal,DEF,Kolasinac
-Seamus Coleman,0,0,-4,0,11.8,144,73,1,0,1.5,1.4,2019-10-05T14:00:00Z,55,0,0,0,1,8,0,177153,0,1,2.0,-2,2384,9998,7614,54,False,0,Burnley,Everton,DEF,Coleman
-Sean Longstaff,0,0,16,1,48.0,270,76,0,0,7.7,22.2,2019-10-06T15:30:00Z,90,0,0,0,0,8,0,25224,0,1,7.0,3,-1293,284,1577,50,True,0,Man Utd,Newcastle,MID,Longstaff
-Sebastian Prödl,0,0,3,0,0.1,361,79,0,0,1.0,1.8,2019-10-05T14:00:00Z,56,0,0,0,0,8,0,116086,0,0,8.0,1,-2175,2173,4348,40,True,0,Sheffield Utd,Watford,DEF,Prödl
-Serge Aurier,0,0,0,0,0.0,336,72,0,0,0.0,0.0,2019-10-05T11:30:00Z,0,0,0,0,0,8,0,131430,0,3,0.0,0,-115555,1285,116840,49,False,0,Brighton,Spurs,DEF,Aurier
-Sergio Agüero,0,0,7,0,12.6,210,75,2,0,5.9,0.2,2019-10-06T13:00:00Z,90,0,0,0,0,8,0,2035032,2,0,46.0,2,-11107,64889,75996,122,True,0,Wolves,Man City,FWD,Agüero
-Sergio Romero,0,0,0,0,0.0,236,76,0,0,0.0,0.0,2019-10-06T15:30:00Z,0,0,0,0,0,8,0,11544,0,1,0.0,0,-194,99,293,48,False,0,Newcastle,Man Utd,GK,Romero
-Shane Duffy,0,0,0,0,0.0,37,72,0,0,0.0,0.0,2019-10-05T11:30:00Z,0,0,0,0,0,8,0,91824,0,3,0.0,0,-24246,23,24269,49,True,0,Spurs,Brighton,DEF,Duffy
-Shane Long,0,0,7,0,1.8,315,78,3,0,0.8,4.2,2019-10-06T13:00:00Z,72,0,0,0,0,8,0,177507,4,1,2.0,2,-8172,3884,12056,47,True,0,Chelsea,Southampton,FWD,Long
-Shkodran Mustafi,0,0,0,0,0.0,1,71,0,0,0.0,0.0,2019-10-06T13:00:00Z,0,0,0,0,0,8,0,25277,0,1,0.0,0,-691,393,1084,53,True,0,Bournemouth,Arsenal,DEF,Mustafi
-Simon Francis,0,0,6,0,0.3,62,71,0,0,0.9,8.6,2019-10-06T13:00:00Z,11,0,0,0,0,8,0,788,0,1,0.0,1,102,160,58,44,False,0,Arsenal,Bournemouth,DEF,Francis
-Simon Mignolet,0,0,0,0,0.0,190,74,0,0,0.0,0.0,2019-10-05T14:00:00Z,0,0,0,0,0,8,0,2638,1,2,0.0,0,-58,14,72,45,True,0,Leicester,Liverpool,GK,Mignolet
-Simon Moore,0,0,0,0,0.0,436,79,0,0,0.0,0.0,2019-10-05T14:00:00Z,0,0,0,0,0,8,0,6185,0,0,0.0,0,-105,66,171,44,False,0,Watford,Sheffield Utd,GK,Moore
-Sofiane Boufal,0,0,1,0,0.3,508,78,1,0,0.1,1.0,2019-10-06T13:00:00Z,9,0,0,0,0,8,0,11398,4,1,0.0,1,-154,1379,1533,55,True,0,Chelsea,Southampton,MID,Boufal
-Sokratis Papastathopoulos,0,0,24,1,0.7,5,71,0,0,1.8,17.6,2019-10-06T13:00:00Z,90,0,0,0,0,8,0,125237,0,1,0.0,6,-728,5475,6203,50,True,0,Bournemouth,Arsenal,DEF,Sokratis
-Solomon March,0,0,0,0,0.0,55,72,0,0,0.0,0.0,2019-10-05T11:30:00Z,0,0,0,0,0,8,0,29095,0,3,0.0,0,-4784,649,5433,49,True,0,Spurs,Brighton,MID,March
-Steven Alzate,0,0,14,1,3.8,537,72,0,0,1.8,11.8,2019-10-05T11:30:00Z,87,0,0,0,0,8,0,2069,0,3,2.0,3,547,801,254,45,True,0,Spurs,Brighton,MID,Alzate
-Steven Defour,0,0,0,0,0.0,99,73,0,0,0.0,0.0,2019-10-05T14:00:00Z,0,0,0,0,0,8,0,254,0,1,0.0,0,-9,14,23,55,True,0,Everton,Burnley,MID,Defour
-Steve Cook,0,0,15,0,0.3,58,71,1,0,2.6,21.2,2019-10-06T13:00:00Z,90,0,0,0,0,8,0,15929,0,1,4.0,2,-866,495,1361,50,False,0,Arsenal,Bournemouth,DEF,Steve Cook
-Stuart Armstrong,0,0,0,0,0.0,323,78,0,0,0.0,0.0,2019-10-06T13:00:00Z,0,0,0,0,0,8,0,6951,4,1,0.0,0,-327,62,389,53,True,0,Chelsea,Southampton,MID,Armstrong
-Sung-yueng Ki,0,0,0,0,0.0,268,76,0,0,0.0,0.0,2019-10-06T15:30:00Z,0,0,0,0,0,8,0,4194,0,1,0.0,0,-159,68,227,48,True,0,Man Utd,Newcastle,MID,Ki Sung-yueng
-Sébastien Haller,0,0,21,0,3.9,457,80,2,1,9.2,33.8,2019-10-05T16:30:00Z,90,0,0,0,0,8,0,351938,2,1,54.0,5,3306,29254,25948,74,True,1,Crystal Palace,West Ham,FWD,Haller
-Tahith Chong,0,0,1,0,0.1,249,76,0,0,0.0,0.0,2019-10-06T15:30:00Z,4,0,0,0,0,8,0,46602,0,1,0.0,1,-2721,1185,3906,44,False,0,Newcastle,Man Utd,MID,Chong
-Tammy Abraham,0,2,28,0,10.3,460,78,1,1,8.6,40.2,2019-10-06T13:00:00Z,83,0,0,0,0,8,0,2673073,4,1,35.0,8,153693,223319,69626,76,False,0,Southampton,Chelsea,FWD,Abraham
-Tanguy Ndombele,0,0,5,0,0.9,442,72,2,0,1.2,10.8,2019-10-05T11:30:00Z,45,0,0,0,0,8,0,296057,0,3,0.0,1,30280,37951,7671,60,False,0,Brighton,Spurs,MID,Ndombele
-Teemu Pukki,0,0,3,0,31.1,278,77,5,0,10.4,2.4,2019-10-05T14:00:00Z,83,0,0,0,0,8,0,3058138,5,1,70.0,1,-29575,113232,142807,72,True,1,Aston Villa,Norwich,FWD,Pukki
-Theo Walcott,0,0,0,0,0.0,153,73,0,0,0.0,0.0,2019-10-05T14:00:00Z,0,0,0,0,0,8,0,29806,0,1,0.0,0,-2263,295,2558,62,False,0,Burnley,Everton,MID,Walcott
-Timm Klose,0,0,0,0,0.0,272,77,0,0,0.0,0.0,2019-10-05T14:00:00Z,0,0,0,0,0,8,0,2701,5,1,0.0,0,-180,11,191,44,True,0,Aston Villa,Norwich,DEF,Klose
-Tim Krul,0,0,0,0,0.0,280,77,0,0,0.0,0.0,2019-10-05T14:00:00Z,0,0,0,0,0,8,0,78486,5,1,0.0,0,-9816,142,9958,45,True,0,Aston Villa,Norwich,GK,Krul
-Toby Alderweireld,0,0,16,0,2.0,331,72,3,0,3.4,29.8,2019-10-05T11:30:00Z,90,0,0,0,0,8,0,491057,0,3,2.0,1,-6049,18015,24064,55,False,0,Brighton,Spurs,DEF,Alderweireld
-Todd Cantwell,0,0,15,0,37.3,287,77,4,0,10.7,21.0,2019-10-05T14:00:00Z,79,0,0,0,0,8,0,1767780,5,1,49.0,2,-107698,57897,165595,50,True,0,Aston Villa,Norwich,MID,Cantwell
-Tom Cleverley,0,0,12,1,28.7,371,79,0,0,4.0,9.4,2019-10-05T14:00:00Z,90,0,0,0,0,8,0,20008,0,0,2.0,3,3541,5555,2014,49,True,0,Sheffield Utd,Watford,MID,Cleverley
-Tom Davies,0,0,0,0,0.0,154,73,0,0,0.0,0.0,2019-10-05T14:00:00Z,0,0,0,0,0,8,0,7526,0,1,0.0,0,-209,117,326,53,False,0,Burnley,Everton,MID,Davies
-Tom Heaton,0,0,16,0,0.0,94,77,1,0,2.8,28.2,2019-10-05T14:00:00Z,90,0,0,0,0,8,4,461480,5,1,0.0,3,-6383,7823,14206,45,False,0,Norwich,Aston Villa,GK,Heaton
-Tom Trybull,0,0,0,0,0.0,290,77,0,0,0.0,0.0,2019-10-05T14:00:00Z,0,0,0,0,0,8,0,55146,5,1,0.0,0,-3967,47,4014,45,True,0,Aston Villa,Norwich,MID,Trybull
-Trent Alexander-Arnold,0,1,27,0,69.1,182,74,1,0,11.1,34.2,2019-10-05T14:00:00Z,90,0,0,0,0,8,0,2048366,1,2,8.0,3,46507,72186,25679,72,True,0,Leicester,Liverpool,DEF,Alexander-Arnold
-Troy Deeney,0,0,0,0,0.0,362,79,0,0,0.0,0.0,2019-10-05T14:00:00Z,0,0,0,0,0,8,0,38881,0,0,0.0,0,-1882,69,1951,62,True,0,Sheffield Utd,Watford,FWD,Deeney
-Troy Parrott,0,0,0,0,0.0,509,72,0,0,0.0,0.0,2019-10-05T11:30:00Z,0,0,0,0,0,8,0,65171,0,3,0.0,0,-3008,1308,4316,45,False,0,Brighton,Spurs,FWD,Parrott
-Tudor Baluta,0,0,0,0,0.0,536,72,0,0,0.0,0.0,2019-10-05T11:30:00Z,0,0,0,0,0,8,0,10629,0,3,0.0,0,1343,2350,1007,40,True,0,Spurs,Brighton,DEF,Baluta
-Tyreke Johnson,0,0,0,0,0.0,326,78,0,0,0.0,0.0,2019-10-06T13:00:00Z,0,0,0,0,0,8,0,1957,4,1,0.0,0,-271,77,348,44,True,0,Chelsea,Southampton,MID,Johnson
-Tyrone Mings,0,0,7,0,0.3,445,77,1,0,2.9,26.4,2019-10-05T14:00:00Z,90,0,0,0,0,8,0,407771,5,1,2.0,2,-18208,6532,24740,46,False,0,Norwich,Aston Villa,DEF,Mings
-Vicente Guaita,0,0,16,0,0.0,131,80,1,0,3.4,34.2,2019-10-05T16:30:00Z,90,0,0,0,0,8,4,55737,2,1,0.0,3,11449,14352,2903,50,False,0,West Ham,Crystal Palace,GK,Guaita
-Victor Lindelöf,0,0,0,0,0.0,225,76,0,0,0.0,0.0,2019-10-06T15:30:00Z,0,0,0,0,0,8,0,96960,0,1,0.0,0,1746,6533,4787,54,False,0,Newcastle,Man Utd,DEF,Lindelöf
-Victor Wanyama,0,0,0,0,0.0,348,72,0,0,0.0,0.0,2019-10-05T11:30:00Z,0,0,0,0,0,8,0,6814,0,3,0.0,0,-129,213,342,49,False,0,Brighton,Spurs,MID,Wanyama
-Vincent Janssen,0,0,0,0,0.0,339,72,0,0,0.0,0.0,2019-10-05T11:30:00Z,0,0,0,0,0,8,0,6277,0,3,0.0,0,-162,101,263,45,False,0,Brighton,Spurs,FWD,Janssen
-Virgil van Dijk,0,0,18,0,3.4,183,74,1,0,2.4,17.0,2019-10-05T14:00:00Z,90,0,0,0,0,8,0,3233186,1,2,4.0,2,-28162,35562,63724,65,True,0,Leicester,Liverpool,DEF,van Dijk
-Víctor Camarasa,0,0,0,0,0.0,510,80,0,0,0.0,0.0,2019-10-05T16:30:00Z,0,0,0,0,0,8,0,17687,2,1,0.0,0,-1257,291,1548,47,False,0,West Ham,Crystal Palace,MID,Camarasa
-Wayne Hennessey,0,0,0,0,0.0,132,80,0,0,0.0,0.0,2019-10-05T16:30:00Z,0,0,0,0,0,8,0,47612,2,1,0.0,0,-1565,448,2013,44,False,0,West Ham,Crystal Palace,GK,Hennessey
-Wesley Hoedt,0,0,0,0,0.0,485,78,0,0,0.0,0.0,2019-10-06T13:00:00Z,0,0,0,0,0,8,0,3245,4,1,0.0,0,-168,28,196,43,True,0,Chelsea,Southampton,DEF,Hoedt
-Wesley Moraes,1,3,50,0,15.9,428,77,1,2,23.6,97.4,2019-10-05T14:00:00Z,90,0,1,0,0,8,0,121676,5,1,123.0,14,-5838,9746,15584,60,False,0,Norwich,Aston Villa,FWD,Wesley
-Wes Morgan,0,0,0,0,0.0,165,74,0,0,0.0,0.0,2019-10-05T14:00:00Z,0,0,0,0,0,8,0,55899,1,2,0.0,0,-2711,1008,3719,43,False,0,Liverpool,Leicester,DEF,Morgan
-Wilfred Ndidi,0,0,14,0,4.8,176,74,2,0,2.2,16.8,2019-10-05T14:00:00Z,90,0,0,0,0,8,0,212842,1,2,0.0,1,9305,21180,11875,50,False,1,Liverpool,Leicester,MID,Ndidi
-Wilfried Zaha,0,0,9,0,14.9,133,80,1,0,4.0,12.8,2019-10-05T16:30:00Z,90,0,0,0,0,8,0,645427,2,1,12.0,2,-17620,17565,35185,68,False,0,West Ham,Crystal Palace,MID,Zaha
-Willian Borges Da Silva,1,3,29,0,41.8,113,78,1,0,8.0,27.2,2019-10-06T13:00:00Z,90,0,0,0,0,8,0,94810,4,1,11.0,8,32510,37263,4753,70,False,0,Southampton,Chelsea,MID,Willian
-Willy Boly,0,1,29,1,0.3,405,75,0,0,3.7,36.6,2019-10-06T13:00:00Z,90,0,0,0,0,8,0,346249,2,0,0.0,7,-6266,8696,14962,50,False,0,Man City,Wolves,DEF,Boly
-Willy Caballero,0,0,0,0,0.0,112,78,0,0,0.0,0.0,2019-10-06T13:00:00Z,0,0,0,0,0,8,0,15028,4,1,0.0,0,-324,169,493,49,False,0,Southampton,Chelsea,GK,Caballero
-Will Hughes,0,0,0,0,0.0,370,79,0,0,0.0,0.0,2019-10-05T14:00:00Z,0,0,0,0,0,8,0,47161,0,0,0.0,0,-7401,1699,9100,55,True,0,Sheffield Utd,Watford,MID,Hughes
-Will Norris,0,0,0,0,0.0,413,75,0,0,0.0,0.0,2019-10-06T13:00:00Z,0,0,0,0,0,8,0,49033,2,0,0.0,0,-487,927,1414,40,False,0,Man City,Wolves,GK,Norris
-Winston Reid,0,0,0,0,0.0,383,80,0,0,0.0,0.0,2019-10-05T16:30:00Z,0,0,0,0,0,8,0,223925,2,1,0.0,0,7640,18130,10490,39,True,0,Crystal Palace,West Ham,DEF,Reid
-Xherdan Shaqiri,0,0,0,0,0.0,194,74,0,0,0.0,0.0,2019-10-05T14:00:00Z,0,0,0,0,0,8,0,18689,1,2,0.0,0,-1774,29,1803,63,True,0,Leicester,Liverpool,MID,Shaqiri
-Yan Valery,1,0,20,0,1.0,306,78,4,0,2.3,20.4,2019-10-06T13:00:00Z,90,0,0,0,0,8,0,15293,4,1,2.0,3,-1216,170,1386,48,True,0,Chelsea,Southampton,DEF,Valery
-Yerry Mina,0,0,13,0,0.4,142,73,1,0,2.2,17.4,2019-10-05T14:00:00Z,90,0,0,0,0,8,0,236821,0,1,4.0,2,-22796,4302,27098,55,False,0,Burnley,Everton,DEF,Mina
-Yoshinori Muto,0,0,0,0,0.0,260,76,0,0,0.0,0.0,2019-10-06T15:30:00Z,0,0,0,0,0,8,0,7811,0,1,0.0,0,-206,334,540,53,True,0,Man Utd,Newcastle,FWD,Muto
-Youri Tielemans,0,0,5,0,4.3,448,74,2,0,1.1,6.2,2019-10-05T14:00:00Z,90,0,0,0,0,8,0,289483,1,2,0.0,2,-22252,11951,34203,64,False,0,Liverpool,Leicester,MID,Tielemans
-Yves Bissouma,0,0,5,0,0.4,53,72,0,0,0.3,2.4,2019-10-05T11:30:00Z,10,0,0,0,0,8,0,536,0,3,0.0,1,22,72,50,50,True,0,Spurs,Brighton,MID,Bissouma
-Çaglar Söyüncü,0,0,14,0,0.4,164,74,2,0,2.2,21.4,2019-10-05T14:00:00Z,90,0,0,0,0,8,0,446314,1,2,0.0,0,29357,46678,17321,46,False,1,Liverpool,Leicester,DEF,Söyüncü
-Ørjan Nyland,0,0,0,0,0.0,27,77,0,0,0.0,0.0,2019-10-05T14:00:00Z,0,0,0,0,0,8,0,10910,5,1,0.0,0,-337,97,434,44,False,0,Norwich,Aston Villa,GK,Nyland
+name,assists,bonus,bps,clean_sheets,creativity,element,fixture,goals_conceded,goals_scored,ict_index,influence,kickoff_time,minutes,own_goals,penalties_missed,penalties_saved,red_cards,round,saves,selected,team_a_score,team_h_score,threat,total_points,transfers_balance,transfers_in,transfers_out,value,was_home,yellow_cards,opponent_team,team,position,xP
+Aaron Connolly,0,3,53,1,23.8,534,72,0,2,20.1,70.2,2019-10-05T11:30:00Z,79,0,0,0,0,8,0,35026,0,3,107.0,13,2156,5952,3796,45,True,0,Spurs,Brighton,FWD,0
+Aaron Cresswell,0,0,16,0,1.3,376,80,1,0,1.8,13.0,2019-10-05T16:30:00Z,83,0,0,0,0,8,0,167821,2,1,4.0,2,106465,111664,5199,49,True,0,Crystal Palace,West Ham,DEF,0
+Aaron Lennon,0,0,3,0,0.8,430,73,0,0,0.1,0.0,2019-10-05T14:00:00Z,6,0,0,0,0,8,0,7140,0,1,0.0,1,-379,155,534,48,True,0,Everton,Burnley,MID,0
+Aaron Mooy,0,0,15,1,14.9,516,72,0,0,3.5,19.0,2019-10-05T11:30:00Z,90,0,0,0,0,8,0,11138,0,3,1.0,3,-370,324,694,48,True,0,Spurs,Brighton,MID,0
+Aaron Ramsdale,0,0,10,0,0.0,494,71,1,0,1.1,10.6,2019-10-06T13:00:00Z,90,0,0,0,0,8,1,58222,0,1,0.0,2,6643,12532,5889,45,False,0,Arsenal,Bournemouth,GK,0
+Aaron Wan-Bissaka,0,0,0,0,0.0,122,76,0,0,0.0,0.0,2019-10-06T15:30:00Z,0,0,0,0,0,8,0,1407083,0,1,0.0,0,-200518,4987,205505,55,False,0,Newcastle,Man Utd,DEF,0
+Abdoulaye Doucouré,0,0,9,1,7.5,368,79,0,0,3.3,12.8,2019-10-05T14:00:00Z,90,0,0,0,0,8,0,69647,0,0,13.0,3,-4812,796,5608,57,True,0,Sheffield Utd,Watford,MID,0
+Adama Traoré,0,3,59,1,14.3,417,75,0,2,12.5,84.4,2019-10-06T13:00:00Z,90,0,0,0,0,8,0,26625,2,0,26.0,16,-461,2170,2631,50,False,0,Man City,Wolves,MID,0
+Adam Idah,0,0,0,0,0.0,538,77,0,0,0.0,0.0,2019-10-05T14:00:00Z,0,0,0,0,0,8,0,6427,5,1,0.0,0,130,1059,929,45,True,0,Aston Villa,Norwich,FWD,0
+Adam Lallana,0,0,3,0,0.1,195,74,0,0,0.0,0.2,2019-10-05T14:00:00Z,1,0,0,0,0,8,0,7420,1,2,0.0,1,-289,111,400,58,True,0,Leicester,Liverpool,MID,0
+Adam Masina,0,0,0,0,0.0,355,79,0,0,0.0,0.0,2019-10-05T14:00:00Z,0,0,0,0,0,8,0,4247,0,0,0.0,0,-134,22,156,44,True,0,Sheffield Utd,Watford,DEF,0
+Adam Smith,0,0,0,0,0.0,63,71,0,0,0.0,0.0,2019-10-06T13:00:00Z,0,0,0,0,0,8,0,34248,0,1,0.0,0,-5160,18,5178,43,False,0,Arsenal,Bournemouth,DEF,0
+Adam Webster,0,0,32,1,10.8,493,72,0,0,3.8,24.8,2019-10-05T11:30:00Z,90,0,0,0,0,8,0,8328,0,3,2.0,6,212,728,516,44,True,0,Spurs,Brighton,DEF,0
+Addji Keaninkin Marc-Israel Guehi,0,0,0,0,0.0,545,78,0,0,0.0,0.0,2019-10-06T13:00:00Z,0,0,0,0,0,8,0,1832,4,1,0.0,0,947,1119,172,40,False,0,Southampton,Chelsea,DEF,0
+Ademola Lookman,0,0,0,0,0.0,155,73,0,0,0.0,0.0,2019-10-05T14:00:00Z,0,0,0,0,0,8,0,459,0,1,0.0,0,-12,7,19,50,False,0,Burnley,Everton,MID,0
+Adrian Mariappa,0,0,0,0,0.0,356,79,0,0,0.0,0.0,2019-10-05T14:00:00Z,0,0,0,0,0,8,0,11059,0,0,0.0,0,-411,137,548,43,True,0,Sheffield Utd,Watford,DEF,0
+Adrián San Miguel del Castillo,0,0,10,0,0.0,526,74,1,0,0.5,4.8,2019-10-05T14:00:00Z,90,0,0,0,0,8,0,479476,1,2,0.0,2,7035,32847,25812,46,True,0,Leicester,Liverpool,GK,0
+Ahmed Elmohamady,0,0,0,0,0.0,22,77,0,0,0.0,0.0,2019-10-05T14:00:00Z,0,0,0,0,0,8,0,79229,5,1,0.0,0,-6403,1485,7888,43,False,0,Norwich,Aston Villa,DEF,0
+Ainsley Maitland-Niles,0,0,0,0,0.0,4,71,0,0,0.0,0.0,2019-10-06T13:00:00Z,0,0,0,0,0,8,0,368825,0,1,0.0,0,-36045,6617,42662,50,True,0,Bournemouth,Arsenal,DEF,0
+Akin Famewo,0,0,0,0,0.0,552,77,0,0,0.0,0.0,2019-10-05T14:00:00Z,0,0,0,0,0,8,0,0,5,1,0.0,0,0,0,0,40,True,0,Aston Villa,Norwich,DEF,0
+Albian Ajeti,0,0,0,0,0.0,514,80,0,0,0.0,0.0,2019-10-05T16:30:00Z,0,0,0,0,0,8,0,2553,2,1,0.0,0,-60,109,169,58,True,0,Crystal Palace,West Ham,FWD,0
+Alexander Tettey,0,0,0,0,0.0,289,77,0,0,0.0,0.0,2019-10-05T14:00:00Z,0,0,0,0,0,8,0,12378,5,1,0.0,0,-1221,19,1240,45,True,0,Aston Villa,Norwich,MID,0
+Alexandre Nascimento Costa Silva,0,0,0,0,0.0,387,80,0,0,0.0,0.0,2019-10-05T16:30:00Z,0,0,0,0,0,8,0,85759,2,1,0.0,0,-3690,2490,6180,44,True,0,Crystal Palace,West Ham,FWD,0
+Alexandre Lacazette,0,0,0,0,0.0,12,71,0,0,0.0,0.0,2019-10-06T13:00:00Z,0,0,0,0,0,8,0,101731,0,1,0.0,0,-5536,219,5755,93,True,0,Bournemouth,Arsenal,FWD,0
+Alexis Sánchez,0,0,0,0,0.0,240,76,0,0,0.0,0.0,2019-10-06T15:30:00Z,0,0,0,0,0,8,0,30754,0,1,0.0,0,-671,49,720,68,False,0,Newcastle,Man Utd,MID,0
+Alex Iwobi,0,0,15,0,18.9,17,73,1,0,9.1,13.6,2019-10-05T14:00:00Z,90,0,0,0,0,8,0,113141,0,1,58.0,2,-12702,3598,16300,59,False,0,Burnley,Everton,MID,0
+Alex McCarthy,0,0,0,0,0.0,318,78,0,0,0.0,0.0,2019-10-06T13:00:00Z,0,0,0,0,0,8,0,28899,4,1,0.0,0,-1703,20,1723,44,True,0,Chelsea,Southampton,GK,0
+Alex Oxlade-Chamberlain,0,0,0,0,0.0,193,74,0,0,0.0,0.0,2019-10-05T14:00:00Z,0,0,0,0,0,8,0,22200,1,2,0.0,0,-1331,482,1813,63,True,0,Leicester,Liverpool,MID,0
+Alfie Whiteman,0,0,0,0,0.0,543,72,0,0,0.0,0.0,2019-10-05T11:30:00Z,0,0,0,0,0,8,0,17278,0,3,0.0,0,3735,4819,1084,40,False,0,Brighton,Spurs,GK,0
+Alireza Jahanbakhsh,0,0,0,0,0.0,50,72,0,0,0.0,0.0,2019-10-05T11:30:00Z,0,0,0,0,0,8,0,4329,0,3,0.0,0,-59,42,101,58,True,0,Spurs,Brighton,MID,0
+Alisson Ramses Becker,0,0,0,0,0.0,189,74,0,0,0.0,0.0,2019-10-05T14:00:00Z,0,0,0,0,0,8,0,376371,1,2,0.0,0,-8719,5147,13866,58,True,0,Leicester,Liverpool,GK,0
+Allan Saint-Maximin,0,0,9,1,22.0,500,76,0,0,4.3,6.2,2019-10-06T15:30:00Z,82,0,0,0,0,8,0,14236,0,1,15.0,3,-96,693,789,54,True,0,Man Utd,Newcastle,MID,0
+Andreas Christensen,0,0,0,0,0.0,108,78,0,0,0.0,0.0,2019-10-06T13:00:00Z,0,0,0,0,0,8,0,65843,4,1,0.0,0,1963,4611,2648,50,False,0,Southampton,Chelsea,DEF,0
+Andreas Pereira,0,0,8,0,5.0,246,76,1,0,3.1,9.0,2019-10-06T15:30:00Z,90,0,0,0,0,8,0,32745,0,1,17.0,2,-2090,1420,3510,50,False,0,Newcastle,Man Utd,MID,0
+Andrew Robertson,0,0,20,0,16.9,181,74,1,0,5.7,19.0,2019-10-05T14:00:00Z,90,0,0,0,0,8,0,1347696,1,2,21.0,2,4261,37689,33428,69,True,0,Leicester,Liverpool,DEF,0
+Andrew Surman,0,0,0,0,0.0,80,71,0,0,0.0,0.0,2019-10-06T13:00:00Z,0,0,0,0,0,8,0,3036,0,1,0.0,0,-154,45,199,48,False,0,Arsenal,Bournemouth,MID,0
+Andre Gray,0,0,1,0,12.8,364,79,0,0,2.5,1.6,2019-10-05T14:00:00Z,58,0,0,0,0,8,0,34500,0,0,11.0,1,-2389,1235,3624,58,True,0,Sheffield Utd,Watford,FWD,0
+Andre Green,0,0,0,0,0.0,32,77,0,0,0.0,0.0,2019-10-05T14:00:00Z,0,0,0,0,0,8,0,817,5,1,0.0,0,-28,13,41,49,False,0,Norwich,Aston Villa,MID,0
+Andriy Yarmolenko,0,0,10,0,18.6,392,80,1,0,2.6,5.4,2019-10-05T16:30:00Z,77,0,0,0,0,8,0,412689,2,1,2.0,1,299400,309371,9971,60,True,1,Crystal Palace,West Ham,MID,0
+Andros Townsend,0,0,2,0,0.5,135,80,0,0,0.1,0.2,2019-10-05T16:30:00Z,9,0,0,0,0,8,0,113659,2,1,0.0,1,-2940,2290,5230,57,False,0,West Ham,Crystal Palace,MID,0
+André Filipe Tavares Gomes,0,0,3,0,1.5,422,73,0,0,0.2,0.4,2019-10-05T14:00:00Z,6,0,0,0,0,8,0,29184,0,1,0.0,1,-2775,151,2926,53,False,0,Burnley,Everton,MID,0
+Andy Carroll,0,0,3,0,0.5,520,76,0,0,0.6,1.2,2019-10-06T15:30:00Z,34,0,0,0,0,8,0,7384,0,1,4.0,1,88,730,642,54,True,0,Man Utd,Newcastle,FWD,0
+Andy King,0,0,0,0,0.0,480,74,0,0,0.0,0.0,2019-10-05T14:00:00Z,0,0,0,0,0,8,0,20892,1,2,0.0,0,-1262,106,1368,44,False,0,Liverpool,Leicester,MID,0
+Andy Lonergan,0,0,0,0,0.0,530,74,0,0,0.0,0.0,2019-10-05T14:00:00Z,0,0,0,0,0,8,0,1615,1,2,0.0,0,-69,34,103,44,True,0,Leicester,Liverpool,GK,0
+Angelo Ogbonna,0,0,16,0,1.1,377,80,2,0,2.6,21.0,2019-10-05T16:30:00Z,90,0,0,0,0,8,0,34574,2,1,4.0,1,1790,3511,1721,45,True,0,Crystal Palace,West Ham,DEF,0
+Angel Gomes,0,0,0,0,0.0,245,76,0,0,0.0,0.0,2019-10-06T15:30:00Z,0,0,0,0,0,8,0,6657,0,1,0.0,0,-453,86,539,48,False,0,Newcastle,Man Utd,MID,0
+Angus Gunn,0,0,14,0,0.0,319,78,4,0,1.8,17.8,2019-10-06T13:00:00Z,90,0,0,0,0,8,3,242592,4,1,0.0,1,-6814,8043,14857,45,True,0,Chelsea,Southampton,GK,0
+Anthony Knockaert,0,0,0,0,0.0,52,72,0,0,0.0,0.0,2019-10-05T11:30:00Z,0,0,0,0,0,8,0,671,0,3,0.0,0,-8,10,18,54,True,0,Spurs,Brighton,MID,0
+Anthony Martial,0,0,0,0,0.0,239,76,0,0,0.0,0.0,2019-10-06T15:30:00Z,0,0,0,0,0,8,0,219426,0,1,0.0,0,-39023,1276,40299,75,False,0,Newcastle,Man Utd,MID,0
+Antonio Rüdiger,0,0,0,0,0.0,104,78,0,0,0.0,0.0,2019-10-06T13:00:00Z,0,0,0,0,0,8,0,7124,4,1,0.0,0,-734,50,784,60,False,0,Southampton,Chelsea,DEF,0
+Anwar El Ghazi,2,0,29,1,36.0,30,77,0,0,14.4,47.2,2019-10-05T14:00:00Z,63,0,0,0,0,8,0,44853,5,1,61.0,9,14210,17035,2825,55,False,0,Norwich,Aston Villa,MID,0
+Archie Mair,0,0,0,0,0.0,551,77,0,0,0.0,0.0,2019-10-05T14:00:00Z,0,0,0,0,0,8,0,0,5,1,0.0,0,0,0,0,40,True,0,Aston Villa,Norwich,GK,0
+Arnaut Danjuma Groeneveld,0,0,2,0,0.0,492,71,0,0,0.7,0.4,2019-10-06T13:00:00Z,11,0,0,0,0,8,0,1695,0,1,7.0,1,-1,74,75,58,False,0,Arsenal,Bournemouth,MID,0
+Arthur Masuaku,0,0,0,0,0.0,378,80,0,0,0.0,0.0,2019-10-05T16:30:00Z,0,0,0,0,0,8,0,63675,2,1,0.0,0,-7095,1082,8177,45,True,0,Crystal Palace,West Ham,DEF,0
+Artur Boruc,0,0,0,0,0.0,73,71,0,0,0.0,0.0,2019-10-06T13:00:00Z,0,0,0,0,0,8,0,21334,0,1,0.0,0,-655,326,981,44,False,0,Arsenal,Bournemouth,GK,0
+Ashley Barnes,0,0,4,1,0.1,90,73,0,0,1.4,2.0,2019-10-05T14:00:00Z,72,0,0,0,0,8,0,480535,0,1,12.0,2,-85491,17311,102802,65,True,0,Everton,Burnley,FWD,0
+Ashley Westwood,1,0,20,1,39.4,101,73,0,0,7.0,30.2,2019-10-05T14:00:00Z,90,0,0,0,0,8,0,35192,0,1,0.0,5,-1937,1333,3270,54,True,1,Everton,Burnley,MID,0
+Ashley Young,0,0,21,0,88.1,224,76,1,0,12.0,27.8,2019-10-06T15:30:00Z,85,0,0,0,0,8,0,26913,0,1,4.0,2,107,1621,1514,54,False,0,Newcastle,Man Utd,DEF,0
+Asmir Begovic,0,0,0,0,0.0,72,71,0,0,0.0,0.0,2019-10-06T13:00:00Z,0,0,0,0,0,8,0,84972,0,1,0.0,0,-5958,173,6131,43,False,0,Arsenal,Bournemouth,GK,0
+Axel Tuanzebe,0,0,14,0,2.3,481,76,1,0,1.5,13.0,2019-10-06T15:30:00Z,90,0,0,0,0,8,0,10607,0,1,0.0,2,1356,1880,524,44,False,0,Newcastle,Man Utd,DEF,0
+Aymeric Laporte,0,0,0,0,0.0,202,75,0,0,0.0,0.0,2019-10-06T13:00:00Z,0,0,0,0,0,8,0,166222,2,0,0.0,0,-11298,236,11534,63,True,0,Wolves,Man City,DEF,0
+Ayoze Pérez,1,0,11,0,10.3,265,74,1,0,3.1,16.4,2019-10-05T14:00:00Z,17,0,0,0,0,8,0,227827,1,2,4.0,4,-15398,2856,18254,60,False,0,Liverpool,Leicester,MID,0
+Bailey Peacock-Farrell,0,0,0,0,0.0,495,73,0,0,0.0,0.0,2019-10-05T14:00:00Z,0,0,0,0,0,8,0,5572,0,1,0.0,0,-105,73,178,45,True,0,Everton,Burnley,GK,0
+Dele Alli,0,0,0,0,0.0,344,72,0,0,0.0,0.0,2019-10-05T11:30:00Z,0,0,0,0,0,8,0,29512,0,3,0.0,0,-1128,1502,2630,84,False,0,Brighton,Spurs,MID,0
+Ben Chilwell,0,0,5,0,4.7,161,74,2,0,1.8,9.0,2019-10-05T14:00:00Z,90,0,0,0,0,8,0,272151,1,2,4.0,1,1756,12540,10784,54,False,0,Liverpool,Leicester,DEF,0
+Benjamin Mendy,0,0,0,0,0.0,204,75,0,0,0.0,0.0,2019-10-06T13:00:00Z,0,0,0,0,0,8,0,35252,2,0,0.0,0,-1254,3613,4867,59,True,0,Wolves,Man City,DEF,0
+Ben Davies,0,0,12,0,3.7,329,72,3,0,1.8,11.8,2019-10-05T11:30:00Z,90,0,0,0,0,8,0,10793,0,3,2.0,1,-508,418,926,54,False,0,Brighton,Spurs,DEF,0
+Ben Foster,0,3,29,1,0.0,366,79,0,0,2.4,23.6,2019-10-05T14:00:00Z,90,0,0,0,0,8,3,110852,0,0,0.0,10,-2553,2873,5426,48,True,0,Sheffield Utd,Watford,GK,0
+Ben Gibson,0,0,0,0,0.0,89,73,0,0,0.0,0.0,2019-10-05T14:00:00Z,0,0,0,0,0,8,0,193490,0,1,0.0,0,-3644,3569,7213,40,True,0,Everton,Burnley,DEF,0
+Ben Godfrey,0,0,13,0,0.5,273,77,5,0,2.3,21.0,2019-10-05T14:00:00Z,90,0,0,0,0,8,0,18977,5,1,1.0,0,415,1513,1098,45,True,0,Aston Villa,Norwich,DEF,0
+Ben Johnson,0,0,0,0,0.0,384,80,0,0,0.0,0.0,2019-10-05T16:30:00Z,0,0,0,0,0,8,0,104534,2,1,0.0,0,-1500,3233,4733,40,True,0,Crystal Palace,West Ham,DEF,0
+Ben Mee,0,0,24,1,10.3,83,73,0,0,4.5,28.2,2019-10-05T14:00:00Z,90,0,0,0,0,8,0,65938,0,1,6.0,6,-886,2836,3722,50,True,0,Everton,Burnley,DEF,0
+Ben Osborn,0,0,0,0,0.0,472,79,0,0,0.0,0.0,2019-10-05T14:00:00Z,0,0,0,0,0,8,0,2335,0,0,0.0,0,-82,21,103,48,False,0,Watford,Sheffield Utd,MID,0
+Beram Kayal,0,0,0,0,0.0,56,72,0,0,0.0,0.0,2019-10-05T11:30:00Z,0,0,0,0,0,8,0,3902,0,3,0.0,0,-526,87,613,44,True,0,Spurs,Brighton,MID,0
+Bernardo Silva,0,0,4,0,4.9,218,75,2,0,3.3,2.2,2019-10-06T13:00:00Z,30,0,0,0,0,8,0,1041656,2,0,26.0,1,43785,139826,96041,79,True,0,Wolves,Man City,MID,0
+Bernardo Fernandes da Silva Junior,0,0,0,0,0.0,39,72,0,0,0.0,0.0,2019-10-05T11:30:00Z,0,0,0,0,0,8,0,7680,0,3,0.0,0,-649,4,653,44,True,0,Spurs,Brighton,DEF,0
+Bernard Anício Caldeira Duarte,0,0,0,0,0.0,152,73,0,0,0.0,0.0,2019-10-05T14:00:00Z,0,0,0,0,0,8,0,67388,0,1,0.0,0,-20536,158,20694,65,False,0,Burnley,Everton,MID,0
+Bernd Leno,0,0,24,1,0.0,14,71,0,0,1.5,15.0,2019-10-06T13:00:00Z,90,0,0,0,0,8,2,422070,0,1,0.0,6,17314,31190,13876,50,True,0,Bournemouth,Arsenal,GK,0
+Billy Gilmour,0,0,0,0,0.0,533,78,0,0,0.0,0.0,2019-10-06T13:00:00Z,0,0,0,0,0,8,0,1465,4,1,0.0,0,16,175,159,45,False,0,Southampton,Chelsea,MID,0
+Billy Sharp,0,0,3,0,0.3,298,79,0,0,0.3,0.2,2019-10-05T14:00:00Z,19,0,0,0,0,8,0,26041,0,0,2.0,1,-1199,369,1568,57,False,0,Watford,Sheffield Utd,FWD,0
+Birkir Bjarnason,0,0,0,0,0.0,33,77,0,0,0.0,0.0,2019-10-05T14:00:00Z,0,0,0,0,0,8,0,3406,5,1,0.0,0,-227,15,242,45,False,0,Norwich,Aston Villa,MID,0
+Bjorn Engels,0,0,23,1,0.3,455,77,0,0,2.5,20.2,2019-10-05T14:00:00Z,74,0,0,0,0,8,0,71533,5,1,4.0,6,-4881,1531,6412,45,False,0,Norwich,Aston Villa,DEF,0
+Brandon Williams,0,0,0,0,0.0,549,76,0,0,0.0,0.0,2019-10-06T15:30:00Z,0,0,0,0,0,8,0,4998,0,1,0.0,0,2729,3139,410,40,False,0,Newcastle,Man Utd,DEF,0
+Bukayo Saka,0,0,10,1,26.3,541,71,0,0,6.3,12.2,2019-10-06T13:00:00Z,82,0,0,0,0,8,0,57643,0,1,24.0,3,43815,46489,2674,45,True,0,Bournemouth,Arsenal,MID,0
+Callum Hudson-Odoi,1,0,14,0,34.8,116,78,1,0,10.6,26.6,2019-10-06T13:00:00Z,79,0,0,0,0,8,0,49727,4,1,45.0,5,25897,27719,1822,59,False,0,Southampton,Chelsea,MID,0
+Callum Robinson,0,0,5,1,1.7,453,79,0,0,4.3,5.4,2019-10-05T14:00:00Z,70,0,0,0,0,8,0,42867,0,0,36.0,3,333,4873,4540,53,False,0,Watford,Sheffield Utd,MID,0
+Callum Slattery,0,0,0,0,0.0,327,78,0,0,0.0,0.0,2019-10-06T13:00:00Z,0,0,0,0,0,8,0,26624,4,1,0.0,0,412,3062,2650,44,True,0,Chelsea,Southampton,MID,0
+Callum Wilson,0,0,14,0,22.7,67,71,1,0,5.1,11.6,2019-10-06T13:00:00Z,90,0,0,0,0,8,0,812209,0,1,17.0,2,44440,85411,40971,79,False,0,Arsenal,Bournemouth,FWD,0
+Calum Chambers,0,2,27,1,13.0,467,71,0,0,7.3,15.4,2019-10-06T13:00:00Z,90,0,0,0,0,8,0,72961,0,1,45.0,8,6625,10093,3468,44,True,0,Bournemouth,Arsenal,DEF,0
+Caoimhin Kelleher,0,0,0,0,0.0,531,74,0,0,0.0,0.0,2019-10-05T14:00:00Z,0,0,0,0,0,8,0,1558,1,2,0.0,0,-35,40,75,45,True,0,Leicester,Liverpool,GK,0
+Carlos Sánchez,0,0,0,0,0.0,397,80,0,0,0.0,0.0,2019-10-05T16:30:00Z,0,0,0,0,0,8,0,23829,2,1,0.0,0,-1015,343,1358,45,True,0,Crystal Palace,West Ham,MID,0
+Carl Jenkinson,0,0,0,0,0.0,9,71,0,0,0.0,0.0,2019-10-06T13:00:00Z,0,0,0,0,0,8,0,1726,0,1,0.0,0,-40,17,57,45,True,0,Bournemouth,Arsenal,DEF,0
+Cenk Tosun,0,0,0,0,0.0,146,73,0,0,0.0,0.0,2019-10-05T14:00:00Z,0,0,0,0,0,8,0,7871,0,1,0.0,0,-189,228,417,57,False,0,Burnley,Everton,FWD,0
+Charlie Austin,0,0,0,0,0.0,312,78,0,0,0.0,0.0,2019-10-06T13:00:00Z,0,0,0,0,0,8,0,3785,4,1,0.0,0,-108,24,132,60,True,0,Chelsea,Southampton,FWD,0
+Charlie Daniels,0,0,0,0,0.0,60,71,0,0,0.0,0.0,2019-10-06T13:00:00Z,0,0,0,0,0,8,0,8021,0,1,0.0,0,-621,10,631,44,False,0,Arsenal,Bournemouth,DEF,0
+Charlie Taylor,0,0,5,0,14.6,87,73,0,0,3.1,14.0,2019-10-05T14:00:00Z,35,0,0,0,0,8,0,41043,0,1,2.0,1,-2274,565,2839,42,True,0,Everton,Burnley,DEF,0
+Cheikhou Kouyaté,1,0,20,0,3.8,139,80,1,0,1.4,4.4,2019-10-05T16:30:00Z,90,0,0,0,0,8,0,10032,2,1,6.0,5,110,649,539,49,False,0,West Ham,Crystal Palace,MID,0
+Che Adams,0,0,0,0,0.0,437,78,1,0,0.2,0.0,2019-10-06T13:00:00Z,9,0,0,0,0,8,0,35647,4,1,4.0,1,-4216,1128,5344,56,True,0,Chelsea,Southampton,FWD,0
+Christian Atsu,0,0,3,0,0.0,267,76,0,0,0.0,0.0,2019-10-06T15:30:00Z,7,0,0,0,0,8,0,15430,0,1,0.0,1,-2030,1112,3142,54,True,0,Man Utd,Newcastle,MID,0
+Christian Benteke,0,0,-1,0,0.0,129,80,0,0,0.4,2.0,2019-10-05T16:30:00Z,1,0,0,0,0,8,0,44661,2,1,2.0,0,-2622,645,3267,58,False,1,West Ham,Crystal Palace,FWD,0
+Christian Eriksen,0,0,7,0,5.3,343,72,3,0,3.1,10.0,2019-10-05T11:30:00Z,90,0,0,0,0,8,0,265642,0,3,16.0,2,-2566,11540,14106,88,False,0,Brighton,Spurs,MID,0
+Christian Fuchs,0,0,0,0,0.0,163,74,0,0,0.0,0.0,2019-10-05T14:00:00Z,0,0,0,0,0,8,0,29199,1,2,0.0,0,-1777,400,2177,44,False,0,Liverpool,Leicester,DEF,0
+Christian Kabasele,0,1,28,1,0.3,354,79,0,0,3.3,30.2,2019-10-05T14:00:00Z,90,0,0,0,0,8,0,11224,0,0,2.0,7,-419,200,619,43,True,0,Sheffield Utd,Watford,DEF,0
+Christian Pulisic,1,0,16,0,13.5,431,78,0,0,3.3,17.4,2019-10-06T13:00:00Z,10,0,0,0,0,8,0,226758,4,1,2.0,4,-50537,1964,52501,72,False,0,Southampton,Chelsea,MID,0
+Christoph Zimmermann,0,0,0,0,0.0,275,77,0,0,0.0,0.0,2019-10-05T14:00:00Z,0,0,0,0,0,8,0,1023,5,1,0.0,0,-61,7,68,45,True,0,Aston Villa,Norwich,DEF,0
+Chris Basham,0,0,20,1,3.2,423,79,0,0,2.3,13.4,2019-10-05T14:00:00Z,90,0,0,0,0,8,0,13731,0,0,6.0,6,277,718,441,45,False,0,Watford,Sheffield Utd,DEF,0
+Chris Mepham,0,0,0,0,0.0,61,71,0,0,0.0,0.0,2019-10-06T13:00:00Z,0,0,0,0,0,8,0,77220,0,1,0.0,0,-8224,149,8373,45,False,0,Arsenal,Bournemouth,DEF,0
+Chris Smalling,0,0,0,0,0.0,223,76,0,0,0.0,0.0,2019-10-06T15:30:00Z,0,0,0,0,0,8,0,9853,0,1,0.0,0,-381,17,398,53,False,0,Newcastle,Man Utd,DEF,0
+Chris Wood,0,0,5,1,1.1,91,73,0,0,1.2,2.4,2019-10-05T14:00:00Z,90,0,0,0,0,8,0,93127,0,1,8.0,2,29628,36120,6492,62,True,0,Everton,Burnley,FWD,0
+Ciaran Clark,0,0,22,1,0.2,259,76,0,0,1.1,10.6,2019-10-06T15:30:00Z,90,0,0,0,0,8,0,9751,0,1,0.0,6,-376,50,426,44,True,0,Man Utd,Newcastle,DEF,0
+Claudio Bravo,0,0,0,0,0.0,213,75,0,0,0.0,0.0,2019-10-06T13:00:00Z,0,0,0,0,0,8,0,18660,2,0,0.0,0,-478,155,633,48,True,0,Wolves,Man City,GK,0
+Connor Wickham,0,0,0,0,0.0,130,80,0,0,0.0,0.0,2019-10-05T16:30:00Z,0,0,0,0,0,8,0,249754,2,1,0.0,0,-25271,205,25476,45,False,0,West Ham,Crystal Palace,FWD,0
+Conor Coady,0,0,24,1,0.1,403,75,0,0,2.6,26.0,2019-10-06T13:00:00Z,90,0,0,0,0,8,0,96931,2,0,0.0,6,-3443,1002,4445,50,False,0,Man City,Wolves,DEF,0
+Conor Hourihane,1,1,33,1,36.3,28,77,0,1,10.4,55.0,2019-10-05T14:00:00Z,77,0,0,0,0,8,0,7706,5,1,13.0,11,-329,106,435,57,False,1,Norwich,Aston Villa,MID,0
+Craig Cathcart,0,0,23,1,1.1,358,79,0,0,1.8,16.4,2019-10-05T14:00:00Z,90,0,0,0,0,8,0,109579,0,0,0.0,6,-5552,1056,6608,44,True,0,Sheffield Utd,Watford,DEF,0
+Craig Dawson,0,0,1,0,0.2,439,79,0,0,3.4,17.2,2019-10-05T14:00:00Z,33,0,0,0,0,8,0,13770,0,0,17.0,1,-257,687,944,49,True,0,Sheffield Utd,Watford,DEF,0
+Cédric Soares,0,0,0,0,0.0,486,78,0,0,0.0,0.0,2019-10-06T13:00:00Z,0,0,0,0,0,8,0,15882,4,1,0.0,0,-2523,97,2620,49,True,0,Chelsea,Arsenal,DEF,0
+César Azpilicueta,0,0,8,0,2.2,105,78,1,0,1.2,9.8,2019-10-06T13:00:00Z,90,0,0,0,0,8,0,425472,4,1,0.0,2,8405,19139,10734,59,False,0,Southampton,Chelsea,DEF,0
+Dale Stephens,0,0,9,1,4.0,57,72,0,0,1.7,4.8,2019-10-05T11:30:00Z,89,0,0,0,0,8,0,199779,0,3,8.0,2,3528,14706,11178,45,True,1,Spurs,Brighton,MID,0
+Daniel Amartey,0,0,0,0,0.0,178,74,0,0,0.0,0.0,2019-10-05T14:00:00Z,0,0,0,0,0,8,0,20193,1,2,0.0,0,-351,827,1178,44,False,0,Liverpool,Leicester,MID,0
+Dani Ceballos,0,0,17,1,41.3,469,71,0,0,5.4,10.2,2019-10-06T13:00:00Z,74,0,0,0,0,8,0,637763,0,1,2.0,3,-98247,12871,111118,56,True,0,Bournemouth,Arsenal,MID,0
+Daniel Drinkwater,0,0,0,0,0.0,120,73,0,0,0.0,0.0,2019-10-05T14:00:00Z,0,0,0,0,0,8,0,60476,0,1,0.0,0,-5234,100,5334,44,True,0,Everton,Aston Villa,MID,0
+Daniel James,0,0,5,0,3.7,243,76,1,0,2.9,5.8,2019-10-06T15:30:00Z,90,0,0,0,0,8,0,823518,0,1,19.0,2,-28488,54305,82793,62,False,0,Newcastle,Man Utd,MID,0
+Daniel N'Lundulu,0,0,0,0,0.0,535,78,0,0,0.0,0.0,2019-10-06T13:00:00Z,0,0,0,0,0,8,0,6451,4,1,0.0,0,-144,521,665,45,True,0,Chelsea,Southampton,FWD,0
+Danilo Luiz da Silva,0,0,0,0,0.0,209,75,0,0,0.0,0.0,2019-10-06T13:00:00Z,0,0,0,0,0,8,0,3283,2,0,0.0,0,-87,24,111,50,True,0,Wolves,Man City,DEF,0
+Danny Ings,0,1,27,0,10.8,313,78,3,1,10.8,36.4,2019-10-06T13:00:00Z,80,0,0,0,0,8,0,110197,4,1,61.0,7,6341,13465,7124,59,True,0,Chelsea,Southampton,FWD,0
+Danny Rose,0,0,0,0,0.0,332,72,0,0,0.0,0.0,2019-10-05T11:30:00Z,0,0,0,0,0,8,0,167635,0,3,0.0,0,-2855,7506,10361,55,False,0,Brighton,Newcastle,DEF,0
+Danny Ward,0,0,0,0,0.0,170,74,0,0,0.0,0.0,2019-10-05T14:00:00Z,0,0,0,0,0,8,0,14054,1,2,0.0,0,-234,125,359,44,False,0,Liverpool,Leicester,GK,0
+Danny Welbeck,0,0,0,1,2.3,512,79,0,0,2.8,4.6,2019-10-05T14:00:00Z,76,0,0,0,0,8,0,11996,0,0,21.0,2,611,1425,814,59,True,0,Sheffield Utd,Watford,FWD,0
+Dan Burn,0,0,23,1,25.8,475,72,0,0,5.9,24.8,2019-10-05T11:30:00Z,90,0,0,0,0,8,0,16375,0,3,8.0,6,-269,590,859,45,True,0,Spurs,Brighton,DEF,0
+Dan Gosling,0,0,0,0,0.0,81,71,0,0,0.0,0.0,2019-10-06T13:00:00Z,0,0,0,0,0,8,0,703,0,1,0.0,0,-26,5,31,49,False,0,Arsenal,Bournemouth,MID,0
+Daryl Janmaat,0,3,29,1,28.3,359,79,0,0,4.6,18.0,2019-10-05T14:00:00Z,90,0,0,0,0,8,0,24321,0,0,0.0,9,-674,794,1468,43,True,0,Sheffield Utd,Watford,DEF,0
+Davide Zappacosta,0,0,0,0,0.0,109,78,0,0,0.0,0.0,2019-10-06T13:00:00Z,0,0,0,0,0,8,0,13874,4,1,0.0,0,-552,51,603,43,False,0,Southampton,Chelsea,DEF,0
+David Brooks,0,0,0,0,0.0,76,71,0,0,0.0,0.0,2019-10-06T13:00:00Z,0,0,0,0,0,8,0,8018,0,1,0.0,0,-284,24,308,63,False,0,Arsenal,Bournemouth,MID,0
+David Button,0,0,0,0,0.0,48,72,0,0,0.0,0.0,2019-10-05T11:30:00Z,0,0,0,0,0,8,0,1705377,0,3,0.0,0,-19076,11197,30273,40,True,0,Spurs,Brighton,GK,0
+David de Gea,0,0,10,0,0.0,235,76,1,0,0.8,7.6,2019-10-06T15:30:00Z,90,0,0,0,0,8,1,1209638,0,1,0.0,2,-2096,30109,32205,56,False,0,Newcastle,Man Utd,GK,0
+David Luiz Moreira Marinho,0,3,39,1,3.4,106,71,0,1,6.2,41.2,2019-10-06T13:00:00Z,90,0,0,0,0,8,0,364462,0,1,17.0,15,-10359,4838,15197,58,True,0,Bournemouth,Arsenal,DEF,0
+David Martin,0,0,0,0,0.0,553,80,0,0,0.0,0.0,2019-10-05T16:30:00Z,0,0,0,0,0,8,0,0,2,1,0.0,0,0,0,0,40,True,0,Crystal Palace,West Ham,GK,0
+David McGoldrick,0,0,0,0,0.0,303,79,0,0,0.0,0.0,2019-10-05T14:00:00Z,0,0,0,0,0,8,0,11266,0,0,0.0,0,-2341,42,2383,54,False,0,Watford,Sheffield Utd,FWD,0
+David Silva,0,0,0,1,17.2,219,75,0,0,4.5,0.0,2019-10-06T13:00:00Z,74,0,0,0,0,8,0,715344,2,0,28.0,3,20422,87377,66955,76,True,0,Wolves,Man City,MID,0
+Davinson Sánchez,0,0,0,0,0.0,333,72,0,0,0.0,0.0,2019-10-05T11:30:00Z,0,0,0,0,0,8,0,62207,0,3,0.0,0,-3170,691,3861,54,False,0,Brighton,Spurs,DEF,0
+Davy Pröpper,0,0,0,0,0.0,54,72,0,0,0.0,0.0,2019-10-05T11:30:00Z,0,0,0,0,0,8,0,36432,0,3,0.0,0,-9301,60,9361,50,True,0,Spurs,Brighton,MID,0
+DeAndre Yedlin,0,0,18,1,5.0,253,76,0,0,1.7,7.8,2019-10-06T15:30:00Z,90,0,0,0,0,8,0,2724,0,1,4.0,5,130,210,80,44,True,1,Man Utd,Newcastle,DEF,0
+Dean Henderson,0,0,24,1,0.0,471,79,0,0,1.8,17.6,2019-10-05T14:00:00Z,90,0,0,0,0,8,2,223047,0,0,0.0,6,50768,56255,5487,45,False,0,Watford,Sheffield Utd,GK,0
+Declan Rice,0,0,11,0,3.3,395,80,2,0,1.0,6.8,2019-10-05T16:30:00Z,90,0,0,0,0,8,0,123629,2,1,0.0,2,-3142,4144,7286,49,True,0,Crystal Palace,West Ham,MID,0
+Dejan Lovren,0,0,18,0,0.0,186,74,1,0,2.6,19.8,2019-10-05T14:00:00Z,90,0,0,0,0,8,0,12209,1,2,6.0,2,-198,317,515,53,True,0,Leicester,Liverpool,DEF,0
+Demarai Gray,0,0,0,0,0.0,175,74,0,0,0.0,0.0,2019-10-05T14:00:00Z,0,0,0,0,0,8,0,21393,1,2,0.0,0,-1163,388,1551,53,False,0,Liverpool,Leicester,MID,0
+Dennis Praet,0,0,10,0,3.1,517,74,1,0,1.3,8.8,2019-10-05T14:00:00Z,72,0,0,0,0,8,0,4460,1,2,1.0,2,273,487,214,53,False,0,Liverpool,Leicester,MID,0
+Dennis Srbeny,0,0,3,0,0.1,279,77,1,0,0.1,1.0,2019-10-05T14:00:00Z,10,0,0,0,0,8,0,3585,5,1,0.0,1,-169,156,325,53,True,0,Aston Villa,Norwich,FWD,0
+Diego Rico,0,0,11,0,19.2,65,71,1,0,3.7,17.6,2019-10-06T13:00:00Z,90,0,0,0,0,8,0,756845,0,1,0.0,2,17162,43325,26163,41,False,0,Arsenal,Bournemouth,DEF,0
+Dimitri Foulquier,0,0,0,0,0.0,542,79,0,0,0.0,0.0,2019-10-05T14:00:00Z,0,0,0,0,0,8,0,7836,0,0,0.0,0,762,1596,834,40,True,0,Sheffield Utd,Watford,DEF,0
+Diogo Jota,0,0,0,0,0.0,410,75,0,0,0.0,0.0,2019-10-06T13:00:00Z,0,0,0,0,0,8,0,259164,2,0,0.0,0,-63421,746,64167,62,False,0,Man City,Wolves,FWD,0
+Divock Origi,0,0,3,0,0.3,188,74,1,0,0.3,2.2,2019-10-05T14:00:00Z,12,0,0,0,0,8,0,206375,1,2,0.0,1,-7895,4429,12324,53,True,0,Leicester,Liverpool,FWD,0
+Djibril Sidibé,0,0,1,0,1.5,511,73,1,0,0.4,0.8,2019-10-05T14:00:00Z,31,0,0,0,0,8,0,10944,0,1,2.0,0,-438,159,597,53,False,1,Burnley,Everton,DEF,0
+Domingos Quina,0,0,0,0,0.0,375,79,0,0,0.0,0.0,2019-10-05T14:00:00Z,0,0,0,0,0,8,0,7004,0,0,0.0,0,-269,118,387,45,True,0,Sheffield Utd,Watford,MID,0
+Dominic Calvert-Lewin,0,0,4,0,0.8,147,73,1,0,0.0,0.0,2019-10-05T14:00:00Z,73,0,0,0,0,8,0,78623,0,1,0.0,2,11248,15875,4627,58,False,0,Burnley,Everton,FWD,0
+Dominic Solanke,0,0,-1,0,11.9,69,71,1,0,2.3,3.4,2019-10-06T13:00:00Z,62,0,0,0,0,8,0,30326,0,1,8.0,2,77,2350,2273,54,False,0,Arsenal,Bournemouth,FWD,0
+Douglas Luiz Soares de Paulo,0,0,20,0,0.6,470,77,1,1,4.0,32.6,2019-10-05T14:00:00Z,12,0,0,0,0,8,0,262675,5,1,7.0,6,-30690,9448,40138,45,False,0,Norwich,Aston Villa,MID,0
+Dwight Gayle,0,0,0,0,0.0,554,76,0,0,0.0,0.0,2019-10-06T15:30:00Z,0,0,0,0,0,8,0,0,0,1,0.0,0,0,0,0,50,True,0,Man Utd,Newcastle,FWD,0
+Dwight McNeil,0,0,15,1,2.3,97,73,0,0,1.9,12.6,2019-10-05T14:00:00Z,90,0,0,0,0,8,0,30994,0,1,4.0,3,-606,3019,3625,60,True,0,Everton,Burnley,MID,0
+Ederson Santana de Moraes,0,0,5,0,0.0,212,75,2,0,0.3,2.8,2019-10-06T13:00:00Z,90,0,0,0,0,8,0,1508794,2,0,0.0,0,10211,40520,30309,61,True,1,Wolves,Man City,GK,0
+Eddie Nketiah,0,0,0,0,0.0,13,71,0,0,0.0,0.0,2019-10-06T13:00:00Z,0,0,0,0,0,8,0,53287,0,1,0.0,0,-3235,979,4214,44,True,0,Bournemouth,Arsenal,FWD,0
+Eldin Jakupovic,0,0,0,0,0.0,169,74,0,0,0.0,0.0,2019-10-05T14:00:00Z,0,0,0,0,0,8,0,7282,1,2,0.0,0,-127,68,195,44,False,0,Liverpool,Leicester,GK,0
+Emerson Palmieri dos Santos,0,0,0,0,0.0,107,78,0,0,0.0,0.0,2019-10-06T13:00:00Z,0,0,0,0,0,8,0,62650,4,1,0.0,0,-11132,68,11200,55,False,0,Southampton,Chelsea,DEF,0
+Emiliano Buendía,0,0,11,0,38.8,283,77,5,0,11.3,21.8,2019-10-05T14:00:00Z,90,0,0,0,0,8,0,139080,5,1,52.0,2,-3786,16219,20005,60,True,0,Aston Villa,Norwich,MID,0
+Emiliano Martínez,0,0,0,0,0.0,427,71,0,0,0.0,0.0,2019-10-06T13:00:00Z,0,0,0,0,0,8,0,18897,0,1,0.0,0,-293,289,582,44,True,0,Bournemouth,Arsenal,GK,0
+Emil Krafth,0,0,2,0,0.0,519,76,0,0,0.0,0.0,2019-10-06T15:30:00Z,1,0,0,0,0,8,0,5885,0,1,0.0,1,-359,77,436,45,True,0,Man Utd,Newcastle,DEF,0
+Enda Stevens,0,0,27,1,7.7,291,79,0,0,2.1,12.0,2019-10-05T14:00:00Z,90,0,0,0,0,8,0,44322,0,0,1.0,6,5584,7975,2391,50,False,0,Watford,Sheffield Utd,DEF,0
+Eric Bailly,0,0,0,0,0.0,228,76,0,0,0.0,0.0,2019-10-06T15:30:00Z,0,0,0,0,0,8,0,2182,0,1,0.0,0,-77,17,94,49,False,0,Newcastle,Man Utd,DEF,0
+Eric Dier,0,0,7,0,11.0,350,72,3,0,2.7,15.8,2019-10-05T11:30:00Z,90,0,0,0,0,8,0,12346,0,3,0.0,1,-176,356,532,49,False,1,Brighton,Spurs,MID,0
+Eric Garcia,0,0,0,0,0.0,544,75,0,0,0.0,0.0,2019-10-06T13:00:00Z,0,0,0,0,0,8,0,656,2,0,0.0,0,30,130,100,45,True,0,Wolves,Man City,DEF,0
+Erik Lamela,0,0,12,0,24.9,346,72,3,0,6.1,18.4,2019-10-05T11:30:00Z,90,0,0,0,0,8,0,299148,0,3,18.0,2,-73073,12245,85318,61,False,0,Brighton,Spurs,MID,0
+Erik Pieters,0,0,5,0,14.6,447,73,0,0,2.0,4.8,2019-10-05T14:00:00Z,54,0,0,0,0,8,0,888618,0,1,1.0,1,74056,90963,16907,48,True,0,Everton,Burnley,DEF,0
+Ethan Ampadu,0,0,0,0,0.0,121,78,0,0,0.0,0.0,2019-10-06T13:00:00Z,0,0,0,0,0,8,0,1322,4,1,0.0,0,-94,53,147,44,False,0,Southampton,Chelsea,MID,0
+Etienne Capoue,0,0,0,0,0.0,373,79,0,0,0.0,0.0,2019-10-05T14:00:00Z,0,0,0,0,0,8,0,30397,0,0,0.0,0,-1265,960,2225,48,True,0,Sheffield Utd,Watford,MID,0
+Ezequiel Schelotto,0,0,0,0,0.0,546,72,0,0,0.0,0.0,2019-10-05T11:30:00Z,0,0,0,0,0,8,0,1915,0,3,0.0,0,986,1262,276,40,True,0,Spurs,Brighton,DEF,0
+Ezri Konsa Ngoyo,0,0,4,0,0.3,452,77,1,0,0.7,6.2,2019-10-05T14:00:00Z,15,0,0,0,0,8,0,4524,5,1,0.0,1,-146,37,183,44,False,0,Norwich,Aston Villa,DEF,0
+Fabian Delph,0,0,14,0,13.0,205,73,1,0,3.2,10.8,2019-10-05T14:00:00Z,90,0,0,0,0,8,0,18199,0,1,8.0,2,-244,771,1015,54,False,0,Burnley,Everton,DEF,0
+Fabian Schär,0,0,22,1,0.2,252,76,0,0,3.7,24.4,2019-10-06T15:30:00Z,90,0,0,0,0,8,0,171020,0,1,12.0,5,-11408,4620,16028,50,True,1,Man Utd,Newcastle,DEF,0
+Fabio Henrique Tavares,0,0,10,0,6.7,197,74,1,0,2.1,14.6,2019-10-05T14:00:00Z,90,0,0,0,0,8,0,103562,1,2,0.0,1,-2151,4693,6844,55,True,1,Leicester,Liverpool,MID,0
+Fabián Balbuena,0,0,0,0,0.0,382,80,0,0,0.0,0.0,2019-10-05T16:30:00Z,0,0,0,0,0,8,0,18985,2,1,0.0,0,-730,424,1154,43,True,0,Crystal Palace,West Ham,DEF,0
+Federico Fernández,0,0,0,0,0.0,254,76,0,0,0.0,0.0,2019-10-06T15:30:00Z,0,0,0,0,0,8,0,10144,0,1,0.0,0,-372,72,444,44,True,0,Man Utd,Newcastle,DEF,0
+Felipe Anderson Pereira Gomes,0,0,10,0,16.4,390,80,2,0,6.1,21.6,2019-10-05T16:30:00Z,90,0,0,0,0,8,0,319305,2,1,23.0,2,17524,28997,11473,69,True,0,Crystal Palace,West Ham,MID,0
+Fernando Luiz Rosa,0,0,12,0,2.3,221,75,2,0,3.2,25.2,2019-10-06T13:00:00Z,90,0,0,0,0,8,0,46633,2,0,4.0,1,-472,1672,2144,52,True,1,Wolves,Man City,MID,0
+Fikayo Tomori,0,0,8,0,0.8,529,78,1,0,1.3,11.8,2019-10-06T13:00:00Z,90,0,0,0,0,8,0,341651,4,1,0.0,2,157252,163889,6637,47,False,0,Southampton,Chelsea,DEF,0
+Florian Lejeune,0,0,0,0,0.0,257,76,0,0,0.0,0.0,2019-10-06T15:30:00Z,0,0,0,0,0,8,0,190,0,1,0.0,0,-5,12,17,45,True,0,Man Utd,Newcastle,DEF,0
+Florin Andone,0,0,0,0,0.0,46,72,0,0,0.0,0.0,2019-10-05T11:30:00Z,0,0,0,0,0,8,0,38752,0,3,0.0,0,-4243,55,4298,49,True,0,Spurs,Brighton,FWD,0
+Kiko Femenía,0,0,0,0,0.0,357,79,0,0,0.0,0.0,2019-10-05T14:00:00Z,0,0,0,0,0,8,0,29864,0,0,0.0,0,-2388,645,3033,43,True,0,Sheffield Utd,Watford,DEF,0
+Fraser Forster,0,0,0,0,0.0,317,78,0,0,0.0,0.0,2019-10-06T13:00:00Z,0,0,0,0,0,8,0,32383,4,1,0.0,0,-1647,23,1670,44,True,0,Chelsea,Southampton,GK,0
+Frederick Woodman,0,0,0,0,0.0,264,76,0,0,0.0,0.0,2019-10-06T15:30:00Z,0,0,0,0,0,8,0,63734,0,1,0.0,0,-565,1005,1570,40,True,0,Man Utd,Newcastle,GK,0
+Frederico Rodrigues de Paula Santos,0,0,9,0,8.0,244,76,1,0,2.1,12.2,2019-10-06T15:30:00Z,90,0,0,0,0,8,0,9059,0,1,1.0,1,-250,237,487,53,False,1,Newcastle,Man Utd,MID,0
+Frédéric Guilbert,0,0,7,0,11.9,458,77,1,0,2.8,16.4,2019-10-05T14:00:00Z,90,0,0,0,0,8,0,54410,5,1,0.0,1,2611,5161,2550,44,False,1,Norwich,Aston Villa,DEF,0
+Gabriel Jesus,0,0,2,0,2.3,211,75,2,0,1.2,0.0,2019-10-06T13:00:00Z,15,0,0,0,0,8,0,102835,2,0,10.0,1,2471,5231,2760,95,True,0,Wolves,Man City,FWD,0
+Gabriel Martinelli,0,0,-4,0,3.8,504,71,0,0,2.2,4.4,2019-10-06T13:00:00Z,27,0,0,0,0,8,0,96280,0,1,14.0,0,2306,8858,6552,45,True,1,Bournemouth,Arsenal,FWD,0
+Gary Cahill,0,0,17,0,10.8,503,80,1,0,6.3,16.6,2019-10-05T16:30:00Z,90,0,0,0,0,8,0,126477,2,1,36.0,2,135,4316,4181,45,False,0,West Ham,Crystal Palace,DEF,0
+Gaëtan Bong,0,0,3,0,0.5,41,72,0,0,0.1,0.6,2019-10-05T11:30:00Z,2,0,0,0,0,8,0,8617,0,3,0.0,1,-254,90,344,44,True,0,Spurs,Brighton,DEF,0
+Georges-Kévin Nkoudou,0,0,0,0,0.0,527,72,0,0,0.0,0.0,2019-10-05T11:30:00Z,0,0,0,0,0,8,0,919,0,3,0.0,0,-25,27,52,50,False,0,Brighton,Spurs,MID,0
+George Baldock,0,0,26,1,10.0,294,79,0,0,2.5,11.4,2019-10-05T14:00:00Z,90,0,0,0,0,8,0,48447,0,0,4.0,6,2754,4993,2239,45,False,0,Watford,Sheffield Utd,DEF,0
+Georginio Wijnaldum,0,0,5,1,2.1,199,74,0,0,2.4,5.0,2019-10-05T14:00:00Z,77,0,0,0,0,8,0,167380,1,2,17.0,3,21453,27485,6032,54,True,0,Leicester,Liverpool,MID,0
+Gerard Deulofeu,0,0,8,0,11.3,363,79,0,0,1.8,4.2,2019-10-05T14:00:00Z,31,0,0,0,0,8,0,136217,0,0,2.0,1,-3455,7956,11411,61,True,0,Sheffield Utd,Watford,FWD,0
+Giovani Lo Celso,0,0,0,0,0.0,523,72,0,0,0.0,0.0,2019-10-05T11:30:00Z,0,0,0,0,0,8,0,15867,0,3,0.0,0,-686,38,724,73,False,0,Brighton,Spurs,MID,0
+Glenn Murray,0,0,3,0,0.1,44,72,0,0,0.0,0.0,2019-10-05T11:30:00Z,1,0,0,0,0,8,0,73828,0,3,0.0,1,-6385,643,7028,57,True,0,Spurs,Brighton,FWD,0
+Grady Diangana,0,0,0,0,0.0,398,80,0,0,0.0,0.0,2019-10-05T16:30:00Z,0,0,0,0,0,8,0,6030,2,1,0.0,0,-569,212,781,44,True,0,Crystal Palace,West Ham,MID,0
+Granit Xhaka,0,0,11,1,2.3,18,71,0,0,2.2,15.6,2019-10-06T13:00:00Z,90,0,0,0,0,8,0,55175,0,1,4.0,3,-1035,2332,3367,53,True,0,Bournemouth,Arsenal,MID,0
+Grant Hanley,0,0,0,0,0.0,277,77,0,0,0.0,0.0,2019-10-05T14:00:00Z,0,0,0,0,0,8,0,245301,5,1,0.0,0,-11853,10006,21859,40,True,0,Aston Villa,Norwich,DEF,0
+Gylfi Sigurdsson,0,0,7,0,28.2,151,73,0,0,4.6,5.0,2019-10-05T14:00:00Z,58,0,0,0,0,8,0,264190,0,1,13.0,1,-19919,4569,24488,76,False,0,Burnley,Everton,MID,0
+Hamza Choudhury,0,0,-1,0,0.7,180,74,1,0,0.0,0.0,2019-10-05T14:00:00Z,4,0,0,0,0,8,0,78502,1,2,0.0,0,-1127,5846,6973,45,False,1,Liverpool,Leicester,MID,0
+Harry Kane,0,0,6,0,28.8,338,72,3,0,4.5,4.6,2019-10-05T11:30:00Z,90,0,0,0,0,8,0,1377432,0,3,12.0,2,-28232,40325,68557,110,False,0,Brighton,Spurs,FWD,0
+Harry Lewis,0,0,0,0,0.0,548,78,0,0,0.0,0.0,2019-10-06T13:00:00Z,0,0,0,0,0,8,0,3388,4,1,0.0,0,2051,2259,208,40,True,0,Chelsea,Southampton,GK,0
+Harry Maguire,0,0,11,0,23.2,160,76,1,0,7.2,17.4,2019-10-06T15:30:00Z,90,0,0,0,0,8,0,1031541,0,1,31.0,2,-29566,19989,49555,55,False,0,Newcastle,Man Utd,DEF,0
+Harry Wilson,0,0,8,0,14.8,505,71,1,0,2.3,6.6,2019-10-06T13:00:00Z,78,0,0,0,0,8,0,248125,0,1,2.0,2,-18152,15704,33856,61,False,0,Arsenal,Bournemouth,MID,0
+Harry Winks,0,0,9,0,3.5,347,72,1,0,1.3,9.6,2019-10-05T11:30:00Z,45,0,0,0,0,8,0,22790,0,3,0.0,1,-842,750,1592,54,False,0,Brighton,Spurs,MID,0
+Harvey Barnes,0,0,0,0,0.8,172,74,1,0,0.5,0.6,2019-10-05T14:00:00Z,45,0,0,0,0,8,0,18382,1,2,4.0,1,-305,1207,1512,59,False,0,Liverpool,Leicester,MID,0
+Harvey Elliott,0,0,0,0,0.0,550,74,0,0,0.0,0.0,2019-10-05T14:00:00Z,0,0,0,0,0,8,0,0,1,2,0.0,0,0,0,0,45,True,0,Leicester,Liverpool,MID,0
+Henrikh Mkhitaryan,0,0,0,0,0.0,16,71,0,0,0.0,0.0,2019-10-06T13:00:00Z,0,0,0,0,0,8,0,63127,0,1,0.0,0,-2329,41,2370,68,True,0,Bournemouth,Arsenal,MID,0
+Henri Lansbury,0,0,0,0,0.0,35,77,0,0,0.0,0.0,2019-10-05T14:00:00Z,0,0,0,0,0,8,0,49349,5,1,0.0,0,-5651,667,6318,44,False,0,Norwich,Aston Villa,MID,0
+Son Heung-Min,0,0,12,0,2.4,342,72,3,0,1.9,8.8,2019-10-05T11:30:00Z,72,0,0,0,0,8,0,873496,0,3,8.0,2,188152,231286,43134,98,False,0,Brighton,Spurs,MID,0
+Heurelho da Silva Gomes,0,0,0,0,0.0,513,79,0,0,0.0,0.0,2019-10-05T14:00:00Z,0,0,0,0,0,8,0,14414,0,0,0.0,0,-192,279,471,45,True,0,Sheffield Utd,Watford,GK,0
+Hugo Lloris,0,0,0,0,0.0,340,72,1,0,0.0,0.0,2019-10-05T11:30:00Z,8,0,0,0,0,8,0,594211,0,3,0.0,1,-7751,15655,23406,55,False,0,Brighton,Spurs,GK,0
+Héctor Bellerín,0,0,0,0,0.0,2,71,0,0,0.0,0.0,2019-10-06T13:00:00Z,0,0,0,0,0,8,0,18486,0,1,0.0,0,5331,6571,1240,54,True,0,Bournemouth,Arsenal,DEF,0
+Hélder Costa,0,0,0,0,0.0,418,75,0,0,0.0,0.0,2019-10-06T13:00:00Z,0,0,0,0,0,8,0,1150,2,0,0.0,0,-33,23,56,49,False,0,Man City,Wolves,MID,0
+Ibrahim Amadou,0,0,14,0,0.0,507,77,5,0,3.1,18.6,2019-10-05T14:00:00Z,90,0,0,0,0,8,0,8114,5,1,12.0,2,658,1194,536,45,True,0,Aston Villa,Norwich,MID,0
+Idrissa Gueye,0,0,0,0,0.0,156,73,0,0,0.0,0.0,2019-10-05T14:00:00Z,0,0,0,0,0,8,0,1358,0,1,0.0,0,-22,36,58,50,False,0,Burnley,Everton,MID,0
+Ilkay Gündogan,0,0,14,0,41.2,222,75,2,0,5.4,10.0,2019-10-06T13:00:00Z,90,0,0,0,0,8,0,98017,2,0,3.0,1,-1580,4532,6112,52,True,1,Wolves,Man City,MID,0
+Isaac Hayden,0,0,0,0,0.0,271,76,0,0,0.0,0.0,2019-10-06T15:30:00Z,0,0,0,0,0,8,0,364166,0,1,0.0,0,-88414,4294,92708,45,True,0,Man Utd,Newcastle,MID,0
+Isaac Success Ajayi,0,0,0,0,0.0,365,79,0,0,0.0,0.0,2019-10-05T14:00:00Z,0,0,0,0,0,8,0,30751,0,0,0.0,0,-3120,81,3201,48,True,0,Sheffield Utd,Watford,FWD,0
+Ismaïla Sarr,0,0,3,0,0.5,525,79,0,0,0.3,0.0,2019-10-05T14:00:00Z,13,0,0,0,0,8,0,9208,0,0,2.0,1,-351,455,806,63,True,0,Sheffield Utd,Watford,MID,0
+Issa Diop,0,0,11,0,1.9,381,80,2,0,4.9,14.0,2019-10-05T16:30:00Z,90,0,0,0,0,8,0,362404,2,1,33.0,1,7590,24619,17029,45,True,0,Crystal Palace,West Ham,DEF,0
+Ivan Cavaleiro,0,0,0,0,0.0,419,75,0,0,0.0,0.0,2019-10-06T13:00:00Z,0,0,0,0,0,8,0,602,2,0,0.0,0,-28,18,46,49,False,0,Man City,Wolves,MID,0
+Jack Colback,0,0,0,0,0.0,482,76,0,0,0.0,0.0,2019-10-06T15:30:00Z,0,0,0,0,0,8,0,15164,0,1,0.0,0,-2050,60,2110,44,True,0,Man Utd,Newcastle,MID,0
+Jack Cork,0,0,0,0,0.0,102,73,0,0,0.0,0.0,2019-10-05T14:00:00Z,0,0,0,0,0,8,0,16337,0,1,0.0,0,-2878,51,2929,50,True,0,Everton,Burnley,MID,0
+Jack Grealish,0,0,24,0,27.5,29,77,1,1,12.0,49.8,2019-10-05T14:00:00Z,90,0,0,0,0,8,0,250741,5,1,43.0,7,-18559,5063,23622,59,False,0,Norwich,Aston Villa,MID,0
+Jack O'Connell,0,1,28,1,3.0,293,79,0,0,2.5,20.4,2019-10-05T14:00:00Z,90,0,0,0,0,8,0,21828,0,0,2.0,7,-216,687,903,45,False,0,Watford,Sheffield Utd,DEF,0
+Jack Simpson,0,0,0,0,0.0,66,71,0,0,0.0,0.0,2019-10-06T13:00:00Z,0,0,0,0,0,8,0,471272,0,1,0.0,0,-6187,10932,17119,40,False,0,Arsenal,Bournemouth,DEF,0
+Jack Stacey,0,0,3,0,1.0,446,71,1,0,3.4,16.2,2019-10-06T13:00:00Z,78,0,0,0,0,8,0,7206,0,1,17.0,1,-116,168,284,44,False,1,Arsenal,Bournemouth,DEF,0
+Jack Stephens,0,0,0,0,0.0,308,78,0,0,0.0,0.0,2019-10-06T13:00:00Z,0,0,0,0,0,8,0,7003,4,1,0.0,0,-288,69,357,44,True,0,Chelsea,Southampton,DEF,0
+Jack Wilshere,0,0,3,0,0.6,394,80,1,0,0.4,1.8,2019-10-05T16:30:00Z,12,0,0,0,0,8,0,21960,2,1,2.0,1,-991,478,1469,48,True,0,Crystal Palace,West Ham,MID,0
+Jacob Murphy,0,0,0,0,0.0,483,76,0,0,0.0,0.0,2019-10-06T15:30:00Z,0,0,0,0,0,8,0,601,0,1,0.0,0,-20,10,30,48,True,0,Man Utd,Newcastle,MID,0
+Jairo Riedewald,0,0,0,0,0.0,539,80,0,0,0.0,0.0,2019-10-05T16:30:00Z,0,0,0,0,0,8,0,479,2,1,0.0,0,51,118,67,45,False,0,West Ham,Crystal Palace,MID,0
+Jake Eastwood,0,0,0,0,0.0,299,79,0,0,0.0,0.0,2019-10-05T14:00:00Z,0,0,0,0,0,8,0,13264,0,0,0.0,0,-388,141,529,44,False,0,Watford,Sheffield Utd,GK,0
+Jamaal Lascelles,0,0,20,1,0.0,258,76,0,0,0.7,6.8,2019-10-06T15:30:00Z,90,0,0,0,0,8,0,336306,0,1,0.0,6,-16457,3478,19935,44,True,0,Man Utd,Newcastle,DEF,0
+Jamal Lewis,0,0,14,0,18.2,276,77,5,0,4.7,18.0,2019-10-05T14:00:00Z,90,0,0,0,0,8,0,27833,5,1,11.0,0,-3021,1038,4059,45,True,0,Aston Villa,Norwich,DEF,0
+James Chester,0,0,0,0,0.0,23,77,0,0,0.0,0.0,2019-10-05T14:00:00Z,0,0,0,0,0,8,0,3656,5,1,0.0,0,-179,11,190,44,False,0,Norwich,Aston Villa,DEF,0
+James Garner,0,0,0,0,0.0,250,76,0,0,0.0,0.0,2019-10-06T15:30:00Z,0,0,0,0,0,8,0,18960,0,1,0.0,0,-1095,428,1523,44,False,0,Newcastle,Man Utd,MID,0
+James Justin,0,0,0,0,0.0,433,74,0,0,0.0,0.0,2019-10-05T14:00:00Z,0,0,0,0,0,8,0,6661,1,2,0.0,0,-164,175,339,48,False,0,Liverpool,Leicester,DEF,0
+James Maddison,0,0,26,0,14.3,171,74,1,1,7.4,38.6,2019-10-05T14:00:00Z,85,0,0,0,0,8,0,710123,1,2,21.0,7,-15750,40599,56349,71,False,0,Liverpool,Leicester,MID,0
+James McArthur,0,0,15,0,2.1,138,80,1,0,1.4,11.0,2019-10-05T16:30:00Z,90,0,0,0,0,8,0,55943,2,1,1.0,2,-730,1757,2487,53,False,0,West Ham,Crystal Palace,MID,0
+James McCarthy,0,0,12,0,4.1,157,80,1,0,1.9,8.0,2019-10-05T16:30:00Z,80,0,0,0,0,8,0,44225,2,1,7.0,2,911,3893,2982,44,False,0,West Ham,Crystal Palace,MID,0
+James Milner,1,3,40,0,26.9,200,74,1,1,10.7,58.2,2019-10-05T14:00:00Z,90,0,0,0,0,8,0,41349,1,2,22.0,13,-2290,504,2794,53,True,0,Leicester,Liverpool,MID,0
+James Tarkowski,0,3,30,1,10.4,84,73,0,0,4.2,26.0,2019-10-05T14:00:00Z,90,0,0,0,0,8,0,107175,0,1,6.0,9,-3989,1871,5860,50,True,0,Everton,Burnley,DEF,0
+James Tomkins,0,0,0,0,0.0,124,80,0,0,0.0,0.0,2019-10-05T16:30:00Z,0,0,0,0,0,8,0,1431,2,1,0.0,0,38,185,147,50,False,0,West Ham,Crystal Palace,DEF,0
+James Ward-Prowse,0,0,8,0,25.9,321,78,4,0,4.1,13.6,2019-10-06T13:00:00Z,90,0,0,0,0,8,0,50652,4,1,1.0,2,270,4249,3979,58,True,0,Chelsea,Southampton,MID,0
+Jamie Vardy,0,0,1,0,1.8,166,74,2,0,1.8,6.2,2019-10-05T14:00:00Z,90,0,0,0,0,8,0,634677,1,2,10.0,2,33048,74485,41437,89,False,0,Liverpool,Leicester,FWD,0
+Jannik Vestergaard,0,0,0,0,0.0,304,78,0,0,0.0,0.0,2019-10-06T13:00:00Z,0,0,0,0,0,8,0,434343,4,1,0.0,0,-37144,9076,46220,52,True,0,Chelsea,Southampton,DEF,0
+Jan Bednarek,0,0,16,0,0.3,307,78,4,0,1.3,12.8,2019-10-06T13:00:00Z,90,0,0,0,0,8,0,65498,4,1,0.0,0,-4677,523,5200,45,True,0,Chelsea,Southampton,DEF,0
+Jan Vertonghen,0,0,11,0,0.9,330,72,3,0,2.4,22.6,2019-10-05T11:30:00Z,90,0,0,0,0,8,0,142627,0,3,0.0,1,-1181,5246,6427,53,False,0,Brighton,Spurs,DEF,0
+Javier Hernández Balcázar,0,0,0,0,0.0,386,80,0,0,0.0,0.0,2019-10-05T16:30:00Z,0,0,0,0,0,8,0,30768,2,1,0.0,0,-2197,27,2224,60,True,0,Crystal Palace,West Ham,FWD,0
+Javier Manquillo,0,0,0,0,0.0,256,76,0,0,0.0,0.0,2019-10-06T15:30:00Z,0,0,0,0,0,8,0,10044,0,1,0.0,0,-382,159,541,44,True,0,Man Utd,Newcastle,DEF,0
+Jay Rodriguez,0,0,7,0,0.6,451,73,0,0,2.5,7.0,2019-10-05T14:00:00Z,17,0,0,0,0,8,0,15104,0,1,17.0,1,367,1073,706,57,True,0,Everton,Burnley,FWD,0
+Jean-Philippe Gbamin,0,0,0,0,0.0,497,73,0,0,0.0,0.0,2019-10-05T14:00:00Z,0,0,0,0,0,8,0,2618,0,1,0.0,0,-186,5,191,49,False,0,Burnley,Everton,MID,0
+Jed Steer,0,0,0,0,0.0,429,77,0,0,0.0,0.0,2019-10-05T14:00:00Z,0,0,0,0,0,8,0,8626,5,1,0.0,0,-180,41,221,44,False,0,Norwich,Aston Villa,GK,0
+Jefferson Lerma,0,0,15,0,3.0,82,71,1,0,1.8,13.2,2019-10-06T13:00:00Z,90,0,0,0,0,8,0,10831,0,1,2.0,2,-634,167,801,48,False,0,Arsenal,Bournemouth,MID,0
+Jeffrey Schlupp,0,0,6,0,16.8,137,80,1,0,5.8,5.6,2019-10-05T16:30:00Z,90,0,0,0,0,8,0,9693,2,1,36.0,2,-911,373,1284,55,False,0,West Ham,Crystal Palace,MID,0
+Jeff Hendrick,0,3,30,1,11.5,100,73,0,1,8.5,38.6,2019-10-05T14:00:00Z,90,0,0,0,0,8,0,5940,0,1,35.0,10,448,711,263,54,True,1,Everton,Burnley,MID,0
+Jesse Lingard,0,0,0,0,0.0,241,76,0,0,0.0,0.0,2019-10-06T15:30:00Z,0,0,0,0,0,8,0,61983,0,1,0.0,0,-4346,1476,5822,64,False,0,Newcastle,Man Utd,MID,0
+Jesús Vallejo Lázaro,0,0,0,0,0.0,473,75,0,0,0.0,0.0,2019-10-06T13:00:00Z,0,0,0,0,0,8,0,19305,2,0,0.0,0,-830,169,999,48,False,0,Man City,Wolves,DEF,0
+Jetro Willems,1,3,38,1,30.6,498,76,0,0,9.0,35.8,2019-10-06T15:30:00Z,90,0,0,0,0,8,0,17998,0,1,24.0,12,-2139,742,2881,45,True,0,Man Utd,Newcastle,DEF,0
+Joelinton Cássio Apolinário de Lira,0,0,2,0,12.3,466,76,0,0,1.9,0.2,2019-10-06T15:30:00Z,55,0,0,0,0,8,0,91048,0,1,6.0,1,-10756,2642,13398,58,True,0,Man Utd,Newcastle,FWD,0
+Joel Matip,0,0,0,0,0.0,185,74,0,0,0.0,0.0,2019-10-05T14:00:00Z,0,0,0,0,0,8,0,321515,1,2,0.0,0,-41881,35984,77865,55,True,0,Leicester,Liverpool,DEF,0
+Joel Ward,0,0,10,0,6.3,126,80,1,0,2.1,12.6,2019-10-05T16:30:00Z,90,0,0,0,0,8,0,246171,2,1,2.0,1,50188,59275,9087,46,False,1,West Ham,Crystal Palace,DEF,0
+Joe Hart,0,0,0,0,0.0,95,73,0,0,0.0,0.0,2019-10-05T14:00:00Z,0,0,0,0,0,8,0,98368,0,1,0.0,0,-3003,896,3899,44,True,0,Everton,Burnley,GK,0
+Johann Berg Gudmundsson,0,0,7,1,6.3,96,73,0,0,4.6,6.6,2019-10-05T14:00:00Z,83,0,0,0,0,8,0,43853,0,1,33.0,3,-2212,242,2454,59,True,0,Everton,Burnley,MID,0
+John Egan,0,0,27,1,0.4,295,79,0,0,2.7,19.0,2019-10-05T14:00:00Z,90,0,0,0,0,8,0,14961,0,0,8.0,6,1017,1498,481,45,False,0,Watford,Sheffield Utd,DEF,0
+John Fleck,0,0,16,1,11.2,301,79,0,0,4.2,14.0,2019-10-05T14:00:00Z,90,0,0,0,0,8,0,5924,0,0,17.0,3,807,1123,316,48,False,0,Watford,Sheffield Utd,MID,0
+John Lundstram,0,0,20,1,27.5,297,79,0,0,4.5,11.0,2019-10-05T14:00:00Z,90,0,0,0,0,8,0,2115148,0,0,6.0,5,181636,194043,12407,45,False,1,Watford,Sheffield Utd,DEF,0
+John McGinn,0,0,16,0,18.2,31,77,1,0,4.0,12.0,2019-10-05T14:00:00Z,90,0,0,0,0,8,0,802738,5,1,10.0,1,214463,230374,15911,58,False,1,Norwich,Aston Villa,MID,0
+John Ruddy,0,0,0,0,0.0,412,75,0,0,0.0,0.0,2019-10-06T13:00:00Z,0,0,0,0,0,8,0,31777,2,0,0.0,0,-606,289,895,44,False,0,Man City,Wolves,GK,0
+John Stones,0,0,0,0,0.0,207,75,0,0,0.0,0.0,2019-10-06T13:00:00Z,0,0,0,0,0,8,0,72388,2,0,0.0,0,-5929,54,5983,53,True,0,Wolves,Man City,DEF,0
+Jonas Lössl,0,0,0,0,0.0,479,73,0,0,0.0,0.0,2019-10-05T14:00:00Z,0,0,0,0,0,8,0,26734,0,1,0.0,0,-789,92,881,44,False,0,Burnley,Everton,GK,0
+Jonathan Castro Otto,0,0,2,0,0.0,402,75,0,0,0.0,0.2,2019-10-06T13:00:00Z,16,0,0,0,0,8,0,58676,2,0,0.0,1,-2258,841,3099,54,False,0,Man City,Wolves,DEF,0
+Jonathan Kodjia,0,0,0,0,0.0,26,77,0,0,0.0,0.0,2019-10-05T14:00:00Z,0,0,0,0,0,8,0,7024,5,1,0.0,0,-430,39,469,54,False,0,Norwich,Aston Villa,FWD,0
+Jonjo Shelvey,0,0,0,0,0.0,269,76,0,0,0.0,0.0,2019-10-06T15:30:00Z,0,0,0,0,0,8,0,19621,0,1,0.0,0,-4201,113,4314,50,True,0,Man Utd,Newcastle,MID,0
+Jonny Evans,0,0,13,0,0.8,162,74,2,0,2.6,23.4,2019-10-05T14:00:00Z,90,0,0,0,0,8,0,127308,1,2,2.0,0,18706,24825,6119,50,False,1,Liverpool,Leicester,DEF,0
+Jordan Ayew,0,3,32,0,2.1,468,80,1,1,9.8,36.4,2019-10-05T16:30:00Z,89,0,0,0,0,8,0,529561,2,1,59.0,9,-35016,29630,64646,51,False,0,West Ham,Crystal Palace,FWD,0
+Jordan Henderson,0,0,5,0,1.6,198,74,1,0,0.4,2.2,2019-10-05T14:00:00Z,12,0,0,0,0,8,0,52876,1,2,0.0,1,-1401,1611,3012,54,True,0,Leicester,Liverpool,MID,0
+Jordan Pickford,0,0,17,0,0.0,148,73,1,0,2.1,20.8,2019-10-05T14:00:00Z,90,0,0,0,0,8,2,659566,0,1,0.0,2,-19111,7837,26948,55,False,0,Burnley,Everton,GK,0
+Jordon Ibe,0,0,0,0,0.0,78,71,0,0,0.0,0.0,2019-10-06T13:00:00Z,0,0,0,0,0,8,0,13567,0,1,0.0,0,-673,217,890,48,False,0,Arsenal,Bournemouth,MID,0
+Jorge Luiz Frello Filho,0,0,12,0,3.6,118,78,1,0,2.2,18.2,2019-10-06T13:00:00Z,90,0,0,0,0,8,0,374386,4,1,0.0,1,117540,130332,12792,50,False,1,Southampton,Chelsea,MID,0
+Jose Luis Mato Sanmartín,0,0,0,0,0.0,261,76,0,0,0.0,0.0,2019-10-06T15:30:00Z,0,0,0,0,0,8,0,2243,0,1,0.0,0,-74,43,117,50,True,0,Man Utd,Newcastle,FWD,0
+Joseph Gomez,0,0,0,0,0.0,184,74,0,0,0.0,0.0,2019-10-05T14:00:00Z,0,0,0,0,0,8,0,63370,1,2,0.0,0,1514,5368,3854,52,True,0,Leicester,Liverpool,DEF,0
+Joe Willock,0,0,2,0,10.9,490,71,0,0,1.7,2.0,2019-10-06T13:00:00Z,15,0,0,0,0,8,0,17171,0,1,4.0,1,-560,940,1500,50,True,0,Bournemouth,Arsenal,MID,0
+Joshua King,0,0,7,0,13.0,68,71,1,0,3.1,10.0,2019-10-06T13:00:00Z,90,0,0,0,0,8,0,632532,0,1,8.0,2,66925,96994,30069,63,False,0,Arsenal,Bournemouth,FWD,0
+Josip Drmic,0,0,25,0,0.3,434,77,0,1,5.2,33.0,2019-10-05T14:00:00Z,6,0,0,0,0,8,0,5667,5,1,19.0,5,-75,350,425,54,True,0,Aston Villa,Norwich,FWD,0
+Diogo Dalot,0,0,8,0,2.5,229,76,0,0,1.1,8.0,2019-10-06T15:30:00Z,59,0,0,0,0,8,0,6718,0,1,0.0,1,-183,112,295,49,False,0,Newcastle,Man Utd,DEF,0
+José Heriberto Izquierdo Mena,0,0,0,0,0.0,51,72,0,0,0.0,0.0,2019-10-05T11:30:00Z,0,0,0,0,0,8,0,154,0,3,0.0,0,-1,3,4,54,True,0,Spurs,Brighton,MID,0
+José Ignacio Peleteiro Romallo,0,0,0,0,0.0,36,77,0,0,0.0,0.0,2019-10-05T14:00:00Z,0,0,0,0,0,8,0,14606,5,1,0.0,0,-1650,300,1950,59,False,0,Norwich,Aston Villa,MID,0
+José Ángel Esmorís Tasende,0,0,0,0,0.0,440,75,0,0,0.0,0.0,2019-10-06T13:00:00Z,0,0,0,0,0,8,0,10178,2,0,0.0,0,-376,198,574,47,True,0,Wolves,Man City,DEF,0
+José Holebas,0,0,26,1,1.6,353,79,0,0,1.6,14.6,2019-10-05T14:00:00Z,90,0,0,0,0,8,0,96780,0,0,0.0,6,-8301,1276,9577,47,True,0,Sheffield Utd,Watford,DEF,0
+João Moutinho,0,0,12,1,16.0,415,75,0,0,3.2,15.6,2019-10-06T13:00:00Z,90,0,0,0,0,8,0,292599,2,0,0.0,2,-29983,3273,33256,54,False,1,Man City,Wolves,MID,0
+João Cancelo,0,0,18,0,29.8,518,75,2,0,7.1,24.2,2019-10-06T13:00:00Z,90,0,0,0,0,8,0,55794,2,0,17.0,0,-3584,938,4522,53,True,1,Wolves,Man City,DEF,0
+Juan Foyth,0,0,0,0,0.0,335,72,0,0,0.0,0.0,2019-10-05T11:30:00Z,0,0,0,0,0,8,0,1737,0,3,0.0,0,114,213,99,49,False,0,Brighton,Spurs,DEF,0
+Juan Mata,0,0,11,1,2.8,242,76,0,0,1.4,7.2,2019-10-06T15:30:00Z,65,0,0,0,0,8,0,25593,0,1,4.0,3,-1107,850,1957,63,False,0,Newcastle,Man Utd,MID,0
+Junior Stanislas,0,0,0,0,0.0,77,71,0,0,0.0,0.0,2019-10-06T13:00:00Z,0,0,0,0,0,8,0,271,0,1,0.0,0,-5,5,10,59,False,0,Arsenal,Bournemouth,MID,0
+Jürgen Locadia,0,0,0,0,0.0,45,72,0,0,0.0,0.0,2019-10-05T11:30:00Z,0,0,0,0,0,8,0,6984,0,3,0.0,0,-473,18,491,53,True,0,Spurs,Brighton,FWD,0
+Karl Darlow,0,0,0,0,0.0,263,76,0,0,0.0,0.0,2019-10-06T15:30:00Z,0,0,0,0,0,8,0,9400,0,1,0.0,0,-188,100,288,44,True,0,Man Utd,Newcastle,GK,0
+Kasper Schmeichel,0,0,23,0,0.0,168,74,2,0,5.0,50.4,2019-10-05T14:00:00Z,90,0,0,0,0,8,6,478331,1,2,0.0,3,18642,37392,18750,50,False,0,Liverpool,Leicester,GK,0
+Kayne Ramsay,0,0,0,0,0.0,311,78,0,0,0.0,0.0,2019-10-06T13:00:00Z,0,0,0,0,0,8,0,86861,4,1,0.0,0,-1617,1573,3190,40,True,0,Chelsea,Southampton,DEF,0
+Keinan Davis,0,0,0,0,0.0,34,77,0,0,0.0,0.0,2019-10-05T14:00:00Z,0,0,0,0,0,8,0,21844,5,1,0.0,0,-664,569,1233,45,False,0,Norwich,Aston Villa,MID,0
+Kelechi Iheanacho,0,0,0,0,0.0,167,74,0,0,0.0,0.0,2019-10-05T14:00:00Z,0,0,0,0,0,8,0,14845,1,2,0.0,0,-451,321,772,57,False,0,Liverpool,Leicester,FWD,0
+Kenny McLean,0,0,7,0,13.9,286,77,5,0,2.4,8.8,2019-10-05T14:00:00Z,90,0,0,0,0,8,0,14988,5,1,1.0,2,496,1433,937,49,True,0,Aston Villa,Norwich,MID,0
+Ken Sema,0,0,0,0,0.0,372,79,0,0,0.0,0.0,2019-10-05T14:00:00Z,0,0,0,0,0,8,0,1525,0,0,0.0,0,-71,11,82,48,True,0,Sheffield Utd,Watford,MID,0
+Kepa Arrizabalaga,0,0,10,0,0.0,111,78,1,0,0.8,7.6,2019-10-06T13:00:00Z,90,0,0,0,0,8,1,341347,4,1,0.0,2,6904,16695,9791,55,False,0,Southampton,Chelsea,GK,0
+Kevin Danso,0,0,0,0,0.0,532,78,0,0,0.0,0.0,2019-10-06T13:00:00Z,0,0,0,0,0,8,0,2042,4,1,0.0,0,-136,61,197,45,True,0,Chelsea,Southampton,DEF,0
+Kevin De Bruyne,0,0,0,0,0.0,215,75,0,0,0.0,0.0,2019-10-06T13:00:00Z,0,0,0,0,0,8,0,2169368,2,0,0.0,0,-653701,141393,795094,100,True,0,Wolves,Man City,MID,0
+Kevin Long,0,0,0,0,0.0,88,73,0,0,0.0,0.0,2019-10-05T14:00:00Z,0,0,0,0,0,8,0,9204,0,1,0.0,0,-287,128,415,44,True,0,Everton,Burnley,DEF,0
+Kieran Tierney,0,0,0,0,0.0,515,71,0,0,0.0,0.0,2019-10-06T13:00:00Z,0,0,0,0,0,8,0,48724,0,1,0.0,0,15389,16713,1324,54,True,0,Bournemouth,Arsenal,DEF,0
+Kieran Trippier,0,0,0,0,0.0,334,72,0,0,0.0,0.0,2019-10-05T11:30:00Z,0,0,0,0,0,8,0,10045,0,3,0.0,0,-228,44,272,55,False,0,Brighton,Spurs,DEF,0
+Kieron Freeman,0,0,0,0,0.0,292,79,0,0,0.0,0.0,2019-10-05T14:00:00Z,0,0,0,0,0,8,0,7142,0,0,0.0,0,-218,168,386,43,False,0,Watford,Sheffield Utd,DEF,0
+Konstantinos Mavropanos,0,0,0,0,0.0,8,71,0,0,0.0,0.0,2019-10-06T13:00:00Z,0,0,0,0,0,8,0,2641,0,1,0.0,0,-17,62,79,44,True,0,Bournemouth,Arsenal,DEF,0
+Kortney Hause,0,0,0,0,0.0,25,77,0,0,0.0,0.0,2019-10-05T14:00:00Z,0,0,0,0,0,8,0,4325,5,1,0.0,0,-145,37,182,45,False,0,Norwich,Aston Villa,DEF,0
+Kurt Zouma,0,0,15,0,0.3,459,78,1,0,3.0,25.2,2019-10-06T13:00:00Z,90,0,0,0,0,8,0,107037,4,1,4.0,2,-13967,1035,15002,48,False,0,Southampton,Chelsea,DEF,0
+Kyle Walker-Peters,0,0,0,0,0.0,337,72,0,0,0.0,0.0,2019-10-05T11:30:00Z,0,0,0,0,0,8,0,75331,0,3,0.0,0,-6085,3845,9930,48,False,0,Brighton,Southampton,DEF,0
+Kyle Walker,0,0,10,0,3.1,203,75,0,0,2.0,9.6,2019-10-06T13:00:00Z,45,0,0,0,0,8,0,1157742,2,0,7.0,1,-44040,18600,62640,60,True,0,Wolves,Man City,DEF,0
+Laurent Koscielny,0,0,0,0,0.0,7,71,0,0,0.0,0.0,2019-10-06T13:00:00Z,0,0,0,0,0,8,0,6091,0,1,0.0,0,-153,17,170,50,True,0,Bournemouth,Arsenal,DEF,0
+Leander Dendoncker,0,0,5,1,0.9,420,75,0,0,0.9,7.8,2019-10-06T13:00:00Z,90,0,0,0,0,8,0,699045,2,0,0.0,3,-15499,32342,47841,44,False,0,Man City,Wolves,MID,0
+Leandro Trossard,0,0,0,0,0.0,421,72,0,0,0.0,0.0,2019-10-05T11:30:00Z,0,0,0,0,0,8,0,13220,0,3,0.0,0,-2113,30,2143,58,True,0,Spurs,Brighton,MID,0
+Lee Grant,0,0,0,0,0.0,237,76,0,0,0.0,0.0,2019-10-06T15:30:00Z,0,0,0,0,0,8,0,7071,0,1,0.0,0,-136,23,159,49,False,0,Newcastle,Man Utd,GK,0
+Leighton Baines,0,0,0,0,0.0,145,73,0,0,0.0,0.0,2019-10-05T14:00:00Z,0,0,0,0,0,8,0,9663,0,1,0.0,0,-172,447,619,49,False,0,Burnley,Everton,DEF,0
+Leon Balogun,0,0,0,0,0.0,40,72,0,0,0.0,0.0,2019-10-05T11:30:00Z,0,0,0,0,0,8,0,3926,0,3,0.0,0,-169,23,192,44,True,0,Spurs,Brighton,DEF,0
+Leon Clarke,0,0,0,0,0.0,547,79,0,0,0.0,0.0,2019-10-05T14:00:00Z,0,0,0,0,0,8,0,3358,0,0,0.0,0,2578,3043,465,45,False,0,Watford,Sheffield Utd,FWD,0
+Leroy Sané,0,0,0,0,0.0,216,75,0,0,0.0,0.0,2019-10-06T13:00:00Z,0,0,0,0,0,8,0,17322,2,0,0.0,0,-319,138,457,93,True,0,Wolves,Man City,MID,0
+Lewis Cook,0,0,0,0,0.0,79,71,0,0,0.0,0.0,2019-10-06T13:00:00Z,0,0,0,0,0,8,0,1569,0,1,0.0,0,-1,251,252,50,False,0,Arsenal,Bournemouth,MID,0
+Lewis Dunk,1,2,37,1,10.6,42,72,0,0,4.9,38.8,2019-10-05T11:30:00Z,90,0,0,0,0,8,0,695148,0,3,0.0,10,-26998,5451,32449,46,True,1,Spurs,Brighton,DEF,0
+Lewis Gibson,0,0,0,0,0.0,477,73,0,0,0.0,0.0,2019-10-05T14:00:00Z,0,0,0,0,0,8,0,11077,0,1,0.0,0,-324,131,455,44,False,0,Burnley,Everton,DEF,0
+Lloyd Kelly,0,0,0,0,0.0,64,71,0,0,0.0,0.0,2019-10-06T13:00:00Z,0,0,0,0,0,8,0,3823,0,1,0.0,0,227,495,268,44,False,0,Arsenal,Bournemouth,DEF,0
+Lovre Kalinic,0,0,0,0,0.0,474,77,0,0,0.0,0.0,2019-10-05T14:00:00Z,0,0,0,0,0,8,0,6644,5,1,0.0,0,-119,67,186,44,False,0,Norwich,Aston Villa,GK,0
+Lucas Digne,0,0,14,0,26.8,141,73,1,0,3.8,9.4,2019-10-05T14:00:00Z,90,0,0,0,0,8,0,1562937,0,1,2.0,2,-111089,20887,131976,60,False,0,Burnley,Everton,DEF,0
+Lucas Rodrigues Moura da Silva,0,0,5,0,11.4,345,72,0,0,4.8,10.4,2019-10-05T11:30:00Z,17,0,0,0,0,8,0,294491,0,3,26.0,1,-39874,5513,45387,72,False,0,Brighton,Spurs,MID,0
+Lucas Torreira,0,0,3,0,0.5,19,71,0,0,1.2,3.4,2019-10-06T13:00:00Z,7,0,0,0,0,8,0,98964,0,1,8.0,1,-4124,2279,6403,48,True,0,Bournemouth,Arsenal,MID,0
+Lukasz Fabianski,0,0,0,0,0.0,388,80,0,0,0.0,0.0,2019-10-05T16:30:00Z,0,0,0,0,0,8,0,317735,2,1,0.0,0,-139418,11997,151415,51,True,0,Crystal Palace,West Ham,GK,0
+Luka Milivojevic,0,0,0,0,0.0,134,80,0,0,0.0,0.0,2019-10-05T16:30:00Z,0,0,0,0,0,8,0,188982,2,1,0.0,0,-34022,1185,35207,67,False,0,West Ham,Crystal Palace,MID,0
+Luke Amos,0,0,0,0,0.0,351,72,0,0,0.0,0.0,2019-10-05T11:30:00Z,0,0,0,0,0,8,0,950,0,3,0.0,0,-45,18,63,45,False,0,Brighton,Spurs,MID,0
+Luke Dreher,0,0,0,0,0.0,140,80,0,0,0.0,0.0,2019-10-05T16:30:00Z,0,0,0,0,0,8,0,6717,2,1,0.0,0,-81,466,547,44,False,0,West Ham,Crystal Palace,MID,0
+Luke Freeman,0,0,0,0,0.0,441,79,0,0,0.0,0.0,2019-10-05T14:00:00Z,0,0,0,0,0,8,0,5709,0,0,0.0,0,-482,90,572,53,False,0,Watford,Sheffield Utd,MID,0
+Luke Shaw,0,0,0,0,0.0,226,76,0,0,0.0,0.0,2019-10-06T15:30:00Z,0,0,0,0,0,8,0,48104,0,1,0.0,0,-3042,62,3104,54,False,0,Newcastle,Man Utd,DEF,0
+Lys Mousset,0,0,3,0,0.9,70,79,0,0,1.7,4.4,2019-10-05T14:00:00Z,28,0,0,0,0,8,0,36361,0,0,12.0,1,5508,8705,3197,49,False,0,Watford,Sheffield Utd,FWD,0
+Maarten Stekelenburg,0,0,0,0,0.0,149,73,0,0,0.0,0.0,2019-10-05T14:00:00Z,0,0,0,0,0,8,0,637592,0,1,0.0,0,-4176,5284,9460,40,False,0,Burnley,Everton,GK,0
+Mahmoud Ahmed Ibrahim Hassan,0,0,0,0,0.3,465,77,1,0,0.3,0.0,2019-10-05T14:00:00Z,26,0,0,0,0,8,0,75965,5,1,3.0,1,-1194,2963,4157,53,False,0,Norwich,Aston Villa,MID,0
+Mamadou Sakho,0,0,0,0,0.0,125,80,0,0,0.0,0.0,2019-10-05T16:30:00Z,0,0,0,0,0,8,0,6052,2,1,0.0,0,-915,36,951,50,False,0,West Ham,Crystal Palace,DEF,0
+Manuel Lanzini,0,0,11,0,7.3,391,80,1,0,1.2,0.4,2019-10-05T16:30:00Z,67,0,0,0,0,8,0,122299,2,1,4.0,2,-14528,4662,19190,65,True,0,Crystal Palace,West Ham,MID,0
+Marcos Alonso,1,0,25,0,17.3,103,78,1,0,6.4,38.8,2019-10-06T13:00:00Z,90,0,0,0,0,8,0,185899,4,1,8.0,5,7994,14834,6840,62,False,0,Southampton,Chelsea,DEF,0
+Marcos Rojo,0,0,-2,0,1.6,227,76,1,0,1.0,4.4,2019-10-06T15:30:00Z,30,0,0,0,0,8,0,9920,0,1,4.0,0,-192,271,463,48,False,1,Newcastle,Man Utd,DEF,0
+Marco Stiepermann,0,0,10,0,11.6,285,77,4,0,11.2,11.0,2019-10-05T14:00:00Z,75,0,0,0,0,8,0,7262,5,1,89.0,2,-281,364,645,54,True,0,Aston Villa,Norwich,MID,0
+Marcus Rashford,0,0,6,0,24.2,233,76,1,0,3.2,6.2,2019-10-06T15:30:00Z,90,0,0,0,0,8,0,722006,0,1,2.0,2,-61607,13831,75438,84,False,0,Newcastle,Man Utd,FWD,0
+Marc Albrighton,0,0,5,0,4.8,174,74,1,0,0.3,0.0,2019-10-05T14:00:00Z,45,0,0,0,0,8,0,14051,1,2,0.0,1,-154,570,724,53,False,0,Liverpool,Leicester,MID,0
+Marc Navarro,0,0,0,0,0.0,360,79,0,0,0.0,0.0,2019-10-05T14:00:00Z,0,0,0,0,0,8,0,6337,0,0,0.0,0,-119,281,400,40,True,0,Sheffield Utd,Watford,DEF,0
+Mario Lemina,0,0,0,0,0.0,324,78,0,0,0.0,0.0,2019-10-06T13:00:00Z,0,0,0,0,0,8,0,4725,4,1,0.0,0,-333,17,350,48,True,0,Chelsea,Southampton,MID,0
+Mario Vrancic,0,0,0,0,0.0,282,77,0,0,0.0,0.0,2019-10-05T14:00:00Z,0,0,0,0,0,8,0,4846,5,1,0.0,0,-358,12,370,62,True,0,Aston Villa,Norwich,MID,0
+Marko Arnautovic,0,0,0,0,0.0,385,80,0,0,0.0,0.0,2019-10-05T16:30:00Z,0,0,0,0,0,8,0,5417,2,1,0.0,0,-56,50,106,70,True,0,Crystal Palace,West Ham,FWD,0
+Mark Duffy,0,0,0,0,0.0,300,79,0,0,0.0,0.0,2019-10-05T14:00:00Z,0,0,0,0,0,8,0,1603,0,0,0.0,0,-84,9,93,53,False,0,Watford,Sheffield Utd,MID,0
+Mark Noble,0,0,10,0,14.8,396,80,2,0,2.7,7.0,2019-10-05T16:30:00Z,90,0,0,0,0,8,0,68017,2,1,5.0,2,178,6563,6385,50,True,0,Crystal Palace,West Ham,MID,0
+Mark Travers,0,0,0,0,0.0,74,71,0,0,0.0,0.0,2019-10-06T13:00:00Z,0,0,0,0,0,8,0,12668,0,1,0.0,0,-374,84,458,44,False,0,Arsenal,Bournemouth,GK,0
+Martin Dubravka,0,1,26,1,0.0,262,76,0,0,2.3,22.6,2019-10-06T15:30:00Z,90,0,0,0,0,8,3,63141,0,1,0.0,8,-1915,1629,3544,50,True,0,Man Utd,Newcastle,GK,0
+Martin Kelly,1,2,27,0,10.4,128,80,1,0,5.0,35.4,2019-10-05T16:30:00Z,90,0,0,0,0,8,0,1745313,2,1,4.0,7,42777,64866,22089,41,False,0,West Ham,Crystal Palace,DEF,0
+Martín Montoya,0,0,15,1,4.1,38,72,0,0,2.3,8.4,2019-10-05T11:30:00Z,90,0,0,0,0,8,0,44570,0,3,10.0,6,-2819,535,3354,45,True,0,Spurs,Brighton,DEF,0
+Marvelous Nakamba,0,0,18,0,11.4,491,77,1,0,2.8,16.6,2019-10-05T14:00:00Z,90,0,0,0,0,8,0,81234,5,1,0.0,2,7745,14508,6763,44,False,0,Norwich,Aston Villa,MID,0
+Mason Greenwood,0,0,3,0,1.7,234,76,1,0,2.2,3.2,2019-10-06T15:30:00Z,24,0,0,0,0,8,0,881019,0,1,17.0,1,-7386,53604,60990,44,False,0,Newcastle,Man Utd,FWD,0
+Mason Holgate,0,0,0,0,0.0,478,73,0,0,0.0,0.0,2019-10-05T14:00:00Z,0,0,0,0,0,8,0,10337,0,1,0.0,0,-329,101,430,44,False,0,Burnley,Everton,DEF,0
+Mason Mount,0,0,25,0,23.4,463,78,1,1,8.5,36.0,2019-10-06T13:00:00Z,79,0,0,0,0,8,0,2195805,4,1,26.0,7,276286,314939,38653,67,False,0,Southampton,Chelsea,MID,0
+Matej Vydra,0,0,0,0,0.0,92,73,0,0,0.0,0.0,2019-10-05T14:00:00Z,0,0,0,0,0,8,0,4578,0,1,0.0,0,-173,194,367,54,True,0,Everton,Burnley,FWD,0
+Mateo Kovacic,0,0,6,0,0.6,432,78,0,0,0.3,2.6,2019-10-06T13:00:00Z,10,0,0,0,0,8,0,67407,4,1,0.0,1,-5049,1676,6725,54,False,0,Southampton,Chelsea,MID,0
+Mat Ryan,0,0,30,1,0.0,47,72,0,0,2.0,20.2,2019-10-05T11:30:00Z,90,0,0,0,0,8,3,885290,0,3,0.0,7,27635,42742,15107,46,True,0,Spurs,Brighton,GK,0
+Matteo Darmian,0,0,0,0,0.0,230,76,0,0,0.0,0.0,2019-10-06T15:30:00Z,0,0,0,0,0,8,0,3753,0,1,0.0,0,-160,10,170,49,False,0,Newcastle,Man Utd,DEF,0
+Matteo Guendouzi,0,0,20,1,20.4,21,71,0,0,5.2,17.8,2019-10-06T13:00:00Z,90,0,0,0,0,8,0,751976,0,1,14.0,3,54061,87791,33730,46,True,0,Bournemouth,Arsenal,MID,0
+Matthew Clarke,0,0,0,0,0.0,43,72,0,0,0.0,0.0,2019-10-05T11:30:00Z,0,0,0,0,0,8,0,900,0,3,0.0,0,-18,11,29,44,True,0,Spurs,Brighton,DEF,0
+Matthew Longstaff,0,2,31,1,14.8,540,76,0,1,6.3,40.0,2019-10-06T15:30:00Z,90,0,0,0,0,8,0,873,0,1,8.0,10,101,236,135,45,True,0,Man Utd,Newcastle,MID,0
+Matthew Lowton,0,0,23,1,4.9,85,73,0,0,2.2,15.0,2019-10-05T14:00:00Z,90,0,0,0,0,8,0,71146,0,1,2.0,6,3955,6914,2959,45,True,0,Everton,Burnley,DEF,0
+Matty James,0,0,0,0,0.0,177,74,0,0,0.0,0.0,2019-10-05T14:00:00Z,0,0,0,0,0,8,0,12078,1,2,0.0,0,-733,80,813,44,False,0,Liverpool,Leicester,MID,0
+Matt Doherty,0,0,4,0,0.3,401,75,0,0,1.2,11.6,2019-10-06T13:00:00Z,22,0,0,0,0,8,0,183861,2,0,0.0,1,14153,20805,6652,60,False,0,Man City,Wolves,DEF,0
+Matt Ritchie,0,0,0,0,0.0,251,76,0,0,0.0,0.0,2019-10-06T15:30:00Z,0,0,0,0,0,8,0,14015,0,1,0.0,0,-1173,28,1201,54,True,0,Man Utd,Newcastle,DEF,0
+Matt Targett,1,0,26,0,33.3,309,77,1,0,7.0,34.6,2019-10-05T14:00:00Z,90,0,0,0,0,8,0,29286,5,1,2.0,5,-1,1065,1066,44,False,0,Norwich,Aston Villa,DEF,0
+Maximillian Aarons,0,0,7,0,14.0,274,77,5,0,3.4,0.2,2019-10-05T14:00:00Z,90,0,0,0,0,8,0,93208,5,1,20.0,0,-1982,1608,3590,44,True,0,Aston Villa,Norwich,DEF,0
+Max Kilman,0,0,0,0,0.0,408,75,0,0,0.0,0.0,2019-10-06T13:00:00Z,0,0,0,0,0,8,0,164079,2,0,0.0,0,-1361,5599,6960,40,False,0,Man City,Wolves,DEF,0
+Max Meyer,0,0,0,0,0.0,136,80,0,0,0.0,0.0,2019-10-05T16:30:00Z,0,0,0,0,0,8,0,7085,2,1,0.0,0,-386,55,441,53,False,0,West Ham,Crystal Palace,MID,0
+Maya Yoshida,0,0,10,0,0.4,310,78,4,0,2.3,13.8,2019-10-06T13:00:00Z,90,0,0,0,0,8,0,25951,4,1,9.0,0,-1076,753,1829,44,True,0,Chelsea,Southampton,DEF,0
+Mesut Özil,0,0,0,0,0.0,15,71,0,0,0.0,0.0,2019-10-06T13:00:00Z,0,0,0,0,0,8,0,44586,0,1,0.0,0,-2215,1568,3783,73,True,0,Bournemouth,Arsenal,MID,0
+Michael Keane,0,0,7,0,0.3,143,73,1,0,2.3,11.6,2019-10-05T14:00:00Z,90,0,0,0,0,8,0,203909,0,1,11.0,2,-11406,1935,13341,55,False,0,Burnley,Everton,DEF,0
+Michael McGovern,0,2,38,0,0.0,281,77,5,0,6.4,63.6,2019-10-05T14:00:00Z,90,0,0,1,0,8,7,386373,5,1,0.0,9,24774,30201,5427,40,True,0,Aston Villa,Norwich,GK,0
+Michael Obafemi,0,0,1,0,1.3,314,78,1,0,0.2,1.0,2019-10-06T13:00:00Z,17,0,0,0,0,8,0,12957,4,1,0.0,1,-239,577,816,50,True,0,Chelsea,Southampton,FWD,0
+Michael Verrips,0,0,0,0,0.0,521,79,0,0,0.0,0.0,2019-10-05T14:00:00Z,0,0,0,0,0,8,0,2785,0,0,0.0,0,-37,45,82,45,False,0,Watford,Sheffield Utd,GK,0
+Michail Antonio,0,0,0,0,0.0,389,80,0,0,0.0,0.0,2019-10-05T16:30:00Z,0,0,0,0,0,8,0,51493,2,1,0.0,0,-1988,36,2024,69,True,0,Crystal Palace,West Ham,MID,0
+Michy Batshuayi,0,1,27,0,0.5,461,78,0,1,5.3,33.4,2019-10-06T13:00:00Z,6,0,0,0,0,8,0,27435,4,1,19.0,6,-358,936,1294,66,False,0,Southampton,Chelsea,FWD,0
+Miguel Almirón,0,0,-1,1,0.9,266,76,0,0,2.5,0.0,2019-10-06T15:30:00Z,89,0,0,0,0,8,0,31627,0,1,29.0,2,-2584,551,3135,58,True,1,Man Utd,Newcastle,MID,0
+Mohamed Elneny,0,0,0,0,0.0,20,71,0,0,0.0,0.0,2019-10-06T13:00:00Z,0,0,0,0,0,8,0,50772,0,1,0.0,0,8993,15536,6543,43,True,0,Bournemouth,Arsenal,MID,0
+Mohamed Elyounoussi,0,0,0,0,0.0,322,78,0,0,0.0,0.0,2019-10-06T13:00:00Z,0,0,0,0,0,8,0,2056,4,1,0.0,0,-94,8,102,53,True,0,Chelsea,Southampton,MID,0
+Mohamed Salah,0,0,5,0,37.7,191,74,1,0,15.0,18.2,2019-10-05T14:00:00Z,90,0,0,0,0,8,0,2797360,1,2,94.0,2,-92287,34441,126728,125,True,0,Leicester,Liverpool,MID,0
+Moise Kean,0,0,-1,0,1.3,496,73,0,0,0.4,0.2,2019-10-05T14:00:00Z,16,0,0,0,0,8,0,127559,0,1,2.0,1,-9294,1733,11027,66,False,0,Burnley,Everton,FWD,0
+Morgan Gibbs-White,0,0,0,0,0.0,416,75,0,0,0.0,0.0,2019-10-06T13:00:00Z,0,0,0,0,0,8,0,5467,2,0,0.0,0,69,331,262,48,False,0,Man City,Wolves,MID,0
+Morgan Schneiderlin,0,0,8,0,13.4,158,73,1,0,1.4,0.2,2019-10-05T14:00:00Z,83,0,0,0,0,8,0,58779,0,1,0.0,2,-1362,1748,3110,45,False,0,Burnley,Everton,MID,0
+Moritz Leitner,0,0,11,0,8.3,288,77,5,0,4.7,13.4,2019-10-05T14:00:00Z,90,0,0,0,0,8,0,18153,5,1,25.0,2,983,2113,1130,45,True,0,Aston Villa,Norwich,MID,0
+Moussa Djenepo,0,0,0,0,0.0,438,78,0,0,0.0,0.0,2019-10-06T13:00:00Z,0,0,0,0,0,8,0,7901,4,1,0.0,0,-2779,95,2874,53,True,0,Chelsea,Southampton,MID,0
+Moussa Sissoko,0,0,12,0,4.5,349,72,3,0,2.0,11.0,2019-10-05T11:30:00Z,90,0,0,0,0,8,0,145917,0,3,4.0,2,-9683,3545,13228,50,False,0,Brighton,Spurs,MID,0
+Muhamed Bešić,0,0,0,0,0.0,522,79,0,0,0.0,0.0,2019-10-05T14:00:00Z,0,0,0,0,0,8,0,11749,0,0,0.0,0,-351,301,652,45,False,0,Watford,Sheffield Utd,MID,0
+N'Golo Kanté,0,0,22,0,2.3,119,78,1,1,5.0,40.8,2019-10-06T13:00:00Z,90,0,0,0,0,8,0,330384,4,1,7.0,7,-18450,12300,30750,50,False,0,Southampton,Chelsea,MID,0
+Naby Keita,0,0,0,0,0.0,196,74,0,0,0.0,0.0,2019-10-05T14:00:00Z,0,0,0,0,0,8,0,12134,1,2,0.0,0,54,405,351,58,True,0,Leicester,Liverpool,MID,0
+Nacho Monreal,0,0,0,0,0.0,6,71,0,0,0.0,0.0,2019-10-06T13:00:00Z,0,0,0,0,0,8,0,23328,0,1,0.0,0,-2065,23,2088,50,True,0,Bournemouth,Arsenal,DEF,0
+Nampalys Mendy,0,0,0,0,0.0,179,74,0,0,0.0,0.0,2019-10-05T14:00:00Z,0,0,0,0,0,8,0,55355,1,2,0.0,0,-1101,2965,4066,44,False,0,Liverpool,Leicester,MID,0
+Nathaniel Chalobah,0,0,0,0,0.0,374,79,0,0,0.0,0.0,2019-10-05T14:00:00Z,0,0,0,0,0,8,0,13810,0,0,0.0,0,-557,229,786,45,True,0,Sheffield Utd,Watford,MID,0
+Nathan Aké,0,0,19,0,10.3,59,71,1,0,3.4,23.8,2019-10-06T13:00:00Z,90,0,0,0,0,8,0,822665,0,1,0.0,2,8096,30720,22624,49,False,0,Arsenal,Bournemouth,DEF,0
+Nathan Redmond,0,0,6,0,2.3,320,78,3,0,1.2,0.4,2019-10-06T13:00:00Z,80,0,0,0,0,8,0,51030,4,1,9.0,2,-1083,1803,2886,63,True,0,Chelsea,Southampton,MID,0
+Neal Maupay,0,1,35,1,24.0,502,72,0,1,14.3,45.4,2019-10-05T11:30:00Z,90,0,0,0,0,8,0,36236,0,3,74.0,7,-2986,1838,4824,60,True,0,Spurs,Brighton,FWD,0
+Neil Taylor,0,0,0,0,0.0,24,77,0,0,0.0,0.0,2019-10-05T14:00:00Z,0,0,0,0,0,8,0,23469,5,1,0.0,0,-1439,623,2062,45,False,0,Norwich,Aston Villa,DEF,0
+Nemanja Matic,0,0,0,0,0.0,247,76,0,0,0.0,0.0,2019-10-06T15:30:00Z,0,0,0,0,0,8,0,29451,0,1,0.0,0,-1022,949,1971,48,False,0,Newcastle,Man Utd,MID,0
+Nick Pope,0,1,25,1,0.0,93,73,0,0,1.4,14.4,2019-10-05T14:00:00Z,90,0,0,0,0,8,2,1025339,0,1,0.0,7,29005,45631,16626,46,True,0,Everton,Burnley,GK,0
+Nicolas Pépé,1,0,16,1,19.6,488,71,0,0,4.6,18.2,2019-10-06T13:00:00Z,62,0,0,0,0,8,0,231705,0,1,8.0,6,-4072,21682,25754,93,True,0,Bournemouth,Arsenal,MID,0
+Nicolás Otamendi,0,0,15,0,1.4,208,75,2,0,2.5,16.0,2019-10-06T13:00:00Z,90,0,0,0,0,8,0,578044,2,0,8.0,1,87662,108813,21151,56,True,0,Wolves,Man City,DEF,0
+Oleksandr Zinchenko,0,0,12,0,49.0,206,75,2,0,8.1,16.4,2019-10-06T13:00:00Z,45,0,0,0,0,8,0,614463,2,0,16.0,0,-45870,12108,57978,55,True,0,Wolves,Man City,DEF,0
+Oliver McBurnie,0,0,2,1,14.3,501,79,0,0,2.8,5.4,2019-10-05T14:00:00Z,61,0,0,0,0,8,0,10919,0,0,8.0,1,1499,2486,987,59,False,1,Watford,Sheffield Utd,FWD,0
+Oliver Norwood,0,0,18,1,43.0,302,79,0,0,7.7,32.0,2019-10-05T14:00:00Z,90,0,0,0,0,8,0,18835,0,0,2.0,3,1327,2735,1408,49,False,0,Watford,Sheffield Utd,MID,0
+Oliver Skipp,0,0,0,0,0.0,352,72,0,0,0.0,0.0,2019-10-05T11:30:00Z,0,0,0,0,0,8,0,34685,0,3,0.0,0,876,3055,2179,44,False,0,Brighton,Spurs,MID,0
+Olivier Giroud,0,0,0,0,0.0,110,78,0,0,0.0,0.0,2019-10-06T13:00:00Z,0,0,0,0,0,8,0,79594,4,1,0.0,0,-4740,331,5071,67,False,0,Southampton,Chelsea,FWD,0
+Onel Hernández,0,0,0,0,0.0,284,77,0,0,0.0,0.0,2019-10-05T14:00:00Z,0,0,0,0,0,8,0,3529,5,1,0.0,0,-210,9,219,53,True,0,Aston Villa,Norwich,MID,0
+Oriol Romeu,0,0,10,0,4.8,328,78,4,0,3.6,13.6,2019-10-06T13:00:00Z,90,0,0,0,0,8,0,80708,4,1,18.0,2,-829,4234,5063,45,True,0,Chelsea,Southampton,MID,0
+Pablo Fornals,0,0,3,0,0.8,399,80,1,0,0.1,0.2,2019-10-05T16:30:00Z,22,0,0,0,0,8,0,23427,2,1,0.0,1,-1251,303,1554,61,True,0,Crystal Palace,West Ham,MID,0
+Pablo Zabaleta,0,0,4,0,0.5,379,80,1,0,0.4,3.4,2019-10-05T16:30:00Z,6,0,0,0,0,8,0,38416,2,1,0.0,1,-1434,540,1974,44,True,0,Crystal Palace,West Ham,DEF,0
+Pascal Groß,0,0,15,1,58.0,49,72,0,0,11.0,22.4,2019-10-05T11:30:00Z,90,0,0,0,0,8,0,40508,0,3,30.0,3,-3315,1010,4325,64,True,0,Spurs,Brighton,MID,0
+Patrick Cutrone,0,0,-3,1,1.5,487,75,0,0,1.2,0.0,2019-10-06T13:00:00Z,67,0,0,0,0,8,0,46443,2,0,11.0,2,-2499,1070,3569,57,False,0,Man City,Wolves,FWD,0
+Patrick Roberts,0,0,4,0,0.3,435,77,1,0,0.2,1.4,2019-10-05T14:00:00Z,14,0,0,0,0,8,0,4449,5,1,0.0,1,-154,91,245,53,True,0,Aston Villa,Norwich,MID,0
+Patrick van Aanholt,0,1,26,0,24.3,123,80,1,1,8.6,44.4,2019-10-05T16:30:00Z,90,0,0,0,0,8,0,781601,2,1,17.0,9,-6168,23246,29414,56,False,0,West Ham,Crystal Palace,DEF,0
+Paulo Gazzaniga,0,0,19,0,0.0,341,72,2,0,2.3,22.6,2019-10-05T11:30:00Z,82,0,0,0,0,8,3,18246,0,3,0.0,2,-263,511,774,44,False,0,Brighton,Spurs,GK,0
+Paul Dummett,0,0,0,0,0.0,255,76,0,0,0.0,0.0,2019-10-06T15:30:00Z,0,0,0,0,0,8,0,22985,0,1,0.0,0,-1826,415,2241,45,True,0,Man Utd,Newcastle,DEF,0
+Paul Pogba,0,0,0,0,0.0,238,76,0,0,0.0,0.0,2019-10-06T15:30:00Z,0,0,0,0,0,8,0,274375,0,1,0.0,0,-16579,4021,20600,84,False,0,Newcastle,Man Utd,MID,0
+Pedro Neto,0,0,0,0,0.0,528,75,0,0,0.0,0.0,2019-10-06T13:00:00Z,0,0,0,0,0,8,0,2906,2,0,0.0,0,104,295,191,50,False,0,Man City,Wolves,MID,0
+Pedro Obiang,0,0,0,0,0.0,400,80,0,0,0.0,0.0,2019-10-05T16:30:00Z,0,0,0,0,0,8,0,3435,2,1,0.0,0,-158,22,180,45,True,0,Crystal Palace,West Ham,MID,0
+Pedro Rodríguez Ledesma,0,0,0,0,0.0,114,78,0,0,0.0,0.0,2019-10-06T13:00:00Z,0,0,0,0,0,8,0,100028,4,1,0.0,0,-2547,1685,4232,69,False,0,Southampton,Chelsea,MID,0
+Philip Billing,0,0,12,0,1.5,476,71,1,0,2.7,22.0,2019-10-06T13:00:00Z,90,0,0,0,0,8,0,12128,0,1,3.0,1,-118,980,1098,50,False,1,Arsenal,Bournemouth,MID,0
+Philip Heise,0,0,0,0,0.0,484,77,0,0,0.0,0.0,2019-10-05T14:00:00Z,0,0,0,0,0,8,0,52897,5,1,0.0,0,-941,1397,2338,40,True,0,Aston Villa,Norwich,DEF,0
+Phil Bardsley,0,0,0,0,0.0,86,73,0,0,0.0,0.0,2019-10-05T14:00:00Z,0,0,0,0,0,8,0,9626,0,1,0.0,0,-355,96,451,44,True,0,Everton,Burnley,DEF,0
+Phil Foden,0,0,0,0,0.0,220,75,0,0,0.0,0.0,2019-10-06T13:00:00Z,0,0,0,0,0,8,0,22364,2,0,0.0,0,-637,512,1149,52,True,0,Wolves,Man City,MID,0
+Phil Jagielka,0,0,0,0,0.0,444,79,0,0,0.0,0.0,2019-10-05T14:00:00Z,0,0,0,0,0,8,0,30386,0,0,0.0,0,-1236,597,1833,43,False,0,Watford,Sheffield Utd,DEF,0
+Phil Jones,0,0,0,0,0.0,231,76,0,0,0.0,0.0,2019-10-06T15:30:00Z,0,0,0,0,0,8,0,9782,0,1,0.0,0,-1050,19,1069,48,False,0,Newcastle,Man Utd,DEF,0
+Pierre-Emerick Aubameyang,0,0,0,1,12.8,11,71,0,0,6.1,1.0,2019-10-06T13:00:00Z,90,0,0,0,0,8,0,1829633,0,1,47.0,2,201560,219717,18157,110,True,0,Bournemouth,Arsenal,FWD,0
+Pierre-Emile Højbjerg,0,0,12,0,30.2,325,78,4,0,3.8,6.4,2019-10-06T13:00:00Z,90,0,0,0,0,8,0,30060,4,1,1.0,2,-913,1527,2440,48,True,0,Chelsea,Southampton,MID,0
+Pontus Dahlberg,0,0,0,0,0.0,367,79,0,0,0.0,0.0,2019-10-05T14:00:00Z,0,0,0,0,0,8,0,9504,0,0,0.0,0,-159,60,219,44,True,0,Sheffield Utd,Watford,GK,0
+Rachid Ghezzal,0,0,0,0,0.0,173,74,0,0,0.0,0.0,2019-10-05T14:00:00Z,0,0,0,0,0,8,0,2597,1,2,0.0,0,-184,7,191,53,False,0,Liverpool,Leicester,MID,0
+Rafael Camacho,0,0,0,0,0.0,201,74,0,0,0.0,0.0,2019-10-05T14:00:00Z,0,0,0,0,0,8,0,426,1,2,0.0,0,-9,15,24,45,True,0,Leicester,Liverpool,MID,0
+Raheem Sterling,0,0,11,0,18.1,214,75,2,0,7.9,12.0,2019-10-06T13:00:00Z,90,0,0,0,0,8,0,2660322,2,0,49.0,2,30421,114576,84155,121,True,0,Wolves,Man City,MID,0
+Ralf Fahrmann,0,0,0,0,0.0,449,77,0,0,0.0,0.0,2019-10-05T14:00:00Z,0,0,0,0,0,8,0,26655,5,1,0.0,0,-925,203,1128,44,True,0,Aston Villa,Norwich,GK,0
+Ravel Morrison,0,0,0,0,0.0,456,79,0,0,0.0,0.0,2019-10-05T14:00:00Z,0,0,0,0,0,8,0,6931,0,0,0.0,0,-502,94,596,48,False,0,Watford,Sheffield Utd,MID,0
+Raúl Jiménez,2,2,31,1,31.0,409,75,0,0,10.3,41.8,2019-10-06T13:00:00Z,90,0,0,0,0,8,0,573994,2,0,30.0,10,-91022,3918,94940,72,False,0,Man City,Wolves,FWD,0
+Reece James,0,0,0,0,0.0,506,78,0,0,0.0,0.0,2019-10-06T13:00:00Z,0,0,0,0,0,8,0,7221,4,1,0.0,0,624,1394,770,50,False,0,Southampton,Chelsea,DEF,0
+Reiss Nelson,0,0,0,0,0.0,489,71,0,0,0.0,0.0,2019-10-06T13:00:00Z,0,0,0,0,0,8,0,8869,0,1,0.0,0,-450,221,671,53,True,0,Bournemouth,Arsenal,MID,0
+Rhian Brewster,0,0,0,0,0.0,464,74,0,0,0.0,0.0,2019-10-05T14:00:00Z,0,0,0,0,0,8,0,42199,1,2,0.0,0,-1900,2017,3917,44,True,0,Leicester,Liverpool,FWD,0
+Ricardo Pereira,0,0,16,0,3.3,159,74,2,0,2.8,24.6,2019-10-05T14:00:00Z,90,0,0,0,0,8,0,557518,1,2,0.0,1,100487,118981,18494,61,False,0,Liverpool,Leicester,DEF,0
+Richard Stearman,0,0,0,0,0.0,296,79,0,0,0.0,0.0,2019-10-05T14:00:00Z,0,0,0,0,0,8,0,183671,0,0,0.0,0,-2252,4123,6375,40,False,0,Watford,Sheffield Utd,DEF,0
+Richarlison de Andrade,0,0,14,0,11.4,150,73,1,0,7.1,16.8,2019-10-05T14:00:00Z,90,0,0,0,0,8,0,487873,0,1,43.0,2,-22746,28383,51129,79,False,0,Burnley,Everton,MID,0
+Riyad Mahrez,0,0,1,0,4.9,217,75,0,0,2.6,0.0,2019-10-06T13:00:00Z,59,0,0,0,0,8,0,663694,2,0,22.0,1,429862,441634,11772,86,True,0,Wolves,Man City,MID,0
+Robbie Brady,0,0,0,0,0.0,98,73,0,0,0.0,0.0,2019-10-05T14:00:00Z,0,0,0,0,0,8,0,1721,0,1,0.0,0,5,99,94,55,True,0,Everton,Burnley,MID,0
+Robert Kenedy Nunes do Nascimento,0,0,0,0,0.0,462,78,0,0,0.0,0.0,2019-10-06T13:00:00Z,0,0,0,0,0,8,0,2776,4,1,0.0,0,-140,14,154,53,False,0,Southampton,Chelsea,MID,0
+Roberto Firmino,0,0,10,1,26.5,187,74,0,0,7.2,4.4,2019-10-05T14:00:00Z,77,0,0,0,0,8,0,929756,1,2,41.0,2,-20346,39174,59520,96,True,0,Leicester,Liverpool,FWD,0
+Roberto Jimenez Gago,0,0,10,0,0.0,450,80,2,0,0.7,7.0,2019-10-05T16:30:00Z,90,0,0,0,0,8,1,38263,2,1,0.0,1,17973,19150,1177,44,True,0,Crystal Palace,West Ham,GK,0
+Roberto Pereyra,0,0,9,1,13.0,369,79,0,0,3.4,8.6,2019-10-05T14:00:00Z,90,0,0,0,0,8,0,70850,0,0,12.0,3,-4468,2208,6676,57,True,0,Sheffield Utd,Watford,MID,0
+Robert Snodgrass,0,0,0,0,0.0,393,80,0,0,0.0,0.0,2019-10-05T16:30:00Z,0,0,0,0,0,8,0,11299,2,1,0.0,0,-708,119,827,53,True,0,Crystal Palace,West Ham,MID,0
+Rob Holding,0,0,0,0,0.0,10,71,0,0,0.0,0.0,2019-10-06T13:00:00Z,0,0,0,0,0,8,0,10597,0,1,0.0,0,1037,1770,733,45,True,0,Bournemouth,Arsenal,DEF,0
+Rodri,0,0,14,0,50.2,443,75,2,0,7.3,18.4,2019-10-06T13:00:00Z,90,0,0,0,0,8,0,113681,2,0,4.0,1,-2196,9684,11880,55,True,1,Wolves,Man City,MID,0
+Rolando Aarons,0,0,0,0,0.0,499,76,0,0,0.0,0.0,2019-10-06T15:30:00Z,0,0,0,0,0,8,0,2671,0,1,0.0,0,-160,9,169,49,True,0,Man Utd,Newcastle,MID,0
+Romain Saïss,0,0,4,0,0.0,407,75,0,0,0.5,5.0,2019-10-06T13:00:00Z,12,0,0,0,0,8,0,33199,2,0,0.0,1,1483,3552,2069,44,False,0,Man City,Wolves,DEF,0
+Romelu Lukaku,0,0,0,0,0.0,232,76,0,0,0.0,0.0,2019-10-06T15:30:00Z,0,0,0,0,0,8,0,24075,0,1,0.0,0,-338,64,402,85,False,0,Newcastle,Man Utd,FWD,0
+Ross Barkley,0,0,0,0,0.0,117,78,0,0,0.0,0.0,2019-10-06T13:00:00Z,0,0,0,0,0,8,0,134527,4,1,0.0,0,-7545,2246,9791,56,False,0,Southampton,Chelsea,MID,0
+Ruben Loftus-Cheek,0,0,0,0,0.0,115,78,0,0,0.0,0.0,2019-10-06T13:00:00Z,0,0,0,0,0,8,0,3983,4,1,0.0,0,-117,46,163,64,False,0,Southampton,Chelsea,MID,0
+Rui Patrício,0,0,26,1,0.0,411,75,0,0,1.2,11.6,2019-10-06T13:00:00Z,90,0,0,0,0,8,2,625678,2,0,0.0,6,15987,41604,25617,51,False,0,Man City,Wolves,GK,0
+Ryan Bennett,0,0,21,1,0.2,404,75,0,0,1.9,19.0,2019-10-06T13:00:00Z,77,0,0,0,0,8,0,31912,2,0,0.0,6,-3383,225,3608,49,False,0,Man City,Leicester,DEF,0
+Ryan Bertrand,0,0,5,0,10.9,305,78,4,0,2.2,10.6,2019-10-06T13:00:00Z,90,0,0,0,0,8,0,41721,4,1,0.0,0,-1253,627,1880,49,True,0,Chelsea,Southampton,DEF,0
+Ryan Fraser,0,0,4,0,16.0,75,71,0,0,4.0,6.4,2019-10-06T13:00:00Z,27,0,0,0,0,8,0,290980,0,1,18.0,1,-93055,728,93783,71,False,0,Arsenal,Bournemouth,MID,0
+Ryan Fredericks,1,0,22,0,57.3,380,80,2,0,10.0,40.6,2019-10-05T16:30:00Z,90,0,0,0,0,8,0,72194,2,1,2.0,3,25761,29701,3940,45,True,1,Crystal Palace,West Ham,DEF,0
+Ryan Sessegnon,0,0,0,0,0.0,524,72,0,0,0.0,0.0,2019-10-05T11:30:00Z,0,0,0,0,0,8,0,4625,0,3,0.0,0,-428,16,444,54,False,0,Brighton,Spurs,MID,0
+Rúben Neves,0,0,6,1,0.7,414,75,0,0,1.4,13.4,2019-10-06T13:00:00Z,90,0,0,0,0,8,0,452169,2,0,0.0,2,-59260,3654,62914,54,False,1,Man City,Wolves,MID,0
+Rúben Vinagre,0,0,19,1,0.3,406,75,0,0,1.5,9.0,2019-10-06T13:00:00Z,73,0,0,0,0,8,0,14291,2,0,6.0,6,-792,83,875,44,False,0,Man City,Wolves,DEF,0
+Sadio Mané,1,2,35,0,16.5,192,74,1,1,11.3,51.6,2019-10-05T14:00:00Z,90,0,0,0,0,8,0,1499465,1,2,45.0,12,25505,88004,62499,116,True,0,Leicester,Liverpool,MID,0
+Sam Byram,0,0,0,0,0.0,454,77,0,0,0.0,0.0,2019-10-05T14:00:00Z,0,0,0,0,0,8,0,9958,5,1,0.0,0,-494,224,718,44,True,0,Aston Villa,Norwich,DEF,0
+Sam Gallagher,0,0,0,0,0.0,316,78,0,0,0.0,0.0,2019-10-06T13:00:00Z,0,0,0,0,0,8,0,3039,4,1,0.0,0,-107,56,163,45,True,0,Chelsea,Southampton,FWD,0
+Sam Surridge,0,0,0,0,0.0,71,71,0,0,0.0,0.0,2019-10-06T13:00:00Z,0,0,0,0,0,8,0,43700,0,1,0.0,0,-2096,1062,3158,44,False,0,Arsenal,Bournemouth,FWD,0
+Scott Dann,0,0,0,0,0.0,127,80,0,0,0.0,0.0,2019-10-05T16:30:00Z,0,0,0,0,0,8,0,15007,2,1,0.0,0,-794,157,951,44,False,0,West Ham,Crystal Palace,DEF,0
+Scott McTominay,0,0,7,0,13.6,248,76,1,0,4.8,12.2,2019-10-06T15:30:00Z,90,0,0,0,0,8,0,141419,0,1,22.0,1,38759,46526,7767,50,False,1,Newcastle,Man Utd,MID,0
+Sead Kolasinac,0,1,25,1,2.0,3,71,0,0,1.0,8.4,2019-10-06T13:00:00Z,90,0,0,0,0,8,0,58669,0,1,0.0,7,1665,4804,3139,54,True,0,Bournemouth,Arsenal,DEF,0
+Seamus Coleman,0,0,-4,0,11.8,144,73,1,0,1.5,1.4,2019-10-05T14:00:00Z,55,0,0,0,1,8,0,177153,0,1,2.0,-2,2384,9998,7614,54,False,0,Burnley,Everton,DEF,0
+Sean Longstaff,0,0,16,1,48.0,270,76,0,0,7.7,22.2,2019-10-06T15:30:00Z,90,0,0,0,0,8,0,25224,0,1,7.0,3,-1293,284,1577,50,True,0,Man Utd,Newcastle,MID,0
+Sebastian Prödl,0,0,3,0,0.1,361,79,0,0,1.0,1.8,2019-10-05T14:00:00Z,56,0,0,0,0,8,0,116086,0,0,8.0,1,-2175,2173,4348,40,True,0,Sheffield Utd,Watford,DEF,0
+Serge Aurier,0,0,0,0,0.0,336,72,0,0,0.0,0.0,2019-10-05T11:30:00Z,0,0,0,0,0,8,0,131430,0,3,0.0,0,-115555,1285,116840,49,False,0,Brighton,Spurs,DEF,0
+Sergio Agüero,0,0,7,0,12.6,210,75,2,0,5.9,0.2,2019-10-06T13:00:00Z,90,0,0,0,0,8,0,2035032,2,0,46.0,2,-11107,64889,75996,122,True,0,Wolves,Man City,FWD,0
+Sergio Romero,0,0,0,0,0.0,236,76,0,0,0.0,0.0,2019-10-06T15:30:00Z,0,0,0,0,0,8,0,11544,0,1,0.0,0,-194,99,293,48,False,0,Newcastle,Man Utd,GK,0
+Shane Duffy,0,0,0,0,0.0,37,72,0,0,0.0,0.0,2019-10-05T11:30:00Z,0,0,0,0,0,8,0,91824,0,3,0.0,0,-24246,23,24269,49,True,0,Spurs,Brighton,DEF,0
+Shane Long,0,0,7,0,1.8,315,78,3,0,0.8,4.2,2019-10-06T13:00:00Z,72,0,0,0,0,8,0,177507,4,1,2.0,2,-8172,3884,12056,47,True,0,Chelsea,Southampton,FWD,0
+Shkodran Mustafi,0,0,0,0,0.0,1,71,0,0,0.0,0.0,2019-10-06T13:00:00Z,0,0,0,0,0,8,0,25277,0,1,0.0,0,-691,393,1084,53,True,0,Bournemouth,Arsenal,DEF,0
+Simon Francis,0,0,6,0,0.3,62,71,0,0,0.9,8.6,2019-10-06T13:00:00Z,11,0,0,0,0,8,0,788,0,1,0.0,1,102,160,58,44,False,0,Arsenal,Bournemouth,DEF,0
+Simon Mignolet,0,0,0,0,0.0,190,74,0,0,0.0,0.0,2019-10-05T14:00:00Z,0,0,0,0,0,8,0,2638,1,2,0.0,0,-58,14,72,45,True,0,Leicester,Liverpool,GK,0
+Simon Moore,0,0,0,0,0.0,436,79,0,0,0.0,0.0,2019-10-05T14:00:00Z,0,0,0,0,0,8,0,6185,0,0,0.0,0,-105,66,171,44,False,0,Watford,Sheffield Utd,GK,0
+Sofiane Boufal,0,0,1,0,0.3,508,78,1,0,0.1,1.0,2019-10-06T13:00:00Z,9,0,0,0,0,8,0,11398,4,1,0.0,1,-154,1379,1533,55,True,0,Chelsea,Southampton,MID,0
+Sokratis Papastathopoulos,0,0,24,1,0.7,5,71,0,0,1.8,17.6,2019-10-06T13:00:00Z,90,0,0,0,0,8,0,125237,0,1,0.0,6,-728,5475,6203,50,True,0,Bournemouth,Arsenal,DEF,0
+Solly March,0,0,0,0,0.0,55,72,0,0,0.0,0.0,2019-10-05T11:30:00Z,0,0,0,0,0,8,0,29095,0,3,0.0,0,-4784,649,5433,49,True,0,Spurs,Brighton,MID,0
+Steven Alzate,0,0,14,1,3.8,537,72,0,0,1.8,11.8,2019-10-05T11:30:00Z,87,0,0,0,0,8,0,2069,0,3,2.0,3,547,801,254,45,True,0,Spurs,Brighton,MID,0
+Steven Defour,0,0,0,0,0.0,99,73,0,0,0.0,0.0,2019-10-05T14:00:00Z,0,0,0,0,0,8,0,254,0,1,0.0,0,-9,14,23,55,True,0,Everton,Burnley,MID,0
+Steve Cook,0,0,15,0,0.3,58,71,1,0,2.6,21.2,2019-10-06T13:00:00Z,90,0,0,0,0,8,0,15929,0,1,4.0,2,-866,495,1361,50,False,0,Arsenal,Bournemouth,DEF,0
+Stuart Armstrong,0,0,0,0,0.0,323,78,0,0,0.0,0.0,2019-10-06T13:00:00Z,0,0,0,0,0,8,0,6951,4,1,0.0,0,-327,62,389,53,True,0,Chelsea,Southampton,MID,0
+Sung-yueng Ki,0,0,0,0,0.0,268,76,0,0,0.0,0.0,2019-10-06T15:30:00Z,0,0,0,0,0,8,0,4194,0,1,0.0,0,-159,68,227,48,True,0,Man Utd,Newcastle,MID,0
+Sébastien Haller,0,0,21,0,3.9,457,80,2,1,9.2,33.8,2019-10-05T16:30:00Z,90,0,0,0,0,8,0,351938,2,1,54.0,5,3306,29254,25948,74,True,1,Crystal Palace,West Ham,FWD,0
+Tahith Chong,0,0,1,0,0.1,249,76,0,0,0.0,0.0,2019-10-06T15:30:00Z,4,0,0,0,0,8,0,46602,0,1,0.0,1,-2721,1185,3906,44,False,0,Newcastle,Man Utd,MID,0
+Tammy Abraham,0,2,28,0,10.3,460,78,1,1,8.6,40.2,2019-10-06T13:00:00Z,83,0,0,0,0,8,0,2673073,4,1,35.0,8,153693,223319,69626,76,False,0,Southampton,Chelsea,FWD,0
+Tanguy Ndombele,0,0,5,0,0.9,442,72,2,0,1.2,10.8,2019-10-05T11:30:00Z,45,0,0,0,0,8,0,296057,0,3,0.0,1,30280,37951,7671,60,False,0,Brighton,Spurs,MID,0
+Teemu Pukki,0,0,3,0,31.1,278,77,5,0,10.4,2.4,2019-10-05T14:00:00Z,83,0,0,0,0,8,0,3058138,5,1,70.0,1,-29575,113232,142807,72,True,1,Aston Villa,Norwich,FWD,0
+Theo Walcott,0,0,0,0,0.0,153,73,0,0,0.0,0.0,2019-10-05T14:00:00Z,0,0,0,0,0,8,0,29806,0,1,0.0,0,-2263,295,2558,62,False,0,Burnley,Everton,MID,0
+Timm Klose,0,0,0,0,0.0,272,77,0,0,0.0,0.0,2019-10-05T14:00:00Z,0,0,0,0,0,8,0,2701,5,1,0.0,0,-180,11,191,44,True,0,Aston Villa,Norwich,DEF,0
+Tim Krul,0,0,0,0,0.0,280,77,0,0,0.0,0.0,2019-10-05T14:00:00Z,0,0,0,0,0,8,0,78486,5,1,0.0,0,-9816,142,9958,45,True,0,Aston Villa,Norwich,GK,0
+Toby Alderweireld,0,0,16,0,2.0,331,72,3,0,3.4,29.8,2019-10-05T11:30:00Z,90,0,0,0,0,8,0,491057,0,3,2.0,1,-6049,18015,24064,55,False,0,Brighton,Spurs,DEF,0
+Todd Cantwell,0,0,15,0,37.3,287,77,4,0,10.7,21.0,2019-10-05T14:00:00Z,79,0,0,0,0,8,0,1767780,5,1,49.0,2,-107698,57897,165595,50,True,0,Aston Villa,Norwich,MID,0
+Tom Cleverley,0,0,12,1,28.7,371,79,0,0,4.0,9.4,2019-10-05T14:00:00Z,90,0,0,0,0,8,0,20008,0,0,2.0,3,3541,5555,2014,49,True,0,Sheffield Utd,Watford,MID,0
+Tom Davies,0,0,0,0,0.0,154,73,0,0,0.0,0.0,2019-10-05T14:00:00Z,0,0,0,0,0,8,0,7526,0,1,0.0,0,-209,117,326,53,False,0,Burnley,Everton,MID,0
+Tom Heaton,0,0,16,0,0.0,94,77,1,0,2.8,28.2,2019-10-05T14:00:00Z,90,0,0,0,0,8,4,461480,5,1,0.0,3,-6383,7823,14206,45,False,0,Norwich,Aston Villa,GK,0
+Tom Trybull,0,0,0,0,0.0,290,77,0,0,0.0,0.0,2019-10-05T14:00:00Z,0,0,0,0,0,8,0,55146,5,1,0.0,0,-3967,47,4014,45,True,0,Aston Villa,Norwich,MID,0
+Trent Alexander-Arnold,0,1,27,0,69.1,182,74,1,0,11.1,34.2,2019-10-05T14:00:00Z,90,0,0,0,0,8,0,2048366,1,2,8.0,3,46507,72186,25679,72,True,0,Leicester,Liverpool,DEF,0
+Troy Deeney,0,0,0,0,0.0,362,79,0,0,0.0,0.0,2019-10-05T14:00:00Z,0,0,0,0,0,8,0,38881,0,0,0.0,0,-1882,69,1951,62,True,0,Sheffield Utd,Watford,FWD,0
+Troy Parrott,0,0,0,0,0.0,509,72,0,0,0.0,0.0,2019-10-05T11:30:00Z,0,0,0,0,0,8,0,65171,0,3,0.0,0,-3008,1308,4316,45,False,0,Brighton,Spurs,FWD,0
+Tudor Baluta,0,0,0,0,0.0,536,72,0,0,0.0,0.0,2019-10-05T11:30:00Z,0,0,0,0,0,8,0,10629,0,3,0.0,0,1343,2350,1007,40,True,0,Spurs,Brighton,DEF,0
+Tyreke Johnson,0,0,0,0,0.0,326,78,0,0,0.0,0.0,2019-10-06T13:00:00Z,0,0,0,0,0,8,0,1957,4,1,0.0,0,-271,77,348,44,True,0,Chelsea,Southampton,MID,0
+Tyrone Mings,0,0,7,0,0.3,445,77,1,0,2.9,26.4,2019-10-05T14:00:00Z,90,0,0,0,0,8,0,407771,5,1,2.0,2,-18208,6532,24740,46,False,0,Norwich,Aston Villa,DEF,0
+Vicente Guaita,0,0,16,0,0.0,131,80,1,0,3.4,34.2,2019-10-05T16:30:00Z,90,0,0,0,0,8,4,55737,2,1,0.0,3,11449,14352,2903,50,False,0,West Ham,Crystal Palace,GK,0
+Victor Lindelöf,0,0,0,0,0.0,225,76,0,0,0.0,0.0,2019-10-06T15:30:00Z,0,0,0,0,0,8,0,96960,0,1,0.0,0,1746,6533,4787,54,False,0,Newcastle,Man Utd,DEF,0
+Victor Wanyama,0,0,0,0,0.0,348,72,0,0,0.0,0.0,2019-10-05T11:30:00Z,0,0,0,0,0,8,0,6814,0,3,0.0,0,-129,213,342,49,False,0,Brighton,Spurs,MID,0
+Vincent Janssen,0,0,0,0,0.0,339,72,0,0,0.0,0.0,2019-10-05T11:30:00Z,0,0,0,0,0,8,0,6277,0,3,0.0,0,-162,101,263,45,False,0,Brighton,Spurs,FWD,0
+Virgil van Dijk,0,0,18,0,3.4,183,74,1,0,2.4,17.0,2019-10-05T14:00:00Z,90,0,0,0,0,8,0,3233186,1,2,4.0,2,-28162,35562,63724,65,True,0,Leicester,Liverpool,DEF,0
+Víctor Camarasa,0,0,0,0,0.0,510,80,0,0,0.0,0.0,2019-10-05T16:30:00Z,0,0,0,0,0,8,0,17687,2,1,0.0,0,-1257,291,1548,47,False,0,West Ham,Crystal Palace,MID,0
+Wayne Hennessey,0,0,0,0,0.0,132,80,0,0,0.0,0.0,2019-10-05T16:30:00Z,0,0,0,0,0,8,0,47612,2,1,0.0,0,-1565,448,2013,44,False,0,West Ham,Crystal Palace,GK,0
+Wesley Hoedt,0,0,0,0,0.0,485,78,0,0,0.0,0.0,2019-10-06T13:00:00Z,0,0,0,0,0,8,0,3245,4,1,0.0,0,-168,28,196,43,True,0,Chelsea,Southampton,DEF,0
+Wesley Moraes,1,3,50,0,15.9,428,77,1,2,23.6,97.4,2019-10-05T14:00:00Z,90,0,1,0,0,8,0,121676,5,1,123.0,14,-5838,9746,15584,60,False,0,Norwich,Aston Villa,FWD,0
+Wes Morgan,0,0,0,0,0.0,165,74,0,0,0.0,0.0,2019-10-05T14:00:00Z,0,0,0,0,0,8,0,55899,1,2,0.0,0,-2711,1008,3719,43,False,0,Liverpool,Leicester,DEF,0
+Wilfred Ndidi,0,0,14,0,4.8,176,74,2,0,2.2,16.8,2019-10-05T14:00:00Z,90,0,0,0,0,8,0,212842,1,2,0.0,1,9305,21180,11875,50,False,1,Liverpool,Leicester,MID,0
+Wilfried Zaha,0,0,9,0,14.9,133,80,1,0,4.0,12.8,2019-10-05T16:30:00Z,90,0,0,0,0,8,0,645427,2,1,12.0,2,-17620,17565,35185,68,False,0,West Ham,Crystal Palace,MID,0
+Willian,1,3,29,0,41.8,113,78,1,0,8.0,27.2,2019-10-06T13:00:00Z,90,0,0,0,0,8,0,94810,4,1,11.0,8,32510,37263,4753,70,False,0,Southampton,Chelsea,MID,0
+Willy Boly,0,1,29,1,0.3,405,75,0,0,3.7,36.6,2019-10-06T13:00:00Z,90,0,0,0,0,8,0,346249,2,0,0.0,7,-6266,8696,14962,50,False,0,Man City,Wolves,DEF,0
+Willy Caballero,0,0,0,0,0.0,112,78,0,0,0.0,0.0,2019-10-06T13:00:00Z,0,0,0,0,0,8,0,15028,4,1,0.0,0,-324,169,493,49,False,0,Southampton,Chelsea,GK,0
+Will Hughes,0,0,0,0,0.0,370,79,0,0,0.0,0.0,2019-10-05T14:00:00Z,0,0,0,0,0,8,0,47161,0,0,0.0,0,-7401,1699,9100,55,True,0,Sheffield Utd,Watford,MID,0
+Will Norris,0,0,0,0,0.0,413,75,0,0,0.0,0.0,2019-10-06T13:00:00Z,0,0,0,0,0,8,0,49033,2,0,0.0,0,-487,927,1414,40,False,0,Man City,Wolves,GK,0
+Winston Reid,0,0,0,0,0.0,383,80,0,0,0.0,0.0,2019-10-05T16:30:00Z,0,0,0,0,0,8,0,223925,2,1,0.0,0,7640,18130,10490,39,True,0,Crystal Palace,West Ham,DEF,0
+Xherdan Shaqiri,0,0,0,0,0.0,194,74,0,0,0.0,0.0,2019-10-05T14:00:00Z,0,0,0,0,0,8,0,18689,1,2,0.0,0,-1774,29,1803,63,True,0,Leicester,Liverpool,MID,0
+Yan Valery,1,0,20,0,1.0,306,78,4,0,2.3,20.4,2019-10-06T13:00:00Z,90,0,0,0,0,8,0,15293,4,1,2.0,3,-1216,170,1386,48,True,0,Chelsea,Southampton,DEF,0
+Yerry Mina,0,0,13,0,0.4,142,73,1,0,2.2,17.4,2019-10-05T14:00:00Z,90,0,0,0,0,8,0,236821,0,1,4.0,2,-22796,4302,27098,55,False,0,Burnley,Everton,DEF,0
+Yoshinori Muto,0,0,0,0,0.0,260,76,0,0,0.0,0.0,2019-10-06T15:30:00Z,0,0,0,0,0,8,0,7811,0,1,0.0,0,-206,334,540,53,True,0,Man Utd,Newcastle,FWD,0
+Youri Tielemans,0,0,5,0,4.3,448,74,2,0,1.1,6.2,2019-10-05T14:00:00Z,90,0,0,0,0,8,0,289483,1,2,0.0,2,-22252,11951,34203,64,False,0,Liverpool,Leicester,MID,0
+Yves Bissouma,0,0,5,0,0.4,53,72,0,0,0.3,2.4,2019-10-05T11:30:00Z,10,0,0,0,0,8,0,536,0,3,0.0,1,22,72,50,50,True,0,Spurs,Brighton,MID,0
+Çaglar Söyüncü,0,0,14,0,0.4,164,74,2,0,2.2,21.4,2019-10-05T14:00:00Z,90,0,0,0,0,8,0,446314,1,2,0.0,0,29357,46678,17321,46,False,1,Liverpool,Leicester,DEF,0
+Ørjan Nyland,0,0,0,0,0.0,27,77,0,0,0.0,0.0,2019-10-05T14:00:00Z,0,0,0,0,0,8,0,10910,5,1,0.0,0,-337,97,434,44,False,0,Norwich,Aston Villa,GK,0

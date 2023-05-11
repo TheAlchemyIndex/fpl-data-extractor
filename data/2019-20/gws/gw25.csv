@@ -1,620 +1,620 @@
-name,assists,bonus,bps,clean_sheets,creativity,element,fixture,goals_conceded,goals_scored,ict_index,influence,kickoff_time,minutes,own_goals,penalties_missed,penalties_saved,red_cards,round,saves,selected,team_a_score,team_h_score,threat,total_points,transfers_balance,transfers_in,transfers_out,value,was_home,yellow_cards,opponent_team,team,position,web_name
-Aaron Connolly,0,0,0,0,0.0,534,250,0,0,0.0,0.0,2020-02-01T15:00:00Z,0,0,0,0,0,25,0,90839,3,3,0.0,0,-2387,7248,9635,43,False,0,West Ham,Brighton,FWD,Connolly
-Aaron Cresswell,0,0,15,0,16.8,376,250,3,0,3.1,13.8,2020-02-01T15:00:00Z,90,0,0,0,0,25,0,108858,3,3,0.0,1,-5291,4660,9951,47,True,0,Brighton,West Ham,DEF,Cresswell
-Aaron Lennon,0,0,0,0,0.0,430,242,0,0,0.0,0.0,2020-02-02T14:00:00Z,0,0,0,0,0,25,0,6265,0,0,0.0,0,29,179,150,46,True,0,Arsenal,Burnley,MID,Lennon
-Aaron Mooy,0,0,1,0,3.1,516,250,3,0,3.8,2.6,2020-02-01T15:00:00Z,71,0,0,0,0,25,0,56204,3,3,32.0,2,11851,17562,5711,48,False,0,West Ham,Brighton,MID,Mooy
-Aaron Ramsdale,0,0,17,0,0.0,494,241,1,0,2.3,22.6,2020-02-01T15:00:00Z,90,0,0,0,0,25,4,310886,1,2,0.0,3,-13927,8519,22446,47,True,0,Aston Villa,Bournemouth,GK,Ramsdale
-Aaron Wan-Bissaka,0,3,31,1,32.8,122,246,0,0,6.7,34.0,2020-02-01T17:30:00Z,90,0,0,0,0,25,0,1000671,0,0,0.0,9,-18807,7133,25940,53,True,0,Wolves,Man Utd,DEF,Wan-Bissaka
-Abd-Al-Ali Morakinyo Olaposi Koiki,0,0,0,0,0.0,596,242,0,0,0.0,0.0,2020-02-02T14:00:00Z,0,0,0,0,0,25,0,763,0,0,0.0,0,100,178,78,40,True,0,Arsenal,Burnley,DEF,Koiki
-Abdoulaye Doucouré,0,0,1,0,14.6,368,249,3,0,3.9,0.0,2020-02-01T15:00:00Z,90,0,0,0,0,25,0,189010,3,2,28.0,2,181,25364,25183,57,True,0,Everton,Watford,MID,Doucouré
-Adama Traoré,0,0,8,1,30.4,417,246,0,0,6.4,9.4,2020-02-01T17:30:00Z,75,0,0,0,0,25,0,1543979,0,0,24.0,3,236611,284618,48007,58,False,0,Man Utd,Wolves,MID,Traoré
-Adam Idah,0,0,0,0,0.0,538,247,0,0,0.0,0.0,2020-02-01T15:00:00Z,0,0,0,0,0,25,0,9116,0,0,0.0,0,-427,303,730,44,False,0,Newcastle,Norwich,FWD,Idah
-Adam Lallana,0,0,3,0,0.0,195,245,0,0,0.2,2.0,2020-02-01T15:00:00Z,2,0,0,0,0,25,0,9145,0,4,0.0,1,-386,73,459,58,True,0,Southampton,Liverpool,MID,Lallana
-Adam Masina,0,0,20,0,15.8,355,249,3,1,8.8,51.6,2020-02-01T15:00:00Z,90,0,0,0,0,25,0,9021,3,2,21.0,6,2195,3084,889,43,True,1,Everton,Watford,DEF,Masina
-Adam Smith,0,0,10,0,13.1,63,241,1,0,3.5,18.0,2020-02-01T15:00:00Z,90,0,0,0,0,25,0,30734,1,2,4.0,2,-286,442,728,43,True,0,Aston Villa,Bournemouth,DEF,Adam Smith
-Adam Webster,0,0,12,0,0.4,493,250,3,0,1.5,14.8,2020-02-01T15:00:00Z,90,0,0,0,0,25,0,53643,3,3,0.0,1,-2919,3056,5975,44,False,0,West Ham,Brighton,DEF,Webster
-Addji Keaninkin Marc-Israel Guehi,0,0,0,0,0.0,545,244,0,0,0.0,0.0,2020-02-01T12:30:00Z,0,0,0,0,0,25,0,6100,2,2,0.0,0,-238,74,312,40,False,0,Leicester,Chelsea,DEF,Guehi
-Ademola Lookman,0,0,0,0,0.0,155,249,0,0,0.0,0.0,2020-02-01T15:00:00Z,0,0,0,0,0,25,0,457,3,2,0.0,0,-3,5,8,50,False,0,Watford,Everton,MID,Lookman
-Adrian Mariappa,0,0,9,0,1.3,356,249,3,0,0.8,6.2,2020-02-01T15:00:00Z,90,0,0,0,0,25,0,27372,3,2,0.0,1,2836,5251,2415,42,True,0,Everton,Watford,DEF,Mariappa
-Adrián San Miguel del Castillo,0,0,0,0,0.0,526,245,0,0,0.0,0.0,2020-02-01T15:00:00Z,0,0,0,0,0,25,0,142269,0,4,0.0,0,-3977,1545,5522,41,True,0,Southampton,Liverpool,GK,Adrián
-Ahmed El Mohamady,0,0,0,0,0.0,22,241,0,0,0.0,0.0,2020-02-01T15:00:00Z,0,0,0,0,0,25,0,66822,1,2,0.0,0,-1855,650,2505,42,False,0,Bournemouth,Aston Villa,DEF,El Mohamady
-Ainsley Maitland-Niles,0,0,0,0,0.0,4,242,0,0,0.0,0.0,2020-02-02T14:00:00Z,0,0,0,0,0,25,0,189613,0,0,0.0,0,-6757,2023,8780,46,False,0,Burnley,Arsenal,DEF,Maitland-Niles
-Akin Famewo,0,0,0,0,0.0,552,247,0,0,0.0,0.0,2020-02-01T15:00:00Z,0,0,0,0,0,25,0,4554,0,0,0.0,0,-231,27,258,40,False,0,Newcastle,Norwich,DEF,Famewo
-Albian Ajeti,0,0,0,0,0.0,514,250,0,0,0.0,0.0,2020-02-01T15:00:00Z,0,0,0,0,0,25,0,2706,3,3,0.0,0,-79,88,167,57,True,0,Brighton,West Ham,FWD,Ajeti
-Alexander Tettey,0,0,10,1,3.1,289,247,0,0,1.9,6.8,2020-02-01T15:00:00Z,85,0,0,0,0,25,0,25182,0,0,9.0,3,-1116,807,1923,45,False,0,Newcastle,Norwich,MID,Tettey
-Alexandre Nascimento Costa Silva,0,0,0,0,0.0,387,250,0,0,0.0,0.0,2020-02-01T15:00:00Z,0,0,0,0,0,25,0,63873,3,3,0.0,0,-725,1420,2145,43,True,0,Brighton,West Ham,FWD,Xande Silva
-Alexandre Lacazette,0,0,11,1,16.0,12,242,0,0,4.9,7.2,2020-02-02T14:00:00Z,88,0,0,0,0,25,0,157692,0,0,26.0,2,-1443,16182,17625,93,False,0,Burnley,Arsenal,FWD,Lacazette
-Alexis Sánchez,0,0,0,0,0.0,240,246,0,0,0.0,0.0,2020-02-01T17:30:00Z,0,0,0,0,0,25,0,28474,0,0,0.0,0,-63,57,120,68,True,0,Wolves,Man Utd,MID,Sánchez
-Alex Iwobi,0,0,7,0,13.5,17,249,2,0,1.8,2.0,2020-02-01T15:00:00Z,64,0,0,0,0,25,0,65940,3,2,2.0,2,-971,113,1084,56,False,0,Watford,Everton,MID,Iwobi
-Alex McCarthy,0,0,19,0,0.0,318,245,4,0,3.7,37.2,2020-02-01T15:00:00Z,90,0,0,0,0,25,5,252136,0,4,0.0,1,32986,47083,14097,44,False,0,Liverpool,Southampton,GK,McCarthy
-Alex Oxlade-Chamberlain,0,0,25,1,13.6,193,245,0,1,7.0,40.0,2020-02-01T15:00:00Z,72,0,0,0,0,25,0,45823,0,4,16.0,8,10225,12731,2506,62,True,0,Southampton,Liverpool,MID,Chamberlain
-Alfie Whiteman,0,0,0,0,0.0,543,248,0,0,0.0,0.0,2020-02-02T16:30:00Z,0,0,0,0,0,25,0,39767,0,2,0.0,0,-801,463,1264,40,True,0,Man City,Spurs,GK,Whiteman
-Alireza Jahanbakhsh,0,0,0,0,0.0,50,250,0,0,0.0,0.0,2020-02-01T15:00:00Z,0,0,0,0,0,25,0,9880,3,3,0.0,0,-1260,362,1622,58,False,0,West Ham,Brighton,MID,Jahanbakhsh
-Alisson Ramses Becker,0,1,33,1,0.0,189,245,0,0,3.5,35.2,2020-02-01T15:00:00Z,90,0,0,0,0,25,4,822029,0,4,0.0,8,34629,54389,19760,61,True,0,Southampton,Liverpool,GK,Alisson
-Allan Saint-Maximin,0,0,12,1,12.8,500,247,0,0,9.7,23.6,2020-02-01T15:00:00Z,78,0,0,0,0,25,0,24183,0,0,61.0,3,3359,4875,1516,54,True,0,Norwich,Newcastle,MID,Saint-Maximin
-Andreas Christensen,0,0,11,0,0.2,108,244,2,0,0.9,8.4,2020-02-01T12:30:00Z,90,0,0,0,0,25,0,42536,2,2,0.0,1,0,673,673,49,False,0,Leicester,Chelsea,DEF,Christensen
-Andreas Pereira,0,0,3,1,6.3,246,246,0,0,3.7,6.4,2020-02-01T17:30:00Z,71,0,0,0,0,25,0,34865,0,0,24.0,3,-1807,1009,2816,49,True,0,Wolves,Man Utd,MID,Pereira
-Andrew Robertson,0,0,29,1,4.8,181,245,0,0,3.1,23.8,2020-02-01T15:00:00Z,90,0,0,0,0,25,0,1538739,0,4,2.0,6,3588,60726,57138,70,True,0,Southampton,Liverpool,DEF,Robertson
-Andrew Surman,0,0,0,0,0.0,80,241,0,0,0.0,0.0,2020-02-01T15:00:00Z,0,0,0,0,0,25,0,2596,1,2,0.0,0,1,47,46,47,True,0,Aston Villa,Bournemouth,MID,Surman
-Andre Gray,0,0,0,0,0.0,364,249,0,0,0.0,0.0,2020-02-01T15:00:00Z,0,0,0,0,0,25,0,26399,3,2,0.0,0,-155,389,544,56,True,0,Everton,Watford,FWD,Gray
-Andre Green,0,0,0,0,0.0,32,241,0,0,0.0,0.0,2020-02-01T15:00:00Z,0,0,0,0,0,25,0,768,1,2,0.0,0,-4,10,14,48,False,0,Bournemouth,Aston Villa,MID,Green
-Andriy Yarmolenko,0,0,0,0,0.0,392,250,0,0,0.0,0.0,2020-02-01T15:00:00Z,0,0,0,0,0,25,0,59584,3,3,0.0,0,-3110,13,3123,53,True,0,Brighton,West Ham,MID,Yarmolenko
-Andros Townsend,0,0,3,0,0.2,135,243,0,0,0.0,0.2,2020-02-01T15:00:00Z,13,0,0,0,0,25,0,70324,1,0,0.0,1,-853,238,1091,56,True,0,Sheffield Utd,Crystal Palace,MID,Townsend
-André Filipe Tavares Gomes,0,0,0,0,0.0,422,249,0,0,0.0,0.0,2020-02-01T15:00:00Z,0,0,0,0,0,25,0,20652,3,2,0.0,0,-152,14,166,52,False,0,Watford,Everton,MID,André Gomes
-Andy Carroll,0,0,0,0,0.0,520,247,0,0,0.0,0.0,2020-02-01T15:00:00Z,0,0,0,0,0,25,0,7124,0,0,0.0,0,-700,43,743,54,True,0,Norwich,Newcastle,FWD,Carroll
-Andy King,0,0,0,0,0.0,480,244,0,0,0.0,0.0,2020-02-01T12:30:00Z,0,0,0,0,0,25,0,21240,2,2,0.0,0,-494,130,624,43,True,0,Chelsea,Leicester,MID,King
-Andy Lonergan,0,0,0,0,0.0,530,245,0,0,0.0,0.0,2020-02-01T15:00:00Z,0,0,0,0,0,25,0,1811,0,4,0.0,0,-17,17,34,42,True,0,Southampton,Liverpool,GK,Lonergan
-Angelo Ogbonna,0,0,2,0,0.3,377,250,3,0,0.4,1.8,2020-02-01T15:00:00Z,90,1,0,0,0,25,0,114948,3,3,2.0,-2,-11326,2911,14237,45,True,1,Brighton,West Ham,DEF,Ogbonna
-Angel Gomes,0,0,0,0,0.0,245,246,0,0,0.0,0.0,2020-02-01T17:30:00Z,0,0,0,0,0,25,0,6643,0,0,0.0,0,-22,113,135,48,True,0,Wolves,Man Utd,MID,Gomes
-Angus Gunn,0,0,0,0,0.0,319,245,0,0,0.0,0.0,2020-02-01T15:00:00Z,0,0,0,0,0,25,0,110120,0,4,0.0,0,-3060,1314,4374,43,False,0,Liverpool,Southampton,GK,Gunn
-Anthony Driscoll-Glennon,0,0,0,0,0.0,572,242,0,0,0.0,0.0,2020-02-02T14:00:00Z,0,0,0,0,0,25,0,1420,0,0,0.0,0,-89,43,132,40,True,0,Arsenal,Burnley,DEF,Driscoll-Glennon
-Anthony Gordon,0,0,0,0,0.0,561,249,0,0,0.0,0.0,2020-02-01T15:00:00Z,0,0,0,0,0,25,0,2677,3,2,0.0,0,-6,181,187,45,False,0,Watford,Everton,FWD,Gordon
-Anthony Knockaert,0,0,0,0,0.0,52,250,0,0,0.0,0.0,2020-02-01T15:00:00Z,0,0,0,0,0,25,0,654,3,3,0.0,0,-8,6,14,54,False,0,West Ham,Brighton,MID,Knockaert
-Anthony Martial,0,0,8,1,16.1,239,246,0,0,3.4,5.8,2020-02-01T17:30:00Z,90,0,0,0,0,25,0,1000413,0,0,12.0,3,-15639,102621,118260,79,True,0,Wolves,Man Utd,MID,Martial
-Antonio Rüdiger,0,3,37,0,3.3,104,244,2,2,14.5,89.4,2020-02-01T12:30:00Z,90,0,0,0,0,25,0,23879,2,2,52.0,16,-756,959,1715,60,False,0,Leicester,Chelsea,DEF,Rüdiger
-Anwar El Ghazi,0,0,3,0,24.7,30,241,2,0,3.3,3.8,2020-02-01T15:00:00Z,57,0,0,0,0,25,0,70268,1,2,4.0,1,-2775,3277,6052,55,False,0,Bournemouth,Aston Villa,MID,El Ghazi
-Archie Mair,0,0,0,0,0.0,551,247,0,0,0.0,0.0,2020-02-01T15:00:00Z,0,0,0,0,0,25,0,5562,0,0,0.0,0,-20,226,246,40,False,0,Newcastle,Norwich,GK,Mair
-Arnaut Danjuma Groeneveld,0,0,0,0,0.0,492,241,0,0,0.0,0.0,2020-02-01T15:00:00Z,0,0,0,0,0,25,0,2017,1,2,0.0,0,-32,6,38,58,True,0,Aston Villa,Bournemouth,MID,Danjuma
-Arthur Masuaku,0,0,3,0,0.5,378,250,2,0,0.3,0.8,2020-02-01T15:00:00Z,16,0,0,0,0,25,0,34420,3,3,2.0,0,-904,755,1659,42,True,0,Brighton,West Ham,DEF,Masuaku
-Artur Boruc,0,0,0,0,0.0,73,241,0,0,0.0,0.0,2020-02-01T15:00:00Z,0,0,0,0,0,25,0,18232,1,2,0.0,0,-205,124,329,43,True,0,Aston Villa,Bournemouth,GK,Boruc
-Ashley Barnes,0,0,0,0,0.0,90,242,0,0,0.0,0.0,2020-02-02T14:00:00Z,0,0,0,0,0,25,0,171001,0,0,0.0,0,-5577,76,5653,62,True,0,Arsenal,Burnley,FWD,Barnes
-Ashley Westwood,0,0,21,1,43.9,101,242,0,0,5.6,12.0,2020-02-02T14:00:00Z,90,0,0,0,0,25,0,31194,0,0,0.0,3,1288,3495,2207,54,True,0,Arsenal,Burnley,MID,Westwood
-Ashley Young,0,0,0,0,0.0,224,246,0,0,0.0,0.0,2020-02-01T17:30:00Z,0,0,0,0,0,25,0,23081,0,0,0.0,0,-1008,28,1036,54,True,0,Wolves,Man Utd,DEF,Young
-Asmir Begovic,0,0,0,0,0.0,72,241,0,0,0.0,0.0,2020-02-01T15:00:00Z,0,0,0,0,0,25,0,55114,1,2,0.0,0,-809,22,831,42,True,0,Aston Villa,Bournemouth,GK,Begovic
-Axel Tuanzebe,0,0,0,0,0.0,481,246,0,0,0.0,0.0,2020-02-01T17:30:00Z,0,0,0,0,0,25,0,7732,0,0,0.0,0,-184,14,198,44,True,0,Wolves,Man Utd,DEF,Tuanzebe
-Aymeric Laporte,0,0,0,0,0.0,202,248,0,0,0.0,0.0,2020-02-02T16:30:00Z,0,0,0,0,0,25,0,156746,0,2,0.0,0,12977,18432,5455,63,False,0,Spurs,Man City,DEF,Laporte
-Ayotomiwa Dele-Bashiru,0,0,0,0,0.0,563,249,0,0,0.0,0.0,2020-02-01T15:00:00Z,0,0,0,0,0,25,0,606,3,2,0.0,0,0,55,55,45,True,0,Everton,Watford,MID,Dele-Bashiru
-Ayoze Pérez,0,0,12,0,22.8,265,244,2,0,3.8,10.8,2020-02-01T12:30:00Z,90,0,0,0,0,25,0,658736,2,2,4.0,2,206045,239886,33841,62,True,0,Chelsea,Leicester,MID,Pérez
-Bailey Peacock-Farrell,0,0,0,0,0.0,495,242,0,0,0.0,0.0,2020-02-02T14:00:00Z,0,0,0,0,0,25,0,5533,0,0,0.0,0,-18,55,73,44,True,0,Arsenal,Burnley,GK,Peacock-Farrell
-Bamidele Alli,0,0,5,1,0.6,344,248,0,0,0.8,3.4,2020-02-02T16:30:00Z,69,0,0,0,0,25,0,448692,0,2,4.0,3,-2987,50985,53972,85,True,0,Man City,Spurs,MID,Alli
-Beni Baningime,0,0,0,0,0.0,557,249,0,0,0.0,0.0,2020-02-01T15:00:00Z,0,0,0,0,0,25,0,418,3,2,0.0,0,19,42,23,45,False,0,Watford,Everton,MID,Baningime
-Benjamin Chilwell,0,0,25,0,16.1,161,244,2,1,8.7,45.6,2020-02-01T12:30:00Z,90,0,0,0,0,25,0,657605,2,2,25.0,7,-41256,9235,50491,56,True,0,Chelsea,Leicester,DEF,Chilwell
-Benjamin Mendy,0,0,0,0,0.0,204,248,0,0,0.0,0.0,2020-02-02T16:30:00Z,0,0,0,0,0,25,0,64267,0,2,0.0,0,-12581,1672,14253,55,False,0,Spurs,Man City,DEF,Mendy
-Ben Davies,0,0,0,0,0.0,329,248,0,0,0.0,0.0,2020-02-02T16:30:00Z,0,0,0,0,0,25,0,8538,0,2,0.0,0,-97,26,123,53,True,0,Man City,Spurs,DEF,Davies
-Ben Foster,0,0,12,0,0.0,366,249,3,0,1.9,18.8,2020-02-01T15:00:00Z,90,0,0,0,0,25,2,376313,3,2,0.0,1,1490,23575,22085,49,True,0,Everton,Watford,GK,Foster
-Ben Gibson,0,0,0,0,0.0,89,242,0,0,0.0,0.0,2020-02-02T14:00:00Z,0,0,0,0,0,25,0,195436,0,0,0.0,0,-886,7406,8292,39,True,0,Arsenal,Burnley,DEF,Gibson
-Ben Godfrey,0,0,0,0,0.0,273,247,0,0,0.0,0.0,2020-02-01T15:00:00Z,0,0,0,0,0,25,0,10870,0,0,0.0,0,-313,4,317,44,False,0,Newcastle,Norwich,DEF,Godfrey
-Ben Johnson,0,0,0,0,0.0,384,250,0,0,0.0,0.0,2020-02-01T15:00:00Z,0,0,0,0,0,25,0,116165,3,3,0.0,0,6863,10745,3882,39,True,0,Brighton,West Ham,DEF,Johnson
-Ben Mee,0,0,21,1,10.8,83,242,0,0,5.6,15.8,2020-02-02T14:00:00Z,90,0,0,0,0,25,0,62693,0,0,29.0,6,4409,6693,2284,50,True,0,Arsenal,Burnley,DEF,Mee
-Ben Osborn,0,0,3,0,0.0,472,243,0,0,0.0,0.0,2020-02-01T15:00:00Z,1,0,0,0,0,25,0,2476,1,0,0.0,1,-5,60,65,47,False,0,Crystal Palace,Sheffield Utd,MID,Osborn
-Beram Kayal,0,0,0,0,0.0,56,250,0,0,0.0,0.0,2020-02-01T15:00:00Z,0,0,0,0,0,25,0,13221,3,3,0.0,0,-826,93,919,43,False,0,West Ham,Brighton,MID,Kayal
-Bernardo Mota Veiga de Carvalho e Silva,0,0,4,0,12.1,218,248,0,0,3.7,2.6,2020-02-02T16:30:00Z,6,0,0,0,0,25,0,620228,0,2,22.0,1,-10571,11334,21905,78,False,0,Spurs,Man City,MID,Bernardo Silva
-Bernardo Costa Da Rosa,0,0,0,0,0.0,595,250,0,0,0.0,0.0,2020-02-01T15:00:00Z,0,0,0,0,0,25,0,233,3,3,0.0,0,23,58,35,45,True,0,Brighton,West Ham,MID,Rosa
-Bernardo Fernandes da Silva Junior,0,0,9,0,2.8,39,250,3,0,5.5,23.0,2020-02-01T15:00:00Z,90,0,0,0,0,25,0,9733,3,3,29.0,1,158,814,656,43,False,0,West Ham,Brighton,DEF,Bernardo
-Bernard Anício Caldeira Duarte,0,0,0,0,0.0,152,249,0,0,0.0,0.0,2020-02-01T15:00:00Z,0,0,0,0,0,25,0,49619,3,2,0.0,0,2090,3418,1328,64,False,0,Watford,Everton,MID,Bernard
-Bernard Ashley-Seal,0,0,0,0,0.0,559,246,0,0,0.0,0.0,2020-02-01T17:30:00Z,0,0,0,0,0,25,0,4077,0,0,0.0,0,-25,299,324,45,False,0,Man Utd,Wolves,FWD,Ashley-Seal
-Bernd Leno,0,1,26,1,0.0,14,242,0,0,1.7,17.0,2020-02-02T14:00:00Z,90,0,0,0,0,25,2,384033,0,0,0.0,7,-1298,10989,12287,50,False,0,Burnley,Arsenal,GK,Leno
-Billy Gilmour,0,0,0,0,0.0,533,244,0,0,0.0,0.0,2020-02-01T12:30:00Z,0,0,0,0,0,25,0,1837,2,2,0.0,0,-4,49,53,45,False,0,Leicester,Chelsea,MID,Gilmour
-Billy Sharp,0,0,6,1,1.1,298,243,0,0,1.9,0.2,2020-02-01T15:00:00Z,63,0,0,0,0,25,0,21602,1,0,18.0,2,19,380,361,56,False,0,Crystal Palace,Sheffield Utd,FWD,Sharp
-Birkir Bjarnason,0,0,0,0,0.0,33,241,0,0,0.0,0.0,2020-02-01T15:00:00Z,0,0,0,0,0,25,0,2404,1,2,0.0,0,-30,12,42,45,False,0,Bournemouth,Aston Villa,MID,Bjarnason
-Bjorn Engels,0,0,11,0,15.9,455,241,0,0,3.5,11.8,2020-02-01T15:00:00Z,45,0,0,0,0,25,0,33474,1,2,7.0,1,-1182,55,1237,44,False,0,Bournemouth,Aston Villa,DEF,Engels
-Brandon Austin,0,0,0,0,0.0,558,248,0,0,0.0,0.0,2020-02-02T16:30:00Z,0,0,0,0,0,25,0,14019,0,2,0.0,0,-259,346,605,40,True,0,Man City,Spurs,GK,Austin
-Brandon Pierrick,0,0,0,0,0.0,580,243,0,0,0.0,0.0,2020-02-01T15:00:00Z,0,0,0,0,0,25,0,250,1,0,0.0,0,-1,19,20,45,True,0,Sheffield Utd,Crystal Palace,MID,Pierrick
-Brandon Williams,0,0,0,0,0.0,549,246,0,0,0.0,0.0,2020-02-01T17:30:00Z,0,0,0,0,0,25,0,398509,0,0,0.0,0,43218,66326,23108,41,True,0,Wolves,Man Utd,DEF,Williams
-Bruno André Cavaco Jordao,0,0,0,0,0.0,609,246,0,0,0.0,0.0,2020-02-01T17:30:00Z,0,0,0,0,0,25,0,285,0,0,0.0,0,68,132,64,45,False,0,Man Utd,Wolves,MID,Jordao
-Bruno Miguel Borges Fernandes,0,0,2,1,10.9,618,246,0,0,6.4,23.4,2020-02-01T17:30:00Z,90,0,0,0,0,25,0,97885,0,0,30.0,2,94825,97066,2241,80,True,1,Wolves,Man Utd,MID,Fernandes
-Bukayo Saka,0,0,4,0,1.1,541,242,0,0,0.2,0.6,2020-02-02T14:00:00Z,45,0,0,0,0,25,0,46908,0,0,0.0,1,5463,9740,4277,45,False,0,Burnley,Arsenal,MID,Saka
-Callum Hudson-Odoi,0,0,13,0,8.0,116,244,2,0,2.9,8.8,2020-02-01T12:30:00Z,90,0,0,0,0,25,0,61785,2,2,12.0,2,8254,13424,5170,53,False,0,Leicester,Chelsea,MID,Hudson-Odoi
-Callum Robinson,0,0,0,0,0.0,453,243,0,0,0.0,0.0,2020-02-01T15:00:00Z,0,0,0,0,0,25,0,17878,1,0,0.0,0,-947,61,1008,50,False,0,Crystal Palace,Sheffield Utd,MID,Callum Robinson
-Callum Slattery,0,0,0,0,0.0,327,245,0,0,0.0,0.0,2020-02-01T15:00:00Z,0,0,0,0,0,25,0,22972,0,4,0.0,0,-600,112,712,44,False,0,Liverpool,Southampton,MID,Slattery
-Callum Wilson,0,0,1,0,11.5,67,241,1,0,5.3,0.0,2020-02-01T15:00:00Z,90,0,0,0,0,25,0,379495,1,2,44.0,1,41584,50403,8819,74,True,1,Aston Villa,Bournemouth,FWD,Callum Wilson
-Calum Chambers,0,0,0,0,0.0,467,242,0,0,0.0,0.0,2020-02-02T14:00:00Z,0,0,0,0,0,25,0,49958,0,0,0.0,0,-2665,27,2692,44,False,0,Burnley,Arsenal,DEF,Chambers
-Caoimhin Kelleher,0,0,0,0,0.0,531,245,0,0,0.0,0.0,2020-02-01T15:00:00Z,0,0,0,0,0,25,0,2104,0,4,0.0,0,-27,15,42,44,True,0,Southampton,Liverpool,GK,Kelleher
-Carlos Sánchez,0,0,0,0,0.0,397,250,0,0,0.0,0.0,2020-02-01T15:00:00Z,0,0,0,0,0,25,0,34375,3,3,0.0,0,191,2598,2407,43,True,0,Brighton,West Ham,MID,Carlos Sánchez
-Carl Jenkinson,0,0,0,0,0.0,9,242,0,0,0.0,0.0,2020-02-02T14:00:00Z,0,0,0,0,0,25,0,1597,0,0,0.0,0,1,14,13,45,False,0,Burnley,Arsenal,DEF,Jenkinson
-Cenk Tosun,0,0,0,0,0.0,146,243,0,0,0.0,0.0,2020-02-01T15:00:00Z,0,0,0,0,0,25,0,17266,1,0,0.0,0,-6340,2748,9088,57,True,0,Sheffield Utd,Everton,FWD,Tosun
-Charlie Austin,0,0,0,0,0.0,312,245,0,0,0.0,0.0,2020-02-01T15:00:00Z,0,0,0,0,0,25,0,3456,0,4,0.0,0,-6,26,32,60,False,0,Liverpool,Southampton,FWD,Austin
-Charlie Daniels,0,0,0,0,0.0,60,241,0,0,0.0,0.0,2020-02-01T15:00:00Z,0,0,0,0,0,25,0,5480,1,2,0.0,0,-63,7,70,43,True,0,Aston Villa,Bournemouth,DEF,Daniels
-Charlie Taylor,0,1,26,1,16.3,87,242,0,0,3.3,14.2,2020-02-02T14:00:00Z,90,0,0,0,0,25,0,59084,0,0,2.0,7,1583,4622,3039,42,True,0,Arsenal,Burnley,DEF,Taylor
-Cheikhou Kouyaté,0,0,2,0,0.1,139,243,0,0,0.4,3.6,2020-02-01T15:00:00Z,5,0,0,0,0,25,0,19865,1,0,0.0,1,-712,1052,1764,49,True,0,Sheffield Utd,Crystal Palace,MID,Kouyaté
-Che Adams,0,0,2,0,1.8,437,245,2,0,1.1,1.2,2020-02-01T15:00:00Z,20,0,0,0,0,25,0,23500,0,4,8.0,1,-185,440,625,53,False,0,Liverpool,Southampton,FWD,Adams
-Christian Atsu,0,0,0,0,0.0,267,247,0,0,0.0,0.0,2020-02-01T15:00:00Z,0,0,0,0,0,25,0,8674,0,0,0.0,0,-65,176,241,53,True,0,Norwich,Newcastle,MID,Atsu
-Christian Benteke,0,0,7,0,22.5,129,243,1,0,5.4,6.0,2020-02-01T15:00:00Z,76,0,0,0,0,25,0,36275,1,0,25.0,2,-258,169,427,57,True,0,Sheffield Utd,Crystal Palace,FWD,Benteke
-Christian Eriksen,0,0,0,0,0.0,343,248,0,0,0.0,0.0,2020-02-02T16:30:00Z,0,0,0,0,0,25,0,191542,0,2,0.0,0,-7282,528,7810,86,True,0,Man City,Spurs,MID,Eriksen
-Christian Fuchs,0,0,0,0,0.0,163,244,0,0,0.0,0.0,2020-02-01T12:30:00Z,0,0,0,0,0,25,0,26139,2,2,0.0,0,-507,385,892,43,True,0,Chelsea,Leicester,DEF,Fuchs
-Christian Kabasele,0,0,9,0,0.1,354,249,3,0,1.9,12.0,2020-02-01T15:00:00Z,90,0,0,0,0,25,0,34690,3,2,7.0,1,-1840,1545,3385,43,True,0,Everton,Watford,DEF,Kabasele
-Christian Pulisic,0,0,0,0,0.0,431,244,0,0,0.0,0.0,2020-02-01T12:30:00Z,0,0,0,0,0,25,0,273955,2,2,0.0,0,-16552,174,16726,69,False,0,Leicester,Chelsea,MID,Pulisic
-Christian Saydee,0,0,0,0,0.0,564,241,0,0,0.0,0.0,2020-02-01T15:00:00Z,0,0,0,0,0,25,0,403,1,2,0.0,0,-10,33,43,45,True,0,Aston Villa,Bournemouth,MID,Saydee
-Christoph Zimmermann,0,0,26,1,1.1,275,247,0,0,2.0,13.6,2020-02-01T15:00:00Z,90,0,0,0,0,25,0,3081,0,0,5.0,6,-46,149,195,44,False,0,Newcastle,Norwich,DEF,Zimmermann
-Chris Basham,0,1,23,1,0.9,423,243,0,0,2.7,26.4,2020-02-01T15:00:00Z,90,0,0,0,0,25,0,59138,1,0,0.0,7,2447,5884,3437,45,False,0,Crystal Palace,Sheffield Utd,DEF,Basham
-Chris Mepham,0,0,0,0,0.0,61,241,0,0,0.0,0.0,2020-02-01T15:00:00Z,0,0,0,0,0,25,0,50187,1,2,0.0,0,-2026,8,2034,43,True,0,Aston Villa,Bournemouth,DEF,Mepham
-Chris Smalling,0,0,0,0,0.0,223,246,0,0,0.0,0.0,2020-02-01T17:30:00Z,0,0,0,0,0,25,0,9094,0,0,0.0,0,-21,30,51,52,True,0,Wolves,Man Utd,DEF,Smalling
-Chris Wood,0,0,8,1,43.5,91,242,0,0,7.5,11.4,2020-02-02T14:00:00Z,90,0,0,0,0,25,0,136284,0,0,20.0,2,68392,78780,10388,62,True,0,Arsenal,Burnley,FWD,Wood
-Ciaran Clark,0,0,26,1,0.8,259,247,0,0,2.9,28.2,2020-02-01T15:00:00Z,90,0,0,0,0,25,0,21319,0,0,0.0,6,408,1433,1025,43,True,0,Norwich,Newcastle,DEF,Clark
-Claudio Bravo,0,0,0,0,0.0,213,248,0,0,0.0,0.0,2020-02-02T16:30:00Z,0,0,0,0,0,25,0,22969,0,2,0.0,0,-727,110,837,48,False,0,Spurs,Man City,GK,Bravo
-Connor Wickham,0,0,0,0,0.0,130,243,0,0,0.0,0.0,2020-02-01T15:00:00Z,0,0,0,0,0,25,0,155838,1,0,0.0,0,-2832,1203,4035,44,True,0,Sheffield Utd,Crystal Palace,FWD,Wickham
-Conor Coady,0,3,31,1,0.1,403,246,0,0,1.6,16.2,2020-02-01T17:30:00Z,90,0,0,0,0,25,0,108307,0,0,0.0,9,-2461,2037,4498,50,False,0,Man Utd,Wolves,DEF,Coady
-Conor Hourihane,0,0,0,0,0.0,28,241,0,0,0.0,0.0,2020-02-01T15:00:00Z,0,0,0,0,0,25,0,11501,1,2,0.0,0,-622,110,732,57,False,0,Bournemouth,Aston Villa,MID,Hourihane
-Craig Cathcart,0,0,11,0,0.3,358,249,3,0,2.0,17.4,2020-02-01T15:00:00Z,90,0,0,0,0,25,0,245994,3,2,2.0,1,8486,24961,16475,44,True,0,Everton,Watford,DEF,Cathcart
-Craig Dawson,0,0,0,0,0.0,439,249,0,0,0.0,0.0,2020-02-01T15:00:00Z,0,0,0,0,0,25,0,13135,3,2,0.0,0,66,604,538,48,True,0,Everton,Watford,DEF,Dawson
-Curtis Jones,0,0,0,0,0.0,569,245,0,0,0.0,0.0,2020-02-01T15:00:00Z,0,0,0,0,0,25,0,413,0,4,0.0,0,5,53,48,45,True,0,Southampton,Liverpool,MID,Jones
-Cédric Soares,0,0,0,0,0.0,486,242,0,0,0.0,0.0,2020-02-02T14:00:00Z,0,0,0,0,0,25,0,18735,0,0,0.0,0,-536,381,917,48,False,0,Burnley,Arsenal,DEF,Cédric
-César Azpilicueta,0,0,13,0,7.8,105,244,2,0,2.6,16.6,2020-02-01T12:30:00Z,90,0,0,0,0,25,0,448242,2,2,2.0,1,23686,36172,12486,58,False,0,Leicester,Chelsea,DEF,Azpilicueta
-Dale Stephens,0,0,11,0,13.3,57,250,3,0,3.3,18.4,2020-02-01T15:00:00Z,90,0,0,0,0,25,0,142820,3,3,1.0,1,-4301,1518,5819,44,False,1,West Ham,Brighton,MID,Stephens
-Daniel Amartey,0,0,0,0,0.0,178,244,0,0,0.0,0.0,2020-02-01T12:30:00Z,0,0,0,0,0,25,0,19817,2,2,0.0,0,-966,60,1026,43,True,0,Chelsea,Leicester,MID,Amartey
-Daniel Castelo Podence,0,0,7,0,15.1,619,246,0,0,4.0,6.4,2020-02-01T17:30:00Z,14,0,0,0,0,25,0,547,0,0,18.0,1,514,571,57,55,False,0,Man Utd,Wolves,MID,Podence
-Daniel Ceballos Fernández,0,0,0,0,0.0,469,242,0,0,0.0,0.0,2020-02-02T14:00:00Z,0,0,0,0,0,25,0,223924,0,0,0.0,0,-2413,338,2751,52,False,0,Burnley,Arsenal,MID,Ceballos
-Daniel Drinkwater,0,0,0,0,0.0,120,241,0,0,0.0,0.0,2020-02-01T15:00:00Z,0,0,0,0,0,25,0,45738,1,2,0.0,0,-366,555,921,44,False,0,Bournemouth,Aston Villa,MID,Drinkwater
-Daniel James,0,0,8,1,11.8,243,246,0,0,2.6,6.6,2020-02-01T17:30:00Z,87,0,0,0,0,25,0,508829,0,0,8.0,3,-37932,7812,45744,59,True,0,Wolves,Man Utd,MID,James
-Daniel N'Lundulu,0,0,0,0,0.0,535,245,0,0,0.0,0.0,2020-02-01T15:00:00Z,0,0,0,0,0,25,0,6709,0,4,0.0,0,-49,93,142,45,False,0,Liverpool,Southampton,FWD,N'Lundulu
-Danilo Luiz da Silva,0,0,0,0,0.0,209,248,0,0,0.0,0.0,2020-02-02T16:30:00Z,0,0,0,0,0,25,0,3185,0,2,0.0,0,-10,16,26,50,False,0,Spurs,Man City,DEF,Danilo
-Danny Ings,0,0,6,0,31.4,313,245,2,0,15.1,18.6,2020-02-01T15:00:00Z,69,0,0,0,0,25,0,2080750,0,4,101.0,2,-88362,140661,229023,70,False,0,Liverpool,Southampton,FWD,Ings
-Danny Rose,0,0,3,0,0.3,332,247,0,0,0.3,2.6,2020-02-01T15:00:00Z,11,0,0,0,0,25,0,98000,0,0,0.0,1,3821,4324,503,53,True,0,Norwich,Newcastle,DEF,Rose
-Danny Ward,0,0,0,0,0.0,170,244,0,0,0.0,0.0,2020-02-01T12:30:00Z,0,0,0,0,0,25,0,11988,2,2,0.0,0,-100,48,148,43,True,0,Chelsea,Leicester,GK,Ward
-Danny Welbeck,0,0,4,0,0.4,512,249,1,0,0.3,2.4,2020-02-01T15:00:00Z,33,0,0,0,0,25,0,8309,3,2,0.0,1,55,145,90,58,True,0,Everton,Watford,FWD,Welbeck
-Dan Burn,0,0,0,0,0.0,475,250,0,0,0.0,0.0,2020-02-01T15:00:00Z,0,0,0,0,0,25,0,13566,3,3,0.0,0,-1004,28,1032,45,False,0,West Ham,Brighton,DEF,Burn
-Dan Gosling,1,0,19,0,12.3,81,241,1,0,6.1,30.6,2020-02-01T15:00:00Z,90,0,0,0,0,25,0,6455,1,2,18.0,5,-987,160,1147,49,True,0,Aston Villa,Bournemouth,MID,Gosling
-Darren Randolph,0,0,0,0,0.0,606,250,0,0,0.0,0.0,2020-02-01T15:00:00Z,0,0,0,0,0,25,0,12064,3,3,0.0,0,-3767,1194,4961,44,True,0,Brighton,West Ham,GK,Randolph
-Daryl Janmaat,0,0,0,0,0.0,359,249,0,0,0.0,0.0,2020-02-01T15:00:00Z,0,0,0,0,0,25,0,44601,3,2,0.0,0,-2310,1233,3543,40,True,0,Everton,Watford,DEF,Janmaat
-Davide Zappacosta,0,0,0,0,0.0,109,244,0,0,0.0,0.0,2020-02-01T12:30:00Z,0,0,0,0,0,25,0,11661,2,2,0.0,0,-71,14,85,43,False,0,Leicester,Chelsea,DEF,Zappacosta
-David Brooks,0,0,0,0,0.0,76,241,0,0,0.0,0.0,2020-02-01T15:00:00Z,0,0,0,0,0,25,0,6790,1,2,0.0,0,-39,24,63,63,True,0,Aston Villa,Bournemouth,MID,Brooks
-David Button,0,0,0,0,0.0,48,250,0,0,0.0,0.0,2020-02-01T15:00:00Z,0,0,0,0,0,25,0,1517564,3,3,0.0,0,19710,50679,30969,39,False,0,West Ham,Brighton,GK,Button
-David de Gea,0,0,25,1,0.0,235,246,0,0,2.6,26.0,2020-02-01T17:30:00Z,90,0,0,0,0,25,3,843381,0,0,0.0,7,-17211,4655,21866,54,True,0,Wolves,Man Utd,GK,de Gea
-David Luiz Moreira Marinho,0,3,29,1,13.3,106,242,0,0,5.4,22.8,2020-02-02T14:00:00Z,90,0,0,0,0,25,0,352941,0,0,18.0,9,-8851,3201,12052,57,False,0,Burnley,Arsenal,DEF,David Luiz
-David Martin,0,0,0,0,0.0,553,250,0,0,0.0,0.0,2020-02-01T15:00:00Z,0,0,0,0,0,25,0,132869,3,3,0.0,0,-6165,4510,10675,41,True,0,Brighton,West Ham,GK,Martin
-David McGoldrick,0,0,0,0,0.0,303,243,0,0,0.0,0.0,2020-02-01T15:00:00Z,0,0,0,0,0,25,0,13092,1,0,0.0,0,-1353,67,1420,54,False,0,Crystal Palace,Sheffield Utd,FWD,McGoldrick
-David Silva,0,0,0,0,0.0,219,248,0,0,0.0,0.0,2020-02-02T16:30:00Z,0,0,0,0,0,25,0,325261,0,2,0.0,0,-11914,7497,19411,74,False,0,Spurs,Man City,MID,David Silva
-Davinson Sánchez,0,1,28,1,0.0,333,248,0,0,2.7,27.0,2020-02-02T16:30:00Z,90,0,0,0,0,25,0,64962,0,2,0.0,7,-1343,392,1735,53,True,0,Man City,Spurs,DEF,Sánchez
-Davy Pröpper,1,1,28,0,31.8,54,250,3,0,7.0,32.6,2020-02-01T15:00:00Z,90,0,0,0,0,25,0,24705,3,3,6.0,6,-573,234,807,48,False,0,West Ham,Brighton,MID,Pröpper
-DeAndre Yedlin,0,0,2,0,15.7,253,247,0,0,2.4,6.2,2020-02-01T15:00:00Z,53,0,0,0,0,25,0,6006,0,0,2.0,0,-1,308,309,44,True,1,Norwich,Newcastle,DEF,Yedlin
-Dean Henderson,0,3,29,1,0.0,471,243,0,0,2.2,22.4,2020-02-01T15:00:00Z,90,0,0,0,0,25,3,999154,1,0,0.0,10,219715,234504,14789,50,False,0,Crystal Palace,Sheffield Utd,GK,Henderson
-Declan Rice,0,0,11,0,11.3,395,250,3,0,3.0,18.2,2020-02-01T15:00:00Z,90,0,0,0,0,25,0,117568,3,3,0.0,2,-3596,3644,7240,47,True,0,Brighton,West Ham,MID,Rice
-Dejan Lovren,0,0,0,0,0.0,186,245,0,0,0.0,0.0,2020-02-01T15:00:00Z,0,0,0,0,0,25,0,14675,0,4,0.0,0,-158,74,232,53,True,0,Southampton,Liverpool,DEF,Lovren
-Demarai Gray,0,0,0,0,0.0,175,244,0,0,0.0,0.0,2020-02-01T12:30:00Z,0,0,0,0,0,25,0,18476,2,2,0.0,0,-272,210,482,51,True,0,Chelsea,Leicester,MID,Gray
-Dennis Praet,0,0,4,0,0.1,517,244,0,0,0.1,1.2,2020-02-01T12:30:00Z,10,0,0,0,0,25,0,6630,2,2,0.0,1,-637,539,1176,53,True,0,Chelsea,Leicester,MID,Praet
-Dennis Srbeny,0,0,0,0,0.0,279,247,0,0,0.0,0.0,2020-02-01T15:00:00Z,0,0,0,0,0,25,0,2808,0,0,0.0,0,-74,17,91,52,False,0,Newcastle,Norwich,FWD,Srbeny
-Diego Rico,0,0,18,0,4.9,65,241,1,0,2.6,21.0,2020-02-01T15:00:00Z,90,0,0,0,0,25,0,850720,1,2,0.0,2,-14488,26852,41340,43,True,0,Aston Villa,Bournemouth,DEF,Rico
-Dimitri Foulquier,0,0,0,0,0.0,542,249,0,0,0.0,0.0,2020-02-01T15:00:00Z,0,0,0,0,0,25,0,11157,3,2,0.0,0,-562,30,592,40,True,0,Everton,Watford,DEF,Foulquier
-Diogo Jota,0,0,8,1,33.0,410,246,0,0,10.5,16.6,2020-02-01T17:30:00Z,69,0,0,0,0,25,0,190227,0,0,55.0,2,-1471,2015,3486,61,False,0,Man Utd,Wolves,FWD,Jota
-Divock Origi,0,0,0,0,0.0,188,245,0,0,0.0,0.0,2020-02-01T15:00:00Z,0,0,0,0,0,25,0,195411,0,4,0.0,0,5510,11599,6089,52,True,0,Southampton,Liverpool,FWD,Origi
-Djibril Sidibé,0,0,21,0,21.1,511,249,2,0,5.6,34.8,2020-02-01T15:00:00Z,90,0,0,0,0,25,0,144278,3,2,0.0,1,-16600,7540,24140,54,False,0,Watford,Everton,DEF,Sidibé
-Domingos Quina,0,0,0,0,0.0,375,249,0,0,0.0,0.0,2020-02-01T15:00:00Z,0,0,0,0,0,25,0,6280,3,2,0.0,0,-91,49,140,44,True,0,Everton,Watford,MID,Quina
-Dominic Calvert-Lewin,0,0,0,0,5.6,147,249,2,0,3.5,2.4,2020-02-01T15:00:00Z,72,0,0,0,0,25,0,839363,3,2,27.0,2,133652,190684,57032,61,False,0,Watford,Everton,FWD,Calvert-Lewin
-Dominic Solanke,0,0,0,0,0.0,69,241,0,0,0.0,0.0,2020-02-01T15:00:00Z,0,0,0,0,0,25,0,25870,1,2,0.0,0,1382,2178,796,52,True,0,Aston Villa,Bournemouth,FWD,Solanke
-Douglas Luiz Soares de Paulo,0,0,10,0,24.6,470,241,2,0,4.7,20.8,2020-02-01T15:00:00Z,90,0,0,0,0,25,0,297073,1,2,2.0,1,22970,40595,17625,44,False,1,Bournemouth,Aston Villa,MID,Douglas Luiz
-Dwight Gayle,0,0,0,0,0.0,554,247,0,0,0.0,0.0,2020-02-01T15:00:00Z,0,0,0,0,0,25,0,2812,0,0,0.0,0,-173,31,204,50,True,0,Norwich,Newcastle,FWD,Gayle
-Dwight McNeil,0,0,22,1,68.8,97,242,0,0,10.8,21.8,2020-02-02T14:00:00Z,90,0,0,0,0,25,0,32948,0,0,17.0,3,-941,1305,2246,60,True,0,Arsenal,Burnley,MID,McNeil
-Ederson Santana de Moraes,0,0,11,0,0.0,212,248,2,0,1.2,12.4,2020-02-02T16:30:00Z,90,0,0,0,0,25,1,847778,0,2,0.0,1,-5675,9555,15230,60,False,0,Spurs,Man City,GK,Ederson
-Edward Nketiah,0,0,3,0,0.1,13,242,0,0,0.0,0.0,2020-02-02T14:00:00Z,1,0,0,0,0,25,0,43582,0,0,0.0,1,177,2597,2420,43,False,0,Burnley,Arsenal,FWD,Nketiah
-Eldin Jakupovic,0,0,0,0,0.0,169,244,0,0,0.0,0.0,2020-02-01T12:30:00Z,0,0,0,0,0,25,0,6491,2,2,0.0,0,-49,33,82,42,True,0,Chelsea,Leicester,GK,Jakupovic
-Emerson Palmieri dos Santos,0,0,0,0,0.0,107,244,0,0,0.0,0.0,2020-02-01T12:30:00Z,0,0,0,0,0,25,0,55257,2,2,0.0,0,-503,608,1111,55,False,0,Leicester,Chelsea,DEF,Emerson
-Emile Smith Rowe,0,0,0,0,0.0,576,242,0,0,0.0,0.0,2020-02-02T14:00:00Z,0,0,0,0,0,25,0,1806,0,0,0.0,0,363,903,540,43,False,0,Burnley,Arsenal,MID,Smith Rowe
-Emiliano Buendía,0,0,5,0,6.2,283,247,0,0,1.2,6.2,2020-02-01T15:00:00Z,23,0,0,0,0,25,0,57368,0,0,0.0,1,-6295,899,7194,60,False,0,Newcastle,Norwich,MID,Buendía
-Emiliano Martínez,0,0,0,0,0.0,427,242,0,0,0.0,0.0,2020-02-02T14:00:00Z,0,0,0,0,0,25,0,17984,0,0,0.0,0,-95,149,244,43,False,0,Burnley,Arsenal,GK,Martínez
-Emil Krafth,0,0,0,0,0.0,519,247,0,0,0.0,0.0,2020-02-01T15:00:00Z,0,0,0,0,0,25,0,4774,0,0,0.0,0,-191,28,219,43,True,0,Norwich,Newcastle,DEF,Krafth
-Enda Stevens,0,0,18,1,5.3,291,243,0,0,3.9,10.2,2020-02-01T15:00:00Z,90,0,0,0,0,25,0,183969,1,0,23.0,6,16918,26559,9641,51,False,0,Crystal Palace,Sheffield Utd,DEF,Stevens
-Eric Bailly,0,0,0,0,0.0,228,246,0,0,0.0,0.0,2020-02-01T17:30:00Z,0,0,0,0,0,25,0,2726,0,0,0.0,0,44,128,84,49,True,0,Wolves,Man Utd,DEF,Bailly
-Eric Dier,0,0,3,0,0.3,350,248,0,0,0.6,5.6,2020-02-02T16:30:00Z,6,0,0,0,0,25,0,13618,0,2,0.0,1,-189,170,359,48,True,0,Man City,Spurs,MID,Dier
-Eric Garcia,0,0,0,0,0.0,544,248,0,0,0.0,0.0,2020-02-02T16:30:00Z,0,0,0,0,0,25,0,3996,0,2,0.0,0,-364,123,487,45,False,0,Spurs,Man City,DEF,Garcia
-Erik Lamela,0,0,2,0,1.7,346,248,0,0,0.3,1.0,2020-02-02T16:30:00Z,20,0,0,0,0,25,0,86007,0,2,0.0,1,-885,1415,2300,57,True,0,Man City,Spurs,MID,Lamela
-Erik Pieters,0,0,0,0,0.0,447,242,0,0,0.0,0.0,2020-02-02T14:00:00Z,0,0,0,0,0,25,0,324407,0,0,0.0,0,-11993,644,12637,43,True,0,Arsenal,Burnley,DEF,Pieters
-Ethan Ampadu,0,0,0,0,0.0,121,244,0,0,0.0,0.0,2020-02-01T12:30:00Z,0,0,0,0,0,25,0,1257,2,2,0.0,0,-13,38,51,44,False,0,Leicester,Chelsea,MID,Ampadu
-Etienne Capoue,0,0,21,0,11.8,373,249,3,0,3.7,20.6,2020-02-01T15:00:00Z,90,0,0,0,0,25,0,22952,3,2,5.0,2,-308,897,1205,48,True,0,Everton,Watford,MID,Capoue
-Ezequiel Schelotto,0,0,5,0,1.3,546,250,0,0,0.6,4.2,2020-02-01T15:00:00Z,18,0,0,0,0,25,0,34972,3,3,0.0,1,-1365,737,2102,40,False,0,West Ham,Brighton,DEF,Schelotto
-Ezri Konsa Ngoyo,0,0,4,0,0.1,452,241,2,0,0.3,1.0,2020-02-01T15:00:00Z,45,0,0,0,0,25,0,7587,1,2,2.0,0,762,1150,388,43,False,0,Bournemouth,Aston Villa,DEF,Konsa
-Fabian Delph,0,0,7,0,20.6,205,249,2,0,3.1,10.8,2020-02-01T15:00:00Z,70,0,0,0,1,25,0,14558,3,2,0.0,-2,-92,366,458,53,False,0,Watford,Everton,DEF,Delph
-Fabian Schär,0,0,0,0,0.0,252,247,0,0,0.0,0.0,2020-02-01T15:00:00Z,0,0,0,0,0,25,0,95265,0,0,0.0,0,2977,4997,2020,50,True,0,Norwich,Newcastle,DEF,Schär
-Fabio Henrique Tavares,0,0,8,1,12.1,197,245,0,0,2.5,11.6,2020-02-01T15:00:00Z,90,0,0,0,0,25,0,71796,0,4,1.0,3,27,929,902,54,True,0,Southampton,Liverpool,MID,Fabinho
-Fabián Balbuena,0,0,0,0,0.0,382,250,0,0,0.0,0.0,2020-02-01T15:00:00Z,0,0,0,0,0,25,0,33037,3,3,0.0,0,-3572,211,3783,43,True,0,Brighton,West Ham,DEF,Balbuena
-Federico Fernández,0,3,34,1,5.8,254,247,0,0,4.5,33.0,2020-02-01T15:00:00Z,90,0,0,0,0,25,0,71282,0,0,6.0,9,15620,21589,5969,44,True,0,Norwich,Newcastle,DEF,Fernández
-Felipe Anderson Pereira Gomes,0,0,0,0,0.0,390,250,0,0,0.0,0.0,2020-02-01T15:00:00Z,0,0,0,0,0,25,0,195210,3,3,0.0,0,-13055,52,13107,66,True,0,Brighton,West Ham,MID,Felipe Anderson
-Fernando Luiz Rosa,0,0,16,0,3.5,221,248,2,0,4.7,25.6,2020-02-02T16:30:00Z,90,0,0,0,0,25,0,49031,0,2,18.0,2,-1775,757,2532,52,False,0,Spurs,Man City,MID,Fernandinho
-Fikayo Tomori,0,0,0,0,0.0,529,244,0,0,0.0,0.0,2020-02-01T12:30:00Z,0,0,0,0,0,25,0,166621,2,2,0.0,0,-19230,1941,21171,45,False,0,Leicester,Chelsea,DEF,Tomori
-Filip Benkovic,0,0,0,0,0.0,597,244,0,0,0.0,0.0,2020-02-01T12:30:00Z,0,0,0,0,0,25,0,1280,2,2,0.0,0,195,353,158,40,True,0,Chelsea,Leicester,DEF,Benkovic
-Florian Lejeune,0,0,0,0,0.0,257,247,0,0,0.0,0.0,2020-02-01T15:00:00Z,0,0,0,0,0,25,0,3392,0,0,0.0,0,2313,3538,1225,44,True,0,Norwich,Newcastle,DEF,Lejeune
-Florin Andone,0,0,0,0,0.0,46,250,0,0,0.0,0.0,2020-02-01T15:00:00Z,0,0,0,0,0,25,0,26397,3,3,0.0,0,-228,47,275,47,False,0,West Ham,Brighton,FWD,Andone
-Francisco Femenía Far,0,0,0,0,0.0,357,249,0,0,0.0,0.0,2020-02-01T15:00:00Z,0,0,0,0,0,25,0,34390,3,2,0.0,0,-4648,51,4699,42,True,0,Everton,Watford,DEF,Kiko Femenía
-Fraser Forster,0,0,0,0,0.0,317,245,0,0,0.0,0.0,2020-02-01T15:00:00Z,0,0,0,0,0,25,0,22962,0,4,0.0,0,-269,37,306,43,False,0,Liverpool,Southampton,GK,Forster
-Frederick Woodman,0,0,0,0,0.0,264,247,0,0,0.0,0.0,2020-02-01T15:00:00Z,0,0,0,0,0,25,0,58303,0,0,0.0,0,-1297,160,1457,40,True,0,Norwich,Newcastle,GK,Woodman
-Frederico Rodrigues de Paula Santos,0,0,14,1,32.2,244,246,0,0,5.6,15.4,2020-02-01T17:30:00Z,90,0,0,0,0,25,0,19438,0,0,8.0,3,593,2187,1594,53,True,0,Wolves,Man Utd,MID,Fred
-Frédéric Guilbert,0,0,11,0,19.1,458,241,2,0,3.3,7.6,2020-02-01T15:00:00Z,90,0,0,0,0,25,0,41665,1,2,6.0,1,-2112,339,2451,44,False,0,Bournemouth,Aston Villa,DEF,Guilbert
-Gabriel Fernando de Jesus,0,0,0,0,1.9,211,248,0,0,2.4,5.0,2020-02-02T16:30:00Z,18,0,0,0,0,25,0,214246,0,2,17.0,1,-18861,23092,41953,95,False,0,Spurs,Man City,FWD,Jesus
-Gabriel Teodoro Martinelli Silva,0,0,5,1,11.5,504,242,0,0,4.8,14.8,2020-02-02T14:00:00Z,90,0,0,0,0,25,0,263179,0,0,22.0,2,114041,130017,15976,46,False,0,Burnley,Arsenal,FWD,Martinelli
-Gary Cahill,0,0,12,0,0.5,503,243,1,0,4.6,19.4,2020-02-01T15:00:00Z,90,0,0,0,0,25,0,86840,1,0,26.0,2,1794,4171,2377,44,True,0,Sheffield Utd,Crystal Palace,DEF,Cahill
-Gavin Kilkenny,0,0,0,0,0.0,565,241,0,0,0.0,0.0,2020-02-01T15:00:00Z,0,0,0,0,0,25,0,325,1,2,0.0,0,4,31,27,45,True,0,Aston Villa,Bournemouth,MID,Kilkenny
-Gaëtan Bong,0,0,0,0,0.0,41,250,0,0,0.0,0.0,2020-02-01T15:00:00Z,0,0,0,0,0,25,0,7634,3,3,0.0,0,-129,45,174,42,False,0,West Ham,Brighton,DEF,Bong
-Gedson Carvalho Fernandes,0,0,0,0,0.0,605,248,0,0,0.0,0.0,2020-02-02T16:30:00Z,0,0,0,0,0,25,0,2673,0,2,0.0,0,-225,568,793,50,True,0,Man City,Spurs,MID,Fernandes
-Georges-Kévin Nkoudou,0,0,0,0,0.0,527,248,0,0,0.0,0.0,2020-02-02T16:30:00Z,0,0,0,0,0,25,0,841,0,2,0.0,0,-1,6,7,50,True,0,Man City,Spurs,MID,Nkoudou
-George Baldock,0,0,20,1,2.3,294,243,0,0,1.8,9.6,2020-02-01T15:00:00Z,90,0,0,0,0,25,0,820017,1,0,6.0,5,16187,57904,41717,51,False,1,Crystal Palace,Sheffield Utd,DEF,Baldock
-Georginio Wijnaldum,0,0,11,1,11.8,199,245,0,0,4.5,14.0,2020-02-01T15:00:00Z,80,0,0,0,0,25,0,174898,0,4,19.0,3,-7286,4811,12097,54,True,0,Southampton,Liverpool,MID,Wijnaldum
-Gerard Deulofeu,1,0,10,0,22.4,363,249,2,0,8.3,23.0,2020-02-01T15:00:00Z,81,0,0,0,0,25,0,225598,3,2,38.0,5,11361,27474,16113,61,True,0,Everton,Watford,FWD,Deulofeu
-Giovani Lo Celso,0,0,13,1,13.6,523,248,0,0,2.8,14.4,2020-02-02T16:30:00Z,90,0,0,0,0,25,0,24125,0,2,0.0,2,3304,4283,979,73,True,1,Man City,Spurs,MID,Lo Celso
-Giovanni McGregor,0,0,0,0,0.0,608,243,0,0,0.0,0.0,2020-02-01T15:00:00Z,0,0,0,0,0,25,0,92,1,0,0.0,0,21,39,18,45,True,0,Sheffield Utd,Crystal Palace,MID,McGregor
-Glenn Murray,0,0,25,0,7.8,44,250,3,1,9.8,36.2,2020-02-01T15:00:00Z,90,0,0,0,0,25,0,52254,3,3,54.0,6,-327,670,997,54,False,0,West Ham,Brighton,FWD,Murray
-Gonçalo Bento Soares Cardoso,0,0,0,0,0.0,594,250,0,0,0.0,0.0,2020-02-01T15:00:00Z,0,0,0,0,0,25,0,970,3,3,0.0,0,124,205,81,40,True,0,Brighton,West Ham,DEF,Cardoso
-Grady Diangana,0,0,0,0,0.0,398,250,0,0,0.0,0.0,2020-02-01T15:00:00Z,0,0,0,0,0,25,0,4416,3,3,0.0,0,-91,94,185,44,True,0,Brighton,West Ham,MID,Diangana
-Granit Xhaka,0,0,16,1,13.3,18,242,0,0,2.7,13.8,2020-02-02T14:00:00Z,90,0,0,0,0,25,0,46513,0,0,0.0,2,216,1238,1022,51,False,1,Burnley,Arsenal,MID,Xhaka
-Grant Hanley,0,1,31,1,0.4,277,247,0,0,3.2,31.2,2020-02-01T15:00:00Z,90,0,0,0,0,25,0,147516,0,0,0.0,7,1553,7923,6370,40,False,0,Newcastle,Norwich,DEF,Hanley
-Gylfi Sigurdsson,1,2,25,0,30.5,151,249,2,0,5.6,25.6,2020-02-01T15:00:00Z,66,0,0,0,0,25,0,175028,3,2,0.0,7,-4182,836,5018,73,False,0,Watford,Everton,MID,Sigurdsson
-Hamza Choudhury,0,0,16,0,11.0,180,244,2,0,3.7,16.8,2020-02-01T12:30:00Z,90,0,0,0,0,25,0,68234,2,2,9.0,2,-2692,2104,4796,43,True,0,Chelsea,Leicester,MID,Choudhury
-Harry Kane,0,0,0,0,0.0,338,248,0,0,0.0,0.0,2020-02-02T16:30:00Z,0,0,0,0,0,25,0,658361,0,2,0.0,0,-22781,223,23004,108,True,0,Man City,Spurs,FWD,Kane
-Harry Lewis,0,0,0,0,0.0,548,245,0,0,0.0,0.0,2020-02-01T15:00:00Z,0,0,0,0,0,25,0,11563,0,4,0.0,0,-148,354,502,40,False,0,Liverpool,Southampton,GK,Lewis
-Harry Maguire,0,0,27,1,12.2,160,246,0,0,4.7,24.8,2020-02-01T17:30:00Z,90,0,0,0,0,25,0,705361,0,0,10.0,6,-6250,8006,14256,52,True,0,Wolves,Man Utd,DEF,Maguire
-Harry Wilson,0,0,13,0,16.1,505,241,1,0,5.4,12.0,2020-02-01T15:00:00Z,90,0,0,0,0,25,0,167911,1,2,26.0,2,25246,33503,8257,58,True,0,Aston Villa,Bournemouth,MID,Harry Wilson
-Harry Winks,0,0,14,1,4.2,347,248,0,0,1.6,12.2,2020-02-02T16:30:00Z,90,0,0,0,0,25,0,18316,0,2,0.0,3,-443,157,600,52,True,0,Man City,Spurs,MID,Winks
-Harvey Barnes,0,0,21,0,17.9,172,244,2,1,9.6,39.2,2020-02-01T12:30:00Z,90,0,0,0,0,25,0,70711,2,2,39.0,7,25594,32679,7085,59,True,0,Chelsea,Leicester,MID,Barnes
-Harvey Elliott,0,0,0,0,0.0,550,245,0,0,0.0,0.0,2020-02-01T15:00:00Z,0,0,0,0,0,25,0,708,0,4,0.0,0,-20,28,48,45,True,0,Southampton,Liverpool,MID,Elliott
-Henrikh Mkhitaryan,0,0,0,0,0.0,16,242,0,0,0.0,0.0,2020-02-02T14:00:00Z,0,0,0,0,0,25,0,56167,0,0,0.0,0,-204,22,226,68,False,0,Burnley,Arsenal,MID,Mkhitaryan
-Henri Lansbury,0,0,0,0,0.0,35,241,0,0,0.0,0.0,2020-02-01T15:00:00Z,0,0,0,0,0,25,0,29736,1,2,0.0,0,-919,70,989,44,False,0,Bournemouth,Aston Villa,MID,Lansbury
-Heung-Min Son,0,0,22,1,2.3,342,248,0,1,7.9,40.8,2020-02-02T16:30:00Z,90,0,0,0,0,25,0,613590,0,2,36.0,8,38805,89031,50226,99,True,0,Man City,Spurs,MID,Son
-Heurelho da Silva Gomes,0,0,0,0,0.0,513,249,0,0,0.0,0.0,2020-02-01T15:00:00Z,0,0,0,0,0,25,0,14682,3,2,0.0,0,-44,194,238,44,True,0,Everton,Watford,GK,Gomes
-Hugo Lloris,0,3,47,1,0.0,340,248,0,0,5.2,51.8,2020-02-02T16:30:00Z,90,0,0,1,0,25,5,238809,0,2,0.0,15,2234,3846,1612,53,True,0,Man City,Spurs,GK,Lloris
-Héctor Bellerín,0,2,27,1,3.3,2,242,0,0,2.8,20.4,2020-02-02T14:00:00Z,90,0,0,0,0,25,0,38685,0,0,4.0,8,19962,23155,3193,54,False,0,Burnley,Arsenal,DEF,Bellerín
-Hélder Costa,0,0,0,0,0.0,418,246,0,0,0.0,0.0,2020-02-01T17:30:00Z,0,0,0,0,0,25,0,1245,0,0,0.0,0,-17,19,36,49,False,0,Man Utd,Wolves,MID,Costa
-Ibrahim Amadou,0,0,0,0,0.0,507,247,0,0,0.0,0.0,2020-02-01T15:00:00Z,0,0,0,0,0,25,0,6722,0,0,0.0,0,-317,43,360,45,False,0,Newcastle,Norwich,MID,Amadou
-Idrissa Gueye,0,0,0,0,0.0,156,249,0,0,0.0,0.0,2020-02-01T15:00:00Z,0,0,0,0,0,25,0,1294,3,2,0.0,0,-2,14,16,50,False,0,Watford,Everton,MID,Gueye
-Ignacio Pussetto,0,0,1,0,0.3,604,249,1,0,0.0,0.0,2020-02-01T15:00:00Z,8,0,0,0,0,25,0,309,3,2,0.0,1,-28,61,89,50,True,0,Everton,Watford,MID,Pussetto
-Ilkay Gündogan,0,0,8,0,33.9,222,248,2,0,8.2,19.0,2020-02-02T16:30:00Z,90,0,1,0,0,25,0,90592,0,2,29.0,0,-2929,1595,4524,52,False,0,Spurs,Man City,MID,Gündogan
-Indiana Vassilev,0,0,0,0,0.0,600,241,0,0,0.0,0.0,2020-02-01T15:00:00Z,0,0,0,0,0,25,0,234,1,2,0.0,0,34,84,50,45,False,0,Bournemouth,Aston Villa,MID,Vassilev
-Isaac Hayden,0,0,6,0,0.9,271,247,0,0,1.3,4.0,2020-02-01T15:00:00Z,56,0,0,0,0,25,0,343029,0,0,8.0,1,36188,53025,16837,43,True,0,Norwich,Newcastle,MID,Hayden
-Isaac Success Ajayi,0,0,-3,0,0.3,365,249,1,0,0.0,0.0,2020-02-01T15:00:00Z,15,0,0,0,0,25,0,25583,3,2,0.0,0,-226,243,469,48,True,1,Everton,Watford,FWD,Success
-Ismaïla Sarr,0,0,0,0,0.0,525,249,0,0,0.0,0.0,2020-02-01T15:00:00Z,0,0,0,0,0,25,0,45642,3,2,0.0,0,-26231,553,26784,62,True,0,Everton,Watford,MID,Sarr
-Issa Diop,0,0,20,0,0.3,381,250,3,1,6.7,49.4,2020-02-01T15:00:00Z,90,0,0,0,0,25,0,153833,3,3,17.0,7,-3972,870,4842,44,True,0,Brighton,West Ham,DEF,Diop
-Ivan Cavaleiro,0,0,0,0,0.0,419,246,0,0,0.0,0.0,2020-02-01T17:30:00Z,0,0,0,0,0,25,0,677,0,0,0.0,0,-6,14,20,49,False,0,Man Utd,Wolves,MID,Cavaleiro
-Jack Colback,0,0,0,0,0.0,482,247,0,0,0.0,0.0,2020-02-01T15:00:00Z,0,0,0,0,0,25,0,8537,0,0,0.0,0,-195,27,222,44,True,0,Norwich,Newcastle,MID,Colback
-Jack Cork,0,0,6,1,2.6,102,242,0,0,1.7,12.0,2020-02-02T14:00:00Z,90,0,0,0,0,25,0,12269,0,0,2.0,3,-71,151,222,49,True,0,Arsenal,Burnley,MID,Cork
-Jack Grealish,0,0,18,0,63.8,29,241,2,0,13.7,21.0,2020-02-01T15:00:00Z,90,0,0,0,0,25,0,1916621,1,2,52.0,2,182071,245532,63461,67,False,0,Bournemouth,Aston Villa,MID,Grealish
-Jack O'Connell,0,1,23,1,5.8,293,243,0,0,1.9,13.4,2020-02-01T15:00:00Z,90,0,0,0,0,25,0,200442,1,0,0.0,7,17465,31392,13927,46,False,0,Crystal Palace,Sheffield Utd,DEF,O'Connell
-Jack Robinson,0,0,0,0,0.0,611,243,0,0,0.0,0.0,2020-02-01T15:00:00Z,0,0,0,0,0,25,0,739,1,0,0.0,0,483,568,85,40,False,0,Crystal Palace,Sheffield Utd,DEF,Jack Robinson
-Jack Rodwell,0,0,0,0,0.0,591,243,0,0,0.0,0.0,2020-02-01T15:00:00Z,0,0,0,0,0,25,0,517,1,0,0.0,0,39,122,83,45,False,0,Crystal Palace,Sheffield Utd,MID,Rodwell
-Jack Simpson,0,0,0,0,0.0,66,241,0,0,0.0,0.0,2020-02-01T15:00:00Z,0,0,0,0,0,25,0,541003,1,2,0.0,0,-14123,3370,17493,40,True,0,Aston Villa,Bournemouth,DEF,Simpson
-Jack Stacey,0,0,0,0,0.0,446,241,0,0,0.0,0.0,2020-02-01T15:00:00Z,0,0,0,0,0,25,0,6115,1,2,0.0,0,-349,7,356,43,True,0,Aston Villa,Bournemouth,DEF,Stacey
-Jack Stephens,0,0,3,0,0.3,308,245,4,0,1.3,12.2,2020-02-01T15:00:00Z,90,0,0,0,0,25,0,206729,0,4,0.0,-1,54130,65983,11853,44,False,1,Liverpool,Southampton,DEF,Stephens
-Jack Wilshere,0,0,0,0,0.0,394,250,0,0,0.0,0.0,2020-02-01T15:00:00Z,0,0,0,0,0,25,0,14142,3,3,0.0,0,-194,15,209,47,True,0,Brighton,West Ham,MID,Wilshere
-Jacob Murphy,0,0,0,0,0.0,483,247,0,0,0.0,0.0,2020-02-01T15:00:00Z,0,0,0,0,0,25,0,569,0,0,0.0,0,0,6,6,48,True,0,Norwich,Newcastle,MID,Murphy
-Jairo Riedewald,0,0,0,0,0.0,539,243,0,0,0.0,0.0,2020-02-01T15:00:00Z,0,0,0,0,0,25,0,1588,1,0,0.0,0,82,226,144,45,True,0,Sheffield Utd,Crystal Palace,MID,Riedewald
-Jake Eastwood,0,0,0,0,0.0,299,243,0,0,0.0,0.0,2020-02-01T15:00:00Z,0,0,0,0,0,25,0,8482,1,0,0.0,0,-82,72,154,43,False,0,Crystal Palace,Sheffield Utd,GK,Eastwood
-Jamaal Lascelles,0,0,26,1,0.0,258,247,0,0,2.1,15.4,2020-02-01T15:00:00Z,90,0,0,0,0,25,0,227013,0,0,6.0,6,43925,51214,7289,42,True,0,Norwich,Newcastle,DEF,Lascelles
-Jamal Lewis,0,0,0,0,0.0,276,247,0,0,0.0,0.0,2020-02-01T15:00:00Z,0,0,0,0,0,25,0,17158,0,0,0.0,0,-312,116,428,44,False,0,Newcastle,Norwich,DEF,Lewis
-James Chester,0,0,0,0,0.0,23,241,0,0,0.0,0.0,2020-02-01T15:00:00Z,0,0,0,0,0,25,0,4213,1,2,0.0,0,-105,61,166,43,False,0,Bournemouth,Aston Villa,DEF,Chester
-James Daly,0,0,0,0,0.0,581,243,0,0,0.0,0.0,2020-02-01T15:00:00Z,0,0,0,0,0,25,0,996,1,0,0.0,0,7,137,130,45,True,0,Sheffield Utd,Crystal Palace,FWD,Daly
-James Garner,0,0,0,0,0.0,250,246,0,0,0.0,0.0,2020-02-01T17:30:00Z,0,0,0,0,0,25,0,17750,0,0,0.0,0,-348,279,627,43,True,0,Wolves,Man Utd,MID,Garner
-James Justin,0,0,0,0,0.0,433,244,0,0,0.0,0.0,2020-02-01T12:30:00Z,0,0,0,0,0,25,0,7377,2,2,0.0,0,-41,73,114,48,True,0,Chelsea,Leicester,DEF,Justin
-James Maddison,0,0,20,0,65.8,171,244,2,0,10.3,21.4,2020-02-01T12:30:00Z,90,0,0,0,0,25,0,1727773,2,2,16.0,1,-97859,74402,172261,76,True,1,Chelsea,Leicester,MID,Maddison
-James McArthur,0,0,15,0,27.8,138,243,1,0,7.4,16.4,2020-02-01T15:00:00Z,85,0,0,0,0,25,0,45437,1,0,30.0,2,-893,731,1624,52,True,0,Sheffield Utd,Crystal Palace,MID,McArthur
-James McCarthy,0,0,9,0,2.3,157,243,1,0,2.2,7.6,2020-02-01T15:00:00Z,79,0,0,0,0,25,0,49296,1,0,12.0,2,2056,4803,2747,43,True,0,Sheffield Utd,Crystal Palace,MID,McCarthy
-James Milner,0,0,0,0,0.0,200,245,0,0,0.0,0.0,2020-02-01T15:00:00Z,0,0,0,0,0,25,0,36031,0,4,0.0,0,-1090,20,1110,53,True,0,Southampton,Liverpool,MID,Milner
-James Tarkowski,0,0,19,1,0.9,84,242,0,0,3.0,18.6,2020-02-02T14:00:00Z,90,0,0,0,0,25,0,240601,0,0,10.0,5,-865,11842,12707,51,True,1,Arsenal,Burnley,DEF,Tarkowski
-James Tomkins,0,0,2,0,0.6,124,243,1,0,2.8,18.8,2020-02-01T15:00:00Z,90,0,0,0,0,25,0,48424,1,0,9.0,1,-4439,1526,5965,50,True,1,Sheffield Utd,Crystal Palace,DEF,Tomkins
-James Ward-Prowse,0,0,15,0,53.2,321,245,4,0,8.4,28.2,2020-02-01T15:00:00Z,90,0,0,0,0,25,0,119419,0,4,3.0,1,-5954,7536,13490,58,False,1,Liverpool,Southampton,MID,Ward-Prowse
-Jamie Vardy,0,0,6,0,16.7,166,244,2,0,3.6,2.2,2020-02-01T12:30:00Z,79,0,0,0,0,25,0,3004159,2,2,17.0,2,-498712,58985,557697,99,True,0,Chelsea,Leicester,FWD,Vardy
-Jannik Vestergaard,0,0,0,0,0.0,304,245,0,0,0.0,0.0,2020-02-01T15:00:00Z,0,0,0,0,0,25,0,157886,0,4,0.0,0,-4455,720,5175,46,False,0,Liverpool,Southampton,DEF,Vestergaard
-Jan Bednarek,0,0,17,0,0.1,307,245,4,0,4.3,38.8,2020-02-01T15:00:00Z,90,0,0,0,0,25,0,53454,0,4,4.0,0,-1766,1858,3624,44,False,0,Liverpool,Southampton,DEF,Bednarek
-Jan Vertonghen,0,0,0,0,0.0,330,248,0,0,0.0,0.0,2020-02-02T16:30:00Z,0,0,0,0,0,25,0,128324,0,2,0.0,0,-4172,833,5005,52,True,0,Man City,Spurs,DEF,Vertonghen
-Japhet Tanganga,0,0,23,1,1.3,583,248,0,0,3.1,27.8,2020-02-02T16:30:00Z,90,0,0,0,0,25,0,110857,0,2,2.0,6,12772,27890,15118,40,True,0,Man City,Spurs,DEF,Tanganga
-Javier Hernández Balcázar,0,0,0,0,0.0,386,250,0,0,0.0,0.0,2020-02-01T15:00:00Z,0,0,0,0,0,25,0,25934,3,3,0.0,0,-121,21,142,60,True,0,Brighton,West Ham,FWD,Chicharito
-Javier Manquillo,0,0,0,0,0.0,256,247,0,0,0.0,0.0,2020-02-01T15:00:00Z,0,0,0,0,0,25,0,11978,0,0,0.0,0,-1251,17,1268,43,True,0,Norwich,Newcastle,DEF,Manquillo
-Jay Rodriguez,0,0,0,1,3.6,451,242,0,0,5.1,9.2,2020-02-02T14:00:00Z,90,0,0,0,0,25,0,16749,0,0,38.0,2,1552,2076,524,57,True,0,Arsenal,Burnley,FWD,Rodriguez
-Jean-Philippe Gbamin,0,0,0,0,0.0,497,249,0,0,0.0,0.0,2020-02-01T15:00:00Z,0,0,0,0,0,25,0,2112,3,2,0.0,0,-9,5,14,48,False,0,Watford,Everton,MID,Gbamin
-Jed Steer,0,0,0,0,0.0,429,241,0,0,0.0,0.0,2020-02-01T15:00:00Z,0,0,0,0,0,25,0,6555,1,2,0.0,0,-93,8,101,43,False,0,Bournemouth,Aston Villa,GK,Steer
-Jefferson Lerma,0,0,-7,0,1.1,82,241,1,0,0.6,0.0,2020-02-01T15:00:00Z,50,0,0,0,1,25,0,9544,1,2,9.0,-2,-170,119,289,48,True,0,Aston Villa,Bournemouth,MID,Lerma
-Jeffrey Schlupp,0,0,0,0,0.0,137,243,0,0,0.0,0.0,2020-02-01T15:00:00Z,0,0,0,0,0,25,0,5927,1,0,0.0,0,-197,12,209,54,True,0,Sheffield Utd,Crystal Palace,MID,Schlupp
-Jeff Hendrick,0,0,4,1,30.8,100,242,0,0,6.9,16.8,2020-02-02T14:00:00Z,90,0,0,0,0,25,0,7762,0,0,21.0,3,-32,210,242,54,True,0,Arsenal,Burnley,MID,Hendrick
-Jeremy Ngakia,0,0,0,0,0.0,593,250,0,0,0.0,0.0,2020-02-01T15:00:00Z,0,0,0,0,0,25,0,1619,3,3,0.0,0,860,1054,194,40,True,0,Brighton,West Ham,DEF,Ngakia
-Jesse Lingard,0,0,3,0,0.6,241,246,0,0,0.1,0.4,2020-02-01T17:30:00Z,2,0,0,0,0,25,0,54964,0,0,0.0,1,-99,732,831,63,True,0,Wolves,Man Utd,MID,Lingard
-Jesús Vallejo Lázaro,0,0,0,0,0.0,473,246,0,0,0.0,0.0,2020-02-01T17:30:00Z,0,0,0,0,0,25,0,16976,0,0,0.0,0,-483,53,536,46,False,0,Man Utd,Wolves,DEF,Vallejo
-Jetro Willems,0,0,0,0,0.0,498,247,0,0,0.0,0.0,2020-02-01T15:00:00Z,0,0,0,0,0,25,0,91312,0,0,0.0,0,-27614,82,27696,45,True,0,Norwich,Newcastle,DEF,Willems
-Joelinton Cássio Apolinário de Lira,0,0,3,1,2.8,466,247,0,0,3.8,4.6,2020-02-01T15:00:00Z,90,0,0,0,0,25,0,67088,0,0,31.0,2,3813,6449,2636,55,True,0,Norwich,Newcastle,FWD,Joelinton
-Joel Matip,0,0,0,0,0.0,185,245,0,0,0.0,0.0,2020-02-01T15:00:00Z,0,0,0,0,0,25,0,85845,0,4,0.0,0,-476,604,1080,52,True,0,Southampton,Liverpool,DEF,Matip
-Joel Ward,0,0,6,0,1.3,126,243,1,0,1.1,9.6,2020-02-01T15:00:00Z,90,0,0,0,0,25,0,74433,1,0,0.0,1,-351,1697,2048,43,True,1,Sheffield Utd,Crystal Palace,DEF,Ward
-Joe Hart,0,0,0,0,0.0,95,242,0,0,0.0,0.0,2020-02-02T14:00:00Z,0,0,0,0,0,25,0,80898,0,0,0.0,0,-633,622,1255,42,True,0,Arsenal,Burnley,GK,Hart
-Johann Berg Gudmundsson,0,0,0,0,0.0,96,242,0,0,0.0,0.0,2020-02-02T14:00:00Z,0,0,0,0,0,25,0,30860,0,0,0.0,0,-184,16,200,59,True,0,Arsenal,Burnley,MID,Gudmundsson
-John Egan,0,0,21,1,0.3,295,243,0,0,2.1,16.8,2020-02-01T15:00:00Z,90,0,0,0,0,25,0,95440,1,0,4.0,6,11449,18649,7200,45,False,0,Crystal Palace,Sheffield Utd,DEF,Egan
-John Fleck,0,0,10,1,27.6,301,243,0,0,4.8,12.2,2020-02-01T15:00:00Z,90,0,0,0,0,25,0,444584,1,0,8.0,2,116379,147623,31244,50,False,1,Crystal Palace,Sheffield Utd,MID,Fleck
-John Lundstram,0,0,4,0,12.5,297,243,0,0,1.8,4.2,2020-02-01T15:00:00Z,22,0,0,0,0,25,0,3437167,1,0,1.0,1,-18400,54569,72969,51,False,0,Crystal Palace,Sheffield Utd,DEF,Lundstram
-John McGinn,0,0,0,0,0.0,31,241,0,0,0.0,0.0,2020-02-01T15:00:00Z,0,0,0,0,0,25,0,209886,1,2,0.0,0,-11057,50,11107,54,False,0,Bournemouth,Aston Villa,MID,McGinn
-John Ruddy,0,0,0,0,0.0,412,246,0,0,0.0,0.0,2020-02-01T17:30:00Z,0,0,0,0,0,25,0,28362,0,0,0.0,0,-286,135,421,43,False,0,Man Utd,Wolves,GK,Ruddy
-John Stones,0,0,0,0,0.0,207,248,0,0,0.0,0.0,2020-02-02T16:30:00Z,0,0,0,0,0,25,0,73350,0,2,0.0,0,-1277,506,1783,53,False,0,Spurs,Man City,DEF,Stones
-Jonas Lössl,0,0,0,0,0.0,479,249,0,0,0.0,0.0,2020-02-01T15:00:00Z,0,0,0,0,0,25,0,20101,3,2,0.0,0,-332,40,372,43,False,0,Watford,Everton,GK,Lössl
-Jonathan Castro Otto,0,0,17,1,1.8,402,246,0,0,2.4,22.4,2020-02-01T17:30:00Z,90,0,0,0,0,25,0,74046,0,0,0.0,6,-1352,1675,3027,54,False,0,Man Utd,Wolves,DEF,Jonny
-Jonathan Kodjia,0,0,0,0,0.0,26,241,0,0,0.0,0.0,2020-02-01T15:00:00Z,0,0,0,0,0,25,0,6035,1,2,0.0,0,-167,9,176,54,False,0,Bournemouth,Aston Villa,FWD,Kodjia
-Jonjo Shelvey,0,0,0,0,0.0,269,247,0,0,0.0,0.0,2020-02-01T15:00:00Z,0,0,0,0,0,25,0,59502,0,0,0.0,0,-10545,2271,12816,50,True,0,Norwich,Newcastle,MID,Shelvey
-Jonny Evans,0,0,12,0,0.1,162,244,2,0,2.6,22.0,2020-02-01T12:30:00Z,90,0,0,0,0,25,0,465822,2,2,4.0,0,-25627,12672,38299,53,True,1,Chelsea,Leicester,DEF,Evans
-Jordan Ayew,0,0,10,0,23.0,468,243,1,0,3.7,8.4,2020-02-01T15:00:00Z,90,0,0,0,0,25,0,586233,1,0,6.0,2,-5957,47640,53597,50,True,0,Sheffield Utd,Crystal Palace,FWD,Ayew
-Jordan Henderson,1,2,43,1,21.7,198,245,0,1,10.6,57.0,2020-02-01T15:00:00Z,87,0,0,0,0,25,0,117706,0,4,27.0,13,18896,26015,7119,54,True,0,Southampton,Liverpool,MID,Henderson
-Jordan Pickford,0,0,8,0,0.0,148,249,2,0,0.3,3.4,2020-02-01T15:00:00Z,90,0,0,0,0,25,0,523187,3,2,0.0,1,-14340,4529,18869,53,False,0,Watford,Everton,GK,Pickford
-Jordon Ibe,0,0,0,0,0.0,78,241,0,0,0.0,0.0,2020-02-01T15:00:00Z,0,0,0,0,0,25,0,10849,1,2,0.0,0,-146,163,309,46,True,0,Aston Villa,Bournemouth,MID,Ibe
-Jorge Luiz Frello Filho,0,0,13,0,1.3,118,244,2,0,0.9,7.4,2020-02-01T12:30:00Z,73,0,0,0,0,25,0,310573,2,2,0.0,1,42816,56518,13702,49,False,1,Leicester,Chelsea,MID,Jorginho
-Jose Luis Mato Sanmartín,0,0,0,0,0.0,261,247,0,0,0.0,0.0,2020-02-01T15:00:00Z,0,0,0,0,0,25,0,1897,0,0,0.0,0,-19,6,25,50,True,0,Norwich,Newcastle,FWD,Joselu
-Joseph Anang,0,0,0,0,0.0,582,250,0,0,0.0,0.0,2020-02-01T15:00:00Z,0,0,0,0,0,25,0,10683,3,3,0.0,0,23,713,690,40,True,0,Brighton,West Ham,GK,Anang
-Joseph Gomez,0,0,27,1,0.7,184,245,0,0,3.1,29.8,2020-02-01T15:00:00Z,90,0,0,0,0,25,0,355311,0,4,0.0,6,23654,47915,24261,53,True,0,Southampton,Liverpool,DEF,Gomez
-Joseph Willock,0,0,2,0,11.3,490,242,0,0,2.2,7.6,2020-02-02T14:00:00Z,27,0,0,0,0,25,0,12925,0,0,3.0,1,-158,143,301,48,False,0,Burnley,Arsenal,MID,Willock
-Joshua King,0,0,0,0,0.0,68,241,0,0,0.0,0.0,2020-02-01T15:00:00Z,0,0,0,0,0,25,0,245842,1,2,0.0,0,-4359,256,4615,61,True,0,Aston Villa,Bournemouth,FWD,King
-Josh Brownhill,0,0,0,0,0.0,620,242,0,0,0.0,0.0,2020-02-02T14:00:00Z,0,0,0,0,0,25,0,195,0,0,0.0,0,187,200,13,50,True,0,Arsenal,Burnley,MID,Brownhill
-Josip Drmic,0,0,0,0,0.0,434,247,0,0,0.0,0.0,2020-02-01T15:00:00Z,0,0,0,0,0,25,0,4258,0,0,0.0,0,36,102,66,53,False,0,Newcastle,Norwich,FWD,Drmic
-José Diogo Dalot Teixeira,0,0,-2,0,0.8,229,246,0,0,0.3,0.0,2020-02-01T17:30:00Z,2,0,0,0,0,25,0,5991,0,0,4.0,1,42,103,61,49,True,0,Wolves,Man Utd,DEF,Dalot
-José Heriberto Izquierdo Mena,0,0,0,0,0.0,51,250,0,0,0.0,0.0,2020-02-01T15:00:00Z,0,0,0,0,0,25,0,176,3,3,0.0,0,1,10,9,54,False,0,West Ham,Brighton,MID,Izquierdo
-José Ignacio Peleteiro Romallo,0,0,0,0,0.0,36,241,0,0,0.0,0.0,2020-02-01T15:00:00Z,0,0,0,0,0,25,0,10575,1,2,0.0,0,-60,199,259,58,False,0,Bournemouth,Aston Villa,MID,Jota
-José Ángel Esmorís Tasende,0,0,0,0,0.0,440,248,0,0,0.0,0.0,2020-02-02T16:30:00Z,0,0,0,0,0,25,0,13519,0,2,0.0,0,-572,172,744,47,False,0,Spurs,Man City,DEF,Angeliño
-José Holebas,0,0,0,0,0.0,353,249,0,0,0.0,0.0,2020-02-01T15:00:00Z,0,0,0,0,0,25,0,50578,3,2,0.0,0,-404,284,688,46,True,0,Everton,Watford,DEF,Holebas
-José Reina,0,0,17,0,0.0,603,241,2,0,2.4,24.0,2020-02-01T15:00:00Z,90,0,0,0,0,25,4,26609,1,2,0.0,2,8044,10951,2907,45,False,0,Bournemouth,Aston Villa,GK,Reina
-João Filipe Iria Santos Moutinho,0,0,23,1,57.7,415,246,0,0,8.6,27.0,2020-02-01T17:30:00Z,90,0,0,0,0,25,0,387018,0,0,1.0,2,-13483,13333,26816,54,False,1,Man Utd,Wolves,MID,Moutinho
-João Pedro Cavaco Cancelo,0,0,4,0,1.6,518,248,1,0,0.5,1.6,2020-02-02T16:30:00Z,26,0,0,0,0,25,0,59437,0,2,2.0,1,-1472,609,2081,52,False,0,Spurs,Man City,DEF,Cancelo
-João Pedro Junqueira de Jesus,0,0,0,0,0.0,592,249,0,0,0.0,0.0,2020-02-01T15:00:00Z,0,0,0,0,0,25,0,599,3,2,0.0,0,-119,110,229,50,True,0,Everton,Watford,FWD,João Pedro
-Juan Foyth,0,0,0,0,0.0,335,248,0,0,0.0,0.0,2020-02-02T16:30:00Z,0,0,0,0,0,25,0,3140,0,2,0.0,0,-41,48,89,48,True,0,Man City,Spurs,DEF,Foyth
-Juan Mata,0,0,9,1,11.6,242,246,0,0,2.5,4.4,2020-02-01T17:30:00Z,87,0,0,0,0,25,0,29423,0,0,9.0,3,-1015,1455,2470,62,True,0,Wolves,Man Utd,MID,Mata
-Junior Stanislas,0,0,0,0,0.0,77,241,0,0,0.0,0.0,2020-02-01T15:00:00Z,0,0,0,0,0,25,0,611,1,2,0.0,0,-48,11,59,59,True,0,Aston Villa,Bournemouth,MID,Stanislas
-Jürgen Locadia,0,0,0,0,0.0,45,250,0,0,0.0,0.0,2020-02-01T15:00:00Z,0,0,0,0,0,25,0,5506,3,3,0.0,0,-26,24,50,52,False,0,West Ham,Brighton,FWD,Locadia
-Karl Darlow,0,0,0,0,0.0,263,247,0,0,0.0,0.0,2020-02-01T15:00:00Z,0,0,0,0,0,25,0,8558,0,0,0.0,0,-34,63,97,43,True,0,Norwich,Newcastle,GK,Darlow
-Kasper Schmeichel,0,0,13,0,0.0,168,244,2,0,1.4,14.2,2020-02-01T12:30:00Z,90,0,0,0,0,25,1,1081054,2,2,0.0,1,-72281,9377,81658,54,True,0,Chelsea,Leicester,GK,Schmeichel
-Kayne Ramsay,0,0,0,0,0.0,311,245,0,0,0.0,0.0,2020-02-01T15:00:00Z,0,0,0,0,0,25,0,132301,0,4,0.0,0,823,9029,8206,39,False,0,Liverpool,Southampton,DEF,Ramsay
-Keinan Davis,1,0,13,0,2.6,34,241,0,0,4.8,4.4,2020-02-01T15:00:00Z,32,0,0,0,0,25,0,16737,1,2,41.0,4,-293,373,666,43,False,0,Bournemouth,Aston Villa,MID,Davis
-Kelechi Iheanacho,0,0,1,0,0.4,167,244,0,0,0.3,2.6,2020-02-01T12:30:00Z,10,0,0,0,0,25,0,31083,2,2,0.0,1,5064,8074,3010,57,True,0,Chelsea,Leicester,FWD,Iheanacho
-Kelland Watts,0,0,0,0,0.0,599,247,0,0,0.0,0.0,2020-02-01T15:00:00Z,0,0,0,0,0,25,0,673,0,0,0.0,0,-15,107,122,40,True,0,Norwich,Newcastle,DEF,Watts
-Kenny McLean,0,0,16,1,15.5,286,247,0,0,3.8,14.8,2020-02-01T15:00:00Z,90,0,0,0,0,25,0,11405,0,0,8.0,3,-147,132,279,49,False,0,Newcastle,Norwich,MID,McLean
-Ken Sema,0,0,0,0,0.0,372,249,0,0,0.0,0.0,2020-02-01T15:00:00Z,0,0,0,0,0,25,0,1385,3,2,0.0,0,-5,24,29,48,True,0,Everton,Watford,MID,Sema
-Kepa Arrizabalaga,0,0,0,0,0.0,111,244,0,0,0.0,0.0,2020-02-01T12:30:00Z,0,0,0,0,0,25,0,352373,2,2,0.0,0,-14087,1543,15630,55,False,0,Leicester,Chelsea,GK,Kepa
-Kevin Danso,0,0,0,0,0.0,532,245,0,0,0.0,0.0,2020-02-01T15:00:00Z,0,0,0,0,0,25,0,2190,0,4,0.0,0,-19,48,67,42,False,0,Liverpool,Southampton,DEF,Danso
-Kevin De Bruyne,0,0,10,0,46.4,215,248,2,0,10.1,11.2,2020-02-02T16:30:00Z,90,0,0,0,0,25,0,3938348,0,2,43.0,2,167175,213846,46671,107,False,0,Spurs,Man City,MID,De Bruyne
-Kevin Long,0,0,0,0,0.0,88,242,0,0,0.0,0.0,2020-02-02T14:00:00Z,0,0,0,0,0,25,0,8259,0,0,0.0,0,-10,125,135,43,True,0,Arsenal,Burnley,DEF,Long
-Kieran Tierney,0,0,0,0,0.0,515,242,0,0,0.0,0.0,2020-02-02T14:00:00Z,0,0,0,0,0,25,0,24594,0,0,0.0,0,-590,14,604,53,False,0,Burnley,Arsenal,DEF,Tierney
-Kieran Trippier,0,0,0,0,0.0,334,248,0,0,0.0,0.0,2020-02-02T16:30:00Z,0,0,0,0,0,25,0,9791,0,2,0.0,0,-26,46,72,55,True,0,Man City,Spurs,DEF,Trippier
-Kieron Freeman,0,0,0,0,0.0,292,243,0,0,0.0,0.0,2020-02-01T15:00:00Z,0,0,0,0,0,25,0,7069,1,0,0.0,0,-56,142,198,42,False,0,Crystal Palace,Sheffield Utd,DEF,Freeman
-Konstantinos Mavropanos,0,0,0,0,0.0,8,242,0,0,0.0,0.0,2020-02-02T14:00:00Z,0,0,0,0,0,25,0,2953,0,0,0.0,0,-83,13,96,44,False,0,Burnley,Arsenal,DEF,Mavropanos
-Kortney Hause,0,0,3,0,11.3,25,241,2,0,2.4,11.0,2020-02-01T15:00:00Z,90,0,0,0,0,25,0,4927,1,2,2.0,0,-33,94,127,44,False,1,Bournemouth,Aston Villa,DEF,Hause
-Kurt Zouma,0,0,0,0,0.0,459,244,0,0,0.0,0.0,2020-02-01T12:30:00Z,0,0,0,0,0,25,0,120681,2,2,0.0,0,-7684,686,8370,47,False,0,Leicester,Chelsea,DEF,Zouma
-Kyle Walker-Peters,0,0,0,0,0.0,337,245,0,0,0.0,0.0,2020-02-01T15:00:00Z,0,0,0,0,0,25,0,39828,0,4,0.0,0,1469,2001,532,44,False,0,Liverpool,Southampton,DEF,Walker-Peters
-Kyle Walker,0,0,20,0,19.4,203,248,2,0,4.5,23.2,2020-02-02T16:30:00Z,90,0,0,0,0,25,0,789662,0,2,2.0,0,-6719,9611,16330,57,False,1,Spurs,Man City,DEF,Walker
-Laurent Koscielny,0,0,0,0,0.0,7,242,0,0,0.0,0.0,2020-02-02T14:00:00Z,0,0,0,0,0,25,0,5642,0,0,0.0,0,-6,23,29,50,False,0,Burnley,Arsenal,DEF,Koscielny
-Leander Dendoncker,0,0,5,0,0.0,420,246,0,0,0.2,2.0,2020-02-01T17:30:00Z,1,0,0,0,0,25,0,731036,0,0,0.0,1,-21691,23251,44942,44,False,0,Man Utd,Wolves,MID,Dendoncker
-Leandro Trossard,0,0,4,0,39.1,421,250,3,0,8.4,13.6,2020-02-01T15:00:00Z,90,0,0,0,0,25,0,44570,3,3,31.0,2,-1343,5633,6976,58,False,0,West Ham,Brighton,MID,Trossard
-Lee Grant,0,0,0,0,0.0,237,246,0,0,0.0,0.0,2020-02-01T17:30:00Z,0,0,0,0,0,25,0,7474,0,0,0.0,0,-37,27,64,48,True,0,Wolves,Man Utd,GK,Grant
-Leighton Baines,0,0,0,0,0.0,145,249,0,0,0.0,0.0,2020-02-01T15:00:00Z,0,0,0,0,0,25,0,12653,3,2,0.0,0,-295,193,488,49,False,0,Watford,Everton,DEF,Baines
-Leon Balogun,0,0,0,0,0.0,40,250,0,0,0.0,0.0,2020-02-01T15:00:00Z,0,0,0,0,0,25,0,4032,3,3,0.0,0,-41,32,73,44,False,0,West Ham,Brighton,DEF,Balogun
-Leon Clarke,0,0,0,0,0.0,547,243,0,0,0.0,0.0,2020-02-01T15:00:00Z,0,0,0,0,0,25,0,5924,1,0,0.0,0,-54,226,280,44,False,0,Crystal Palace,Sheffield Utd,FWD,Clarke
-Leroy Sané,0,0,0,0,0.0,216,248,0,0,0.0,0.0,2020-02-02T16:30:00Z,0,0,0,0,0,25,0,16786,0,2,0.0,0,105,324,219,93,False,0,Spurs,Man City,MID,Sané
-Lewis Cook,0,0,0,0,0.0,79,241,0,0,0.0,0.0,2020-02-01T15:00:00Z,0,0,0,0,0,25,0,3139,1,2,0.0,0,-75,144,219,50,True,0,Aston Villa,Bournemouth,MID,Lewis Cook
-Lewis Dunk,0,0,16,0,0.4,42,250,3,0,1.2,10.4,2020-02-01T15:00:00Z,90,0,0,0,0,25,0,1063229,3,3,1.0,1,-30413,32159,62572,48,False,0,West Ham,Brighton,DEF,Dunk
-Lewis Gibson,0,0,0,0,0.0,477,249,0,0,0.0,0.0,2020-02-01T15:00:00Z,0,0,0,0,0,25,0,10555,3,2,0.0,0,-178,60,238,43,False,0,Watford,Everton,DEF,Gibson
-Liam Gibson,0,0,0,0,0.0,610,247,0,0,0.0,0.0,2020-02-01T15:00:00Z,0,0,0,0,0,25,0,512,0,0,0.0,0,280,330,50,40,True,0,Norwich,Newcastle,DEF,Gibson
-Lloyd Kelly,0,0,0,0,0.0,64,241,0,0,0.0,0.0,2020-02-01T15:00:00Z,0,0,0,0,0,25,0,3462,1,2,0.0,0,60,195,135,44,True,0,Aston Villa,Bournemouth,DEF,Kelly
-Lovre Kalinic,0,0,0,0,0.0,474,241,0,0,0.0,0.0,2020-02-01T15:00:00Z,0,0,0,0,0,25,0,6420,1,2,0.0,0,-244,16,260,43,False,0,Bournemouth,Aston Villa,GK,Kalinic
-Lucas Digne,0,0,15,0,1.8,141,249,2,0,3.7,15.6,2020-02-01T15:00:00Z,90,0,0,0,0,25,0,969418,3,2,20.0,1,21134,45074,23940,58,False,0,Watford,Everton,DEF,Digne
-Lucas Rodrigues Moura da Silva,1,0,17,1,11.0,345,248,0,0,3.6,22.6,2020-02-02T16:30:00Z,83,0,0,0,0,25,0,348722,0,2,2.0,6,-29399,8683,38082,71,True,0,Man City,Spurs,MID,Lucas Moura
-Lucas Torreira,0,0,7,0,21.5,19,242,0,0,4.0,9.2,2020-02-02T14:00:00Z,45,0,0,0,0,25,0,93682,0,0,9.0,0,3178,5827,2649,47,False,1,Burnley,Arsenal,MID,Torreira
-Lukasz Fabianski,0,0,13,0,0.0,388,250,3,0,2.7,26.6,2020-02-01T15:00:00Z,90,0,0,0,0,25,4,155054,3,3,0.0,2,-1800,3611,5411,49,True,0,Brighton,West Ham,GK,Fabianski
-Lukas Rupp,0,0,12,1,23.8,602,247,0,0,7.8,13.6,2020-02-01T15:00:00Z,88,0,0,0,0,25,0,234,0,0,41.0,3,86,158,72,45,False,0,Newcastle,Norwich,MID,Rupp
-Luka Milivojevic,0,0,9,0,27.3,134,243,1,0,3.9,10.8,2020-02-01T15:00:00Z,90,0,0,0,0,25,0,143435,1,0,1.0,1,-599,1100,1699,67,True,1,Sheffield Utd,Crystal Palace,MID,Milivojevic
-Luke Amos,0,0,0,0,0.0,351,248,0,0,0.0,0.0,2020-02-02T16:30:00Z,0,0,0,0,0,25,0,1013,0,2,0.0,0,-17,21,38,45,True,0,Man City,Spurs,MID,Amos
-Luke Cundle,0,0,0,0,0.0,567,246,0,0,0.0,0.0,2020-02-01T17:30:00Z,0,0,0,0,0,25,0,1226,0,0,0.0,0,-45,50,95,45,False,0,Man Utd,Wolves,MID,Cundle
-Luke Dreher,0,0,0,0,0.0,140,243,0,0,0.0,0.0,2020-02-01T15:00:00Z,0,0,0,0,0,25,0,9267,1,0,0.0,0,-162,414,576,43,True,0,Sheffield Utd,Crystal Palace,MID,Dreher
-Luke Freeman,0,0,0,0,0.0,441,243,0,0,0.0,0.0,2020-02-01T15:00:00Z,0,0,0,0,0,25,0,4940,1,0,0.0,0,-45,110,155,51,False,0,Crystal Palace,Sheffield Utd,MID,Freeman
-Luke Shaw,0,0,26,1,31.6,226,246,0,0,5.4,18.8,2020-02-01T17:30:00Z,90,0,0,0,0,25,0,43733,0,0,4.0,5,-41,842,883,54,True,1,Wolves,Man Utd,DEF,Shaw
-Lys Mousset,0,0,8,0,13.3,70,243,0,0,4.9,6.8,2020-02-01T15:00:00Z,26,0,0,0,0,25,0,192007,1,0,29.0,1,-13300,12869,26169,46,False,0,Crystal Palace,Sheffield Utd,FWD,Mousset
-Maarten Stekelenburg,0,0,0,0,0.0,149,249,0,0,0.0,0.0,2020-02-01T15:00:00Z,0,0,0,0,0,25,0,549880,3,2,0.0,0,-10618,1075,11693,40,False,0,Watford,Everton,GK,Stekelenburg
-Mace Goodridge,0,0,0,0,0.0,571,242,0,0,0.0,0.0,2020-02-02T14:00:00Z,0,0,0,0,0,25,0,351,0,0,0.0,0,13,40,27,45,True,0,Arsenal,Burnley,MID,Goodridge
-Mahmoud Ahmed Ibrahim Hassan,0,0,2,0,0.0,465,241,0,0,0.0,0.0,2020-02-01T15:00:00Z,10,0,0,0,0,25,0,85755,1,2,0.0,1,559,3975,3416,52,False,0,Bournemouth,Aston Villa,MID,Trézéguet
-Mamadou Sakho,0,0,0,0,0.0,125,243,0,0,0.0,0.0,2020-02-01T15:00:00Z,0,0,0,0,0,25,0,5171,1,0,0.0,0,-119,4,123,50,True,0,Sheffield Utd,Crystal Palace,DEF,Sakho
-Manuel Lanzini,0,0,1,0,0.1,391,250,0,0,0.0,0.2,2020-02-01T15:00:00Z,5,0,0,0,0,25,0,59128,3,3,0.0,1,-1923,1451,3374,62,True,0,Brighton,West Ham,MID,Lanzini
-Marcos Alonso,0,0,0,0,0.0,103,244,0,0,0.0,0.0,2020-02-01T12:30:00Z,0,0,0,0,0,25,0,151789,2,2,0.0,0,-1082,780,1862,60,False,0,Leicester,Chelsea,DEF,Alonso
-Marcos Rojo,0,0,0,0,0.0,227,246,0,0,0.0,0.0,2020-02-01T17:30:00Z,0,0,0,0,0,25,0,9205,0,0,0.0,0,-84,5,89,48,True,0,Wolves,Man Utd,DEF,Rojo
-Marco Stiepermann,0,0,0,0,0.0,285,247,0,0,0.0,0.0,2020-02-01T15:00:00Z,0,0,0,0,0,25,0,4912,0,0,0.0,0,-54,26,80,51,False,0,Newcastle,Norwich,MID,Stiepermann
-Marcus Rashford,0,0,0,0,0.0,233,246,0,0,0.0,0.0,2020-02-01T17:30:00Z,0,0,0,0,0,25,0,832478,0,0,0.0,0,-267436,1684,269120,89,True,0,Wolves,Man Utd,FWD,Rashford
-Marc Albrighton,0,0,0,0,0.0,174,244,0,0,0.0,0.0,2020-02-01T12:30:00Z,0,0,0,0,0,25,0,11601,2,2,0.0,0,-105,100,205,51,True,0,Chelsea,Leicester,MID,Albrighton
-Marc Navarro,0,0,0,0,0.0,360,249,0,0,0.0,0.0,2020-02-01T15:00:00Z,0,0,0,0,0,25,0,22934,3,2,0.0,0,-688,459,1147,39,True,0,Everton,Watford,DEF,Navarro
-Mario Lemina,0,0,0,0,0.0,324,245,0,0,0.0,0.0,2020-02-01T15:00:00Z,0,0,0,0,0,25,0,3762,0,4,0.0,0,-24,5,29,47,False,0,Liverpool,Southampton,MID,Lemina
-Mario Vrancic,0,0,2,0,0.3,282,247,0,0,0.0,0.0,2020-02-01T15:00:00Z,1,0,0,0,0,25,0,5007,0,0,0.0,1,-129,75,204,62,False,0,Newcastle,Norwich,MID,Vrancic
-Marko Arnautovic,0,0,0,0,0.0,385,250,0,0,0.0,0.0,2020-02-01T15:00:00Z,0,0,0,0,0,25,0,5254,3,3,0.0,0,-17,48,65,70,True,0,Brighton,West Ham,FWD,Arnautovic
-Mark Duffy,0,0,0,0,0.0,300,243,0,0,0.0,0.0,2020-02-01T15:00:00Z,0,0,0,0,0,25,0,1335,1,0,0.0,0,-9,8,17,52,False,0,Crystal Palace,Sheffield Utd,MID,Duffy
-Mark Noble,0,0,15,0,22.7,396,250,3,0,4.0,15.6,2020-02-01T15:00:00Z,90,0,0,0,0,25,0,152349,3,3,2.0,2,-3766,15562,19328,50,True,0,Brighton,West Ham,MID,Noble
-Mark Travers,0,0,0,0,0.0,74,241,0,0,0.0,0.0,2020-02-01T15:00:00Z,0,0,0,0,0,25,0,12179,1,2,0.0,0,-21,365,386,42,True,0,Aston Villa,Bournemouth,GK,Travers
-Martin Dubravka,0,0,28,1,0.0,262,247,0,0,3.1,30.6,2020-02-01T15:00:00Z,90,0,0,0,0,25,4,124192,0,0,0.0,7,13923,19139,5216,50,True,0,Norwich,Newcastle,GK,Dubravka
-Martin Kelly,0,0,0,0,0.0,128,243,0,0,0.0,0.0,2020-02-01T15:00:00Z,0,0,0,0,0,25,0,2087365,1,0,0.0,0,-80570,17883,98453,44,True,0,Sheffield Utd,Crystal Palace,DEF,Kelly
-Martín Montoya,0,0,12,0,30.6,38,250,3,0,5.4,21.4,2020-02-01T15:00:00Z,71,0,0,0,0,25,0,48935,3,3,2.0,1,-3579,948,4527,44,False,0,West Ham,Brighton,DEF,Montoya
-Marvelous Nakamba,0,0,4,0,1.6,491,241,2,0,0.1,0.0,2020-02-01T15:00:00Z,79,0,0,0,0,25,0,55203,1,2,2.0,2,-2235,250,2485,44,False,0,Bournemouth,Aston Villa,MID,Nakamba
-Mason Greenwood,0,0,2,0,1.0,234,246,0,0,1.7,1.2,2020-02-01T17:30:00Z,18,0,0,0,0,25,0,941926,0,0,15.0,1,-35669,52598,88267,44,True,0,Wolves,Man Utd,FWD,Greenwood
-Mason Holgate,1,0,21,0,1.8,478,249,2,0,5.2,17.6,2020-02-01T15:00:00Z,90,0,0,0,0,25,0,197336,3,2,33.0,3,9370,26342,16972,45,False,1,Watford,Everton,DEF,Holgate
-Mason Mount,2,2,29,0,35.7,463,244,2,0,10.7,39.6,2020-02-01T12:30:00Z,90,0,0,0,0,25,0,1094164,2,2,32.0,10,-107909,10040,117949,61,False,0,Leicester,Chelsea,MID,Mount
-Matej Vydra,0,0,0,0,0.0,92,242,0,0,0.0,0.0,2020-02-02T14:00:00Z,0,0,0,0,0,25,0,4026,0,0,0.0,0,-14,77,91,53,True,0,Arsenal,Burnley,FWD,Vydra
-Mateo Kovacic,0,0,1,0,1.6,432,244,0,0,0.3,1.4,2020-02-01T12:30:00Z,16,0,0,0,0,25,0,69510,2,2,0.0,0,-1425,983,2408,53,False,1,Leicester,Chelsea,MID,Kovacic
-Mathew Ryan,0,0,15,0,0.0,47,250,3,0,2.4,23.6,2020-02-01T15:00:00Z,90,0,0,0,0,25,3,1243447,3,3,0.0,2,-76095,7984,84079,49,False,0,West Ham,Brighton,GK,Ryan
-Matteo Darmian,0,0,0,0,0.0,230,246,0,0,0.0,0.0,2020-02-01T17:30:00Z,0,0,0,0,0,25,0,3347,0,0,0.0,0,-10,11,21,49,True,0,Wolves,Man Utd,DEF,Darmian
-Matteo Guendouzi,0,0,8,1,3.9,21,242,0,0,2.0,8.2,2020-02-02T14:00:00Z,90,0,0,0,0,25,0,422120,0,0,8.0,3,-7817,11154,18971,43,False,0,Burnley,Arsenal,MID,Guendouzi
-Matthew Clarke,0,0,0,0,0.0,43,250,0,0,0.0,0.0,2020-02-01T15:00:00Z,0,0,0,0,0,25,0,849,3,3,0.0,0,-5,7,12,44,False,0,West Ham,Brighton,DEF,Clarke
-Matthew Longstaff,0,0,0,0,0.0,540,247,0,0,0.0,0.0,2020-02-01T15:00:00Z,0,0,0,0,0,25,0,14400,0,0,0.0,0,-432,716,1148,45,True,0,Norwich,Newcastle,MID,Matthew Longstaff
-Matthew Lowton,0,0,23,1,1.8,85,242,0,0,1.8,16.4,2020-02-02T14:00:00Z,90,0,0,0,0,25,0,30252,0,0,0.0,6,664,1964,1300,42,True,0,Arsenal,Burnley,DEF,Lowton
-Matty James,0,0,0,0,0.0,177,244,0,0,0.0,0.0,2020-02-01T12:30:00Z,0,0,0,0,0,25,0,10399,2,2,0.0,0,-148,86,234,43,True,0,Chelsea,Leicester,MID,James
-Matt Doherty,0,0,22,1,2.4,401,246,0,0,7.0,14.6,2020-02-01T17:30:00Z,90,0,0,0,0,25,0,301475,0,0,53.0,6,-10993,7224,18217,61,False,0,Man Utd,Wolves,DEF,Doherty
-Matt Ritchie,0,0,27,1,55.6,251,247,0,0,9.5,28.0,2020-02-01T15:00:00Z,90,0,0,0,0,25,0,17322,0,0,11.0,6,4978,6363,1385,53,True,0,Norwich,Newcastle,DEF,Ritchie
-Matt Targett,0,0,13,0,21.9,309,241,2,0,5.3,9.2,2020-02-01T15:00:00Z,90,0,0,0,0,25,0,70949,1,2,22.0,1,3710,8072,4362,44,False,0,Bournemouth,Aston Villa,DEF,Targett
-Maximillian Aarons,0,0,29,1,28.2,274,247,0,0,7.1,14.4,2020-02-01T15:00:00Z,90,0,0,0,0,25,0,79615,0,0,28.0,6,878,2745,1867,43,False,0,Newcastle,Norwich,DEF,Aarons
-Max Kilman,0,0,0,0,0.0,408,246,0,0,0.0,0.0,2020-02-01T17:30:00Z,0,0,0,0,0,25,0,154524,0,0,0.0,0,-2761,1739,4500,40,False,0,Man Utd,Wolves,DEF,Kilman
-Max Meyer,0,0,3,0,1.9,136,243,0,0,0.3,0.8,2020-02-01T15:00:00Z,10,0,0,0,0,25,0,5841,1,0,0.0,1,-8,50,58,52,True,0,Sheffield Utd,Crystal Palace,MID,Meyer
-Maya Yoshida,0,0,0,0,0.0,310,245,0,0,0.0,0.0,2020-02-01T15:00:00Z,0,0,0,0,0,25,0,18425,0,4,0.0,0,-492,139,631,42,False,0,Liverpool,Southampton,DEF,Yoshida
-Mbwana Samatta,0,2,28,0,23.3,613,241,2,1,13.7,41.2,2020-02-01T15:00:00Z,90,0,0,0,0,25,0,5003,1,2,72.0,8,4706,4981,275,60,False,0,Bournemouth,Aston Villa,FWD,Samatta
-Mesut Özil,0,0,11,1,27.8,15,242,0,0,4.6,5.8,2020-02-02T14:00:00Z,62,0,0,0,0,25,0,80818,0,0,12.0,2,-2678,5854,8532,72,False,1,Burnley,Arsenal,MID,Özil
-Michael Keane,0,0,4,0,0.0,143,249,0,0,0.4,4.2,2020-02-01T15:00:00Z,17,0,0,0,0,25,0,145552,3,2,0.0,1,-2620,612,3232,52,False,0,Watford,Everton,DEF,Keane
-Michael McGovern,0,0,0,0,0.0,281,247,0,0,0.0,0.0,2020-02-01T15:00:00Z,0,0,0,0,0,25,0,498634,0,0,0.0,0,-11602,6033,17635,40,False,0,Newcastle,Norwich,GK,McGovern
-Michael Obafemi,0,0,3,0,0.6,314,245,2,0,0.5,0.2,2020-02-01T15:00:00Z,20,0,0,0,0,25,0,13585,0,4,4.0,1,-65,409,474,49,False,0,Liverpool,Southampton,FWD,Obafemi
-Michael Verrips,0,0,0,0,0.0,521,243,0,0,0.0,0.0,2020-02-01T15:00:00Z,0,0,0,0,0,25,0,3189,1,0,0.0,0,43,104,61,44,False,0,Crystal Palace,Sheffield Utd,GK,Verrips
-Michail Antonio,0,0,5,0,6.1,389,250,1,0,8.2,9.2,2020-02-01T15:00:00Z,73,0,0,0,0,25,0,49516,3,3,67.0,2,143,985,842,69,True,0,Brighton,West Ham,MID,Antonio
-Michel Vorm,0,0,0,0,0.0,555,248,0,0,0.0,0.0,2020-02-02T16:30:00Z,0,0,0,0,0,25,0,1579,0,2,0.0,0,-39,46,85,43,True,0,Man City,Spurs,GK,Vorm
-Michy Batshuayi,0,0,0,0,0.0,461,244,0,0,0.0,0.0,2020-02-01T12:30:00Z,0,0,0,0,0,25,0,37289,2,2,0.0,0,2217,3150,933,66,False,0,Leicester,Chelsea,FWD,Batshuayi
-Miguel Almirón,0,0,4,1,12.4,266,247,0,0,3.9,14.4,2020-02-01T15:00:00Z,90,0,0,0,0,25,0,63484,0,0,12.0,3,12666,17505,4839,58,True,0,Norwich,Newcastle,MID,Almirón
-Mihai-Alexandru Dobre,0,0,0,0,0.0,574,241,0,0,0.0,0.0,2020-02-01T15:00:00Z,0,0,0,0,0,25,0,335,1,2,0.0,0,6,56,50,45,True,0,Aston Villa,Bournemouth,MID,Dobre
-Mohamed Elneny,0,0,0,0,0.0,20,242,0,0,0.0,0.0,2020-02-02T14:00:00Z,0,0,0,0,0,25,0,44005,0,0,0.0,0,-2208,271,2479,43,False,0,Burnley,Arsenal,MID,Elneny
-Mohamed Elyounoussi,0,0,0,0,0.0,322,245,0,0,0.0,0.0,2020-02-01T15:00:00Z,0,0,0,0,0,25,0,1780,0,4,0.0,0,-11,5,16,53,False,0,Liverpool,Southampton,MID,Elyounoussi
-Mohamed Salah,0,3,48,1,32.5,191,245,0,2,21.3,80.6,2020-02-01T15:00:00Z,90,0,0,0,0,25,0,3010184,0,4,100.0,16,803943,822531,18588,126,True,0,Southampton,Liverpool,MID,Salah
-Moise Kean,1,0,10,0,10.1,496,249,0,0,3.1,17.2,2020-02-01T15:00:00Z,25,0,0,0,0,25,0,108210,3,2,4.0,4,3670,5075,1405,64,False,0,Watford,Everton,FWD,Kean
-Morgan Gibbs-White,0,0,0,0,0.0,416,246,0,0,0.0,0.0,2020-02-01T17:30:00Z,0,0,0,0,0,25,0,3900,0,0,0.0,0,8,97,89,47,False,0,Man Utd,Wolves,MID,Gibbs-White
-Morgan Schneiderlin,0,0,3,0,0.6,158,249,0,0,0.3,2.2,2020-02-01T15:00:00Z,23,0,0,0,0,25,0,44444,3,2,0.0,1,-470,343,813,44,False,0,Watford,Everton,MID,Schneiderlin
-Moritz Leitner,0,0,0,0,0.0,288,247,0,0,0.0,0.0,2020-02-01T15:00:00Z,0,0,0,0,0,25,0,16075,0,0,0.0,0,-45,794,839,43,False,0,Newcastle,Norwich,MID,Leitner
-Moussa Djenepo,0,0,4,0,4.5,438,245,3,0,3.8,6.4,2020-02-01T15:00:00Z,81,0,0,0,0,25,0,5432,0,4,27.0,2,-259,88,347,52,False,0,Liverpool,Southampton,MID,Djenepo
-Moussa Sissoko,0,0,0,0,0.0,349,248,0,0,0.0,0.0,2020-02-02T16:30:00Z,0,0,0,0,0,25,0,97582,0,2,0.0,0,-5049,29,5078,48,True,0,Man City,Spurs,MID,Sissoko
-Muhamed Bešić,0,0,0,0,0.0,522,243,0,0,0.0,0.0,2020-02-01T15:00:00Z,0,0,0,0,0,25,0,10692,1,0,0.0,0,80,440,360,44,False,0,Crystal Palace,Sheffield Utd,MID,Bešić
-N'Golo Kanté,0,0,11,0,12.3,119,244,2,0,5.5,20.4,2020-02-01T12:30:00Z,90,0,0,0,0,25,0,303484,2,2,22.0,2,-3844,4799,8643,50,False,0,Leicester,Chelsea,MID,Kanté
-Nabil Bentaleb,0,0,12,1,42.8,612,247,0,0,5.9,16.0,2020-02-01T15:00:00Z,90,0,0,0,0,25,0,1474,0,0,0.0,2,1343,1579,236,50,True,1,Norwich,Newcastle,MID,Bentaleb
-Naby Keita,0,0,7,0,14.3,196,245,0,0,2.0,3.8,2020-02-01T15:00:00Z,17,0,0,0,0,25,0,17319,0,4,2.0,1,-597,277,874,58,True,0,Southampton,Liverpool,MID,Keita
-Nacho Monreal,0,0,0,0,0.0,6,242,0,0,0.0,0.0,2020-02-02T14:00:00Z,0,0,0,0,0,25,0,18277,0,0,0.0,0,-113,11,124,50,False,0,Burnley,Arsenal,DEF,Monreal
-Nampalys Mendy,0,0,0,0,0.0,179,244,0,0,0.0,0.0,2020-02-01T12:30:00Z,0,0,0,0,0,25,0,68402,2,2,0.0,0,-6417,430,6847,43,True,0,Chelsea,Leicester,MID,Mendy
-Nathaniel Chalobah,0,0,5,0,0.8,374,249,2,0,0.9,8.2,2020-02-01T15:00:00Z,56,0,0,0,0,25,0,17214,3,2,0.0,1,-1284,366,1650,44,True,0,Everton,Watford,MID,Chalobah
-Nathaniel Phillips,0,0,0,0,0.0,589,245,0,0,0.0,0.0,2020-02-01T15:00:00Z,0,0,0,0,0,25,0,246,0,4,0.0,0,-14,22,36,40,True,0,Southampton,Liverpool,DEF,Phillips
-Nathan Aké,0,1,26,0,0.2,59,241,1,1,6.2,45.0,2020-02-01T15:00:00Z,90,0,0,0,0,25,0,474456,1,2,17.0,9,638,7872,7234,48,True,0,Aston Villa,Bournemouth,DEF,Aké
-Nathan Holland,0,0,0,0,0.0,568,250,0,0,0.0,0.0,2020-02-01T15:00:00Z,0,0,0,0,0,25,0,322,3,3,0.0,0,-34,8,42,44,True,0,Brighton,West Ham,MID,Holland
-Nathan Redmond,0,0,5,0,15.7,320,245,4,0,3.6,0.8,2020-02-01T15:00:00Z,90,0,0,0,0,25,0,59874,0,4,19.0,2,11475,16011,4536,62,False,0,Liverpool,Southampton,MID,Redmond
-Neal Maupay,0,0,0,0,0.0,502,250,0,0,0.0,0.0,2020-02-01T15:00:00Z,0,0,0,0,0,25,0,188642,3,3,0.0,0,-7808,22901,30709,59,False,0,West Ham,Brighton,FWD,Maupay
-Neco Williams,0,0,0,0,0.0,575,245,0,0,0.0,0.0,2020-02-01T15:00:00Z,0,0,0,0,0,25,0,3369,0,4,0.0,0,57,647,590,40,True,0,Southampton,Liverpool,DEF,Williams
-Neil Taylor,0,0,0,0,0.0,24,241,0,0,0.0,0.0,2020-02-01T15:00:00Z,0,0,0,0,0,25,0,16551,1,2,0.0,0,-247,204,451,43,False,0,Bournemouth,Aston Villa,DEF,Taylor
-Nemanja Matic,0,0,0,0,0.0,247,246,0,0,0.0,0.0,2020-02-01T17:30:00Z,0,0,0,0,0,25,0,23405,0,0,0.0,0,-419,426,845,48,True,0,Wolves,Man Utd,MID,Matic
-Nick Pope,0,0,25,1,0.0,93,242,0,0,1.4,14.0,2020-02-02T14:00:00Z,90,0,0,0,0,25,2,1038155,0,0,0.0,6,103631,127656,24025,46,True,0,Arsenal,Burnley,GK,Pope
-Nicolas Pépé,0,0,0,0,0.0,488,242,0,0,0.0,0.0,2020-02-02T14:00:00Z,0,0,0,0,0,25,0,184297,0,0,0.0,0,8202,16545,8343,91,False,0,Burnley,Arsenal,MID,Pépé
-Nicolás Otamendi,0,0,15,0,1.3,208,248,2,0,1.4,12.8,2020-02-02T16:30:00Z,90,0,0,0,0,25,0,153131,0,2,0.0,1,1108,6263,5155,50,False,0,Spurs,Man City,DEF,Otamendi
-Nya Kirby,0,0,0,0,0.0,588,243,0,0,0.0,0.0,2020-02-01T15:00:00Z,0,0,0,0,0,25,0,149,1,0,0.0,0,5,24,19,45,True,0,Sheffield Utd,Crystal Palace,MID,Kirby
-Oleksandr Zinchenko,0,0,1,0,5.3,206,248,2,0,0.9,2.4,2020-02-02T16:30:00Z,59,0,0,0,1,25,0,180531,0,2,1.0,-3,-283,1842,2125,52,False,0,Spurs,Man City,DEF,Zinchenko
-Oliver McBurnie,0,0,5,1,13.0,501,243,0,0,4.5,7.6,2020-02-01T15:00:00Z,90,0,0,0,0,25,0,16684,1,0,24.0,2,2286,4100,1814,57,False,0,Crystal Palace,Sheffield Utd,FWD,McBurnie
-Oliver Norwood,1,2,26,1,27.3,302,243,0,0,6.5,30.6,2020-02-01T15:00:00Z,90,0,0,0,0,25,0,23686,1,0,7.0,8,-299,1323,1622,49,False,0,Crystal Palace,Sheffield Utd,MID,Norwood
-Oliver Skipp,0,0,0,0,0.0,352,248,0,0,0.0,0.0,2020-02-02T16:30:00Z,0,0,0,0,0,25,0,43867,0,2,0.0,0,1350,3770,2420,43,True,0,Man City,Spurs,MID,Skipp
-Olivier Giroud,0,0,0,0,0.0,110,244,0,0,0.0,0.0,2020-02-01T12:30:00Z,0,0,0,0,0,25,0,74182,2,2,0.0,0,-304,456,760,66,False,0,Leicester,Chelsea,FWD,Giroud
-Ondrej Duda,0,0,20,1,73.1,601,247,0,0,10.1,13.8,2020-02-01T15:00:00Z,90,0,0,0,0,25,0,10430,0,0,14.0,3,-152,1611,1763,50,False,0,Newcastle,Norwich,MID,Duda
-Onel Hernández,0,0,2,0,0.8,284,247,0,0,0.5,0.2,2020-02-01T15:00:00Z,4,0,0,0,0,25,0,4958,0,0,4.0,1,-67,137,204,53,False,0,Newcastle,Norwich,MID,Hernández
-Oriol Romeu Vidal,0,0,3,0,0.9,328,245,4,0,0.5,3.8,2020-02-01T15:00:00Z,90,0,0,0,0,25,0,113692,0,4,0.0,2,-2913,4918,7831,43,False,0,Liverpool,Southampton,MID,Oriol Romeu
-Oskar Buur,0,0,0,0,0.0,587,246,0,0,0.0,0.0,2020-02-01T17:30:00Z,0,0,0,0,0,25,0,2390,0,0,0.0,0,128,352,224,40,False,0,Man Utd,Wolves,DEF,Buur
-Oumar Niasse,0,0,0,0,0.0,570,249,0,0,0.0,0.0,2020-02-01T15:00:00Z,0,0,0,0,0,25,0,2365,3,2,0.0,0,74,277,203,45,False,0,Watford,Everton,FWD,Niasse
-Owen Otasowie,0,0,0,0,0.0,566,246,0,0,0.0,0.0,2020-02-01T17:30:00Z,0,0,0,0,0,25,0,475,0,0,0.0,0,-22,23,45,45,False,0,Man Utd,Wolves,MID,Otasowie
-Pablo Fornals,0,0,4,0,0.3,399,250,0,0,0.2,1.2,2020-02-01T15:00:00Z,5,0,0,0,0,25,0,30325,3,3,0.0,1,-4063,393,4456,60,True,0,Brighton,West Ham,MID,Fornals
-Pablo Marí,0,0,0,0,0.0,617,242,0,0,0.0,0.0,2020-02-02T14:00:00Z,0,0,0,0,0,25,0,2441,0,0,0.0,0,2266,2515,249,50,False,0,Burnley,Arsenal,DEF,Marí
-Pablo Zabaleta,0,0,0,0,0.0,379,250,0,0,0.0,0.0,2020-02-01T15:00:00Z,0,0,0,0,0,25,0,35625,3,3,0.0,0,-598,445,1043,42,True,0,Brighton,West Ham,DEF,Zabaleta
-Pascal Groß,0,2,34,0,57.9,49,250,3,1,13.0,51.6,2020-02-01T15:00:00Z,90,0,0,0,0,25,0,36074,3,3,20.0,9,-1037,1024,2061,63,False,0,West Ham,Brighton,MID,Groß
-Patrick Cutrone,0,0,0,0,0.0,487,246,0,0,0.0,0.0,2020-02-01T17:30:00Z,0,0,0,0,0,25,0,35209,0,0,0.0,0,-636,21,657,55,False,0,Man Utd,Wolves,FWD,Cutrone
-Patrick Roberts,0,0,0,0,0.0,435,247,0,0,0.0,0.0,2020-02-01T15:00:00Z,0,0,0,0,0,25,0,3491,0,0,0.0,0,-71,10,81,51,False,0,Newcastle,Norwich,MID,Roberts
-Patrick van Aanholt,0,0,13,0,11.2,123,243,1,0,3.5,8.2,2020-02-01T15:00:00Z,90,0,0,0,0,25,0,313556,1,0,16.0,2,-7591,1750,9341,55,True,0,Sheffield Utd,Crystal Palace,DEF,van Aanholt
-Paulo Gazzaniga,0,0,0,0,0.0,341,248,0,0,0.0,0.0,2020-02-02T16:30:00Z,0,0,0,0,0,25,0,235353,0,2,0.0,0,-106170,5773,111943,45,True,0,Man City,Spurs,GK,Gazzaniga
-Paul Dummett,0,0,0,0,0.0,255,247,0,0,0.0,0.0,2020-02-01T15:00:00Z,0,0,0,0,0,25,0,13719,0,0,0.0,0,-764,8,772,44,True,0,Norwich,Newcastle,DEF,Dummett
-Paul Pogba,0,0,0,0,0.0,238,246,0,0,0.0,0.0,2020-02-01T17:30:00Z,0,0,0,0,0,25,0,213082,0,0,0.0,0,-2457,184,2641,83,True,0,Wolves,Man Utd,MID,Pogba
-Pedro Lomba Neto,0,0,1,0,11.0,528,246,0,0,1.8,2.6,2020-02-01T17:30:00Z,20,0,0,0,0,25,0,15920,0,0,4.0,1,2631,4809,2178,50,False,0,Man Utd,Wolves,MID,Neto
-Pedro Obiang,0,0,0,0,0.0,400,250,0,0,0.0,0.0,2020-02-01T15:00:00Z,0,0,0,0,0,25,0,2681,3,3,0.0,0,-20,18,38,45,True,0,Brighton,West Ham,MID,Obiang
-Pedro Rodríguez Ledesma,0,0,5,0,6.8,114,244,2,0,3.1,6.8,2020-02-01T12:30:00Z,73,0,0,0,0,25,0,83664,2,2,17.0,2,-394,287,681,68,False,0,Leicester,Chelsea,MID,Pedro
-Philip Billing,0,3,39,0,22.8,476,241,1,1,12.5,72.4,2020-02-01T15:00:00Z,90,0,0,0,0,25,0,10038,1,2,30.0,10,-343,195,538,50,True,0,Aston Villa,Bournemouth,MID,Billing
-Philip Heise,0,0,0,0,0.0,484,247,0,0,0.0,0.0,2020-02-01T15:00:00Z,0,0,0,0,0,25,0,53599,0,0,0.0,0,-1857,747,2604,39,False,0,Newcastle,Norwich,DEF,Heise
-Phil Bardsley,0,0,0,0,0.0,86,242,0,0,0.0,0.0,2020-02-02T14:00:00Z,0,0,0,0,0,25,0,13704,0,0,0.0,0,-1030,82,1112,43,True,0,Arsenal,Burnley,DEF,Bardsley
-Phil Foden,0,0,0,0,0.0,220,248,0,0,0.0,0.0,2020-02-02T16:30:00Z,0,0,0,0,0,25,0,21833,0,2,0.0,0,-614,227,841,51,False,0,Spurs,Man City,MID,Foden
-Phil Jagielka,0,0,0,0,0.0,444,243,0,0,0.0,0.0,2020-02-01T15:00:00Z,0,0,0,0,0,25,0,26182,1,0,0.0,0,-433,238,671,42,False,0,Crystal Palace,Sheffield Utd,DEF,Jagielka
-Phil Jones,0,0,0,0,0.0,231,246,0,0,0.0,0.0,2020-02-01T17:30:00Z,0,0,0,0,0,25,0,11103,0,0,0.0,0,-7,172,179,48,True,0,Wolves,Man Utd,DEF,Jones
-Pierre-Emerick Aubameyang,0,0,0,1,31.0,11,242,0,0,7.0,10.2,2020-02-02T14:00:00Z,90,0,0,0,0,25,0,1206479,0,0,29.0,2,254862,280519,25657,107,False,0,Burnley,Arsenal,FWD,Aubameyang
-Pierre-Emile Højbjerg,0,0,14,0,3.0,325,245,4,0,4.5,11.0,2020-02-01T15:00:00Z,90,0,0,0,0,25,0,30114,0,4,31.0,2,-508,1481,1989,48,False,0,Liverpool,Southampton,MID,Højbjerg
-Pontus Dahlberg,0,0,0,0,0.0,367,249,0,0,0.0,0.0,2020-02-01T15:00:00Z,0,0,0,0,0,25,0,8606,3,2,0.0,0,-134,22,156,43,True,0,Everton,Watford,GK,Dahlberg
-Rachid Ghezzal,0,0,0,0,0.0,173,244,0,0,0.0,0.0,2020-02-01T12:30:00Z,0,0,0,0,0,25,0,2183,2,2,0.0,0,-8,8,16,52,True,0,Chelsea,Leicester,MID,Ghezzal
-Rafael Camacho,0,0,0,0,0.0,201,245,0,0,0.0,0.0,2020-02-01T15:00:00Z,0,0,0,0,0,25,0,402,0,4,0.0,0,2,10,8,45,True,0,Southampton,Liverpool,MID,Camacho
-Raheem Sterling,0,0,7,0,27.8,214,248,2,0,6.0,4.4,2020-02-02T16:30:00Z,83,0,0,0,0,25,0,1391263,0,2,28.0,1,-14451,59120,73571,117,False,1,Spurs,Man City,MID,Sterling
-Ralf Fahrmann,0,0,0,0,0.0,449,247,0,0,0.0,0.0,2020-02-01T15:00:00Z,0,0,0,0,0,25,0,21958,0,0,0.0,0,-273,70,343,44,False,0,Newcastle,Norwich,GK,Fahrmann
-Ravel Morrison,0,0,0,0,0.0,456,243,0,0,0.0,0.0,2020-02-01T15:00:00Z,0,0,0,0,0,25,0,6230,1,0,0.0,0,-131,141,272,46,False,0,Crystal Palace,Sheffield Utd,MID,Morrison
-Raúl Jiménez,0,0,5,1,2.0,409,246,0,0,4.8,8.0,2020-02-01T17:30:00Z,90,0,0,0,0,25,0,1767352,0,0,38.0,2,457727,501398,43671,76,False,0,Man Utd,Wolves,FWD,Jiménez
-Reece James,0,0,16,0,1.5,506,244,2,0,1.9,15.8,2020-02-01T12:30:00Z,90,0,0,0,0,25,0,40749,2,2,2.0,1,-4316,2079,6395,50,False,0,Leicester,Chelsea,DEF,James
-Reiss Nelson,0,0,0,0,0.0,489,242,0,0,0.0,0.0,2020-02-02T14:00:00Z,0,0,0,0,0,25,0,7659,0,0,0.0,0,-617,5,622,53,False,0,Burnley,Arsenal,MID,Nelson
-Rhian Brewster,0,0,0,0,0.0,464,245,0,0,0.0,0.0,2020-02-01T15:00:00Z,0,0,0,0,0,25,0,33911,0,4,0.0,0,-288,2251,2539,42,True,0,Southampton,Liverpool,FWD,Brewster
-Rhu-endly Martina,0,0,0,0,0.0,577,249,0,0,0.0,0.0,2020-02-01T15:00:00Z,0,0,0,0,0,25,0,2394,3,2,0.0,0,12,177,165,40,False,0,Watford,Everton,DEF,Cuco Martina
-Ricardo Domingos Barbosa Pereira,0,0,5,0,2.5,159,244,2,0,2.3,10.6,2020-02-01T12:30:00Z,90,0,0,0,0,25,0,990372,2,2,10.0,1,26508,62590,36082,63,True,0,Chelsea,Leicester,DEF,Pereira
-Richairo Zivkovic,0,0,0,0,0.0,622,243,0,0,0.0,0.0,2020-02-01T15:00:00Z,0,0,0,0,0,25,0,622,1,0,0.0,0,584,649,65,50,False,0,Crystal Palace,Sheffield Utd,FWD,Zivkovic
-Richard Stearman,0,0,0,0,0.0,296,243,0,0,0.0,0.0,2020-02-01T15:00:00Z,0,0,0,0,0,25,0,165960,1,0,0.0,0,-5596,1880,7476,39,False,0,Crystal Palace,Sheffield Utd,DEF,Stearman
-Richarlison de Andrade,0,0,14,0,21.8,150,249,2,0,4.1,13.6,2020-02-01T15:00:00Z,90,0,0,0,0,25,0,575746,3,2,6.0,2,-29707,69506,99213,81,False,0,Watford,Everton,MID,Richarlison
-Riyad Mahrez,0,0,11,0,27.0,217,248,2,0,6.9,12.4,2020-02-02T16:30:00Z,71,0,0,0,0,25,0,656354,0,2,30.0,2,-15641,94424,110065,85,False,0,Spurs,Man City,MID,Mahrez
-Robbie Brady,0,0,0,0,0.0,98,242,0,0,0.0,0.0,2020-02-02T14:00:00Z,0,0,0,0,0,25,0,3387,0,0,0.0,0,-38,55,93,55,True,0,Arsenal,Burnley,MID,Brady
-Robert Kenedy Nunes do Nascimento,0,0,0,0,0.0,462,244,0,0,0.0,0.0,2020-02-01T12:30:00Z,0,0,0,0,0,25,0,2410,2,2,0.0,0,-9,6,15,52,False,0,Leicester,Chelsea,MID,Kenedy
-Roberto Firmino,3,0,30,1,43.8,187,245,0,0,16.5,55.0,2020-02-01T15:00:00Z,90,0,0,0,0,25,0,1301942,0,4,66.0,11,121213,196412,75199,96,True,0,Southampton,Liverpool,FWD,Firmino
-Roberto Jimenez Gago,0,0,0,0,0.0,450,250,0,0,0.0,0.0,2020-02-01T15:00:00Z,0,0,0,0,0,25,0,25019,3,3,0.0,0,-2450,20,2470,44,True,0,Brighton,West Ham,GK,Roberto
-Roberto Pereyra,0,0,17,0,2.3,369,249,2,1,4.9,29.8,2020-02-01T15:00:00Z,74,0,0,0,0,25,0,46507,3,2,17.0,7,7,835,828,56,True,0,Everton,Watford,MID,Pereyra
-Robert Elliot,0,0,0,0,0.0,573,247,0,0,0.0,0.0,2020-02-01T15:00:00Z,0,0,0,0,0,25,0,6345,0,0,0.0,0,168,498,330,40,True,0,Norwich,Newcastle,GK,Elliot
-Robert Snodgrass,1,3,58,0,30.2,393,250,3,2,14.9,91.6,2020-02-01T15:00:00Z,84,0,0,0,0,25,0,72722,3,3,27.0,18,-18301,2179,20480,52,True,0,Brighton,West Ham,MID,Snodgrass
-Rob Holding,0,0,0,0,0.0,10,242,0,0,0.0,0.0,2020-02-02T14:00:00Z,0,0,0,0,0,25,0,8042,0,0,0.0,0,210,552,342,45,False,0,Burnley,Arsenal,DEF,Holding
-Rodrigo Hernandez,0,0,1,0,16.2,443,248,2,0,2.1,0.0,2020-02-02T16:30:00Z,90,0,0,0,0,25,0,76885,0,2,6.0,1,-1992,1310,3302,54,False,1,Spurs,Man City,MID,Rodrigo
-Rolando Aarons,0,0,0,0,0.0,499,247,0,0,0.0,0.0,2020-02-01T15:00:00Z,0,0,0,0,0,25,0,2319,0,0,0.0,0,9,45,36,48,True,0,Norwich,Newcastle,MID,Aarons
-Romain Saïss,0,0,22,1,0.1,407,246,0,0,6.2,18.0,2020-02-01T17:30:00Z,90,0,0,0,0,25,0,51197,0,0,44.0,6,-2824,1836,4660,44,False,0,Man Utd,Wolves,DEF,Saïss
-Romelu Lukaku,0,0,0,0,0.0,232,246,0,0,0.0,0.0,2020-02-01T17:30:00Z,0,0,0,0,0,25,0,23185,0,0,0.0,0,-39,120,159,85,True,0,Wolves,Man Utd,FWD,Lukaku
-Ross Barkley,0,0,0,0,0.3,117,244,0,0,0.3,0.2,2020-02-01T12:30:00Z,7,0,0,0,0,25,0,91166,2,2,2.0,1,-445,309,754,56,False,0,Leicester,Chelsea,MID,Barkley
-Ruben Loftus-Cheek,0,0,0,0,0.0,115,244,0,0,0.0,0.0,2020-02-01T12:30:00Z,0,0,0,0,0,25,0,3742,2,2,0.0,0,8,47,39,63,False,0,Leicester,Chelsea,MID,Loftus-Cheek
-Rui Pedro dos Santos Patrício,0,1,30,1,0.0,411,246,0,0,2.6,25.8,2020-02-01T17:30:00Z,90,0,0,0,0,25,5,657470,0,0,0.0,8,-30968,4259,35227,51,False,0,Man Utd,Wolves,GK,Patrício
-Ryan Bennett,0,0,0,0,0.0,404,244,0,0,0.0,0.0,2020-02-01T12:30:00Z,0,0,0,0,0,25,0,22300,2,2,0.0,0,-123,32,155,48,True,0,Chelsea,Leicester,DEF,Bennett
-Ryan Bertrand,0,0,22,0,22.5,305,245,4,0,4.2,17.8,2020-02-01T15:00:00Z,90,0,0,0,0,25,0,53244,0,4,2.0,0,2859,5469,2610,48,False,0,Liverpool,Southampton,DEF,Bertrand
-Ryan Fraser,1,0,16,0,30.7,75,241,1,0,7.5,12.6,2020-02-01T15:00:00Z,90,0,0,0,0,25,0,200641,1,2,32.0,5,-681,3328,4009,69,True,0,Aston Villa,Bournemouth,MID,Fraser
-Ryan Fredericks,0,0,15,0,5.9,380,250,3,0,2.6,20.2,2020-02-01T15:00:00Z,90,0,0,0,0,25,0,27376,3,3,0.0,1,-2745,21,2766,44,True,0,Brighton,West Ham,DEF,Fredericks
-Ryan Giles,0,0,0,0,0.0,607,246,0,0,0.0,0.0,2020-02-01T17:30:00Z,0,0,0,0,0,25,0,1058,0,0,0.0,0,204,362,158,40,False,0,Man Utd,Wolves,DEF,Giles
-Ryan Sessegnon,0,0,0,0,0.0,524,248,0,0,0.0,0.0,2020-02-02T16:30:00Z,0,0,0,0,0,25,0,5605,0,2,0.0,0,-136,133,269,54,True,0,Man City,Spurs,MID,Sessegnon
-Rúben Diogo da Silva Neves,0,0,16,1,5.3,414,246,0,0,2.5,18.8,2020-02-01T17:30:00Z,90,0,0,0,0,25,0,330343,0,0,1.0,2,-5466,3280,8746,52,False,1,Man Utd,Wolves,MID,Neves
-Rúben Gonçalo Silva Nascimento Vinagre,0,0,0,0,0.0,406,246,0,0,0.0,0.0,2020-02-01T17:30:00Z,0,0,0,0,0,25,0,14981,0,0,0.0,0,-1236,28,1264,42,False,0,Man Utd,Wolves,DEF,Vinagre
-Sadio Mané,0,0,0,0,0.0,192,245,0,0,0.0,0.0,2020-02-01T15:00:00Z,0,0,0,0,0,25,0,1801221,0,4,0.0,0,-1245778,17452,1263230,123,True,0,Southampton,Liverpool,MID,Mané
-Sam Byram,0,0,19,1,4.4,454,247,0,0,8.4,10.4,2020-02-01T15:00:00Z,90,0,0,0,0,25,0,8783,0,0,69.0,6,-10,211,221,44,False,0,Newcastle,Norwich,DEF,Byram
-Sam Gallagher,0,0,0,0,0.0,316,245,0,0,0.0,0.0,2020-02-01T15:00:00Z,0,0,0,0,0,25,0,2282,0,4,0.0,0,-27,23,50,45,False,0,Liverpool,Southampton,FWD,Gallagher
-Sam Surridge,0,0,0,0,0.0,71,241,0,0,0.0,0.0,2020-02-01T15:00:00Z,0,0,0,0,0,25,0,39536,1,2,0.0,0,645,2837,2192,43,True,0,Aston Villa,Bournemouth,FWD,Surridge
-Sam Woods,0,0,0,0,0.0,578,243,0,0,0.0,0.0,2020-02-01T15:00:00Z,0,0,0,0,0,25,0,3523,1,0,0.0,0,-531,215,746,40,True,0,Sheffield Utd,Crystal Palace,DEF,Woods
-Sander Berge,0,0,7,1,1.3,621,243,0,0,1.9,13.2,2020-02-01T15:00:00Z,67,0,0,0,0,25,0,2775,1,0,4.0,3,2681,2866,185,50,False,0,Crystal Palace,Sheffield Utd,MID,Berge
-Scott Carson,0,0,0,0,0.0,562,248,0,0,0.0,0.0,2020-02-02T16:30:00Z,0,0,0,0,0,25,0,5845,0,2,0.0,0,-77,256,333,40,False,0,Spurs,Man City,GK,Carson
-Scott Dann,0,0,0,0,0.0,127,243,0,0,0.0,0.0,2020-02-01T15:00:00Z,0,0,0,0,0,25,0,10907,1,0,0.0,0,-86,62,148,43,True,0,Sheffield Utd,Crystal Palace,DEF,Dann
-Scott McTominay,0,0,0,0,0.0,248,246,0,0,0.0,0.0,2020-02-01T17:30:00Z,0,0,0,0,0,25,0,74545,0,0,0.0,0,-4694,50,4744,49,True,0,Wolves,Man Utd,MID,McTominay
-Sead Kolasinac,0,0,0,0,0.0,3,242,0,0,0.0,0.0,2020-02-02T14:00:00Z,0,0,0,0,0,25,0,37345,0,0,0.0,0,-1867,32,1899,52,False,0,Burnley,Arsenal,DEF,Kolasinac
-Seamus Coleman,0,0,0,0,0.0,144,249,0,0,0.0,0.0,2020-02-01T15:00:00Z,0,0,0,0,0,25,0,83395,3,2,0.0,0,-894,324,1218,53,False,0,Watford,Everton,DEF,Coleman
-Sean Longstaff,0,0,5,0,1.3,270,247,0,0,3.4,7.8,2020-02-01T15:00:00Z,33,0,0,0,0,25,0,20453,0,0,25.0,1,-71,445,516,50,True,0,Norwich,Newcastle,MID,Longstaff
-Sebastian Prödl,0,0,0,0,0.0,361,249,0,0,0.0,0.0,2020-02-01T15:00:00Z,0,0,0,0,0,25,0,80026,3,2,0.0,0,27,2504,2477,39,True,0,Everton,Watford,DEF,Prödl
-Serge Aurier,0,0,23,1,1.4,336,248,0,0,2.5,23.8,2020-02-02T16:30:00Z,90,0,0,0,0,25,0,427939,0,2,0.0,6,-15603,26711,42314,50,True,0,Man City,Spurs,DEF,Aurier
-Sergio Agüero,0,0,-4,0,5.0,210,248,1,0,10.3,2.4,2020-02-02T16:30:00Z,63,0,0,0,0,25,0,1729092,0,2,96.0,2,286940,334297,47357,120,False,0,Spurs,Man City,FWD,Agüero
-Sergio Romero,0,0,0,0,0.0,236,246,0,0,0.0,0.0,2020-02-01T17:30:00Z,0,0,0,0,0,25,0,13208,0,0,0.0,0,-92,85,177,47,True,0,Wolves,Man Utd,GK,Romero
-Shane Duffy,0,0,0,0,0.0,37,250,0,0,0.0,0.0,2020-02-01T15:00:00Z,0,0,0,0,0,25,0,68293,3,3,0.0,0,-2995,253,3248,48,False,0,West Ham,Brighton,DEF,Duffy
-Shane Long,0,0,1,0,31.9,315,245,2,0,6.1,2.2,2020-02-01T15:00:00Z,69,0,0,0,0,25,0,139264,0,4,27.0,2,-5025,3058,8083,46,False,0,Liverpool,Southampton,FWD,Long
-Shkodran Mustafi,0,0,24,1,0.3,1,242,0,0,2.2,17.2,2020-02-02T14:00:00Z,90,0,0,0,0,25,0,23916,0,0,4.0,6,-109,502,611,51,False,0,Burnley,Arsenal,DEF,Mustafi
-Simon Francis,0,0,16,0,4.1,62,241,1,0,3.5,31.2,2020-02-01T15:00:00Z,90,0,0,0,0,25,0,2681,1,2,0.0,2,8,158,150,44,True,0,Aston Villa,Bournemouth,DEF,Francis
-Simon Mignolet,0,0,0,0,0.0,190,245,0,0,0.0,0.0,2020-02-01T15:00:00Z,0,0,0,0,0,25,0,2501,0,4,0.0,0,4,33,29,45,True,0,Southampton,Liverpool,GK,Mignolet
-Simon Moore,0,0,0,0,0.0,436,243,0,0,0.0,0.0,2020-02-01T15:00:00Z,0,0,0,0,0,25,0,6529,1,0,0.0,0,62,205,143,43,False,0,Crystal Palace,Sheffield Utd,GK,Moore
-Sofiane Boufal,0,0,2,0,1.3,508,245,1,0,1.3,0.0,2020-02-01T15:00:00Z,8,0,0,0,0,25,0,7102,0,4,12.0,1,-40,172,212,55,False,0,Liverpool,Southampton,MID,Boufal
-Sokratis Papastathopoulos,0,0,0,0,0.0,5,242,0,0,0.0,0.0,2020-02-02T14:00:00Z,0,0,0,0,0,25,0,105866,0,0,0.0,0,-1180,4076,5256,49,False,0,Burnley,Arsenal,DEF,Sokratis
-Solomon March,0,0,3,0,2.3,55,250,0,0,4.3,8.0,2020-02-01T15:00:00Z,18,0,0,0,0,25,0,13013,3,3,33.0,1,-74,237,311,46,False,0,West Ham,Brighton,MID,March
-Stephen Henderson,0,0,0,0,0.0,556,243,0,0,0.0,0.0,2020-02-01T15:00:00Z,0,0,0,0,0,25,0,31990,1,0,0.0,0,79,1918,1839,40,True,0,Sheffield Utd,Crystal Palace,GK,Henderson
-Steven Alzate,0,0,0,0,0.0,537,250,0,0,0.0,0.0,2020-02-01T15:00:00Z,0,0,0,0,0,25,0,8726,3,3,0.0,0,33,913,880,45,False,0,West Ham,Brighton,MID,Alzate
-Steven Bergwijn,0,2,29,1,1.7,615,248,0,1,6.2,37.6,2020-02-02T16:30:00Z,69,0,0,0,0,25,0,4461,0,2,23.0,10,4262,4730,468,75,True,0,Man City,Spurs,MID,Bergwijn
-Steven Defour,0,0,0,0,0.0,99,242,0,0,0.0,0.0,2020-02-02T14:00:00Z,0,0,0,0,0,25,0,265,0,0,0.0,0,3,8,5,55,True,0,Arsenal,Burnley,MID,Defour
-Steve Cook,0,0,0,0,0.0,58,241,0,0,0.0,0.0,2020-02-01T15:00:00Z,0,0,0,0,0,25,0,17172,1,2,0.0,0,-137,471,608,50,True,0,Aston Villa,Bournemouth,DEF,Steve Cook
-Stuart Armstrong,0,0,0,0,0.0,323,245,0,0,0.0,0.0,2020-02-01T15:00:00Z,0,0,0,0,0,25,0,9807,0,4,0.0,0,569,3080,2511,52,False,0,Liverpool,Southampton,MID,Armstrong
-Sung-yueng Ki,0,0,0,0,0.0,268,247,0,0,0.0,0.0,2020-02-01T15:00:00Z,0,0,0,0,0,25,0,3476,0,0,0.0,0,-47,10,57,47,True,0,Norwich,Newcastle,MID,Ki Sung-yueng
-Sébastien Haller,0,0,10,0,22.3,457,250,3,0,4.2,11.8,2020-02-01T15:00:00Z,90,0,0,0,0,25,0,227156,3,3,8.0,2,-11499,12769,24268,70,True,0,Brighton,West Ham,FWD,Haller
-Tahith Chong,0,0,0,0,0.0,249,246,0,0,0.0,0.0,2020-02-01T17:30:00Z,0,0,0,0,0,25,0,48330,0,0,0.0,0,-1867,474,2341,43,True,0,Wolves,Man Utd,MID,Chong
-Takumi Minamino,0,0,-3,0,0.0,590,245,0,0,0.1,0.0,2020-02-01T15:00:00Z,9,0,0,0,0,25,0,7957,0,4,4.0,1,845,3615,2770,65,True,0,Southampton,Liverpool,MID,Minamino
-Tammy Abraham,0,0,2,0,10.9,460,244,2,0,2.1,6.4,2020-02-01T12:30:00Z,82,0,0,0,0,25,0,1718098,2,2,4.0,2,-628432,18692,647124,77,False,0,Leicester,Chelsea,FWD,Abraham
-Tanguy Ndombele,1,0,16,0,11.8,442,248,0,0,3.0,18.6,2020-02-02T16:30:00Z,20,0,0,0,0,25,0,168078,0,2,0.0,4,-883,347,1230,58,True,0,Man City,Spurs,MID,Ndombele
-Tariq Lamptey,0,0,0,0,0.0,586,250,0,0,0.0,0.0,2020-02-01T15:00:00Z,0,0,0,0,0,25,0,6440,3,3,0.0,0,725,842,117,40,False,0,West Ham,Brighton,DEF,Lamptey
-Taylor Perry,0,0,0,0,0.0,560,246,0,0,0.0,0.0,2020-02-01T17:30:00Z,0,0,0,0,0,25,0,1594,0,0,0.0,0,-30,80,110,45,False,0,Man Utd,Wolves,MID,Perry
-Teemu Pukki,0,0,2,1,2.6,278,247,0,0,8.1,4.0,2020-02-01T15:00:00Z,90,0,0,0,0,25,0,1027988,0,0,74.0,2,72805,93602,20797,65,False,0,Newcastle,Norwich,FWD,Pukki
-Theo Walcott,0,1,22,0,3.4,153,249,2,1,8.3,34.2,2020-02-01T15:00:00Z,90,0,0,0,0,25,0,30070,3,2,45.0,8,-77,800,877,62,False,0,Watford,Everton,MID,Walcott
-Thomas Allan,0,0,0,0,0.0,598,247,0,0,0.0,0.0,2020-02-01T15:00:00Z,0,0,0,0,0,25,0,420,0,0,0.0,0,99,169,70,45,True,0,Norwich,Newcastle,MID,Allan
-Timm Klose,0,0,0,0,0.0,272,247,0,0,0.0,0.0,2020-02-01T15:00:00Z,0,0,0,0,0,25,0,2006,0,0,0.0,0,-21,10,31,43,False,0,Newcastle,Norwich,DEF,Klose
-Tim Krul,0,2,33,1,0.0,280,247,0,0,3.5,34.6,2020-02-01T15:00:00Z,90,0,0,0,0,25,6,165109,0,0,0.0,10,9,8093,8084,45,False,0,Newcastle,Norwich,GK,Krul
-Toby Alderweireld,0,0,19,1,0.1,331,248,0,0,2.3,23.0,2020-02-02T16:30:00Z,90,0,0,0,0,25,0,360413,0,2,0.0,5,-8114,2692,10806,53,True,1,Man City,Spurs,DEF,Alderweireld
-Todd Cantwell,0,0,6,1,23.1,287,247,0,0,4.2,12.6,2020-02-01T15:00:00Z,66,0,0,0,0,25,0,1636529,0,0,6.0,2,-144351,33074,177425,49,False,1,Newcastle,Norwich,MID,Cantwell
-Tomas Soucek,0,0,7,0,12.0,616,250,3,0,7.3,21.6,2020-02-01T15:00:00Z,84,0,0,0,0,25,0,488,3,3,39.0,2,466,501,35,50,True,0,Brighton,West Ham,MID,Soucek
-Tom Cleverley,0,0,0,0,0.0,371,249,0,0,0.0,0.0,2020-02-01T15:00:00Z,0,0,0,0,0,25,0,7418,3,2,0.0,0,-137,11,148,48,True,0,Everton,Watford,MID,Cleverley
-Tom Davies,0,0,0,0,0.0,154,249,0,0,0.0,0.0,2020-02-01T15:00:00Z,0,0,0,0,0,25,0,10972,3,2,0.0,0,-438,166,604,53,False,0,Watford,Everton,MID,Davies
-Tom Heaton,0,0,0,0,0.0,94,241,0,0,0.0,0.0,2020-02-01T15:00:00Z,0,0,0,0,0,25,0,218643,1,2,0.0,0,-18205,192,18397,44,False,0,Bournemouth,Aston Villa,GK,Heaton
-Tom Trybull,0,0,0,0,0.0,290,247,0,0,0.0,0.0,2020-02-01T15:00:00Z,0,0,0,0,0,25,0,43233,0,0,0.0,0,-549,92,641,44,False,0,Newcastle,Norwich,MID,Trybull
-Trent Alexander-Arnold,0,0,19,1,2.1,182,245,0,0,2.1,11.0,2020-02-01T15:00:00Z,90,0,0,0,0,25,0,3178642,0,4,8.0,6,109648,125222,15574,76,True,0,Southampton,Liverpool,DEF,Alexander-Arnold
-Troy Deeney,1,0,18,0,15.0,362,249,3,0,3.8,23.0,2020-02-01T15:00:00Z,90,0,0,0,0,25,0,167416,3,2,0.0,5,44062,56453,12391,63,True,0,Everton,Watford,FWD,Deeney
-Troy Parrott,0,0,0,0,0.0,509,248,0,0,0.0,0.0,2020-02-02T16:30:00Z,0,0,0,0,0,25,0,59351,0,2,0.0,0,387,2592,2205,43,True,0,Man City,Spurs,FWD,Parrott
-Tudor Baluta,0,0,0,0,0.0,536,250,0,0,0.0,0.0,2020-02-01T15:00:00Z,0,0,0,0,0,25,0,15210,3,3,0.0,0,-1081,68,1149,40,False,0,West Ham,Brighton,DEF,Baluta
-Tyreece John-Jules,0,0,0,0,0.0,585,242,0,0,0.0,0.0,2020-02-02T14:00:00Z,0,0,0,0,0,25,0,372,0,0,0.0,0,-32,79,111,45,False,0,Burnley,Arsenal,FWD,John-Jules
-Tyreke Johnson,0,0,0,0,0.0,326,245,0,0,0.0,0.0,2020-02-01T15:00:00Z,0,0,0,0,0,25,0,1636,0,4,0.0,0,-6,62,68,44,False,0,Liverpool,Southampton,MID,Johnson
-Tyrick Mitchell,0,0,0,0,0.0,579,243,0,0,0.0,0.0,2020-02-01T15:00:00Z,0,0,0,0,0,25,0,1944,1,0,0.0,0,27,174,147,40,True,0,Sheffield Utd,Crystal Palace,DEF,Mitchell
-Tyrone Mings,0,0,6,0,1.1,445,241,2,0,4.9,16.6,2020-02-01T15:00:00Z,90,0,0,0,0,25,0,207660,1,2,31.0,0,4444,9633,5189,45,False,1,Bournemouth,Aston Villa,DEF,Mings
-Valentino Lazaro,0,0,5,0,1.3,614,247,0,0,0.6,4.8,2020-02-01T15:00:00Z,36,0,0,0,0,25,0,592,0,0,0.0,1,538,608,70,55,True,0,Norwich,Newcastle,MID,Lazaro
-Vicente Guaita,0,0,9,0,0.0,131,243,1,0,1.5,14.6,2020-02-01T15:00:00Z,90,1,0,0,0,25,3,175839,1,0,0.0,1,-13464,5373,18837,51,True,0,Sheffield Utd,Crystal Palace,GK,Guaita
-Victor Lindelöf,0,0,24,1,11.2,225,246,0,0,5.5,20.2,2020-02-01T17:30:00Z,90,0,0,0,0,25,0,88017,0,0,24.0,5,-4818,1011,5829,53,True,1,Wolves,Man Utd,DEF,Lindelöf
-Victor Wanyama,0,0,0,0,0.0,348,248,0,0,0.0,0.0,2020-02-02T16:30:00Z,0,0,0,0,0,25,0,7291,0,2,0.0,0,-73,72,145,48,True,0,Man City,Spurs,MID,Wanyama
-Vincent Janssen,0,0,0,0,0.0,339,248,0,0,0.0,0.0,2020-02-02T16:30:00Z,0,0,0,0,0,25,0,5260,0,2,0.0,0,-27,30,57,45,True,0,Man City,Spurs,FWD,Janssen
-Virgil van Dijk,0,0,23,1,0.4,183,245,0,0,3.9,22.0,2020-02-01T15:00:00Z,90,0,0,0,0,25,0,3265907,0,4,17.0,6,80533,121745,41212,65,True,0,Southampton,Liverpool,DEF,van Dijk
-Víctor Camarasa,0,0,0,0,0.0,510,243,0,0,0.0,0.0,2020-02-01T15:00:00Z,0,0,0,0,0,25,0,11557,1,0,0.0,0,-353,12,365,45,True,0,Sheffield Utd,Crystal Palace,MID,Camarasa
-Wayne Hennessey,0,0,0,0,0.0,132,243,0,0,0.0,0.0,2020-02-01T15:00:00Z,0,0,0,0,0,25,0,42165,1,0,0.0,0,-491,459,950,43,True,0,Sheffield Utd,Crystal Palace,GK,Hennessey
-Wesley Hoedt,0,0,0,0,0.0,485,245,0,0,0.0,0.0,2020-02-01T15:00:00Z,0,0,0,0,0,25,0,2650,0,4,0.0,0,-21,22,43,43,False,0,Liverpool,Southampton,DEF,Hoedt
-Wesley Moraes,0,0,0,0,0.0,428,241,0,0,0.0,0.0,2020-02-01T15:00:00Z,0,0,0,0,0,25,0,66988,1,2,0.0,0,-3482,94,3576,55,False,0,Bournemouth,Aston Villa,FWD,Wesley
-Wes Morgan,0,0,0,0,0.0,165,244,0,0,0.0,0.0,2020-02-01T12:30:00Z,0,0,0,0,0,25,0,44985,2,2,0.0,0,-910,655,1565,41,True,0,Chelsea,Leicester,DEF,Morgan
-Wilfred Ndidi,0,0,0,0,0.0,176,244,0,0,0.0,0.0,2020-02-01T12:30:00Z,0,0,0,0,0,25,0,137414,2,2,0.0,0,-1768,2066,3834,50,True,0,Chelsea,Leicester,MID,Ndidi
-Wilfried Zaha,0,0,10,0,37.3,133,243,1,0,8.6,12.8,2020-02-01T15:00:00Z,90,0,0,0,0,25,0,724227,1,0,36.0,2,4143,39535,35392,68,True,0,Sheffield Utd,Crystal Palace,MID,Zaha
-William Smallbone,0,0,0,0,0.0,584,245,0,0,0.0,0.0,2020-02-01T15:00:00Z,0,0,0,0,0,25,0,190,0,4,0.0,0,15,37,22,45,False,0,Liverpool,Southampton,MID,Smallbone
-Willian Borges Da Silva,0,0,2,0,1.7,113,244,0,0,0.6,4.4,2020-02-01T12:30:00Z,16,0,0,0,0,25,0,400866,2,2,0.0,1,-52316,21107,73423,72,False,0,Leicester,Chelsea,MID,Willian
-Willy Boly,0,0,26,1,0.3,405,246,0,0,1.6,16.0,2020-02-01T17:30:00Z,90,0,0,0,0,25,0,143209,0,0,0.0,6,-238,1539,1777,47,False,0,Man Utd,Wolves,DEF,Boly
-Willy Caballero,0,0,11,0,0.0,112,244,2,0,1.7,17.2,2020-02-01T12:30:00Z,90,0,0,0,0,25,2,14954,2,2,0.0,1,-72,56,128,48,False,0,Leicester,Chelsea,GK,Caballero
-Will Hughes,0,0,0,0,0.0,370,249,0,0,0.0,0.0,2020-02-01T15:00:00Z,0,0,0,0,0,25,0,21308,3,2,0.0,0,-614,28,642,53,True,0,Everton,Watford,MID,Hughes
-Will Norris,0,0,0,0,0.0,413,246,0,0,0.0,0.0,2020-02-01T17:30:00Z,0,0,0,0,0,25,0,42194,0,0,0.0,0,-973,298,1271,40,False,0,Man Utd,Wolves,GK,Norris
-Winston Reid,0,0,0,0,0.0,383,250,0,0,0.0,0.0,2020-02-01T15:00:00Z,0,0,0,0,0,25,0,380813,3,3,0.0,0,10804,24667,13863,39,True,0,Brighton,West Ham,DEF,Reid
-Xherdan Shaqiri,0,0,0,0,0.0,194,245,0,0,0.0,0.0,2020-02-01T15:00:00Z,0,0,0,0,0,25,0,17320,0,4,0.0,0,-285,20,305,63,True,0,Southampton,Liverpool,MID,Shaqiri
-Yan Valery,0,0,0,0,0.0,306,245,0,0,0.0,0.0,2020-02-01T15:00:00Z,0,0,0,0,0,25,0,10211,0,4,0.0,0,-125,40,165,46,False,0,Liverpool,Southampton,DEF,Valery
-Yerry Mina,0,3,31,0,0.6,142,249,2,2,14.4,87.6,2020-02-01T15:00:00Z,90,0,0,0,0,25,0,148560,3,2,56.0,15,-1785,1288,3073,53,False,1,Watford,Everton,DEF,Mina
-Yoshinori Muto,0,0,0,0,0.0,260,247,0,0,0.0,0.0,2020-02-01T15:00:00Z,0,0,0,0,0,25,0,5888,0,0,0.0,0,-139,21,160,51,True,0,Norwich,Newcastle,FWD,Muto
-Youri Tielemans,2,1,27,0,27.3,448,244,2,0,9.2,45.6,2020-02-01T12:30:00Z,79,0,0,0,0,25,0,316961,2,2,19.0,9,-18539,2505,21044,62,True,0,Chelsea,Leicester,MID,Tielemans
-Yves Bissouma,0,0,0,0,0.0,53,250,0,0,0.0,0.0,2020-02-01T15:00:00Z,0,0,0,0,0,25,0,1288,3,3,0.0,0,-32,28,60,50,False,0,West Ham,Brighton,MID,Bissouma
-Çaglar Söyüncü,0,0,16,0,0.4,164,244,2,0,1.5,14.2,2020-02-01T12:30:00Z,90,0,0,0,0,25,0,1242378,2,2,0.0,1,-94590,25071,119661,50,True,0,Chelsea,Leicester,DEF,Söyüncü
-Ørjan Nyland,0,0,0,0,0.0,27,241,0,0,0.0,0.0,2020-02-01T15:00:00Z,0,0,0,0,0,25,0,17462,1,2,0.0,0,-792,645,1437,43,False,0,Bournemouth,Aston Villa,GK,Nyland
+name,assists,bonus,bps,clean_sheets,creativity,element,fixture,goals_conceded,goals_scored,ict_index,influence,kickoff_time,minutes,own_goals,penalties_missed,penalties_saved,red_cards,round,saves,selected,team_a_score,team_h_score,threat,total_points,transfers_balance,transfers_in,transfers_out,value,was_home,yellow_cards,opponent_team,team,position,xP
+Aaron Connolly,0,0,0,0,0.0,534,250,0,0,0.0,0.0,2020-02-01T15:00:00Z,0,0,0,0,0,25,0,90839,3,3,0.0,0,-2387,7248,9635,43,False,0,West Ham,Brighton,FWD,0
+Aaron Cresswell,0,0,15,0,16.8,376,250,3,0,3.1,13.8,2020-02-01T15:00:00Z,90,0,0,0,0,25,0,108858,3,3,0.0,1,-5291,4660,9951,47,True,0,Brighton,West Ham,DEF,0
+Aaron Lennon,0,0,0,0,0.0,430,242,0,0,0.0,0.0,2020-02-02T14:00:00Z,0,0,0,0,0,25,0,6265,0,0,0.0,0,29,179,150,46,True,0,Arsenal,Burnley,MID,0
+Aaron Mooy,0,0,1,0,3.1,516,250,3,0,3.8,2.6,2020-02-01T15:00:00Z,71,0,0,0,0,25,0,56204,3,3,32.0,2,11851,17562,5711,48,False,0,West Ham,Brighton,MID,0
+Aaron Ramsdale,0,0,17,0,0.0,494,241,1,0,2.3,22.6,2020-02-01T15:00:00Z,90,0,0,0,0,25,4,310886,1,2,0.0,3,-13927,8519,22446,47,True,0,Aston Villa,Bournemouth,GK,0
+Aaron Wan-Bissaka,0,3,31,1,32.8,122,246,0,0,6.7,34.0,2020-02-01T17:30:00Z,90,0,0,0,0,25,0,1000671,0,0,0.0,9,-18807,7133,25940,53,True,0,Wolves,Man Utd,DEF,0
+Abd-Al-Ali Morakinyo Olaposi Koiki,0,0,0,0,0.0,596,242,0,0,0.0,0.0,2020-02-02T14:00:00Z,0,0,0,0,0,25,0,763,0,0,0.0,0,100,178,78,40,True,0,Arsenal,Burnley,DEF,0
+Abdoulaye Doucouré,0,0,1,0,14.6,368,249,3,0,3.9,0.0,2020-02-01T15:00:00Z,90,0,0,0,0,25,0,189010,3,2,28.0,2,181,25364,25183,57,True,0,Everton,Watford,MID,0
+Adama Traoré,0,0,8,1,30.4,417,246,0,0,6.4,9.4,2020-02-01T17:30:00Z,75,0,0,0,0,25,0,1543979,0,0,24.0,3,236611,284618,48007,58,False,0,Man Utd,Wolves,MID,0
+Adam Idah,0,0,0,0,0.0,538,247,0,0,0.0,0.0,2020-02-01T15:00:00Z,0,0,0,0,0,25,0,9116,0,0,0.0,0,-427,303,730,44,False,0,Newcastle,Norwich,FWD,0
+Adam Lallana,0,0,3,0,0.0,195,245,0,0,0.2,2.0,2020-02-01T15:00:00Z,2,0,0,0,0,25,0,9145,0,4,0.0,1,-386,73,459,58,True,0,Southampton,Liverpool,MID,0
+Adam Masina,0,0,20,0,15.8,355,249,3,1,8.8,51.6,2020-02-01T15:00:00Z,90,0,0,0,0,25,0,9021,3,2,21.0,6,2195,3084,889,43,True,1,Everton,Watford,DEF,0
+Adam Smith,0,0,10,0,13.1,63,241,1,0,3.5,18.0,2020-02-01T15:00:00Z,90,0,0,0,0,25,0,30734,1,2,4.0,2,-286,442,728,43,True,0,Aston Villa,Bournemouth,DEF,0
+Adam Webster,0,0,12,0,0.4,493,250,3,0,1.5,14.8,2020-02-01T15:00:00Z,90,0,0,0,0,25,0,53643,3,3,0.0,1,-2919,3056,5975,44,False,0,West Ham,Brighton,DEF,0
+Addji Keaninkin Marc-Israel Guehi,0,0,0,0,0.0,545,244,0,0,0.0,0.0,2020-02-01T12:30:00Z,0,0,0,0,0,25,0,6100,2,2,0.0,0,-238,74,312,40,False,0,Leicester,Chelsea,DEF,0
+Ademola Lookman,0,0,0,0,0.0,155,249,0,0,0.0,0.0,2020-02-01T15:00:00Z,0,0,0,0,0,25,0,457,3,2,0.0,0,-3,5,8,50,False,0,Watford,Everton,MID,0
+Adrian Mariappa,0,0,9,0,1.3,356,249,3,0,0.8,6.2,2020-02-01T15:00:00Z,90,0,0,0,0,25,0,27372,3,2,0.0,1,2836,5251,2415,42,True,0,Everton,Watford,DEF,0
+Adrián San Miguel del Castillo,0,0,0,0,0.0,526,245,0,0,0.0,0.0,2020-02-01T15:00:00Z,0,0,0,0,0,25,0,142269,0,4,0.0,0,-3977,1545,5522,41,True,0,Southampton,Liverpool,GK,0
+Ahmed Elmohamady,0,0,0,0,0.0,22,241,0,0,0.0,0.0,2020-02-01T15:00:00Z,0,0,0,0,0,25,0,66822,1,2,0.0,0,-1855,650,2505,42,False,0,Bournemouth,Aston Villa,DEF,0
+Ainsley Maitland-Niles,0,0,0,0,0.0,4,242,0,0,0.0,0.0,2020-02-02T14:00:00Z,0,0,0,0,0,25,0,189613,0,0,0.0,0,-6757,2023,8780,46,False,0,Burnley,Arsenal,DEF,0
+Akin Famewo,0,0,0,0,0.0,552,247,0,0,0.0,0.0,2020-02-01T15:00:00Z,0,0,0,0,0,25,0,4554,0,0,0.0,0,-231,27,258,40,False,0,Newcastle,Norwich,DEF,0
+Albian Ajeti,0,0,0,0,0.0,514,250,0,0,0.0,0.0,2020-02-01T15:00:00Z,0,0,0,0,0,25,0,2706,3,3,0.0,0,-79,88,167,57,True,0,Brighton,West Ham,FWD,0
+Alexander Tettey,0,0,10,1,3.1,289,247,0,0,1.9,6.8,2020-02-01T15:00:00Z,85,0,0,0,0,25,0,25182,0,0,9.0,3,-1116,807,1923,45,False,0,Newcastle,Norwich,MID,0
+Alexandre Nascimento Costa Silva,0,0,0,0,0.0,387,250,0,0,0.0,0.0,2020-02-01T15:00:00Z,0,0,0,0,0,25,0,63873,3,3,0.0,0,-725,1420,2145,43,True,0,Brighton,West Ham,FWD,0
+Alexandre Lacazette,0,0,11,1,16.0,12,242,0,0,4.9,7.2,2020-02-02T14:00:00Z,88,0,0,0,0,25,0,157692,0,0,26.0,2,-1443,16182,17625,93,False,0,Burnley,Arsenal,FWD,0
+Alexis Sánchez,0,0,0,0,0.0,240,246,0,0,0.0,0.0,2020-02-01T17:30:00Z,0,0,0,0,0,25,0,28474,0,0,0.0,0,-63,57,120,68,True,0,Wolves,Man Utd,MID,0
+Alex Iwobi,0,0,7,0,13.5,17,249,2,0,1.8,2.0,2020-02-01T15:00:00Z,64,0,0,0,0,25,0,65940,3,2,2.0,2,-971,113,1084,56,False,0,Watford,Everton,MID,0
+Alex McCarthy,0,0,19,0,0.0,318,245,4,0,3.7,37.2,2020-02-01T15:00:00Z,90,0,0,0,0,25,5,252136,0,4,0.0,1,32986,47083,14097,44,False,0,Liverpool,Southampton,GK,0
+Alex Oxlade-Chamberlain,0,0,25,1,13.6,193,245,0,1,7.0,40.0,2020-02-01T15:00:00Z,72,0,0,0,0,25,0,45823,0,4,16.0,8,10225,12731,2506,62,True,0,Southampton,Liverpool,MID,0
+Alfie Whiteman,0,0,0,0,0.0,543,248,0,0,0.0,0.0,2020-02-02T16:30:00Z,0,0,0,0,0,25,0,39767,0,2,0.0,0,-801,463,1264,40,True,0,Man City,Spurs,GK,0
+Alireza Jahanbakhsh,0,0,0,0,0.0,50,250,0,0,0.0,0.0,2020-02-01T15:00:00Z,0,0,0,0,0,25,0,9880,3,3,0.0,0,-1260,362,1622,58,False,0,West Ham,Brighton,MID,0
+Alisson Ramses Becker,0,1,33,1,0.0,189,245,0,0,3.5,35.2,2020-02-01T15:00:00Z,90,0,0,0,0,25,4,822029,0,4,0.0,8,34629,54389,19760,61,True,0,Southampton,Liverpool,GK,0
+Allan Saint-Maximin,0,0,12,1,12.8,500,247,0,0,9.7,23.6,2020-02-01T15:00:00Z,78,0,0,0,0,25,0,24183,0,0,61.0,3,3359,4875,1516,54,True,0,Norwich,Newcastle,MID,0
+Andreas Christensen,0,0,11,0,0.2,108,244,2,0,0.9,8.4,2020-02-01T12:30:00Z,90,0,0,0,0,25,0,42536,2,2,0.0,1,0,673,673,49,False,0,Leicester,Chelsea,DEF,0
+Andreas Pereira,0,0,3,1,6.3,246,246,0,0,3.7,6.4,2020-02-01T17:30:00Z,71,0,0,0,0,25,0,34865,0,0,24.0,3,-1807,1009,2816,49,True,0,Wolves,Man Utd,MID,0
+Andrew Robertson,0,0,29,1,4.8,181,245,0,0,3.1,23.8,2020-02-01T15:00:00Z,90,0,0,0,0,25,0,1538739,0,4,2.0,6,3588,60726,57138,70,True,0,Southampton,Liverpool,DEF,0
+Andrew Surman,0,0,0,0,0.0,80,241,0,0,0.0,0.0,2020-02-01T15:00:00Z,0,0,0,0,0,25,0,2596,1,2,0.0,0,1,47,46,47,True,0,Aston Villa,Bournemouth,MID,0
+Andre Gray,0,0,0,0,0.0,364,249,0,0,0.0,0.0,2020-02-01T15:00:00Z,0,0,0,0,0,25,0,26399,3,2,0.0,0,-155,389,544,56,True,0,Everton,Watford,FWD,0
+Andre Green,0,0,0,0,0.0,32,241,0,0,0.0,0.0,2020-02-01T15:00:00Z,0,0,0,0,0,25,0,768,1,2,0.0,0,-4,10,14,48,False,0,Bournemouth,Aston Villa,MID,0
+Andriy Yarmolenko,0,0,0,0,0.0,392,250,0,0,0.0,0.0,2020-02-01T15:00:00Z,0,0,0,0,0,25,0,59584,3,3,0.0,0,-3110,13,3123,53,True,0,Brighton,West Ham,MID,0
+Andros Townsend,0,0,3,0,0.2,135,243,0,0,0.0,0.2,2020-02-01T15:00:00Z,13,0,0,0,0,25,0,70324,1,0,0.0,1,-853,238,1091,56,True,0,Sheffield Utd,Crystal Palace,MID,0
+André Filipe Tavares Gomes,0,0,0,0,0.0,422,249,0,0,0.0,0.0,2020-02-01T15:00:00Z,0,0,0,0,0,25,0,20652,3,2,0.0,0,-152,14,166,52,False,0,Watford,Everton,MID,0
+Andy Carroll,0,0,0,0,0.0,520,247,0,0,0.0,0.0,2020-02-01T15:00:00Z,0,0,0,0,0,25,0,7124,0,0,0.0,0,-700,43,743,54,True,0,Norwich,Newcastle,FWD,0
+Andy King,0,0,0,0,0.0,480,244,0,0,0.0,0.0,2020-02-01T12:30:00Z,0,0,0,0,0,25,0,21240,2,2,0.0,0,-494,130,624,43,True,0,Chelsea,Leicester,MID,0
+Andy Lonergan,0,0,0,0,0.0,530,245,0,0,0.0,0.0,2020-02-01T15:00:00Z,0,0,0,0,0,25,0,1811,0,4,0.0,0,-17,17,34,42,True,0,Southampton,Liverpool,GK,0
+Angelo Ogbonna,0,0,2,0,0.3,377,250,3,0,0.4,1.8,2020-02-01T15:00:00Z,90,1,0,0,0,25,0,114948,3,3,2.0,-2,-11326,2911,14237,45,True,1,Brighton,West Ham,DEF,0
+Angel Gomes,0,0,0,0,0.0,245,246,0,0,0.0,0.0,2020-02-01T17:30:00Z,0,0,0,0,0,25,0,6643,0,0,0.0,0,-22,113,135,48,True,0,Wolves,Man Utd,MID,0
+Angus Gunn,0,0,0,0,0.0,319,245,0,0,0.0,0.0,2020-02-01T15:00:00Z,0,0,0,0,0,25,0,110120,0,4,0.0,0,-3060,1314,4374,43,False,0,Liverpool,Southampton,GK,0
+Anthony Driscoll-Glennon,0,0,0,0,0.0,572,242,0,0,0.0,0.0,2020-02-02T14:00:00Z,0,0,0,0,0,25,0,1420,0,0,0.0,0,-89,43,132,40,True,0,Arsenal,Burnley,DEF,0
+Anthony Gordon,0,0,0,0,0.0,561,249,0,0,0.0,0.0,2020-02-01T15:00:00Z,0,0,0,0,0,25,0,2677,3,2,0.0,0,-6,181,187,45,False,0,Watford,Everton,FWD,0
+Anthony Knockaert,0,0,0,0,0.0,52,250,0,0,0.0,0.0,2020-02-01T15:00:00Z,0,0,0,0,0,25,0,654,3,3,0.0,0,-8,6,14,54,False,0,West Ham,Brighton,MID,0
+Anthony Martial,0,0,8,1,16.1,239,246,0,0,3.4,5.8,2020-02-01T17:30:00Z,90,0,0,0,0,25,0,1000413,0,0,12.0,3,-15639,102621,118260,79,True,0,Wolves,Man Utd,MID,0
+Antonio Rüdiger,0,3,37,0,3.3,104,244,2,2,14.5,89.4,2020-02-01T12:30:00Z,90,0,0,0,0,25,0,23879,2,2,52.0,16,-756,959,1715,60,False,0,Leicester,Chelsea,DEF,0
+Anwar El Ghazi,0,0,3,0,24.7,30,241,2,0,3.3,3.8,2020-02-01T15:00:00Z,57,0,0,0,0,25,0,70268,1,2,4.0,1,-2775,3277,6052,55,False,0,Bournemouth,Aston Villa,MID,0
+Archie Mair,0,0,0,0,0.0,551,247,0,0,0.0,0.0,2020-02-01T15:00:00Z,0,0,0,0,0,25,0,5562,0,0,0.0,0,-20,226,246,40,False,0,Newcastle,Norwich,GK,0
+Arnaut Danjuma Groeneveld,0,0,0,0,0.0,492,241,0,0,0.0,0.0,2020-02-01T15:00:00Z,0,0,0,0,0,25,0,2017,1,2,0.0,0,-32,6,38,58,True,0,Aston Villa,Bournemouth,MID,0
+Arthur Masuaku,0,0,3,0,0.5,378,250,2,0,0.3,0.8,2020-02-01T15:00:00Z,16,0,0,0,0,25,0,34420,3,3,2.0,0,-904,755,1659,42,True,0,Brighton,West Ham,DEF,0
+Artur Boruc,0,0,0,0,0.0,73,241,0,0,0.0,0.0,2020-02-01T15:00:00Z,0,0,0,0,0,25,0,18232,1,2,0.0,0,-205,124,329,43,True,0,Aston Villa,Bournemouth,GK,0
+Ashley Barnes,0,0,0,0,0.0,90,242,0,0,0.0,0.0,2020-02-02T14:00:00Z,0,0,0,0,0,25,0,171001,0,0,0.0,0,-5577,76,5653,62,True,0,Arsenal,Burnley,FWD,0
+Ashley Westwood,0,0,21,1,43.9,101,242,0,0,5.6,12.0,2020-02-02T14:00:00Z,90,0,0,0,0,25,0,31194,0,0,0.0,3,1288,3495,2207,54,True,0,Arsenal,Burnley,MID,0
+Ashley Young,0,0,0,0,0.0,224,246,0,0,0.0,0.0,2020-02-01T17:30:00Z,0,0,0,0,0,25,0,23081,0,0,0.0,0,-1008,28,1036,54,True,0,Wolves,Man Utd,DEF,0
+Asmir Begovic,0,0,0,0,0.0,72,241,0,0,0.0,0.0,2020-02-01T15:00:00Z,0,0,0,0,0,25,0,55114,1,2,0.0,0,-809,22,831,42,True,0,Aston Villa,Bournemouth,GK,0
+Axel Tuanzebe,0,0,0,0,0.0,481,246,0,0,0.0,0.0,2020-02-01T17:30:00Z,0,0,0,0,0,25,0,7732,0,0,0.0,0,-184,14,198,44,True,0,Wolves,Man Utd,DEF,0
+Aymeric Laporte,0,0,0,0,0.0,202,248,0,0,0.0,0.0,2020-02-02T16:30:00Z,0,0,0,0,0,25,0,156746,0,2,0.0,0,12977,18432,5455,63,False,0,Spurs,Man City,DEF,0
+Ayotomiwa Dele-Bashiru,0,0,0,0,0.0,563,249,0,0,0.0,0.0,2020-02-01T15:00:00Z,0,0,0,0,0,25,0,606,3,2,0.0,0,0,55,55,45,True,0,Everton,Watford,MID,0
+Ayoze Pérez,0,0,12,0,22.8,265,244,2,0,3.8,10.8,2020-02-01T12:30:00Z,90,0,0,0,0,25,0,658736,2,2,4.0,2,206045,239886,33841,62,True,0,Chelsea,Leicester,MID,0
+Bailey Peacock-Farrell,0,0,0,0,0.0,495,242,0,0,0.0,0.0,2020-02-02T14:00:00Z,0,0,0,0,0,25,0,5533,0,0,0.0,0,-18,55,73,44,True,0,Arsenal,Burnley,GK,0
+Dele Alli,0,0,5,1,0.6,344,248,0,0,0.8,3.4,2020-02-02T16:30:00Z,69,0,0,0,0,25,0,448692,0,2,4.0,3,-2987,50985,53972,85,True,0,Man City,Spurs,MID,0
+Beni Baningime,0,0,0,0,0.0,557,249,0,0,0.0,0.0,2020-02-01T15:00:00Z,0,0,0,0,0,25,0,418,3,2,0.0,0,19,42,23,45,False,0,Watford,Everton,MID,0
+Ben Chilwell,0,0,25,0,16.1,161,244,2,1,8.7,45.6,2020-02-01T12:30:00Z,90,0,0,0,0,25,0,657605,2,2,25.0,7,-41256,9235,50491,56,True,0,Chelsea,Leicester,DEF,0
+Benjamin Mendy,0,0,0,0,0.0,204,248,0,0,0.0,0.0,2020-02-02T16:30:00Z,0,0,0,0,0,25,0,64267,0,2,0.0,0,-12581,1672,14253,55,False,0,Spurs,Man City,DEF,0
+Ben Davies,0,0,0,0,0.0,329,248,0,0,0.0,0.0,2020-02-02T16:30:00Z,0,0,0,0,0,25,0,8538,0,2,0.0,0,-97,26,123,53,True,0,Man City,Spurs,DEF,0
+Ben Foster,0,0,12,0,0.0,366,249,3,0,1.9,18.8,2020-02-01T15:00:00Z,90,0,0,0,0,25,2,376313,3,2,0.0,1,1490,23575,22085,49,True,0,Everton,Watford,GK,0
+Ben Gibson,0,0,0,0,0.0,89,242,0,0,0.0,0.0,2020-02-02T14:00:00Z,0,0,0,0,0,25,0,195436,0,0,0.0,0,-886,7406,8292,39,True,0,Arsenal,Burnley,DEF,0
+Ben Godfrey,0,0,0,0,0.0,273,247,0,0,0.0,0.0,2020-02-01T15:00:00Z,0,0,0,0,0,25,0,10870,0,0,0.0,0,-313,4,317,44,False,0,Newcastle,Norwich,DEF,0
+Ben Johnson,0,0,0,0,0.0,384,250,0,0,0.0,0.0,2020-02-01T15:00:00Z,0,0,0,0,0,25,0,116165,3,3,0.0,0,6863,10745,3882,39,True,0,Brighton,West Ham,DEF,0
+Ben Mee,0,0,21,1,10.8,83,242,0,0,5.6,15.8,2020-02-02T14:00:00Z,90,0,0,0,0,25,0,62693,0,0,29.0,6,4409,6693,2284,50,True,0,Arsenal,Burnley,DEF,0
+Ben Osborn,0,0,3,0,0.0,472,243,0,0,0.0,0.0,2020-02-01T15:00:00Z,1,0,0,0,0,25,0,2476,1,0,0.0,1,-5,60,65,47,False,0,Crystal Palace,Sheffield Utd,MID,0
+Beram Kayal,0,0,0,0,0.0,56,250,0,0,0.0,0.0,2020-02-01T15:00:00Z,0,0,0,0,0,25,0,13221,3,3,0.0,0,-826,93,919,43,False,0,West Ham,Brighton,MID,0
+Bernardo Silva,0,0,4,0,12.1,218,248,0,0,3.7,2.6,2020-02-02T16:30:00Z,6,0,0,0,0,25,0,620228,0,2,22.0,1,-10571,11334,21905,78,False,0,Spurs,Man City,MID,0
+Bernardo Costa Da Rosa,0,0,0,0,0.0,595,250,0,0,0.0,0.0,2020-02-01T15:00:00Z,0,0,0,0,0,25,0,233,3,3,0.0,0,23,58,35,45,True,0,Brighton,West Ham,MID,0
+Bernardo Fernandes da Silva Junior,0,0,9,0,2.8,39,250,3,0,5.5,23.0,2020-02-01T15:00:00Z,90,0,0,0,0,25,0,9733,3,3,29.0,1,158,814,656,43,False,0,West Ham,Brighton,DEF,0
+Bernard Anício Caldeira Duarte,0,0,0,0,0.0,152,249,0,0,0.0,0.0,2020-02-01T15:00:00Z,0,0,0,0,0,25,0,49619,3,2,0.0,0,2090,3418,1328,64,False,0,Watford,Everton,MID,0
+Bernard Ashley-Seal,0,0,0,0,0.0,559,246,0,0,0.0,0.0,2020-02-01T17:30:00Z,0,0,0,0,0,25,0,4077,0,0,0.0,0,-25,299,324,45,False,0,Man Utd,Wolves,FWD,0
+Bernd Leno,0,1,26,1,0.0,14,242,0,0,1.7,17.0,2020-02-02T14:00:00Z,90,0,0,0,0,25,2,384033,0,0,0.0,7,-1298,10989,12287,50,False,0,Burnley,Arsenal,GK,0
+Billy Gilmour,0,0,0,0,0.0,533,244,0,0,0.0,0.0,2020-02-01T12:30:00Z,0,0,0,0,0,25,0,1837,2,2,0.0,0,-4,49,53,45,False,0,Leicester,Chelsea,MID,0
+Billy Sharp,0,0,6,1,1.1,298,243,0,0,1.9,0.2,2020-02-01T15:00:00Z,63,0,0,0,0,25,0,21602,1,0,18.0,2,19,380,361,56,False,0,Crystal Palace,Sheffield Utd,FWD,0
+Birkir Bjarnason,0,0,0,0,0.0,33,241,0,0,0.0,0.0,2020-02-01T15:00:00Z,0,0,0,0,0,25,0,2404,1,2,0.0,0,-30,12,42,45,False,0,Bournemouth,Aston Villa,MID,0
+Bjorn Engels,0,0,11,0,15.9,455,241,0,0,3.5,11.8,2020-02-01T15:00:00Z,45,0,0,0,0,25,0,33474,1,2,7.0,1,-1182,55,1237,44,False,0,Bournemouth,Aston Villa,DEF,0
+Brandon Austin,0,0,0,0,0.0,558,248,0,0,0.0,0.0,2020-02-02T16:30:00Z,0,0,0,0,0,25,0,14019,0,2,0.0,0,-259,346,605,40,True,0,Man City,Spurs,GK,0
+Brandon Pierrick,0,0,0,0,0.0,580,243,0,0,0.0,0.0,2020-02-01T15:00:00Z,0,0,0,0,0,25,0,250,1,0,0.0,0,-1,19,20,45,True,0,Sheffield Utd,Crystal Palace,MID,0
+Brandon Williams,0,0,0,0,0.0,549,246,0,0,0.0,0.0,2020-02-01T17:30:00Z,0,0,0,0,0,25,0,398509,0,0,0.0,0,43218,66326,23108,41,True,0,Wolves,Man Utd,DEF,0
+Bruno André Cavaco Jordao,0,0,0,0,0.0,609,246,0,0,0.0,0.0,2020-02-01T17:30:00Z,0,0,0,0,0,25,0,285,0,0,0.0,0,68,132,64,45,False,0,Man Utd,Wolves,MID,0
+Bruno Fernandes,0,0,2,1,10.9,618,246,0,0,6.4,23.4,2020-02-01T17:30:00Z,90,0,0,0,0,25,0,97885,0,0,30.0,2,94825,97066,2241,80,True,1,Wolves,Man Utd,MID,0
+Bukayo Saka,0,0,4,0,1.1,541,242,0,0,0.2,0.6,2020-02-02T14:00:00Z,45,0,0,0,0,25,0,46908,0,0,0.0,1,5463,9740,4277,45,False,0,Burnley,Arsenal,MID,0
+Callum Hudson-Odoi,0,0,13,0,8.0,116,244,2,0,2.9,8.8,2020-02-01T12:30:00Z,90,0,0,0,0,25,0,61785,2,2,12.0,2,8254,13424,5170,53,False,0,Leicester,Chelsea,MID,0
+Callum Robinson,0,0,0,0,0.0,453,243,0,0,0.0,0.0,2020-02-01T15:00:00Z,0,0,0,0,0,25,0,17878,1,0,0.0,0,-947,61,1008,50,False,0,Crystal Palace,Sheffield Utd,MID,0
+Callum Slattery,0,0,0,0,0.0,327,245,0,0,0.0,0.0,2020-02-01T15:00:00Z,0,0,0,0,0,25,0,22972,0,4,0.0,0,-600,112,712,44,False,0,Liverpool,Southampton,MID,0
+Callum Wilson,0,0,1,0,11.5,67,241,1,0,5.3,0.0,2020-02-01T15:00:00Z,90,0,0,0,0,25,0,379495,1,2,44.0,1,41584,50403,8819,74,True,1,Aston Villa,Bournemouth,FWD,0
+Calum Chambers,0,0,0,0,0.0,467,242,0,0,0.0,0.0,2020-02-02T14:00:00Z,0,0,0,0,0,25,0,49958,0,0,0.0,0,-2665,27,2692,44,False,0,Burnley,Arsenal,DEF,0
+Caoimhin Kelleher,0,0,0,0,0.0,531,245,0,0,0.0,0.0,2020-02-01T15:00:00Z,0,0,0,0,0,25,0,2104,0,4,0.0,0,-27,15,42,44,True,0,Southampton,Liverpool,GK,0
+Carlos Sánchez,0,0,0,0,0.0,397,250,0,0,0.0,0.0,2020-02-01T15:00:00Z,0,0,0,0,0,25,0,34375,3,3,0.0,0,191,2598,2407,43,True,0,Brighton,West Ham,MID,0
+Carl Jenkinson,0,0,0,0,0.0,9,242,0,0,0.0,0.0,2020-02-02T14:00:00Z,0,0,0,0,0,25,0,1597,0,0,0.0,0,1,14,13,45,False,0,Burnley,Arsenal,DEF,0
+Cenk Tosun,0,0,0,0,0.0,146,243,0,0,0.0,0.0,2020-02-01T15:00:00Z,0,0,0,0,0,25,0,17266,1,0,0.0,0,-6340,2748,9088,57,True,0,Sheffield Utd,Everton,FWD,0
+Charlie Austin,0,0,0,0,0.0,312,245,0,0,0.0,0.0,2020-02-01T15:00:00Z,0,0,0,0,0,25,0,3456,0,4,0.0,0,-6,26,32,60,False,0,Liverpool,Southampton,FWD,0
+Charlie Daniels,0,0,0,0,0.0,60,241,0,0,0.0,0.0,2020-02-01T15:00:00Z,0,0,0,0,0,25,0,5480,1,2,0.0,0,-63,7,70,43,True,0,Aston Villa,Bournemouth,DEF,0
+Charlie Taylor,0,1,26,1,16.3,87,242,0,0,3.3,14.2,2020-02-02T14:00:00Z,90,0,0,0,0,25,0,59084,0,0,2.0,7,1583,4622,3039,42,True,0,Arsenal,Burnley,DEF,0
+Cheikhou Kouyaté,0,0,2,0,0.1,139,243,0,0,0.4,3.6,2020-02-01T15:00:00Z,5,0,0,0,0,25,0,19865,1,0,0.0,1,-712,1052,1764,49,True,0,Sheffield Utd,Crystal Palace,MID,0
+Che Adams,0,0,2,0,1.8,437,245,2,0,1.1,1.2,2020-02-01T15:00:00Z,20,0,0,0,0,25,0,23500,0,4,8.0,1,-185,440,625,53,False,0,Liverpool,Southampton,FWD,0
+Christian Atsu,0,0,0,0,0.0,267,247,0,0,0.0,0.0,2020-02-01T15:00:00Z,0,0,0,0,0,25,0,8674,0,0,0.0,0,-65,176,241,53,True,0,Norwich,Newcastle,MID,0
+Christian Benteke,0,0,7,0,22.5,129,243,1,0,5.4,6.0,2020-02-01T15:00:00Z,76,0,0,0,0,25,0,36275,1,0,25.0,2,-258,169,427,57,True,0,Sheffield Utd,Crystal Palace,FWD,0
+Christian Eriksen,0,0,0,0,0.0,343,248,0,0,0.0,0.0,2020-02-02T16:30:00Z,0,0,0,0,0,25,0,191542,0,2,0.0,0,-7282,528,7810,86,True,0,Man City,Spurs,MID,0
+Christian Fuchs,0,0,0,0,0.0,163,244,0,0,0.0,0.0,2020-02-01T12:30:00Z,0,0,0,0,0,25,0,26139,2,2,0.0,0,-507,385,892,43,True,0,Chelsea,Leicester,DEF,0
+Christian Kabasele,0,0,9,0,0.1,354,249,3,0,1.9,12.0,2020-02-01T15:00:00Z,90,0,0,0,0,25,0,34690,3,2,7.0,1,-1840,1545,3385,43,True,0,Everton,Watford,DEF,0
+Christian Pulisic,0,0,0,0,0.0,431,244,0,0,0.0,0.0,2020-02-01T12:30:00Z,0,0,0,0,0,25,0,273955,2,2,0.0,0,-16552,174,16726,69,False,0,Leicester,Chelsea,MID,0
+Christian Saydee,0,0,0,0,0.0,564,241,0,0,0.0,0.0,2020-02-01T15:00:00Z,0,0,0,0,0,25,0,403,1,2,0.0,0,-10,33,43,45,True,0,Aston Villa,Bournemouth,MID,0
+Christoph Zimmermann,0,0,26,1,1.1,275,247,0,0,2.0,13.6,2020-02-01T15:00:00Z,90,0,0,0,0,25,0,3081,0,0,5.0,6,-46,149,195,44,False,0,Newcastle,Norwich,DEF,0
+Chris Basham,0,1,23,1,0.9,423,243,0,0,2.7,26.4,2020-02-01T15:00:00Z,90,0,0,0,0,25,0,59138,1,0,0.0,7,2447,5884,3437,45,False,0,Crystal Palace,Sheffield Utd,DEF,0
+Chris Mepham,0,0,0,0,0.0,61,241,0,0,0.0,0.0,2020-02-01T15:00:00Z,0,0,0,0,0,25,0,50187,1,2,0.0,0,-2026,8,2034,43,True,0,Aston Villa,Bournemouth,DEF,0
+Chris Smalling,0,0,0,0,0.0,223,246,0,0,0.0,0.0,2020-02-01T17:30:00Z,0,0,0,0,0,25,0,9094,0,0,0.0,0,-21,30,51,52,True,0,Wolves,Man Utd,DEF,0
+Chris Wood,0,0,8,1,43.5,91,242,0,0,7.5,11.4,2020-02-02T14:00:00Z,90,0,0,0,0,25,0,136284,0,0,20.0,2,68392,78780,10388,62,True,0,Arsenal,Burnley,FWD,0
+Ciaran Clark,0,0,26,1,0.8,259,247,0,0,2.9,28.2,2020-02-01T15:00:00Z,90,0,0,0,0,25,0,21319,0,0,0.0,6,408,1433,1025,43,True,0,Norwich,Newcastle,DEF,0
+Claudio Bravo,0,0,0,0,0.0,213,248,0,0,0.0,0.0,2020-02-02T16:30:00Z,0,0,0,0,0,25,0,22969,0,2,0.0,0,-727,110,837,48,False,0,Spurs,Man City,GK,0
+Connor Wickham,0,0,0,0,0.0,130,243,0,0,0.0,0.0,2020-02-01T15:00:00Z,0,0,0,0,0,25,0,155838,1,0,0.0,0,-2832,1203,4035,44,True,0,Sheffield Utd,Crystal Palace,FWD,0
+Conor Coady,0,3,31,1,0.1,403,246,0,0,1.6,16.2,2020-02-01T17:30:00Z,90,0,0,0,0,25,0,108307,0,0,0.0,9,-2461,2037,4498,50,False,0,Man Utd,Wolves,DEF,0
+Conor Hourihane,0,0,0,0,0.0,28,241,0,0,0.0,0.0,2020-02-01T15:00:00Z,0,0,0,0,0,25,0,11501,1,2,0.0,0,-622,110,732,57,False,0,Bournemouth,Aston Villa,MID,0
+Craig Cathcart,0,0,11,0,0.3,358,249,3,0,2.0,17.4,2020-02-01T15:00:00Z,90,0,0,0,0,25,0,245994,3,2,2.0,1,8486,24961,16475,44,True,0,Everton,Watford,DEF,0
+Craig Dawson,0,0,0,0,0.0,439,249,0,0,0.0,0.0,2020-02-01T15:00:00Z,0,0,0,0,0,25,0,13135,3,2,0.0,0,66,604,538,48,True,0,Everton,Watford,DEF,0
+Curtis Jones,0,0,0,0,0.0,569,245,0,0,0.0,0.0,2020-02-01T15:00:00Z,0,0,0,0,0,25,0,413,0,4,0.0,0,5,53,48,45,True,0,Southampton,Liverpool,MID,0
+Cédric Soares,0,0,0,0,0.0,486,242,0,0,0.0,0.0,2020-02-02T14:00:00Z,0,0,0,0,0,25,0,18735,0,0,0.0,0,-536,381,917,48,False,0,Burnley,Arsenal,DEF,0
+César Azpilicueta,0,0,13,0,7.8,105,244,2,0,2.6,16.6,2020-02-01T12:30:00Z,90,0,0,0,0,25,0,448242,2,2,2.0,1,23686,36172,12486,58,False,0,Leicester,Chelsea,DEF,0
+Dale Stephens,0,0,11,0,13.3,57,250,3,0,3.3,18.4,2020-02-01T15:00:00Z,90,0,0,0,0,25,0,142820,3,3,1.0,1,-4301,1518,5819,44,False,1,West Ham,Brighton,MID,0
+Daniel Amartey,0,0,0,0,0.0,178,244,0,0,0.0,0.0,2020-02-01T12:30:00Z,0,0,0,0,0,25,0,19817,2,2,0.0,0,-966,60,1026,43,True,0,Chelsea,Leicester,MID,0
+Daniel Podence,0,0,7,0,15.1,619,246,0,0,4.0,6.4,2020-02-01T17:30:00Z,14,0,0,0,0,25,0,547,0,0,18.0,1,514,571,57,55,False,0,Man Utd,Wolves,MID,0
+Dani Ceballos,0,0,0,0,0.0,469,242,0,0,0.0,0.0,2020-02-02T14:00:00Z,0,0,0,0,0,25,0,223924,0,0,0.0,0,-2413,338,2751,52,False,0,Burnley,Arsenal,MID,0
+Daniel Drinkwater,0,0,0,0,0.0,120,241,0,0,0.0,0.0,2020-02-01T15:00:00Z,0,0,0,0,0,25,0,45738,1,2,0.0,0,-366,555,921,44,False,0,Bournemouth,Aston Villa,MID,0
+Daniel James,0,0,8,1,11.8,243,246,0,0,2.6,6.6,2020-02-01T17:30:00Z,87,0,0,0,0,25,0,508829,0,0,8.0,3,-37932,7812,45744,59,True,0,Wolves,Man Utd,MID,0
+Daniel N'Lundulu,0,0,0,0,0.0,535,245,0,0,0.0,0.0,2020-02-01T15:00:00Z,0,0,0,0,0,25,0,6709,0,4,0.0,0,-49,93,142,45,False,0,Liverpool,Southampton,FWD,0
+Danilo Luiz da Silva,0,0,0,0,0.0,209,248,0,0,0.0,0.0,2020-02-02T16:30:00Z,0,0,0,0,0,25,0,3185,0,2,0.0,0,-10,16,26,50,False,0,Spurs,Man City,DEF,0
+Danny Ings,0,0,6,0,31.4,313,245,2,0,15.1,18.6,2020-02-01T15:00:00Z,69,0,0,0,0,25,0,2080750,0,4,101.0,2,-88362,140661,229023,70,False,0,Liverpool,Southampton,FWD,0
+Danny Rose,0,0,3,0,0.3,332,247,0,0,0.3,2.6,2020-02-01T15:00:00Z,11,0,0,0,0,25,0,98000,0,0,0.0,1,3821,4324,503,53,True,0,Norwich,Newcastle,DEF,0
+Danny Ward,0,0,0,0,0.0,170,244,0,0,0.0,0.0,2020-02-01T12:30:00Z,0,0,0,0,0,25,0,11988,2,2,0.0,0,-100,48,148,43,True,0,Chelsea,Leicester,GK,0
+Danny Welbeck,0,0,4,0,0.4,512,249,1,0,0.3,2.4,2020-02-01T15:00:00Z,33,0,0,0,0,25,0,8309,3,2,0.0,1,55,145,90,58,True,0,Everton,Watford,FWD,0
+Dan Burn,0,0,0,0,0.0,475,250,0,0,0.0,0.0,2020-02-01T15:00:00Z,0,0,0,0,0,25,0,13566,3,3,0.0,0,-1004,28,1032,45,False,0,West Ham,Brighton,DEF,0
+Dan Gosling,1,0,19,0,12.3,81,241,1,0,6.1,30.6,2020-02-01T15:00:00Z,90,0,0,0,0,25,0,6455,1,2,18.0,5,-987,160,1147,49,True,0,Aston Villa,Bournemouth,MID,0
+Darren Randolph,0,0,0,0,0.0,606,250,0,0,0.0,0.0,2020-02-01T15:00:00Z,0,0,0,0,0,25,0,12064,3,3,0.0,0,-3767,1194,4961,44,True,0,Brighton,West Ham,GK,0
+Daryl Janmaat,0,0,0,0,0.0,359,249,0,0,0.0,0.0,2020-02-01T15:00:00Z,0,0,0,0,0,25,0,44601,3,2,0.0,0,-2310,1233,3543,40,True,0,Everton,Watford,DEF,0
+Davide Zappacosta,0,0,0,0,0.0,109,244,0,0,0.0,0.0,2020-02-01T12:30:00Z,0,0,0,0,0,25,0,11661,2,2,0.0,0,-71,14,85,43,False,0,Leicester,Chelsea,DEF,0
+David Brooks,0,0,0,0,0.0,76,241,0,0,0.0,0.0,2020-02-01T15:00:00Z,0,0,0,0,0,25,0,6790,1,2,0.0,0,-39,24,63,63,True,0,Aston Villa,Bournemouth,MID,0
+David Button,0,0,0,0,0.0,48,250,0,0,0.0,0.0,2020-02-01T15:00:00Z,0,0,0,0,0,25,0,1517564,3,3,0.0,0,19710,50679,30969,39,False,0,West Ham,Brighton,GK,0
+David de Gea,0,0,25,1,0.0,235,246,0,0,2.6,26.0,2020-02-01T17:30:00Z,90,0,0,0,0,25,3,843381,0,0,0.0,7,-17211,4655,21866,54,True,0,Wolves,Man Utd,GK,0
+David Luiz Moreira Marinho,0,3,29,1,13.3,106,242,0,0,5.4,22.8,2020-02-02T14:00:00Z,90,0,0,0,0,25,0,352941,0,0,18.0,9,-8851,3201,12052,57,False,0,Burnley,Arsenal,DEF,0
+David Martin,0,0,0,0,0.0,553,250,0,0,0.0,0.0,2020-02-01T15:00:00Z,0,0,0,0,0,25,0,132869,3,3,0.0,0,-6165,4510,10675,41,True,0,Brighton,West Ham,GK,0
+David McGoldrick,0,0,0,0,0.0,303,243,0,0,0.0,0.0,2020-02-01T15:00:00Z,0,0,0,0,0,25,0,13092,1,0,0.0,0,-1353,67,1420,54,False,0,Crystal Palace,Sheffield Utd,FWD,0
+David Silva,0,0,0,0,0.0,219,248,0,0,0.0,0.0,2020-02-02T16:30:00Z,0,0,0,0,0,25,0,325261,0,2,0.0,0,-11914,7497,19411,74,False,0,Spurs,Man City,MID,0
+Davinson Sánchez,0,1,28,1,0.0,333,248,0,0,2.7,27.0,2020-02-02T16:30:00Z,90,0,0,0,0,25,0,64962,0,2,0.0,7,-1343,392,1735,53,True,0,Man City,Spurs,DEF,0
+Davy Pröpper,1,1,28,0,31.8,54,250,3,0,7.0,32.6,2020-02-01T15:00:00Z,90,0,0,0,0,25,0,24705,3,3,6.0,6,-573,234,807,48,False,0,West Ham,Brighton,MID,0
+DeAndre Yedlin,0,0,2,0,15.7,253,247,0,0,2.4,6.2,2020-02-01T15:00:00Z,53,0,0,0,0,25,0,6006,0,0,2.0,0,-1,308,309,44,True,1,Norwich,Newcastle,DEF,0
+Dean Henderson,0,3,29,1,0.0,471,243,0,0,2.2,22.4,2020-02-01T15:00:00Z,90,0,0,0,0,25,3,999154,1,0,0.0,10,219715,234504,14789,50,False,0,Crystal Palace,Sheffield Utd,GK,0
+Declan Rice,0,0,11,0,11.3,395,250,3,0,3.0,18.2,2020-02-01T15:00:00Z,90,0,0,0,0,25,0,117568,3,3,0.0,2,-3596,3644,7240,47,True,0,Brighton,West Ham,MID,0
+Dejan Lovren,0,0,0,0,0.0,186,245,0,0,0.0,0.0,2020-02-01T15:00:00Z,0,0,0,0,0,25,0,14675,0,4,0.0,0,-158,74,232,53,True,0,Southampton,Liverpool,DEF,0
+Demarai Gray,0,0,0,0,0.0,175,244,0,0,0.0,0.0,2020-02-01T12:30:00Z,0,0,0,0,0,25,0,18476,2,2,0.0,0,-272,210,482,51,True,0,Chelsea,Leicester,MID,0
+Dennis Praet,0,0,4,0,0.1,517,244,0,0,0.1,1.2,2020-02-01T12:30:00Z,10,0,0,0,0,25,0,6630,2,2,0.0,1,-637,539,1176,53,True,0,Chelsea,Leicester,MID,0
+Dennis Srbeny,0,0,0,0,0.0,279,247,0,0,0.0,0.0,2020-02-01T15:00:00Z,0,0,0,0,0,25,0,2808,0,0,0.0,0,-74,17,91,52,False,0,Newcastle,Norwich,FWD,0
+Diego Rico,0,0,18,0,4.9,65,241,1,0,2.6,21.0,2020-02-01T15:00:00Z,90,0,0,0,0,25,0,850720,1,2,0.0,2,-14488,26852,41340,43,True,0,Aston Villa,Bournemouth,DEF,0
+Dimitri Foulquier,0,0,0,0,0.0,542,249,0,0,0.0,0.0,2020-02-01T15:00:00Z,0,0,0,0,0,25,0,11157,3,2,0.0,0,-562,30,592,40,True,0,Everton,Watford,DEF,0
+Diogo Jota,0,0,8,1,33.0,410,246,0,0,10.5,16.6,2020-02-01T17:30:00Z,69,0,0,0,0,25,0,190227,0,0,55.0,2,-1471,2015,3486,61,False,0,Man Utd,Wolves,FWD,0
+Divock Origi,0,0,0,0,0.0,188,245,0,0,0.0,0.0,2020-02-01T15:00:00Z,0,0,0,0,0,25,0,195411,0,4,0.0,0,5510,11599,6089,52,True,0,Southampton,Liverpool,FWD,0
+Djibril Sidibé,0,0,21,0,21.1,511,249,2,0,5.6,34.8,2020-02-01T15:00:00Z,90,0,0,0,0,25,0,144278,3,2,0.0,1,-16600,7540,24140,54,False,0,Watford,Everton,DEF,0
+Domingos Quina,0,0,0,0,0.0,375,249,0,0,0.0,0.0,2020-02-01T15:00:00Z,0,0,0,0,0,25,0,6280,3,2,0.0,0,-91,49,140,44,True,0,Everton,Watford,MID,0
+Dominic Calvert-Lewin,0,0,0,0,5.6,147,249,2,0,3.5,2.4,2020-02-01T15:00:00Z,72,0,0,0,0,25,0,839363,3,2,27.0,2,133652,190684,57032,61,False,0,Watford,Everton,FWD,0
+Dominic Solanke,0,0,0,0,0.0,69,241,0,0,0.0,0.0,2020-02-01T15:00:00Z,0,0,0,0,0,25,0,25870,1,2,0.0,0,1382,2178,796,52,True,0,Aston Villa,Bournemouth,FWD,0
+Douglas Luiz Soares de Paulo,0,0,10,0,24.6,470,241,2,0,4.7,20.8,2020-02-01T15:00:00Z,90,0,0,0,0,25,0,297073,1,2,2.0,1,22970,40595,17625,44,False,1,Bournemouth,Aston Villa,MID,0
+Dwight Gayle,0,0,0,0,0.0,554,247,0,0,0.0,0.0,2020-02-01T15:00:00Z,0,0,0,0,0,25,0,2812,0,0,0.0,0,-173,31,204,50,True,0,Norwich,Newcastle,FWD,0
+Dwight McNeil,0,0,22,1,68.8,97,242,0,0,10.8,21.8,2020-02-02T14:00:00Z,90,0,0,0,0,25,0,32948,0,0,17.0,3,-941,1305,2246,60,True,0,Arsenal,Burnley,MID,0
+Ederson Santana de Moraes,0,0,11,0,0.0,212,248,2,0,1.2,12.4,2020-02-02T16:30:00Z,90,0,0,0,0,25,1,847778,0,2,0.0,1,-5675,9555,15230,60,False,0,Spurs,Man City,GK,0
+Eddie Nketiah,0,0,3,0,0.1,13,242,0,0,0.0,0.0,2020-02-02T14:00:00Z,1,0,0,0,0,25,0,43582,0,0,0.0,1,177,2597,2420,43,False,0,Burnley,Arsenal,FWD,0
+Eldin Jakupovic,0,0,0,0,0.0,169,244,0,0,0.0,0.0,2020-02-01T12:30:00Z,0,0,0,0,0,25,0,6491,2,2,0.0,0,-49,33,82,42,True,0,Chelsea,Leicester,GK,0
+Emerson Palmieri dos Santos,0,0,0,0,0.0,107,244,0,0,0.0,0.0,2020-02-01T12:30:00Z,0,0,0,0,0,25,0,55257,2,2,0.0,0,-503,608,1111,55,False,0,Leicester,Chelsea,DEF,0
+Emile Smith Rowe,0,0,0,0,0.0,576,242,0,0,0.0,0.0,2020-02-02T14:00:00Z,0,0,0,0,0,25,0,1806,0,0,0.0,0,363,903,540,43,False,0,Burnley,Arsenal,MID,0
+Emiliano Buendía,0,0,5,0,6.2,283,247,0,0,1.2,6.2,2020-02-01T15:00:00Z,23,0,0,0,0,25,0,57368,0,0,0.0,1,-6295,899,7194,60,False,0,Newcastle,Norwich,MID,0
+Emiliano Martínez,0,0,0,0,0.0,427,242,0,0,0.0,0.0,2020-02-02T14:00:00Z,0,0,0,0,0,25,0,17984,0,0,0.0,0,-95,149,244,43,False,0,Burnley,Arsenal,GK,0
+Emil Krafth,0,0,0,0,0.0,519,247,0,0,0.0,0.0,2020-02-01T15:00:00Z,0,0,0,0,0,25,0,4774,0,0,0.0,0,-191,28,219,43,True,0,Norwich,Newcastle,DEF,0
+Enda Stevens,0,0,18,1,5.3,291,243,0,0,3.9,10.2,2020-02-01T15:00:00Z,90,0,0,0,0,25,0,183969,1,0,23.0,6,16918,26559,9641,51,False,0,Crystal Palace,Sheffield Utd,DEF,0
+Eric Bailly,0,0,0,0,0.0,228,246,0,0,0.0,0.0,2020-02-01T17:30:00Z,0,0,0,0,0,25,0,2726,0,0,0.0,0,44,128,84,49,True,0,Wolves,Man Utd,DEF,0
+Eric Dier,0,0,3,0,0.3,350,248,0,0,0.6,5.6,2020-02-02T16:30:00Z,6,0,0,0,0,25,0,13618,0,2,0.0,1,-189,170,359,48,True,0,Man City,Spurs,MID,0
+Eric Garcia,0,0,0,0,0.0,544,248,0,0,0.0,0.0,2020-02-02T16:30:00Z,0,0,0,0,0,25,0,3996,0,2,0.0,0,-364,123,487,45,False,0,Spurs,Man City,DEF,0
+Erik Lamela,0,0,2,0,1.7,346,248,0,0,0.3,1.0,2020-02-02T16:30:00Z,20,0,0,0,0,25,0,86007,0,2,0.0,1,-885,1415,2300,57,True,0,Man City,Spurs,MID,0
+Erik Pieters,0,0,0,0,0.0,447,242,0,0,0.0,0.0,2020-02-02T14:00:00Z,0,0,0,0,0,25,0,324407,0,0,0.0,0,-11993,644,12637,43,True,0,Arsenal,Burnley,DEF,0
+Ethan Ampadu,0,0,0,0,0.0,121,244,0,0,0.0,0.0,2020-02-01T12:30:00Z,0,0,0,0,0,25,0,1257,2,2,0.0,0,-13,38,51,44,False,0,Leicester,Chelsea,MID,0
+Etienne Capoue,0,0,21,0,11.8,373,249,3,0,3.7,20.6,2020-02-01T15:00:00Z,90,0,0,0,0,25,0,22952,3,2,5.0,2,-308,897,1205,48,True,0,Everton,Watford,MID,0
+Ezequiel Schelotto,0,0,5,0,1.3,546,250,0,0,0.6,4.2,2020-02-01T15:00:00Z,18,0,0,0,0,25,0,34972,3,3,0.0,1,-1365,737,2102,40,False,0,West Ham,Brighton,DEF,0
+Ezri Konsa Ngoyo,0,0,4,0,0.1,452,241,2,0,0.3,1.0,2020-02-01T15:00:00Z,45,0,0,0,0,25,0,7587,1,2,2.0,0,762,1150,388,43,False,0,Bournemouth,Aston Villa,DEF,0
+Fabian Delph,0,0,7,0,20.6,205,249,2,0,3.1,10.8,2020-02-01T15:00:00Z,70,0,0,0,1,25,0,14558,3,2,0.0,-2,-92,366,458,53,False,0,Watford,Everton,DEF,0
+Fabian Schär,0,0,0,0,0.0,252,247,0,0,0.0,0.0,2020-02-01T15:00:00Z,0,0,0,0,0,25,0,95265,0,0,0.0,0,2977,4997,2020,50,True,0,Norwich,Newcastle,DEF,0
+Fabio Henrique Tavares,0,0,8,1,12.1,197,245,0,0,2.5,11.6,2020-02-01T15:00:00Z,90,0,0,0,0,25,0,71796,0,4,1.0,3,27,929,902,54,True,0,Southampton,Liverpool,MID,0
+Fabián Balbuena,0,0,0,0,0.0,382,250,0,0,0.0,0.0,2020-02-01T15:00:00Z,0,0,0,0,0,25,0,33037,3,3,0.0,0,-3572,211,3783,43,True,0,Brighton,West Ham,DEF,0
+Federico Fernández,0,3,34,1,5.8,254,247,0,0,4.5,33.0,2020-02-01T15:00:00Z,90,0,0,0,0,25,0,71282,0,0,6.0,9,15620,21589,5969,44,True,0,Norwich,Newcastle,DEF,0
+Felipe Anderson Pereira Gomes,0,0,0,0,0.0,390,250,0,0,0.0,0.0,2020-02-01T15:00:00Z,0,0,0,0,0,25,0,195210,3,3,0.0,0,-13055,52,13107,66,True,0,Brighton,West Ham,MID,0
+Fernando Luiz Rosa,0,0,16,0,3.5,221,248,2,0,4.7,25.6,2020-02-02T16:30:00Z,90,0,0,0,0,25,0,49031,0,2,18.0,2,-1775,757,2532,52,False,0,Spurs,Man City,MID,0
+Fikayo Tomori,0,0,0,0,0.0,529,244,0,0,0.0,0.0,2020-02-01T12:30:00Z,0,0,0,0,0,25,0,166621,2,2,0.0,0,-19230,1941,21171,45,False,0,Leicester,Chelsea,DEF,0
+Filip Benkovic,0,0,0,0,0.0,597,244,0,0,0.0,0.0,2020-02-01T12:30:00Z,0,0,0,0,0,25,0,1280,2,2,0.0,0,195,353,158,40,True,0,Chelsea,Leicester,DEF,0
+Florian Lejeune,0,0,0,0,0.0,257,247,0,0,0.0,0.0,2020-02-01T15:00:00Z,0,0,0,0,0,25,0,3392,0,0,0.0,0,2313,3538,1225,44,True,0,Norwich,Newcastle,DEF,0
+Florin Andone,0,0,0,0,0.0,46,250,0,0,0.0,0.0,2020-02-01T15:00:00Z,0,0,0,0,0,25,0,26397,3,3,0.0,0,-228,47,275,47,False,0,West Ham,Brighton,FWD,0
+Kiko Femenía,0,0,0,0,0.0,357,249,0,0,0.0,0.0,2020-02-01T15:00:00Z,0,0,0,0,0,25,0,34390,3,2,0.0,0,-4648,51,4699,42,True,0,Everton,Watford,DEF,0
+Fraser Forster,0,0,0,0,0.0,317,245,0,0,0.0,0.0,2020-02-01T15:00:00Z,0,0,0,0,0,25,0,22962,0,4,0.0,0,-269,37,306,43,False,0,Liverpool,Southampton,GK,0
+Frederick Woodman,0,0,0,0,0.0,264,247,0,0,0.0,0.0,2020-02-01T15:00:00Z,0,0,0,0,0,25,0,58303,0,0,0.0,0,-1297,160,1457,40,True,0,Norwich,Newcastle,GK,0
+Frederico Rodrigues de Paula Santos,0,0,14,1,32.2,244,246,0,0,5.6,15.4,2020-02-01T17:30:00Z,90,0,0,0,0,25,0,19438,0,0,8.0,3,593,2187,1594,53,True,0,Wolves,Man Utd,MID,0
+Frédéric Guilbert,0,0,11,0,19.1,458,241,2,0,3.3,7.6,2020-02-01T15:00:00Z,90,0,0,0,0,25,0,41665,1,2,6.0,1,-2112,339,2451,44,False,0,Bournemouth,Aston Villa,DEF,0
+Gabriel Jesus,0,0,0,0,1.9,211,248,0,0,2.4,5.0,2020-02-02T16:30:00Z,18,0,0,0,0,25,0,214246,0,2,17.0,1,-18861,23092,41953,95,False,0,Spurs,Man City,FWD,0
+Gabriel Martinelli,0,0,5,1,11.5,504,242,0,0,4.8,14.8,2020-02-02T14:00:00Z,90,0,0,0,0,25,0,263179,0,0,22.0,2,114041,130017,15976,46,False,0,Burnley,Arsenal,FWD,0
+Gary Cahill,0,0,12,0,0.5,503,243,1,0,4.6,19.4,2020-02-01T15:00:00Z,90,0,0,0,0,25,0,86840,1,0,26.0,2,1794,4171,2377,44,True,0,Sheffield Utd,Crystal Palace,DEF,0
+Gavin Kilkenny,0,0,0,0,0.0,565,241,0,0,0.0,0.0,2020-02-01T15:00:00Z,0,0,0,0,0,25,0,325,1,2,0.0,0,4,31,27,45,True,0,Aston Villa,Bournemouth,MID,0
+Gaëtan Bong,0,0,0,0,0.0,41,250,0,0,0.0,0.0,2020-02-01T15:00:00Z,0,0,0,0,0,25,0,7634,3,3,0.0,0,-129,45,174,42,False,0,West Ham,Brighton,DEF,0
+Gedson Carvalho Fernandes,0,0,0,0,0.0,605,248,0,0,0.0,0.0,2020-02-02T16:30:00Z,0,0,0,0,0,25,0,2673,0,2,0.0,0,-225,568,793,50,True,0,Man City,Spurs,MID,0
+Georges-Kévin Nkoudou,0,0,0,0,0.0,527,248,0,0,0.0,0.0,2020-02-02T16:30:00Z,0,0,0,0,0,25,0,841,0,2,0.0,0,-1,6,7,50,True,0,Man City,Spurs,MID,0
+George Baldock,0,0,20,1,2.3,294,243,0,0,1.8,9.6,2020-02-01T15:00:00Z,90,0,0,0,0,25,0,820017,1,0,6.0,5,16187,57904,41717,51,False,1,Crystal Palace,Sheffield Utd,DEF,0
+Georginio Wijnaldum,0,0,11,1,11.8,199,245,0,0,4.5,14.0,2020-02-01T15:00:00Z,80,0,0,0,0,25,0,174898,0,4,19.0,3,-7286,4811,12097,54,True,0,Southampton,Liverpool,MID,0
+Gerard Deulofeu,1,0,10,0,22.4,363,249,2,0,8.3,23.0,2020-02-01T15:00:00Z,81,0,0,0,0,25,0,225598,3,2,38.0,5,11361,27474,16113,61,True,0,Everton,Watford,FWD,0
+Giovani Lo Celso,0,0,13,1,13.6,523,248,0,0,2.8,14.4,2020-02-02T16:30:00Z,90,0,0,0,0,25,0,24125,0,2,0.0,2,3304,4283,979,73,True,1,Man City,Spurs,MID,0
+Giovanni McGregor,0,0,0,0,0.0,608,243,0,0,0.0,0.0,2020-02-01T15:00:00Z,0,0,0,0,0,25,0,92,1,0,0.0,0,21,39,18,45,True,0,Sheffield Utd,Crystal Palace,MID,0
+Glenn Murray,0,0,25,0,7.8,44,250,3,1,9.8,36.2,2020-02-01T15:00:00Z,90,0,0,0,0,25,0,52254,3,3,54.0,6,-327,670,997,54,False,0,West Ham,Brighton,FWD,0
+Gonçalo Bento Soares Cardoso,0,0,0,0,0.0,594,250,0,0,0.0,0.0,2020-02-01T15:00:00Z,0,0,0,0,0,25,0,970,3,3,0.0,0,124,205,81,40,True,0,Brighton,West Ham,DEF,0
+Grady Diangana,0,0,0,0,0.0,398,250,0,0,0.0,0.0,2020-02-01T15:00:00Z,0,0,0,0,0,25,0,4416,3,3,0.0,0,-91,94,185,44,True,0,Brighton,West Ham,MID,0
+Granit Xhaka,0,0,16,1,13.3,18,242,0,0,2.7,13.8,2020-02-02T14:00:00Z,90,0,0,0,0,25,0,46513,0,0,0.0,2,216,1238,1022,51,False,1,Burnley,Arsenal,MID,0
+Grant Hanley,0,1,31,1,0.4,277,247,0,0,3.2,31.2,2020-02-01T15:00:00Z,90,0,0,0,0,25,0,147516,0,0,0.0,7,1553,7923,6370,40,False,0,Newcastle,Norwich,DEF,0
+Gylfi Sigurdsson,1,2,25,0,30.5,151,249,2,0,5.6,25.6,2020-02-01T15:00:00Z,66,0,0,0,0,25,0,175028,3,2,0.0,7,-4182,836,5018,73,False,0,Watford,Everton,MID,0
+Hamza Choudhury,0,0,16,0,11.0,180,244,2,0,3.7,16.8,2020-02-01T12:30:00Z,90,0,0,0,0,25,0,68234,2,2,9.0,2,-2692,2104,4796,43,True,0,Chelsea,Leicester,MID,0
+Harry Kane,0,0,0,0,0.0,338,248,0,0,0.0,0.0,2020-02-02T16:30:00Z,0,0,0,0,0,25,0,658361,0,2,0.0,0,-22781,223,23004,108,True,0,Man City,Spurs,FWD,0
+Harry Lewis,0,0,0,0,0.0,548,245,0,0,0.0,0.0,2020-02-01T15:00:00Z,0,0,0,0,0,25,0,11563,0,4,0.0,0,-148,354,502,40,False,0,Liverpool,Southampton,GK,0
+Harry Maguire,0,0,27,1,12.2,160,246,0,0,4.7,24.8,2020-02-01T17:30:00Z,90,0,0,0,0,25,0,705361,0,0,10.0,6,-6250,8006,14256,52,True,0,Wolves,Man Utd,DEF,0
+Harry Wilson,0,0,13,0,16.1,505,241,1,0,5.4,12.0,2020-02-01T15:00:00Z,90,0,0,0,0,25,0,167911,1,2,26.0,2,25246,33503,8257,58,True,0,Aston Villa,Bournemouth,MID,0
+Harry Winks,0,0,14,1,4.2,347,248,0,0,1.6,12.2,2020-02-02T16:30:00Z,90,0,0,0,0,25,0,18316,0,2,0.0,3,-443,157,600,52,True,0,Man City,Spurs,MID,0
+Harvey Barnes,0,0,21,0,17.9,172,244,2,1,9.6,39.2,2020-02-01T12:30:00Z,90,0,0,0,0,25,0,70711,2,2,39.0,7,25594,32679,7085,59,True,0,Chelsea,Leicester,MID,0
+Harvey Elliott,0,0,0,0,0.0,550,245,0,0,0.0,0.0,2020-02-01T15:00:00Z,0,0,0,0,0,25,0,708,0,4,0.0,0,-20,28,48,45,True,0,Southampton,Liverpool,MID,0
+Henrikh Mkhitaryan,0,0,0,0,0.0,16,242,0,0,0.0,0.0,2020-02-02T14:00:00Z,0,0,0,0,0,25,0,56167,0,0,0.0,0,-204,22,226,68,False,0,Burnley,Arsenal,MID,0
+Henri Lansbury,0,0,0,0,0.0,35,241,0,0,0.0,0.0,2020-02-01T15:00:00Z,0,0,0,0,0,25,0,29736,1,2,0.0,0,-919,70,989,44,False,0,Bournemouth,Aston Villa,MID,0
+Son Heung-Min,0,0,22,1,2.3,342,248,0,1,7.9,40.8,2020-02-02T16:30:00Z,90,0,0,0,0,25,0,613590,0,2,36.0,8,38805,89031,50226,99,True,0,Man City,Spurs,MID,0
+Heurelho da Silva Gomes,0,0,0,0,0.0,513,249,0,0,0.0,0.0,2020-02-01T15:00:00Z,0,0,0,0,0,25,0,14682,3,2,0.0,0,-44,194,238,44,True,0,Everton,Watford,GK,0
+Hugo Lloris,0,3,47,1,0.0,340,248,0,0,5.2,51.8,2020-02-02T16:30:00Z,90,0,0,1,0,25,5,238809,0,2,0.0,15,2234,3846,1612,53,True,0,Man City,Spurs,GK,0
+Héctor Bellerín,0,2,27,1,3.3,2,242,0,0,2.8,20.4,2020-02-02T14:00:00Z,90,0,0,0,0,25,0,38685,0,0,4.0,8,19962,23155,3193,54,False,0,Burnley,Arsenal,DEF,0
+Hélder Costa,0,0,0,0,0.0,418,246,0,0,0.0,0.0,2020-02-01T17:30:00Z,0,0,0,0,0,25,0,1245,0,0,0.0,0,-17,19,36,49,False,0,Man Utd,Wolves,MID,0
+Ibrahim Amadou,0,0,0,0,0.0,507,247,0,0,0.0,0.0,2020-02-01T15:00:00Z,0,0,0,0,0,25,0,6722,0,0,0.0,0,-317,43,360,45,False,0,Newcastle,Norwich,MID,0
+Idrissa Gueye,0,0,0,0,0.0,156,249,0,0,0.0,0.0,2020-02-01T15:00:00Z,0,0,0,0,0,25,0,1294,3,2,0.0,0,-2,14,16,50,False,0,Watford,Everton,MID,0
+Ignacio Pussetto,0,0,1,0,0.3,604,249,1,0,0.0,0.0,2020-02-01T15:00:00Z,8,0,0,0,0,25,0,309,3,2,0.0,1,-28,61,89,50,True,0,Everton,Watford,MID,0
+Ilkay Gündogan,0,0,8,0,33.9,222,248,2,0,8.2,19.0,2020-02-02T16:30:00Z,90,0,1,0,0,25,0,90592,0,2,29.0,0,-2929,1595,4524,52,False,0,Spurs,Man City,MID,0
+Indiana Vassilev,0,0,0,0,0.0,600,241,0,0,0.0,0.0,2020-02-01T15:00:00Z,0,0,0,0,0,25,0,234,1,2,0.0,0,34,84,50,45,False,0,Bournemouth,Aston Villa,MID,0
+Isaac Hayden,0,0,6,0,0.9,271,247,0,0,1.3,4.0,2020-02-01T15:00:00Z,56,0,0,0,0,25,0,343029,0,0,8.0,1,36188,53025,16837,43,True,0,Norwich,Newcastle,MID,0
+Isaac Success Ajayi,0,0,-3,0,0.3,365,249,1,0,0.0,0.0,2020-02-01T15:00:00Z,15,0,0,0,0,25,0,25583,3,2,0.0,0,-226,243,469,48,True,1,Everton,Watford,FWD,0
+Ismaïla Sarr,0,0,0,0,0.0,525,249,0,0,0.0,0.0,2020-02-01T15:00:00Z,0,0,0,0,0,25,0,45642,3,2,0.0,0,-26231,553,26784,62,True,0,Everton,Watford,MID,0
+Issa Diop,0,0,20,0,0.3,381,250,3,1,6.7,49.4,2020-02-01T15:00:00Z,90,0,0,0,0,25,0,153833,3,3,17.0,7,-3972,870,4842,44,True,0,Brighton,West Ham,DEF,0
+Ivan Cavaleiro,0,0,0,0,0.0,419,246,0,0,0.0,0.0,2020-02-01T17:30:00Z,0,0,0,0,0,25,0,677,0,0,0.0,0,-6,14,20,49,False,0,Man Utd,Wolves,MID,0
+Jack Colback,0,0,0,0,0.0,482,247,0,0,0.0,0.0,2020-02-01T15:00:00Z,0,0,0,0,0,25,0,8537,0,0,0.0,0,-195,27,222,44,True,0,Norwich,Newcastle,MID,0
+Jack Cork,0,0,6,1,2.6,102,242,0,0,1.7,12.0,2020-02-02T14:00:00Z,90,0,0,0,0,25,0,12269,0,0,2.0,3,-71,151,222,49,True,0,Arsenal,Burnley,MID,0
+Jack Grealish,0,0,18,0,63.8,29,241,2,0,13.7,21.0,2020-02-01T15:00:00Z,90,0,0,0,0,25,0,1916621,1,2,52.0,2,182071,245532,63461,67,False,0,Bournemouth,Aston Villa,MID,0
+Jack O'Connell,0,1,23,1,5.8,293,243,0,0,1.9,13.4,2020-02-01T15:00:00Z,90,0,0,0,0,25,0,200442,1,0,0.0,7,17465,31392,13927,46,False,0,Crystal Palace,Sheffield Utd,DEF,0
+Jack Robinson,0,0,0,0,0.0,611,243,0,0,0.0,0.0,2020-02-01T15:00:00Z,0,0,0,0,0,25,0,739,1,0,0.0,0,483,568,85,40,False,0,Crystal Palace,Sheffield Utd,DEF,0
+Jack Rodwell,0,0,0,0,0.0,591,243,0,0,0.0,0.0,2020-02-01T15:00:00Z,0,0,0,0,0,25,0,517,1,0,0.0,0,39,122,83,45,False,0,Crystal Palace,Sheffield Utd,MID,0
+Jack Simpson,0,0,0,0,0.0,66,241,0,0,0.0,0.0,2020-02-01T15:00:00Z,0,0,0,0,0,25,0,541003,1,2,0.0,0,-14123,3370,17493,40,True,0,Aston Villa,Bournemouth,DEF,0
+Jack Stacey,0,0,0,0,0.0,446,241,0,0,0.0,0.0,2020-02-01T15:00:00Z,0,0,0,0,0,25,0,6115,1,2,0.0,0,-349,7,356,43,True,0,Aston Villa,Bournemouth,DEF,0
+Jack Stephens,0,0,3,0,0.3,308,245,4,0,1.3,12.2,2020-02-01T15:00:00Z,90,0,0,0,0,25,0,206729,0,4,0.0,-1,54130,65983,11853,44,False,1,Liverpool,Southampton,DEF,0
+Jack Wilshere,0,0,0,0,0.0,394,250,0,0,0.0,0.0,2020-02-01T15:00:00Z,0,0,0,0,0,25,0,14142,3,3,0.0,0,-194,15,209,47,True,0,Brighton,West Ham,MID,0
+Jacob Murphy,0,0,0,0,0.0,483,247,0,0,0.0,0.0,2020-02-01T15:00:00Z,0,0,0,0,0,25,0,569,0,0,0.0,0,0,6,6,48,True,0,Norwich,Newcastle,MID,0
+Jairo Riedewald,0,0,0,0,0.0,539,243,0,0,0.0,0.0,2020-02-01T15:00:00Z,0,0,0,0,0,25,0,1588,1,0,0.0,0,82,226,144,45,True,0,Sheffield Utd,Crystal Palace,MID,0
+Jake Eastwood,0,0,0,0,0.0,299,243,0,0,0.0,0.0,2020-02-01T15:00:00Z,0,0,0,0,0,25,0,8482,1,0,0.0,0,-82,72,154,43,False,0,Crystal Palace,Sheffield Utd,GK,0
+Jamaal Lascelles,0,0,26,1,0.0,258,247,0,0,2.1,15.4,2020-02-01T15:00:00Z,90,0,0,0,0,25,0,227013,0,0,6.0,6,43925,51214,7289,42,True,0,Norwich,Newcastle,DEF,0
+Jamal Lewis,0,0,0,0,0.0,276,247,0,0,0.0,0.0,2020-02-01T15:00:00Z,0,0,0,0,0,25,0,17158,0,0,0.0,0,-312,116,428,44,False,0,Newcastle,Norwich,DEF,0
+James Chester,0,0,0,0,0.0,23,241,0,0,0.0,0.0,2020-02-01T15:00:00Z,0,0,0,0,0,25,0,4213,1,2,0.0,0,-105,61,166,43,False,0,Bournemouth,Aston Villa,DEF,0
+James Daly,0,0,0,0,0.0,581,243,0,0,0.0,0.0,2020-02-01T15:00:00Z,0,0,0,0,0,25,0,996,1,0,0.0,0,7,137,130,45,True,0,Sheffield Utd,Crystal Palace,FWD,0
+James Garner,0,0,0,0,0.0,250,246,0,0,0.0,0.0,2020-02-01T17:30:00Z,0,0,0,0,0,25,0,17750,0,0,0.0,0,-348,279,627,43,True,0,Wolves,Man Utd,MID,0
+James Justin,0,0,0,0,0.0,433,244,0,0,0.0,0.0,2020-02-01T12:30:00Z,0,0,0,0,0,25,0,7377,2,2,0.0,0,-41,73,114,48,True,0,Chelsea,Leicester,DEF,0
+James Maddison,0,0,20,0,65.8,171,244,2,0,10.3,21.4,2020-02-01T12:30:00Z,90,0,0,0,0,25,0,1727773,2,2,16.0,1,-97859,74402,172261,76,True,1,Chelsea,Leicester,MID,0
+James McArthur,0,0,15,0,27.8,138,243,1,0,7.4,16.4,2020-02-01T15:00:00Z,85,0,0,0,0,25,0,45437,1,0,30.0,2,-893,731,1624,52,True,0,Sheffield Utd,Crystal Palace,MID,0
+James McCarthy,0,0,9,0,2.3,157,243,1,0,2.2,7.6,2020-02-01T15:00:00Z,79,0,0,0,0,25,0,49296,1,0,12.0,2,2056,4803,2747,43,True,0,Sheffield Utd,Crystal Palace,MID,0
+James Milner,0,0,0,0,0.0,200,245,0,0,0.0,0.0,2020-02-01T15:00:00Z,0,0,0,0,0,25,0,36031,0,4,0.0,0,-1090,20,1110,53,True,0,Southampton,Liverpool,MID,0
+James Tarkowski,0,0,19,1,0.9,84,242,0,0,3.0,18.6,2020-02-02T14:00:00Z,90,0,0,0,0,25,0,240601,0,0,10.0,5,-865,11842,12707,51,True,1,Arsenal,Burnley,DEF,0
+James Tomkins,0,0,2,0,0.6,124,243,1,0,2.8,18.8,2020-02-01T15:00:00Z,90,0,0,0,0,25,0,48424,1,0,9.0,1,-4439,1526,5965,50,True,1,Sheffield Utd,Crystal Palace,DEF,0
+James Ward-Prowse,0,0,15,0,53.2,321,245,4,0,8.4,28.2,2020-02-01T15:00:00Z,90,0,0,0,0,25,0,119419,0,4,3.0,1,-5954,7536,13490,58,False,1,Liverpool,Southampton,MID,0
+Jamie Vardy,0,0,6,0,16.7,166,244,2,0,3.6,2.2,2020-02-01T12:30:00Z,79,0,0,0,0,25,0,3004159,2,2,17.0,2,-498712,58985,557697,99,True,0,Chelsea,Leicester,FWD,0
+Jannik Vestergaard,0,0,0,0,0.0,304,245,0,0,0.0,0.0,2020-02-01T15:00:00Z,0,0,0,0,0,25,0,157886,0,4,0.0,0,-4455,720,5175,46,False,0,Liverpool,Southampton,DEF,0
+Jan Bednarek,0,0,17,0,0.1,307,245,4,0,4.3,38.8,2020-02-01T15:00:00Z,90,0,0,0,0,25,0,53454,0,4,4.0,0,-1766,1858,3624,44,False,0,Liverpool,Southampton,DEF,0
+Jan Vertonghen,0,0,0,0,0.0,330,248,0,0,0.0,0.0,2020-02-02T16:30:00Z,0,0,0,0,0,25,0,128324,0,2,0.0,0,-4172,833,5005,52,True,0,Man City,Spurs,DEF,0
+Japhet Tanganga,0,0,23,1,1.3,583,248,0,0,3.1,27.8,2020-02-02T16:30:00Z,90,0,0,0,0,25,0,110857,0,2,2.0,6,12772,27890,15118,40,True,0,Man City,Spurs,DEF,0
+Javier Hernández Balcázar,0,0,0,0,0.0,386,250,0,0,0.0,0.0,2020-02-01T15:00:00Z,0,0,0,0,0,25,0,25934,3,3,0.0,0,-121,21,142,60,True,0,Brighton,West Ham,FWD,0
+Javier Manquillo,0,0,0,0,0.0,256,247,0,0,0.0,0.0,2020-02-01T15:00:00Z,0,0,0,0,0,25,0,11978,0,0,0.0,0,-1251,17,1268,43,True,0,Norwich,Newcastle,DEF,0
+Jay Rodriguez,0,0,0,1,3.6,451,242,0,0,5.1,9.2,2020-02-02T14:00:00Z,90,0,0,0,0,25,0,16749,0,0,38.0,2,1552,2076,524,57,True,0,Arsenal,Burnley,FWD,0
+Jean-Philippe Gbamin,0,0,0,0,0.0,497,249,0,0,0.0,0.0,2020-02-01T15:00:00Z,0,0,0,0,0,25,0,2112,3,2,0.0,0,-9,5,14,48,False,0,Watford,Everton,MID,0
+Jed Steer,0,0,0,0,0.0,429,241,0,0,0.0,0.0,2020-02-01T15:00:00Z,0,0,0,0,0,25,0,6555,1,2,0.0,0,-93,8,101,43,False,0,Bournemouth,Aston Villa,GK,0
+Jefferson Lerma,0,0,-7,0,1.1,82,241,1,0,0.6,0.0,2020-02-01T15:00:00Z,50,0,0,0,1,25,0,9544,1,2,9.0,-2,-170,119,289,48,True,0,Aston Villa,Bournemouth,MID,0
+Jeffrey Schlupp,0,0,0,0,0.0,137,243,0,0,0.0,0.0,2020-02-01T15:00:00Z,0,0,0,0,0,25,0,5927,1,0,0.0,0,-197,12,209,54,True,0,Sheffield Utd,Crystal Palace,MID,0
+Jeff Hendrick,0,0,4,1,30.8,100,242,0,0,6.9,16.8,2020-02-02T14:00:00Z,90,0,0,0,0,25,0,7762,0,0,21.0,3,-32,210,242,54,True,0,Arsenal,Burnley,MID,0
+Jeremy Ngakia,0,0,0,0,0.0,593,250,0,0,0.0,0.0,2020-02-01T15:00:00Z,0,0,0,0,0,25,0,1619,3,3,0.0,0,860,1054,194,40,True,0,Brighton,West Ham,DEF,0
+Jesse Lingard,0,0,3,0,0.6,241,246,0,0,0.1,0.4,2020-02-01T17:30:00Z,2,0,0,0,0,25,0,54964,0,0,0.0,1,-99,732,831,63,True,0,Wolves,Man Utd,MID,0
+Jesús Vallejo Lázaro,0,0,0,0,0.0,473,246,0,0,0.0,0.0,2020-02-01T17:30:00Z,0,0,0,0,0,25,0,16976,0,0,0.0,0,-483,53,536,46,False,0,Man Utd,Wolves,DEF,0
+Jetro Willems,0,0,0,0,0.0,498,247,0,0,0.0,0.0,2020-02-01T15:00:00Z,0,0,0,0,0,25,0,91312,0,0,0.0,0,-27614,82,27696,45,True,0,Norwich,Newcastle,DEF,0
+Joelinton Cássio Apolinário de Lira,0,0,3,1,2.8,466,247,0,0,3.8,4.6,2020-02-01T15:00:00Z,90,0,0,0,0,25,0,67088,0,0,31.0,2,3813,6449,2636,55,True,0,Norwich,Newcastle,FWD,0
+Joel Matip,0,0,0,0,0.0,185,245,0,0,0.0,0.0,2020-02-01T15:00:00Z,0,0,0,0,0,25,0,85845,0,4,0.0,0,-476,604,1080,52,True,0,Southampton,Liverpool,DEF,0
+Joel Ward,0,0,6,0,1.3,126,243,1,0,1.1,9.6,2020-02-01T15:00:00Z,90,0,0,0,0,25,0,74433,1,0,0.0,1,-351,1697,2048,43,True,1,Sheffield Utd,Crystal Palace,DEF,0
+Joe Hart,0,0,0,0,0.0,95,242,0,0,0.0,0.0,2020-02-02T14:00:00Z,0,0,0,0,0,25,0,80898,0,0,0.0,0,-633,622,1255,42,True,0,Arsenal,Burnley,GK,0
+Johann Berg Gudmundsson,0,0,0,0,0.0,96,242,0,0,0.0,0.0,2020-02-02T14:00:00Z,0,0,0,0,0,25,0,30860,0,0,0.0,0,-184,16,200,59,True,0,Arsenal,Burnley,MID,0
+John Egan,0,0,21,1,0.3,295,243,0,0,2.1,16.8,2020-02-01T15:00:00Z,90,0,0,0,0,25,0,95440,1,0,4.0,6,11449,18649,7200,45,False,0,Crystal Palace,Sheffield Utd,DEF,0
+John Fleck,0,0,10,1,27.6,301,243,0,0,4.8,12.2,2020-02-01T15:00:00Z,90,0,0,0,0,25,0,444584,1,0,8.0,2,116379,147623,31244,50,False,1,Crystal Palace,Sheffield Utd,MID,0
+John Lundstram,0,0,4,0,12.5,297,243,0,0,1.8,4.2,2020-02-01T15:00:00Z,22,0,0,0,0,25,0,3437167,1,0,1.0,1,-18400,54569,72969,51,False,0,Crystal Palace,Sheffield Utd,DEF,0
+John McGinn,0,0,0,0,0.0,31,241,0,0,0.0,0.0,2020-02-01T15:00:00Z,0,0,0,0,0,25,0,209886,1,2,0.0,0,-11057,50,11107,54,False,0,Bournemouth,Aston Villa,MID,0
+John Ruddy,0,0,0,0,0.0,412,246,0,0,0.0,0.0,2020-02-01T17:30:00Z,0,0,0,0,0,25,0,28362,0,0,0.0,0,-286,135,421,43,False,0,Man Utd,Wolves,GK,0
+John Stones,0,0,0,0,0.0,207,248,0,0,0.0,0.0,2020-02-02T16:30:00Z,0,0,0,0,0,25,0,73350,0,2,0.0,0,-1277,506,1783,53,False,0,Spurs,Man City,DEF,0
+Jonas Lössl,0,0,0,0,0.0,479,249,0,0,0.0,0.0,2020-02-01T15:00:00Z,0,0,0,0,0,25,0,20101,3,2,0.0,0,-332,40,372,43,False,0,Watford,Everton,GK,0
+Jonathan Castro Otto,0,0,17,1,1.8,402,246,0,0,2.4,22.4,2020-02-01T17:30:00Z,90,0,0,0,0,25,0,74046,0,0,0.0,6,-1352,1675,3027,54,False,0,Man Utd,Wolves,DEF,0
+Jonathan Kodjia,0,0,0,0,0.0,26,241,0,0,0.0,0.0,2020-02-01T15:00:00Z,0,0,0,0,0,25,0,6035,1,2,0.0,0,-167,9,176,54,False,0,Bournemouth,Aston Villa,FWD,0
+Jonjo Shelvey,0,0,0,0,0.0,269,247,0,0,0.0,0.0,2020-02-01T15:00:00Z,0,0,0,0,0,25,0,59502,0,0,0.0,0,-10545,2271,12816,50,True,0,Norwich,Newcastle,MID,0
+Jonny Evans,0,0,12,0,0.1,162,244,2,0,2.6,22.0,2020-02-01T12:30:00Z,90,0,0,0,0,25,0,465822,2,2,4.0,0,-25627,12672,38299,53,True,1,Chelsea,Leicester,DEF,0
+Jordan Ayew,0,0,10,0,23.0,468,243,1,0,3.7,8.4,2020-02-01T15:00:00Z,90,0,0,0,0,25,0,586233,1,0,6.0,2,-5957,47640,53597,50,True,0,Sheffield Utd,Crystal Palace,FWD,0
+Jordan Henderson,1,2,43,1,21.7,198,245,0,1,10.6,57.0,2020-02-01T15:00:00Z,87,0,0,0,0,25,0,117706,0,4,27.0,13,18896,26015,7119,54,True,0,Southampton,Liverpool,MID,0
+Jordan Pickford,0,0,8,0,0.0,148,249,2,0,0.3,3.4,2020-02-01T15:00:00Z,90,0,0,0,0,25,0,523187,3,2,0.0,1,-14340,4529,18869,53,False,0,Watford,Everton,GK,0
+Jordon Ibe,0,0,0,0,0.0,78,241,0,0,0.0,0.0,2020-02-01T15:00:00Z,0,0,0,0,0,25,0,10849,1,2,0.0,0,-146,163,309,46,True,0,Aston Villa,Bournemouth,MID,0
+Jorge Luiz Frello Filho,0,0,13,0,1.3,118,244,2,0,0.9,7.4,2020-02-01T12:30:00Z,73,0,0,0,0,25,0,310573,2,2,0.0,1,42816,56518,13702,49,False,1,Leicester,Chelsea,MID,0
+Jose Luis Mato Sanmartín,0,0,0,0,0.0,261,247,0,0,0.0,0.0,2020-02-01T15:00:00Z,0,0,0,0,0,25,0,1897,0,0,0.0,0,-19,6,25,50,True,0,Norwich,Newcastle,FWD,0
+Joseph Anang,0,0,0,0,0.0,582,250,0,0,0.0,0.0,2020-02-01T15:00:00Z,0,0,0,0,0,25,0,10683,3,3,0.0,0,23,713,690,40,True,0,Brighton,West Ham,GK,0
+Joseph Gomez,0,0,27,1,0.7,184,245,0,0,3.1,29.8,2020-02-01T15:00:00Z,90,0,0,0,0,25,0,355311,0,4,0.0,6,23654,47915,24261,53,True,0,Southampton,Liverpool,DEF,0
+Joe Willock,0,0,2,0,11.3,490,242,0,0,2.2,7.6,2020-02-02T14:00:00Z,27,0,0,0,0,25,0,12925,0,0,3.0,1,-158,143,301,48,False,0,Burnley,Arsenal,MID,0
+Joshua King,0,0,0,0,0.0,68,241,0,0,0.0,0.0,2020-02-01T15:00:00Z,0,0,0,0,0,25,0,245842,1,2,0.0,0,-4359,256,4615,61,True,0,Aston Villa,Bournemouth,FWD,0
+Josh Brownhill,0,0,0,0,0.0,620,242,0,0,0.0,0.0,2020-02-02T14:00:00Z,0,0,0,0,0,25,0,195,0,0,0.0,0,187,200,13,50,True,0,Arsenal,Burnley,MID,0
+Josip Drmic,0,0,0,0,0.0,434,247,0,0,0.0,0.0,2020-02-01T15:00:00Z,0,0,0,0,0,25,0,4258,0,0,0.0,0,36,102,66,53,False,0,Newcastle,Norwich,FWD,0
+Diogo Dalot,0,0,-2,0,0.8,229,246,0,0,0.3,0.0,2020-02-01T17:30:00Z,2,0,0,0,0,25,0,5991,0,0,4.0,1,42,103,61,49,True,0,Wolves,Man Utd,DEF,0
+José Heriberto Izquierdo Mena,0,0,0,0,0.0,51,250,0,0,0.0,0.0,2020-02-01T15:00:00Z,0,0,0,0,0,25,0,176,3,3,0.0,0,1,10,9,54,False,0,West Ham,Brighton,MID,0
+José Ignacio Peleteiro Romallo,0,0,0,0,0.0,36,241,0,0,0.0,0.0,2020-02-01T15:00:00Z,0,0,0,0,0,25,0,10575,1,2,0.0,0,-60,199,259,58,False,0,Bournemouth,Aston Villa,MID,0
+José Ángel Esmorís Tasende,0,0,0,0,0.0,440,248,0,0,0.0,0.0,2020-02-02T16:30:00Z,0,0,0,0,0,25,0,13519,0,2,0.0,0,-572,172,744,47,False,0,Spurs,Man City,DEF,0
+José Holebas,0,0,0,0,0.0,353,249,0,0,0.0,0.0,2020-02-01T15:00:00Z,0,0,0,0,0,25,0,50578,3,2,0.0,0,-404,284,688,46,True,0,Everton,Watford,DEF,0
+José Reina,0,0,17,0,0.0,603,241,2,0,2.4,24.0,2020-02-01T15:00:00Z,90,0,0,0,0,25,4,26609,1,2,0.0,2,8044,10951,2907,45,False,0,Bournemouth,Aston Villa,GK,0
+João Moutinho,0,0,23,1,57.7,415,246,0,0,8.6,27.0,2020-02-01T17:30:00Z,90,0,0,0,0,25,0,387018,0,0,1.0,2,-13483,13333,26816,54,False,1,Man Utd,Wolves,MID,0
+João Cancelo,0,0,4,0,1.6,518,248,1,0,0.5,1.6,2020-02-02T16:30:00Z,26,0,0,0,0,25,0,59437,0,2,2.0,1,-1472,609,2081,52,False,0,Spurs,Man City,DEF,0
+João Pedro Junqueira de Jesus,0,0,0,0,0.0,592,249,0,0,0.0,0.0,2020-02-01T15:00:00Z,0,0,0,0,0,25,0,599,3,2,0.0,0,-119,110,229,50,True,0,Everton,Watford,FWD,0
+Juan Foyth,0,0,0,0,0.0,335,248,0,0,0.0,0.0,2020-02-02T16:30:00Z,0,0,0,0,0,25,0,3140,0,2,0.0,0,-41,48,89,48,True,0,Man City,Spurs,DEF,0
+Juan Mata,0,0,9,1,11.6,242,246,0,0,2.5,4.4,2020-02-01T17:30:00Z,87,0,0,0,0,25,0,29423,0,0,9.0,3,-1015,1455,2470,62,True,0,Wolves,Man Utd,MID,0
+Junior Stanislas,0,0,0,0,0.0,77,241,0,0,0.0,0.0,2020-02-01T15:00:00Z,0,0,0,0,0,25,0,611,1,2,0.0,0,-48,11,59,59,True,0,Aston Villa,Bournemouth,MID,0
+Jürgen Locadia,0,0,0,0,0.0,45,250,0,0,0.0,0.0,2020-02-01T15:00:00Z,0,0,0,0,0,25,0,5506,3,3,0.0,0,-26,24,50,52,False,0,West Ham,Brighton,FWD,0
+Karl Darlow,0,0,0,0,0.0,263,247,0,0,0.0,0.0,2020-02-01T15:00:00Z,0,0,0,0,0,25,0,8558,0,0,0.0,0,-34,63,97,43,True,0,Norwich,Newcastle,GK,0
+Kasper Schmeichel,0,0,13,0,0.0,168,244,2,0,1.4,14.2,2020-02-01T12:30:00Z,90,0,0,0,0,25,1,1081054,2,2,0.0,1,-72281,9377,81658,54,True,0,Chelsea,Leicester,GK,0
+Kayne Ramsay,0,0,0,0,0.0,311,245,0,0,0.0,0.0,2020-02-01T15:00:00Z,0,0,0,0,0,25,0,132301,0,4,0.0,0,823,9029,8206,39,False,0,Liverpool,Southampton,DEF,0
+Keinan Davis,1,0,13,0,2.6,34,241,0,0,4.8,4.4,2020-02-01T15:00:00Z,32,0,0,0,0,25,0,16737,1,2,41.0,4,-293,373,666,43,False,0,Bournemouth,Aston Villa,MID,0
+Kelechi Iheanacho,0,0,1,0,0.4,167,244,0,0,0.3,2.6,2020-02-01T12:30:00Z,10,0,0,0,0,25,0,31083,2,2,0.0,1,5064,8074,3010,57,True,0,Chelsea,Leicester,FWD,0
+Kelland Watts,0,0,0,0,0.0,599,247,0,0,0.0,0.0,2020-02-01T15:00:00Z,0,0,0,0,0,25,0,673,0,0,0.0,0,-15,107,122,40,True,0,Norwich,Newcastle,DEF,0
+Kenny McLean,0,0,16,1,15.5,286,247,0,0,3.8,14.8,2020-02-01T15:00:00Z,90,0,0,0,0,25,0,11405,0,0,8.0,3,-147,132,279,49,False,0,Newcastle,Norwich,MID,0
+Ken Sema,0,0,0,0,0.0,372,249,0,0,0.0,0.0,2020-02-01T15:00:00Z,0,0,0,0,0,25,0,1385,3,2,0.0,0,-5,24,29,48,True,0,Everton,Watford,MID,0
+Kepa Arrizabalaga,0,0,0,0,0.0,111,244,0,0,0.0,0.0,2020-02-01T12:30:00Z,0,0,0,0,0,25,0,352373,2,2,0.0,0,-14087,1543,15630,55,False,0,Leicester,Chelsea,GK,0
+Kevin Danso,0,0,0,0,0.0,532,245,0,0,0.0,0.0,2020-02-01T15:00:00Z,0,0,0,0,0,25,0,2190,0,4,0.0,0,-19,48,67,42,False,0,Liverpool,Southampton,DEF,0
+Kevin De Bruyne,0,0,10,0,46.4,215,248,2,0,10.1,11.2,2020-02-02T16:30:00Z,90,0,0,0,0,25,0,3938348,0,2,43.0,2,167175,213846,46671,107,False,0,Spurs,Man City,MID,0
+Kevin Long,0,0,0,0,0.0,88,242,0,0,0.0,0.0,2020-02-02T14:00:00Z,0,0,0,0,0,25,0,8259,0,0,0.0,0,-10,125,135,43,True,0,Arsenal,Burnley,DEF,0
+Kieran Tierney,0,0,0,0,0.0,515,242,0,0,0.0,0.0,2020-02-02T14:00:00Z,0,0,0,0,0,25,0,24594,0,0,0.0,0,-590,14,604,53,False,0,Burnley,Arsenal,DEF,0
+Kieran Trippier,0,0,0,0,0.0,334,248,0,0,0.0,0.0,2020-02-02T16:30:00Z,0,0,0,0,0,25,0,9791,0,2,0.0,0,-26,46,72,55,True,0,Man City,Spurs,DEF,0
+Kieron Freeman,0,0,0,0,0.0,292,243,0,0,0.0,0.0,2020-02-01T15:00:00Z,0,0,0,0,0,25,0,7069,1,0,0.0,0,-56,142,198,42,False,0,Crystal Palace,Sheffield Utd,DEF,0
+Konstantinos Mavropanos,0,0,0,0,0.0,8,242,0,0,0.0,0.0,2020-02-02T14:00:00Z,0,0,0,0,0,25,0,2953,0,0,0.0,0,-83,13,96,44,False,0,Burnley,Arsenal,DEF,0
+Kortney Hause,0,0,3,0,11.3,25,241,2,0,2.4,11.0,2020-02-01T15:00:00Z,90,0,0,0,0,25,0,4927,1,2,2.0,0,-33,94,127,44,False,1,Bournemouth,Aston Villa,DEF,0
+Kurt Zouma,0,0,0,0,0.0,459,244,0,0,0.0,0.0,2020-02-01T12:30:00Z,0,0,0,0,0,25,0,120681,2,2,0.0,0,-7684,686,8370,47,False,0,Leicester,Chelsea,DEF,0
+Kyle Walker-Peters,0,0,0,0,0.0,337,245,0,0,0.0,0.0,2020-02-01T15:00:00Z,0,0,0,0,0,25,0,39828,0,4,0.0,0,1469,2001,532,44,False,0,Liverpool,Southampton,DEF,0
+Kyle Walker,0,0,20,0,19.4,203,248,2,0,4.5,23.2,2020-02-02T16:30:00Z,90,0,0,0,0,25,0,789662,0,2,2.0,0,-6719,9611,16330,57,False,1,Spurs,Man City,DEF,0
+Laurent Koscielny,0,0,0,0,0.0,7,242,0,0,0.0,0.0,2020-02-02T14:00:00Z,0,0,0,0,0,25,0,5642,0,0,0.0,0,-6,23,29,50,False,0,Burnley,Arsenal,DEF,0
+Leander Dendoncker,0,0,5,0,0.0,420,246,0,0,0.2,2.0,2020-02-01T17:30:00Z,1,0,0,0,0,25,0,731036,0,0,0.0,1,-21691,23251,44942,44,False,0,Man Utd,Wolves,MID,0
+Leandro Trossard,0,0,4,0,39.1,421,250,3,0,8.4,13.6,2020-02-01T15:00:00Z,90,0,0,0,0,25,0,44570,3,3,31.0,2,-1343,5633,6976,58,False,0,West Ham,Brighton,MID,0
+Lee Grant,0,0,0,0,0.0,237,246,0,0,0.0,0.0,2020-02-01T17:30:00Z,0,0,0,0,0,25,0,7474,0,0,0.0,0,-37,27,64,48,True,0,Wolves,Man Utd,GK,0
+Leighton Baines,0,0,0,0,0.0,145,249,0,0,0.0,0.0,2020-02-01T15:00:00Z,0,0,0,0,0,25,0,12653,3,2,0.0,0,-295,193,488,49,False,0,Watford,Everton,DEF,0
+Leon Balogun,0,0,0,0,0.0,40,250,0,0,0.0,0.0,2020-02-01T15:00:00Z,0,0,0,0,0,25,0,4032,3,3,0.0,0,-41,32,73,44,False,0,West Ham,Brighton,DEF,0
+Leon Clarke,0,0,0,0,0.0,547,243,0,0,0.0,0.0,2020-02-01T15:00:00Z,0,0,0,0,0,25,0,5924,1,0,0.0,0,-54,226,280,44,False,0,Crystal Palace,Sheffield Utd,FWD,0
+Leroy Sané,0,0,0,0,0.0,216,248,0,0,0.0,0.0,2020-02-02T16:30:00Z,0,0,0,0,0,25,0,16786,0,2,0.0,0,105,324,219,93,False,0,Spurs,Man City,MID,0
+Lewis Cook,0,0,0,0,0.0,79,241,0,0,0.0,0.0,2020-02-01T15:00:00Z,0,0,0,0,0,25,0,3139,1,2,0.0,0,-75,144,219,50,True,0,Aston Villa,Bournemouth,MID,0
+Lewis Dunk,0,0,16,0,0.4,42,250,3,0,1.2,10.4,2020-02-01T15:00:00Z,90,0,0,0,0,25,0,1063229,3,3,1.0,1,-30413,32159,62572,48,False,0,West Ham,Brighton,DEF,0
+Lewis Gibson,0,0,0,0,0.0,477,249,0,0,0.0,0.0,2020-02-01T15:00:00Z,0,0,0,0,0,25,0,10555,3,2,0.0,0,-178,60,238,43,False,0,Watford,Everton,DEF,0
+Liam Gibson,0,0,0,0,0.0,610,247,0,0,0.0,0.0,2020-02-01T15:00:00Z,0,0,0,0,0,25,0,512,0,0,0.0,0,280,330,50,40,True,0,Norwich,Newcastle,DEF,0
+Lloyd Kelly,0,0,0,0,0.0,64,241,0,0,0.0,0.0,2020-02-01T15:00:00Z,0,0,0,0,0,25,0,3462,1,2,0.0,0,60,195,135,44,True,0,Aston Villa,Bournemouth,DEF,0
+Lovre Kalinic,0,0,0,0,0.0,474,241,0,0,0.0,0.0,2020-02-01T15:00:00Z,0,0,0,0,0,25,0,6420,1,2,0.0,0,-244,16,260,43,False,0,Bournemouth,Aston Villa,GK,0
+Lucas Digne,0,0,15,0,1.8,141,249,2,0,3.7,15.6,2020-02-01T15:00:00Z,90,0,0,0,0,25,0,969418,3,2,20.0,1,21134,45074,23940,58,False,0,Watford,Everton,DEF,0
+Lucas Rodrigues Moura da Silva,1,0,17,1,11.0,345,248,0,0,3.6,22.6,2020-02-02T16:30:00Z,83,0,0,0,0,25,0,348722,0,2,2.0,6,-29399,8683,38082,71,True,0,Man City,Spurs,MID,0
+Lucas Torreira,0,0,7,0,21.5,19,242,0,0,4.0,9.2,2020-02-02T14:00:00Z,45,0,0,0,0,25,0,93682,0,0,9.0,0,3178,5827,2649,47,False,1,Burnley,Arsenal,MID,0
+Lukasz Fabianski,0,0,13,0,0.0,388,250,3,0,2.7,26.6,2020-02-01T15:00:00Z,90,0,0,0,0,25,4,155054,3,3,0.0,2,-1800,3611,5411,49,True,0,Brighton,West Ham,GK,0
+Lukas Rupp,0,0,12,1,23.8,602,247,0,0,7.8,13.6,2020-02-01T15:00:00Z,88,0,0,0,0,25,0,234,0,0,41.0,3,86,158,72,45,False,0,Newcastle,Norwich,MID,0
+Luka Milivojevic,0,0,9,0,27.3,134,243,1,0,3.9,10.8,2020-02-01T15:00:00Z,90,0,0,0,0,25,0,143435,1,0,1.0,1,-599,1100,1699,67,True,1,Sheffield Utd,Crystal Palace,MID,0
+Luke Amos,0,0,0,0,0.0,351,248,0,0,0.0,0.0,2020-02-02T16:30:00Z,0,0,0,0,0,25,0,1013,0,2,0.0,0,-17,21,38,45,True,0,Man City,Spurs,MID,0
+Luke Cundle,0,0,0,0,0.0,567,246,0,0,0.0,0.0,2020-02-01T17:30:00Z,0,0,0,0,0,25,0,1226,0,0,0.0,0,-45,50,95,45,False,0,Man Utd,Wolves,MID,0
+Luke Dreher,0,0,0,0,0.0,140,243,0,0,0.0,0.0,2020-02-01T15:00:00Z,0,0,0,0,0,25,0,9267,1,0,0.0,0,-162,414,576,43,True,0,Sheffield Utd,Crystal Palace,MID,0
+Luke Freeman,0,0,0,0,0.0,441,243,0,0,0.0,0.0,2020-02-01T15:00:00Z,0,0,0,0,0,25,0,4940,1,0,0.0,0,-45,110,155,51,False,0,Crystal Palace,Sheffield Utd,MID,0
+Luke Shaw,0,0,26,1,31.6,226,246,0,0,5.4,18.8,2020-02-01T17:30:00Z,90,0,0,0,0,25,0,43733,0,0,4.0,5,-41,842,883,54,True,1,Wolves,Man Utd,DEF,0
+Lys Mousset,0,0,8,0,13.3,70,243,0,0,4.9,6.8,2020-02-01T15:00:00Z,26,0,0,0,0,25,0,192007,1,0,29.0,1,-13300,12869,26169,46,False,0,Crystal Palace,Sheffield Utd,FWD,0
+Maarten Stekelenburg,0,0,0,0,0.0,149,249,0,0,0.0,0.0,2020-02-01T15:00:00Z,0,0,0,0,0,25,0,549880,3,2,0.0,0,-10618,1075,11693,40,False,0,Watford,Everton,GK,0
+Mace Goodridge,0,0,0,0,0.0,571,242,0,0,0.0,0.0,2020-02-02T14:00:00Z,0,0,0,0,0,25,0,351,0,0,0.0,0,13,40,27,45,True,0,Arsenal,Burnley,MID,0
+Mahmoud Ahmed Ibrahim Hassan,0,0,2,0,0.0,465,241,0,0,0.0,0.0,2020-02-01T15:00:00Z,10,0,0,0,0,25,0,85755,1,2,0.0,1,559,3975,3416,52,False,0,Bournemouth,Aston Villa,MID,0
+Mamadou Sakho,0,0,0,0,0.0,125,243,0,0,0.0,0.0,2020-02-01T15:00:00Z,0,0,0,0,0,25,0,5171,1,0,0.0,0,-119,4,123,50,True,0,Sheffield Utd,Crystal Palace,DEF,0
+Manuel Lanzini,0,0,1,0,0.1,391,250,0,0,0.0,0.2,2020-02-01T15:00:00Z,5,0,0,0,0,25,0,59128,3,3,0.0,1,-1923,1451,3374,62,True,0,Brighton,West Ham,MID,0
+Marcos Alonso,0,0,0,0,0.0,103,244,0,0,0.0,0.0,2020-02-01T12:30:00Z,0,0,0,0,0,25,0,151789,2,2,0.0,0,-1082,780,1862,60,False,0,Leicester,Chelsea,DEF,0
+Marcos Rojo,0,0,0,0,0.0,227,246,0,0,0.0,0.0,2020-02-01T17:30:00Z,0,0,0,0,0,25,0,9205,0,0,0.0,0,-84,5,89,48,True,0,Wolves,Man Utd,DEF,0
+Marco Stiepermann,0,0,0,0,0.0,285,247,0,0,0.0,0.0,2020-02-01T15:00:00Z,0,0,0,0,0,25,0,4912,0,0,0.0,0,-54,26,80,51,False,0,Newcastle,Norwich,MID,0
+Marcus Rashford,0,0,0,0,0.0,233,246,0,0,0.0,0.0,2020-02-01T17:30:00Z,0,0,0,0,0,25,0,832478,0,0,0.0,0,-267436,1684,269120,89,True,0,Wolves,Man Utd,FWD,0
+Marc Albrighton,0,0,0,0,0.0,174,244,0,0,0.0,0.0,2020-02-01T12:30:00Z,0,0,0,0,0,25,0,11601,2,2,0.0,0,-105,100,205,51,True,0,Chelsea,Leicester,MID,0
+Marc Navarro,0,0,0,0,0.0,360,249,0,0,0.0,0.0,2020-02-01T15:00:00Z,0,0,0,0,0,25,0,22934,3,2,0.0,0,-688,459,1147,39,True,0,Everton,Watford,DEF,0
+Mario Lemina,0,0,0,0,0.0,324,245,0,0,0.0,0.0,2020-02-01T15:00:00Z,0,0,0,0,0,25,0,3762,0,4,0.0,0,-24,5,29,47,False,0,Liverpool,Southampton,MID,0
+Mario Vrancic,0,0,2,0,0.3,282,247,0,0,0.0,0.0,2020-02-01T15:00:00Z,1,0,0,0,0,25,0,5007,0,0,0.0,1,-129,75,204,62,False,0,Newcastle,Norwich,MID,0
+Marko Arnautovic,0,0,0,0,0.0,385,250,0,0,0.0,0.0,2020-02-01T15:00:00Z,0,0,0,0,0,25,0,5254,3,3,0.0,0,-17,48,65,70,True,0,Brighton,West Ham,FWD,0
+Mark Duffy,0,0,0,0,0.0,300,243,0,0,0.0,0.0,2020-02-01T15:00:00Z,0,0,0,0,0,25,0,1335,1,0,0.0,0,-9,8,17,52,False,0,Crystal Palace,Sheffield Utd,MID,0
+Mark Noble,0,0,15,0,22.7,396,250,3,0,4.0,15.6,2020-02-01T15:00:00Z,90,0,0,0,0,25,0,152349,3,3,2.0,2,-3766,15562,19328,50,True,0,Brighton,West Ham,MID,0
+Mark Travers,0,0,0,0,0.0,74,241,0,0,0.0,0.0,2020-02-01T15:00:00Z,0,0,0,0,0,25,0,12179,1,2,0.0,0,-21,365,386,42,True,0,Aston Villa,Bournemouth,GK,0
+Martin Dubravka,0,0,28,1,0.0,262,247,0,0,3.1,30.6,2020-02-01T15:00:00Z,90,0,0,0,0,25,4,124192,0,0,0.0,7,13923,19139,5216,50,True,0,Norwich,Newcastle,GK,0
+Martin Kelly,0,0,0,0,0.0,128,243,0,0,0.0,0.0,2020-02-01T15:00:00Z,0,0,0,0,0,25,0,2087365,1,0,0.0,0,-80570,17883,98453,44,True,0,Sheffield Utd,Crystal Palace,DEF,0
+Martín Montoya,0,0,12,0,30.6,38,250,3,0,5.4,21.4,2020-02-01T15:00:00Z,71,0,0,0,0,25,0,48935,3,3,2.0,1,-3579,948,4527,44,False,0,West Ham,Brighton,DEF,0
+Marvelous Nakamba,0,0,4,0,1.6,491,241,2,0,0.1,0.0,2020-02-01T15:00:00Z,79,0,0,0,0,25,0,55203,1,2,2.0,2,-2235,250,2485,44,False,0,Bournemouth,Aston Villa,MID,0
+Mason Greenwood,0,0,2,0,1.0,234,246,0,0,1.7,1.2,2020-02-01T17:30:00Z,18,0,0,0,0,25,0,941926,0,0,15.0,1,-35669,52598,88267,44,True,0,Wolves,Man Utd,FWD,0
+Mason Holgate,1,0,21,0,1.8,478,249,2,0,5.2,17.6,2020-02-01T15:00:00Z,90,0,0,0,0,25,0,197336,3,2,33.0,3,9370,26342,16972,45,False,1,Watford,Everton,DEF,0
+Mason Mount,2,2,29,0,35.7,463,244,2,0,10.7,39.6,2020-02-01T12:30:00Z,90,0,0,0,0,25,0,1094164,2,2,32.0,10,-107909,10040,117949,61,False,0,Leicester,Chelsea,MID,0
+Matej Vydra,0,0,0,0,0.0,92,242,0,0,0.0,0.0,2020-02-02T14:00:00Z,0,0,0,0,0,25,0,4026,0,0,0.0,0,-14,77,91,53,True,0,Arsenal,Burnley,FWD,0
+Mateo Kovacic,0,0,1,0,1.6,432,244,0,0,0.3,1.4,2020-02-01T12:30:00Z,16,0,0,0,0,25,0,69510,2,2,0.0,0,-1425,983,2408,53,False,1,Leicester,Chelsea,MID,0
+Mat Ryan,0,0,15,0,0.0,47,250,3,0,2.4,23.6,2020-02-01T15:00:00Z,90,0,0,0,0,25,3,1243447,3,3,0.0,2,-76095,7984,84079,49,False,0,West Ham,Brighton,GK,0
+Matteo Darmian,0,0,0,0,0.0,230,246,0,0,0.0,0.0,2020-02-01T17:30:00Z,0,0,0,0,0,25,0,3347,0,0,0.0,0,-10,11,21,49,True,0,Wolves,Man Utd,DEF,0
+Matteo Guendouzi,0,0,8,1,3.9,21,242,0,0,2.0,8.2,2020-02-02T14:00:00Z,90,0,0,0,0,25,0,422120,0,0,8.0,3,-7817,11154,18971,43,False,0,Burnley,Arsenal,MID,0
+Matthew Clarke,0,0,0,0,0.0,43,250,0,0,0.0,0.0,2020-02-01T15:00:00Z,0,0,0,0,0,25,0,849,3,3,0.0,0,-5,7,12,44,False,0,West Ham,Brighton,DEF,0
+Matthew Longstaff,0,0,0,0,0.0,540,247,0,0,0.0,0.0,2020-02-01T15:00:00Z,0,0,0,0,0,25,0,14400,0,0,0.0,0,-432,716,1148,45,True,0,Norwich,Newcastle,MID,0
+Matthew Lowton,0,0,23,1,1.8,85,242,0,0,1.8,16.4,2020-02-02T14:00:00Z,90,0,0,0,0,25,0,30252,0,0,0.0,6,664,1964,1300,42,True,0,Arsenal,Burnley,DEF,0
+Matty James,0,0,0,0,0.0,177,244,0,0,0.0,0.0,2020-02-01T12:30:00Z,0,0,0,0,0,25,0,10399,2,2,0.0,0,-148,86,234,43,True,0,Chelsea,Leicester,MID,0
+Matt Doherty,0,0,22,1,2.4,401,246,0,0,7.0,14.6,2020-02-01T17:30:00Z,90,0,0,0,0,25,0,301475,0,0,53.0,6,-10993,7224,18217,61,False,0,Man Utd,Wolves,DEF,0
+Matt Ritchie,0,0,27,1,55.6,251,247,0,0,9.5,28.0,2020-02-01T15:00:00Z,90,0,0,0,0,25,0,17322,0,0,11.0,6,4978,6363,1385,53,True,0,Norwich,Newcastle,DEF,0
+Matt Targett,0,0,13,0,21.9,309,241,2,0,5.3,9.2,2020-02-01T15:00:00Z,90,0,0,0,0,25,0,70949,1,2,22.0,1,3710,8072,4362,44,False,0,Bournemouth,Aston Villa,DEF,0
+Maximillian Aarons,0,0,29,1,28.2,274,247,0,0,7.1,14.4,2020-02-01T15:00:00Z,90,0,0,0,0,25,0,79615,0,0,28.0,6,878,2745,1867,43,False,0,Newcastle,Norwich,DEF,0
+Max Kilman,0,0,0,0,0.0,408,246,0,0,0.0,0.0,2020-02-01T17:30:00Z,0,0,0,0,0,25,0,154524,0,0,0.0,0,-2761,1739,4500,40,False,0,Man Utd,Wolves,DEF,0
+Max Meyer,0,0,3,0,1.9,136,243,0,0,0.3,0.8,2020-02-01T15:00:00Z,10,0,0,0,0,25,0,5841,1,0,0.0,1,-8,50,58,52,True,0,Sheffield Utd,Crystal Palace,MID,0
+Maya Yoshida,0,0,0,0,0.0,310,245,0,0,0.0,0.0,2020-02-01T15:00:00Z,0,0,0,0,0,25,0,18425,0,4,0.0,0,-492,139,631,42,False,0,Liverpool,Southampton,DEF,0
+Mbwana Samatta,0,2,28,0,23.3,613,241,2,1,13.7,41.2,2020-02-01T15:00:00Z,90,0,0,0,0,25,0,5003,1,2,72.0,8,4706,4981,275,60,False,0,Bournemouth,Aston Villa,FWD,0
+Mesut Özil,0,0,11,1,27.8,15,242,0,0,4.6,5.8,2020-02-02T14:00:00Z,62,0,0,0,0,25,0,80818,0,0,12.0,2,-2678,5854,8532,72,False,1,Burnley,Arsenal,MID,0
+Michael Keane,0,0,4,0,0.0,143,249,0,0,0.4,4.2,2020-02-01T15:00:00Z,17,0,0,0,0,25,0,145552,3,2,0.0,1,-2620,612,3232,52,False,0,Watford,Everton,DEF,0
+Michael McGovern,0,0,0,0,0.0,281,247,0,0,0.0,0.0,2020-02-01T15:00:00Z,0,0,0,0,0,25,0,498634,0,0,0.0,0,-11602,6033,17635,40,False,0,Newcastle,Norwich,GK,0
+Michael Obafemi,0,0,3,0,0.6,314,245,2,0,0.5,0.2,2020-02-01T15:00:00Z,20,0,0,0,0,25,0,13585,0,4,4.0,1,-65,409,474,49,False,0,Liverpool,Southampton,FWD,0
+Michael Verrips,0,0,0,0,0.0,521,243,0,0,0.0,0.0,2020-02-01T15:00:00Z,0,0,0,0,0,25,0,3189,1,0,0.0,0,43,104,61,44,False,0,Crystal Palace,Sheffield Utd,GK,0
+Michail Antonio,0,0,5,0,6.1,389,250,1,0,8.2,9.2,2020-02-01T15:00:00Z,73,0,0,0,0,25,0,49516,3,3,67.0,2,143,985,842,69,True,0,Brighton,West Ham,MID,0
+Michel Vorm,0,0,0,0,0.0,555,248,0,0,0.0,0.0,2020-02-02T16:30:00Z,0,0,0,0,0,25,0,1579,0,2,0.0,0,-39,46,85,43,True,0,Man City,Spurs,GK,0
+Michy Batshuayi,0,0,0,0,0.0,461,244,0,0,0.0,0.0,2020-02-01T12:30:00Z,0,0,0,0,0,25,0,37289,2,2,0.0,0,2217,3150,933,66,False,0,Leicester,Chelsea,FWD,0
+Miguel Almirón,0,0,4,1,12.4,266,247,0,0,3.9,14.4,2020-02-01T15:00:00Z,90,0,0,0,0,25,0,63484,0,0,12.0,3,12666,17505,4839,58,True,0,Norwich,Newcastle,MID,0
+Mihai-Alexandru Dobre,0,0,0,0,0.0,574,241,0,0,0.0,0.0,2020-02-01T15:00:00Z,0,0,0,0,0,25,0,335,1,2,0.0,0,6,56,50,45,True,0,Aston Villa,Bournemouth,MID,0
+Mohamed Elneny,0,0,0,0,0.0,20,242,0,0,0.0,0.0,2020-02-02T14:00:00Z,0,0,0,0,0,25,0,44005,0,0,0.0,0,-2208,271,2479,43,False,0,Burnley,Arsenal,MID,0
+Mohamed Elyounoussi,0,0,0,0,0.0,322,245,0,0,0.0,0.0,2020-02-01T15:00:00Z,0,0,0,0,0,25,0,1780,0,4,0.0,0,-11,5,16,53,False,0,Liverpool,Southampton,MID,0
+Mohamed Salah,0,3,48,1,32.5,191,245,0,2,21.3,80.6,2020-02-01T15:00:00Z,90,0,0,0,0,25,0,3010184,0,4,100.0,16,803943,822531,18588,126,True,0,Southampton,Liverpool,MID,0
+Moise Kean,1,0,10,0,10.1,496,249,0,0,3.1,17.2,2020-02-01T15:00:00Z,25,0,0,0,0,25,0,108210,3,2,4.0,4,3670,5075,1405,64,False,0,Watford,Everton,FWD,0
+Morgan Gibbs-White,0,0,0,0,0.0,416,246,0,0,0.0,0.0,2020-02-01T17:30:00Z,0,0,0,0,0,25,0,3900,0,0,0.0,0,8,97,89,47,False,0,Man Utd,Wolves,MID,0
+Morgan Schneiderlin,0,0,3,0,0.6,158,249,0,0,0.3,2.2,2020-02-01T15:00:00Z,23,0,0,0,0,25,0,44444,3,2,0.0,1,-470,343,813,44,False,0,Watford,Everton,MID,0
+Moritz Leitner,0,0,0,0,0.0,288,247,0,0,0.0,0.0,2020-02-01T15:00:00Z,0,0,0,0,0,25,0,16075,0,0,0.0,0,-45,794,839,43,False,0,Newcastle,Norwich,MID,0
+Moussa Djenepo,0,0,4,0,4.5,438,245,3,0,3.8,6.4,2020-02-01T15:00:00Z,81,0,0,0,0,25,0,5432,0,4,27.0,2,-259,88,347,52,False,0,Liverpool,Southampton,MID,0
+Moussa Sissoko,0,0,0,0,0.0,349,248,0,0,0.0,0.0,2020-02-02T16:30:00Z,0,0,0,0,0,25,0,97582,0,2,0.0,0,-5049,29,5078,48,True,0,Man City,Spurs,MID,0
+Muhamed Bešić,0,0,0,0,0.0,522,243,0,0,0.0,0.0,2020-02-01T15:00:00Z,0,0,0,0,0,25,0,10692,1,0,0.0,0,80,440,360,44,False,0,Crystal Palace,Sheffield Utd,MID,0
+N'Golo Kanté,0,0,11,0,12.3,119,244,2,0,5.5,20.4,2020-02-01T12:30:00Z,90,0,0,0,0,25,0,303484,2,2,22.0,2,-3844,4799,8643,50,False,0,Leicester,Chelsea,MID,0
+Nabil Bentaleb,0,0,12,1,42.8,612,247,0,0,5.9,16.0,2020-02-01T15:00:00Z,90,0,0,0,0,25,0,1474,0,0,0.0,2,1343,1579,236,50,True,1,Norwich,Newcastle,MID,0
+Naby Keita,0,0,7,0,14.3,196,245,0,0,2.0,3.8,2020-02-01T15:00:00Z,17,0,0,0,0,25,0,17319,0,4,2.0,1,-597,277,874,58,True,0,Southampton,Liverpool,MID,0
+Nacho Monreal,0,0,0,0,0.0,6,242,0,0,0.0,0.0,2020-02-02T14:00:00Z,0,0,0,0,0,25,0,18277,0,0,0.0,0,-113,11,124,50,False,0,Burnley,Arsenal,DEF,0
+Nampalys Mendy,0,0,0,0,0.0,179,244,0,0,0.0,0.0,2020-02-01T12:30:00Z,0,0,0,0,0,25,0,68402,2,2,0.0,0,-6417,430,6847,43,True,0,Chelsea,Leicester,MID,0
+Nathaniel Chalobah,0,0,5,0,0.8,374,249,2,0,0.9,8.2,2020-02-01T15:00:00Z,56,0,0,0,0,25,0,17214,3,2,0.0,1,-1284,366,1650,44,True,0,Everton,Watford,MID,0
+Nathaniel Phillips,0,0,0,0,0.0,589,245,0,0,0.0,0.0,2020-02-01T15:00:00Z,0,0,0,0,0,25,0,246,0,4,0.0,0,-14,22,36,40,True,0,Southampton,Liverpool,DEF,0
+Nathan Aké,0,1,26,0,0.2,59,241,1,1,6.2,45.0,2020-02-01T15:00:00Z,90,0,0,0,0,25,0,474456,1,2,17.0,9,638,7872,7234,48,True,0,Aston Villa,Bournemouth,DEF,0
+Nathan Holland,0,0,0,0,0.0,568,250,0,0,0.0,0.0,2020-02-01T15:00:00Z,0,0,0,0,0,25,0,322,3,3,0.0,0,-34,8,42,44,True,0,Brighton,West Ham,MID,0
+Nathan Redmond,0,0,5,0,15.7,320,245,4,0,3.6,0.8,2020-02-01T15:00:00Z,90,0,0,0,0,25,0,59874,0,4,19.0,2,11475,16011,4536,62,False,0,Liverpool,Southampton,MID,0
+Neal Maupay,0,0,0,0,0.0,502,250,0,0,0.0,0.0,2020-02-01T15:00:00Z,0,0,0,0,0,25,0,188642,3,3,0.0,0,-7808,22901,30709,59,False,0,West Ham,Brighton,FWD,0
+Neco Williams,0,0,0,0,0.0,575,245,0,0,0.0,0.0,2020-02-01T15:00:00Z,0,0,0,0,0,25,0,3369,0,4,0.0,0,57,647,590,40,True,0,Southampton,Liverpool,DEF,0
+Neil Taylor,0,0,0,0,0.0,24,241,0,0,0.0,0.0,2020-02-01T15:00:00Z,0,0,0,0,0,25,0,16551,1,2,0.0,0,-247,204,451,43,False,0,Bournemouth,Aston Villa,DEF,0
+Nemanja Matic,0,0,0,0,0.0,247,246,0,0,0.0,0.0,2020-02-01T17:30:00Z,0,0,0,0,0,25,0,23405,0,0,0.0,0,-419,426,845,48,True,0,Wolves,Man Utd,MID,0
+Nick Pope,0,0,25,1,0.0,93,242,0,0,1.4,14.0,2020-02-02T14:00:00Z,90,0,0,0,0,25,2,1038155,0,0,0.0,6,103631,127656,24025,46,True,0,Arsenal,Burnley,GK,0
+Nicolas Pépé,0,0,0,0,0.0,488,242,0,0,0.0,0.0,2020-02-02T14:00:00Z,0,0,0,0,0,25,0,184297,0,0,0.0,0,8202,16545,8343,91,False,0,Burnley,Arsenal,MID,0
+Nicolás Otamendi,0,0,15,0,1.3,208,248,2,0,1.4,12.8,2020-02-02T16:30:00Z,90,0,0,0,0,25,0,153131,0,2,0.0,1,1108,6263,5155,50,False,0,Spurs,Man City,DEF,0
+Nya Kirby,0,0,0,0,0.0,588,243,0,0,0.0,0.0,2020-02-01T15:00:00Z,0,0,0,0,0,25,0,149,1,0,0.0,0,5,24,19,45,True,0,Sheffield Utd,Crystal Palace,MID,0
+Oleksandr Zinchenko,0,0,1,0,5.3,206,248,2,0,0.9,2.4,2020-02-02T16:30:00Z,59,0,0,0,1,25,0,180531,0,2,1.0,-3,-283,1842,2125,52,False,0,Spurs,Man City,DEF,0
+Oliver McBurnie,0,0,5,1,13.0,501,243,0,0,4.5,7.6,2020-02-01T15:00:00Z,90,0,0,0,0,25,0,16684,1,0,24.0,2,2286,4100,1814,57,False,0,Crystal Palace,Sheffield Utd,FWD,0
+Oliver Norwood,1,2,26,1,27.3,302,243,0,0,6.5,30.6,2020-02-01T15:00:00Z,90,0,0,0,0,25,0,23686,1,0,7.0,8,-299,1323,1622,49,False,0,Crystal Palace,Sheffield Utd,MID,0
+Oliver Skipp,0,0,0,0,0.0,352,248,0,0,0.0,0.0,2020-02-02T16:30:00Z,0,0,0,0,0,25,0,43867,0,2,0.0,0,1350,3770,2420,43,True,0,Man City,Spurs,MID,0
+Olivier Giroud,0,0,0,0,0.0,110,244,0,0,0.0,0.0,2020-02-01T12:30:00Z,0,0,0,0,0,25,0,74182,2,2,0.0,0,-304,456,760,66,False,0,Leicester,Chelsea,FWD,0
+Ondrej Duda,0,0,20,1,73.1,601,247,0,0,10.1,13.8,2020-02-01T15:00:00Z,90,0,0,0,0,25,0,10430,0,0,14.0,3,-152,1611,1763,50,False,0,Newcastle,Norwich,MID,0
+Onel Hernández,0,0,2,0,0.8,284,247,0,0,0.5,0.2,2020-02-01T15:00:00Z,4,0,0,0,0,25,0,4958,0,0,4.0,1,-67,137,204,53,False,0,Newcastle,Norwich,MID,0
+Oriol Romeu,0,0,3,0,0.9,328,245,4,0,0.5,3.8,2020-02-01T15:00:00Z,90,0,0,0,0,25,0,113692,0,4,0.0,2,-2913,4918,7831,43,False,0,Liverpool,Southampton,MID,0
+Oskar Buur,0,0,0,0,0.0,587,246,0,0,0.0,0.0,2020-02-01T17:30:00Z,0,0,0,0,0,25,0,2390,0,0,0.0,0,128,352,224,40,False,0,Man Utd,Wolves,DEF,0
+Oumar Niasse,0,0,0,0,0.0,570,249,0,0,0.0,0.0,2020-02-01T15:00:00Z,0,0,0,0,0,25,0,2365,3,2,0.0,0,74,277,203,45,False,0,Watford,Everton,FWD,0
+Owen Otasowie,0,0,0,0,0.0,566,246,0,0,0.0,0.0,2020-02-01T17:30:00Z,0,0,0,0,0,25,0,475,0,0,0.0,0,-22,23,45,45,False,0,Man Utd,Wolves,MID,0
+Pablo Fornals,0,0,4,0,0.3,399,250,0,0,0.2,1.2,2020-02-01T15:00:00Z,5,0,0,0,0,25,0,30325,3,3,0.0,1,-4063,393,4456,60,True,0,Brighton,West Ham,MID,0
+Pablo Marí,0,0,0,0,0.0,617,242,0,0,0.0,0.0,2020-02-02T14:00:00Z,0,0,0,0,0,25,0,2441,0,0,0.0,0,2266,2515,249,50,False,0,Burnley,Arsenal,DEF,0
+Pablo Zabaleta,0,0,0,0,0.0,379,250,0,0,0.0,0.0,2020-02-01T15:00:00Z,0,0,0,0,0,25,0,35625,3,3,0.0,0,-598,445,1043,42,True,0,Brighton,West Ham,DEF,0
+Pascal Groß,0,2,34,0,57.9,49,250,3,1,13.0,51.6,2020-02-01T15:00:00Z,90,0,0,0,0,25,0,36074,3,3,20.0,9,-1037,1024,2061,63,False,0,West Ham,Brighton,MID,0
+Patrick Cutrone,0,0,0,0,0.0,487,246,0,0,0.0,0.0,2020-02-01T17:30:00Z,0,0,0,0,0,25,0,35209,0,0,0.0,0,-636,21,657,55,False,0,Man Utd,Wolves,FWD,0
+Patrick Roberts,0,0,0,0,0.0,435,247,0,0,0.0,0.0,2020-02-01T15:00:00Z,0,0,0,0,0,25,0,3491,0,0,0.0,0,-71,10,81,51,False,0,Newcastle,Norwich,MID,0
+Patrick van Aanholt,0,0,13,0,11.2,123,243,1,0,3.5,8.2,2020-02-01T15:00:00Z,90,0,0,0,0,25,0,313556,1,0,16.0,2,-7591,1750,9341,55,True,0,Sheffield Utd,Crystal Palace,DEF,0
+Paulo Gazzaniga,0,0,0,0,0.0,341,248,0,0,0.0,0.0,2020-02-02T16:30:00Z,0,0,0,0,0,25,0,235353,0,2,0.0,0,-106170,5773,111943,45,True,0,Man City,Spurs,GK,0
+Paul Dummett,0,0,0,0,0.0,255,247,0,0,0.0,0.0,2020-02-01T15:00:00Z,0,0,0,0,0,25,0,13719,0,0,0.0,0,-764,8,772,44,True,0,Norwich,Newcastle,DEF,0
+Paul Pogba,0,0,0,0,0.0,238,246,0,0,0.0,0.0,2020-02-01T17:30:00Z,0,0,0,0,0,25,0,213082,0,0,0.0,0,-2457,184,2641,83,True,0,Wolves,Man Utd,MID,0
+Pedro Neto,0,0,1,0,11.0,528,246,0,0,1.8,2.6,2020-02-01T17:30:00Z,20,0,0,0,0,25,0,15920,0,0,4.0,1,2631,4809,2178,50,False,0,Man Utd,Wolves,MID,0
+Pedro Obiang,0,0,0,0,0.0,400,250,0,0,0.0,0.0,2020-02-01T15:00:00Z,0,0,0,0,0,25,0,2681,3,3,0.0,0,-20,18,38,45,True,0,Brighton,West Ham,MID,0
+Pedro Rodríguez Ledesma,0,0,5,0,6.8,114,244,2,0,3.1,6.8,2020-02-01T12:30:00Z,73,0,0,0,0,25,0,83664,2,2,17.0,2,-394,287,681,68,False,0,Leicester,Chelsea,MID,0
+Philip Billing,0,3,39,0,22.8,476,241,1,1,12.5,72.4,2020-02-01T15:00:00Z,90,0,0,0,0,25,0,10038,1,2,30.0,10,-343,195,538,50,True,0,Aston Villa,Bournemouth,MID,0
+Philip Heise,0,0,0,0,0.0,484,247,0,0,0.0,0.0,2020-02-01T15:00:00Z,0,0,0,0,0,25,0,53599,0,0,0.0,0,-1857,747,2604,39,False,0,Newcastle,Norwich,DEF,0
+Phil Bardsley,0,0,0,0,0.0,86,242,0,0,0.0,0.0,2020-02-02T14:00:00Z,0,0,0,0,0,25,0,13704,0,0,0.0,0,-1030,82,1112,43,True,0,Arsenal,Burnley,DEF,0
+Phil Foden,0,0,0,0,0.0,220,248,0,0,0.0,0.0,2020-02-02T16:30:00Z,0,0,0,0,0,25,0,21833,0,2,0.0,0,-614,227,841,51,False,0,Spurs,Man City,MID,0
+Phil Jagielka,0,0,0,0,0.0,444,243,0,0,0.0,0.0,2020-02-01T15:00:00Z,0,0,0,0,0,25,0,26182,1,0,0.0,0,-433,238,671,42,False,0,Crystal Palace,Sheffield Utd,DEF,0
+Phil Jones,0,0,0,0,0.0,231,246,0,0,0.0,0.0,2020-02-01T17:30:00Z,0,0,0,0,0,25,0,11103,0,0,0.0,0,-7,172,179,48,True,0,Wolves,Man Utd,DEF,0
+Pierre-Emerick Aubameyang,0,0,0,1,31.0,11,242,0,0,7.0,10.2,2020-02-02T14:00:00Z,90,0,0,0,0,25,0,1206479,0,0,29.0,2,254862,280519,25657,107,False,0,Burnley,Arsenal,FWD,0
+Pierre-Emile Højbjerg,0,0,14,0,3.0,325,245,4,0,4.5,11.0,2020-02-01T15:00:00Z,90,0,0,0,0,25,0,30114,0,4,31.0,2,-508,1481,1989,48,False,0,Liverpool,Southampton,MID,0
+Pontus Dahlberg,0,0,0,0,0.0,367,249,0,0,0.0,0.0,2020-02-01T15:00:00Z,0,0,0,0,0,25,0,8606,3,2,0.0,0,-134,22,156,43,True,0,Everton,Watford,GK,0
+Rachid Ghezzal,0,0,0,0,0.0,173,244,0,0,0.0,0.0,2020-02-01T12:30:00Z,0,0,0,0,0,25,0,2183,2,2,0.0,0,-8,8,16,52,True,0,Chelsea,Leicester,MID,0
+Rafael Camacho,0,0,0,0,0.0,201,245,0,0,0.0,0.0,2020-02-01T15:00:00Z,0,0,0,0,0,25,0,402,0,4,0.0,0,2,10,8,45,True,0,Southampton,Liverpool,MID,0
+Raheem Sterling,0,0,7,0,27.8,214,248,2,0,6.0,4.4,2020-02-02T16:30:00Z,83,0,0,0,0,25,0,1391263,0,2,28.0,1,-14451,59120,73571,117,False,1,Spurs,Man City,MID,0
+Ralf Fahrmann,0,0,0,0,0.0,449,247,0,0,0.0,0.0,2020-02-01T15:00:00Z,0,0,0,0,0,25,0,21958,0,0,0.0,0,-273,70,343,44,False,0,Newcastle,Norwich,GK,0
+Ravel Morrison,0,0,0,0,0.0,456,243,0,0,0.0,0.0,2020-02-01T15:00:00Z,0,0,0,0,0,25,0,6230,1,0,0.0,0,-131,141,272,46,False,0,Crystal Palace,Sheffield Utd,MID,0
+Raúl Jiménez,0,0,5,1,2.0,409,246,0,0,4.8,8.0,2020-02-01T17:30:00Z,90,0,0,0,0,25,0,1767352,0,0,38.0,2,457727,501398,43671,76,False,0,Man Utd,Wolves,FWD,0
+Reece James,0,0,16,0,1.5,506,244,2,0,1.9,15.8,2020-02-01T12:30:00Z,90,0,0,0,0,25,0,40749,2,2,2.0,1,-4316,2079,6395,50,False,0,Leicester,Chelsea,DEF,0
+Reiss Nelson,0,0,0,0,0.0,489,242,0,0,0.0,0.0,2020-02-02T14:00:00Z,0,0,0,0,0,25,0,7659,0,0,0.0,0,-617,5,622,53,False,0,Burnley,Arsenal,MID,0
+Rhian Brewster,0,0,0,0,0.0,464,245,0,0,0.0,0.0,2020-02-01T15:00:00Z,0,0,0,0,0,25,0,33911,0,4,0.0,0,-288,2251,2539,42,True,0,Southampton,Liverpool,FWD,0
+Rhu-endly Martina,0,0,0,0,0.0,577,249,0,0,0.0,0.0,2020-02-01T15:00:00Z,0,0,0,0,0,25,0,2394,3,2,0.0,0,12,177,165,40,False,0,Watford,Everton,DEF,0
+Ricardo Pereira,0,0,5,0,2.5,159,244,2,0,2.3,10.6,2020-02-01T12:30:00Z,90,0,0,0,0,25,0,990372,2,2,10.0,1,26508,62590,36082,63,True,0,Chelsea,Leicester,DEF,0
+Richairo Zivkovic,0,0,0,0,0.0,622,243,0,0,0.0,0.0,2020-02-01T15:00:00Z,0,0,0,0,0,25,0,622,1,0,0.0,0,584,649,65,50,False,0,Crystal Palace,Sheffield Utd,FWD,0
+Richard Stearman,0,0,0,0,0.0,296,243,0,0,0.0,0.0,2020-02-01T15:00:00Z,0,0,0,0,0,25,0,165960,1,0,0.0,0,-5596,1880,7476,39,False,0,Crystal Palace,Sheffield Utd,DEF,0
+Richarlison de Andrade,0,0,14,0,21.8,150,249,2,0,4.1,13.6,2020-02-01T15:00:00Z,90,0,0,0,0,25,0,575746,3,2,6.0,2,-29707,69506,99213,81,False,0,Watford,Everton,MID,0
+Riyad Mahrez,0,0,11,0,27.0,217,248,2,0,6.9,12.4,2020-02-02T16:30:00Z,71,0,0,0,0,25,0,656354,0,2,30.0,2,-15641,94424,110065,85,False,0,Spurs,Man City,MID,0
+Robbie Brady,0,0,0,0,0.0,98,242,0,0,0.0,0.0,2020-02-02T14:00:00Z,0,0,0,0,0,25,0,3387,0,0,0.0,0,-38,55,93,55,True,0,Arsenal,Burnley,MID,0
+Robert Kenedy Nunes do Nascimento,0,0,0,0,0.0,462,244,0,0,0.0,0.0,2020-02-01T12:30:00Z,0,0,0,0,0,25,0,2410,2,2,0.0,0,-9,6,15,52,False,0,Leicester,Chelsea,MID,0
+Roberto Firmino,3,0,30,1,43.8,187,245,0,0,16.5,55.0,2020-02-01T15:00:00Z,90,0,0,0,0,25,0,1301942,0,4,66.0,11,121213,196412,75199,96,True,0,Southampton,Liverpool,FWD,0
+Roberto Jimenez Gago,0,0,0,0,0.0,450,250,0,0,0.0,0.0,2020-02-01T15:00:00Z,0,0,0,0,0,25,0,25019,3,3,0.0,0,-2450,20,2470,44,True,0,Brighton,West Ham,GK,0
+Roberto Pereyra,0,0,17,0,2.3,369,249,2,1,4.9,29.8,2020-02-01T15:00:00Z,74,0,0,0,0,25,0,46507,3,2,17.0,7,7,835,828,56,True,0,Everton,Watford,MID,0
+Robert Elliot,0,0,0,0,0.0,573,247,0,0,0.0,0.0,2020-02-01T15:00:00Z,0,0,0,0,0,25,0,6345,0,0,0.0,0,168,498,330,40,True,0,Norwich,Newcastle,GK,0
+Robert Snodgrass,1,3,58,0,30.2,393,250,3,2,14.9,91.6,2020-02-01T15:00:00Z,84,0,0,0,0,25,0,72722,3,3,27.0,18,-18301,2179,20480,52,True,0,Brighton,West Ham,MID,0
+Rob Holding,0,0,0,0,0.0,10,242,0,0,0.0,0.0,2020-02-02T14:00:00Z,0,0,0,0,0,25,0,8042,0,0,0.0,0,210,552,342,45,False,0,Burnley,Arsenal,DEF,0
+Rodri,0,0,1,0,16.2,443,248,2,0,2.1,0.0,2020-02-02T16:30:00Z,90,0,0,0,0,25,0,76885,0,2,6.0,1,-1992,1310,3302,54,False,1,Spurs,Man City,MID,0
+Rolando Aarons,0,0,0,0,0.0,499,247,0,0,0.0,0.0,2020-02-01T15:00:00Z,0,0,0,0,0,25,0,2319,0,0,0.0,0,9,45,36,48,True,0,Norwich,Newcastle,MID,0
+Romain Saïss,0,0,22,1,0.1,407,246,0,0,6.2,18.0,2020-02-01T17:30:00Z,90,0,0,0,0,25,0,51197,0,0,44.0,6,-2824,1836,4660,44,False,0,Man Utd,Wolves,DEF,0
+Romelu Lukaku,0,0,0,0,0.0,232,246,0,0,0.0,0.0,2020-02-01T17:30:00Z,0,0,0,0,0,25,0,23185,0,0,0.0,0,-39,120,159,85,True,0,Wolves,Man Utd,FWD,0
+Ross Barkley,0,0,0,0,0.3,117,244,0,0,0.3,0.2,2020-02-01T12:30:00Z,7,0,0,0,0,25,0,91166,2,2,2.0,1,-445,309,754,56,False,0,Leicester,Chelsea,MID,0
+Ruben Loftus-Cheek,0,0,0,0,0.0,115,244,0,0,0.0,0.0,2020-02-01T12:30:00Z,0,0,0,0,0,25,0,3742,2,2,0.0,0,8,47,39,63,False,0,Leicester,Chelsea,MID,0
+Rui Patrício,0,1,30,1,0.0,411,246,0,0,2.6,25.8,2020-02-01T17:30:00Z,90,0,0,0,0,25,5,657470,0,0,0.0,8,-30968,4259,35227,51,False,0,Man Utd,Wolves,GK,0
+Ryan Bennett,0,0,0,0,0.0,404,244,0,0,0.0,0.0,2020-02-01T12:30:00Z,0,0,0,0,0,25,0,22300,2,2,0.0,0,-123,32,155,48,True,0,Chelsea,Leicester,DEF,0
+Ryan Bertrand,0,0,22,0,22.5,305,245,4,0,4.2,17.8,2020-02-01T15:00:00Z,90,0,0,0,0,25,0,53244,0,4,2.0,0,2859,5469,2610,48,False,0,Liverpool,Southampton,DEF,0
+Ryan Fraser,1,0,16,0,30.7,75,241,1,0,7.5,12.6,2020-02-01T15:00:00Z,90,0,0,0,0,25,0,200641,1,2,32.0,5,-681,3328,4009,69,True,0,Aston Villa,Bournemouth,MID,0
+Ryan Fredericks,0,0,15,0,5.9,380,250,3,0,2.6,20.2,2020-02-01T15:00:00Z,90,0,0,0,0,25,0,27376,3,3,0.0,1,-2745,21,2766,44,True,0,Brighton,West Ham,DEF,0
+Ryan Giles,0,0,0,0,0.0,607,246,0,0,0.0,0.0,2020-02-01T17:30:00Z,0,0,0,0,0,25,0,1058,0,0,0.0,0,204,362,158,40,False,0,Man Utd,Wolves,DEF,0
+Ryan Sessegnon,0,0,0,0,0.0,524,248,0,0,0.0,0.0,2020-02-02T16:30:00Z,0,0,0,0,0,25,0,5605,0,2,0.0,0,-136,133,269,54,True,0,Man City,Spurs,MID,0
+Rúben Neves,0,0,16,1,5.3,414,246,0,0,2.5,18.8,2020-02-01T17:30:00Z,90,0,0,0,0,25,0,330343,0,0,1.0,2,-5466,3280,8746,52,False,1,Man Utd,Wolves,MID,0
+Rúben Vinagre,0,0,0,0,0.0,406,246,0,0,0.0,0.0,2020-02-01T17:30:00Z,0,0,0,0,0,25,0,14981,0,0,0.0,0,-1236,28,1264,42,False,0,Man Utd,Wolves,DEF,0
+Sadio Mané,0,0,0,0,0.0,192,245,0,0,0.0,0.0,2020-02-01T15:00:00Z,0,0,0,0,0,25,0,1801221,0,4,0.0,0,-1245778,17452,1263230,123,True,0,Southampton,Liverpool,MID,0
+Sam Byram,0,0,19,1,4.4,454,247,0,0,8.4,10.4,2020-02-01T15:00:00Z,90,0,0,0,0,25,0,8783,0,0,69.0,6,-10,211,221,44,False,0,Newcastle,Norwich,DEF,0
+Sam Gallagher,0,0,0,0,0.0,316,245,0,0,0.0,0.0,2020-02-01T15:00:00Z,0,0,0,0,0,25,0,2282,0,4,0.0,0,-27,23,50,45,False,0,Liverpool,Southampton,FWD,0
+Sam Surridge,0,0,0,0,0.0,71,241,0,0,0.0,0.0,2020-02-01T15:00:00Z,0,0,0,0,0,25,0,39536,1,2,0.0,0,645,2837,2192,43,True,0,Aston Villa,Bournemouth,FWD,0
+Sam Woods,0,0,0,0,0.0,578,243,0,0,0.0,0.0,2020-02-01T15:00:00Z,0,0,0,0,0,25,0,3523,1,0,0.0,0,-531,215,746,40,True,0,Sheffield Utd,Crystal Palace,DEF,0
+Sander Berge,0,0,7,1,1.3,621,243,0,0,1.9,13.2,2020-02-01T15:00:00Z,67,0,0,0,0,25,0,2775,1,0,4.0,3,2681,2866,185,50,False,0,Crystal Palace,Sheffield Utd,MID,0
+Scott Carson,0,0,0,0,0.0,562,248,0,0,0.0,0.0,2020-02-02T16:30:00Z,0,0,0,0,0,25,0,5845,0,2,0.0,0,-77,256,333,40,False,0,Spurs,Man City,GK,0
+Scott Dann,0,0,0,0,0.0,127,243,0,0,0.0,0.0,2020-02-01T15:00:00Z,0,0,0,0,0,25,0,10907,1,0,0.0,0,-86,62,148,43,True,0,Sheffield Utd,Crystal Palace,DEF,0
+Scott McTominay,0,0,0,0,0.0,248,246,0,0,0.0,0.0,2020-02-01T17:30:00Z,0,0,0,0,0,25,0,74545,0,0,0.0,0,-4694,50,4744,49,True,0,Wolves,Man Utd,MID,0
+Sead Kolasinac,0,0,0,0,0.0,3,242,0,0,0.0,0.0,2020-02-02T14:00:00Z,0,0,0,0,0,25,0,37345,0,0,0.0,0,-1867,32,1899,52,False,0,Burnley,Arsenal,DEF,0
+Seamus Coleman,0,0,0,0,0.0,144,249,0,0,0.0,0.0,2020-02-01T15:00:00Z,0,0,0,0,0,25,0,83395,3,2,0.0,0,-894,324,1218,53,False,0,Watford,Everton,DEF,0
+Sean Longstaff,0,0,5,0,1.3,270,247,0,0,3.4,7.8,2020-02-01T15:00:00Z,33,0,0,0,0,25,0,20453,0,0,25.0,1,-71,445,516,50,True,0,Norwich,Newcastle,MID,0
+Sebastian Prödl,0,0,0,0,0.0,361,249,0,0,0.0,0.0,2020-02-01T15:00:00Z,0,0,0,0,0,25,0,80026,3,2,0.0,0,27,2504,2477,39,True,0,Everton,Watford,DEF,0
+Serge Aurier,0,0,23,1,1.4,336,248,0,0,2.5,23.8,2020-02-02T16:30:00Z,90,0,0,0,0,25,0,427939,0,2,0.0,6,-15603,26711,42314,50,True,0,Man City,Spurs,DEF,0
+Sergio Agüero,0,0,-4,0,5.0,210,248,1,0,10.3,2.4,2020-02-02T16:30:00Z,63,0,0,0,0,25,0,1729092,0,2,96.0,2,286940,334297,47357,120,False,0,Spurs,Man City,FWD,0
+Sergio Romero,0,0,0,0,0.0,236,246,0,0,0.0,0.0,2020-02-01T17:30:00Z,0,0,0,0,0,25,0,13208,0,0,0.0,0,-92,85,177,47,True,0,Wolves,Man Utd,GK,0
+Shane Duffy,0,0,0,0,0.0,37,250,0,0,0.0,0.0,2020-02-01T15:00:00Z,0,0,0,0,0,25,0,68293,3,3,0.0,0,-2995,253,3248,48,False,0,West Ham,Brighton,DEF,0
+Shane Long,0,0,1,0,31.9,315,245,2,0,6.1,2.2,2020-02-01T15:00:00Z,69,0,0,0,0,25,0,139264,0,4,27.0,2,-5025,3058,8083,46,False,0,Liverpool,Southampton,FWD,0
+Shkodran Mustafi,0,0,24,1,0.3,1,242,0,0,2.2,17.2,2020-02-02T14:00:00Z,90,0,0,0,0,25,0,23916,0,0,4.0,6,-109,502,611,51,False,0,Burnley,Arsenal,DEF,0
+Simon Francis,0,0,16,0,4.1,62,241,1,0,3.5,31.2,2020-02-01T15:00:00Z,90,0,0,0,0,25,0,2681,1,2,0.0,2,8,158,150,44,True,0,Aston Villa,Bournemouth,DEF,0
+Simon Mignolet,0,0,0,0,0.0,190,245,0,0,0.0,0.0,2020-02-01T15:00:00Z,0,0,0,0,0,25,0,2501,0,4,0.0,0,4,33,29,45,True,0,Southampton,Liverpool,GK,0
+Simon Moore,0,0,0,0,0.0,436,243,0,0,0.0,0.0,2020-02-01T15:00:00Z,0,0,0,0,0,25,0,6529,1,0,0.0,0,62,205,143,43,False,0,Crystal Palace,Sheffield Utd,GK,0
+Sofiane Boufal,0,0,2,0,1.3,508,245,1,0,1.3,0.0,2020-02-01T15:00:00Z,8,0,0,0,0,25,0,7102,0,4,12.0,1,-40,172,212,55,False,0,Liverpool,Southampton,MID,0
+Sokratis Papastathopoulos,0,0,0,0,0.0,5,242,0,0,0.0,0.0,2020-02-02T14:00:00Z,0,0,0,0,0,25,0,105866,0,0,0.0,0,-1180,4076,5256,49,False,0,Burnley,Arsenal,DEF,0
+Solly March,0,0,3,0,2.3,55,250,0,0,4.3,8.0,2020-02-01T15:00:00Z,18,0,0,0,0,25,0,13013,3,3,33.0,1,-74,237,311,46,False,0,West Ham,Brighton,MID,0
+Stephen Henderson,0,0,0,0,0.0,556,243,0,0,0.0,0.0,2020-02-01T15:00:00Z,0,0,0,0,0,25,0,31990,1,0,0.0,0,79,1918,1839,40,True,0,Sheffield Utd,Crystal Palace,GK,0
+Steven Alzate,0,0,0,0,0.0,537,250,0,0,0.0,0.0,2020-02-01T15:00:00Z,0,0,0,0,0,25,0,8726,3,3,0.0,0,33,913,880,45,False,0,West Ham,Brighton,MID,0
+Steven Bergwijn,0,2,29,1,1.7,615,248,0,1,6.2,37.6,2020-02-02T16:30:00Z,69,0,0,0,0,25,0,4461,0,2,23.0,10,4262,4730,468,75,True,0,Man City,Spurs,MID,0
+Steven Defour,0,0,0,0,0.0,99,242,0,0,0.0,0.0,2020-02-02T14:00:00Z,0,0,0,0,0,25,0,265,0,0,0.0,0,3,8,5,55,True,0,Arsenal,Burnley,MID,0
+Steve Cook,0,0,0,0,0.0,58,241,0,0,0.0,0.0,2020-02-01T15:00:00Z,0,0,0,0,0,25,0,17172,1,2,0.0,0,-137,471,608,50,True,0,Aston Villa,Bournemouth,DEF,0
+Stuart Armstrong,0,0,0,0,0.0,323,245,0,0,0.0,0.0,2020-02-01T15:00:00Z,0,0,0,0,0,25,0,9807,0,4,0.0,0,569,3080,2511,52,False,0,Liverpool,Southampton,MID,0
+Sung-yueng Ki,0,0,0,0,0.0,268,247,0,0,0.0,0.0,2020-02-01T15:00:00Z,0,0,0,0,0,25,0,3476,0,0,0.0,0,-47,10,57,47,True,0,Norwich,Newcastle,MID,0
+Sébastien Haller,0,0,10,0,22.3,457,250,3,0,4.2,11.8,2020-02-01T15:00:00Z,90,0,0,0,0,25,0,227156,3,3,8.0,2,-11499,12769,24268,70,True,0,Brighton,West Ham,FWD,0
+Tahith Chong,0,0,0,0,0.0,249,246,0,0,0.0,0.0,2020-02-01T17:30:00Z,0,0,0,0,0,25,0,48330,0,0,0.0,0,-1867,474,2341,43,True,0,Wolves,Man Utd,MID,0
+Takumi Minamino,0,0,-3,0,0.0,590,245,0,0,0.1,0.0,2020-02-01T15:00:00Z,9,0,0,0,0,25,0,7957,0,4,4.0,1,845,3615,2770,65,True,0,Southampton,Liverpool,MID,0
+Tammy Abraham,0,0,2,0,10.9,460,244,2,0,2.1,6.4,2020-02-01T12:30:00Z,82,0,0,0,0,25,0,1718098,2,2,4.0,2,-628432,18692,647124,77,False,0,Leicester,Chelsea,FWD,0
+Tanguy Ndombele,1,0,16,0,11.8,442,248,0,0,3.0,18.6,2020-02-02T16:30:00Z,20,0,0,0,0,25,0,168078,0,2,0.0,4,-883,347,1230,58,True,0,Man City,Spurs,MID,0
+Tariq Lamptey,0,0,0,0,0.0,586,250,0,0,0.0,0.0,2020-02-01T15:00:00Z,0,0,0,0,0,25,0,6440,3,3,0.0,0,725,842,117,40,False,0,West Ham,Brighton,DEF,0
+Taylor Perry,0,0,0,0,0.0,560,246,0,0,0.0,0.0,2020-02-01T17:30:00Z,0,0,0,0,0,25,0,1594,0,0,0.0,0,-30,80,110,45,False,0,Man Utd,Wolves,MID,0
+Teemu Pukki,0,0,2,1,2.6,278,247,0,0,8.1,4.0,2020-02-01T15:00:00Z,90,0,0,0,0,25,0,1027988,0,0,74.0,2,72805,93602,20797,65,False,0,Newcastle,Norwich,FWD,0
+Theo Walcott,0,1,22,0,3.4,153,249,2,1,8.3,34.2,2020-02-01T15:00:00Z,90,0,0,0,0,25,0,30070,3,2,45.0,8,-77,800,877,62,False,0,Watford,Everton,MID,0
+Thomas Allan,0,0,0,0,0.0,598,247,0,0,0.0,0.0,2020-02-01T15:00:00Z,0,0,0,0,0,25,0,420,0,0,0.0,0,99,169,70,45,True,0,Norwich,Newcastle,MID,0
+Timm Klose,0,0,0,0,0.0,272,247,0,0,0.0,0.0,2020-02-01T15:00:00Z,0,0,0,0,0,25,0,2006,0,0,0.0,0,-21,10,31,43,False,0,Newcastle,Norwich,DEF,0
+Tim Krul,0,2,33,1,0.0,280,247,0,0,3.5,34.6,2020-02-01T15:00:00Z,90,0,0,0,0,25,6,165109,0,0,0.0,10,9,8093,8084,45,False,0,Newcastle,Norwich,GK,0
+Toby Alderweireld,0,0,19,1,0.1,331,248,0,0,2.3,23.0,2020-02-02T16:30:00Z,90,0,0,0,0,25,0,360413,0,2,0.0,5,-8114,2692,10806,53,True,1,Man City,Spurs,DEF,0
+Todd Cantwell,0,0,6,1,23.1,287,247,0,0,4.2,12.6,2020-02-01T15:00:00Z,66,0,0,0,0,25,0,1636529,0,0,6.0,2,-144351,33074,177425,49,False,1,Newcastle,Norwich,MID,0
+Tomas Soucek,0,0,7,0,12.0,616,250,3,0,7.3,21.6,2020-02-01T15:00:00Z,84,0,0,0,0,25,0,488,3,3,39.0,2,466,501,35,50,True,0,Brighton,West Ham,MID,0
+Tom Cleverley,0,0,0,0,0.0,371,249,0,0,0.0,0.0,2020-02-01T15:00:00Z,0,0,0,0,0,25,0,7418,3,2,0.0,0,-137,11,148,48,True,0,Everton,Watford,MID,0
+Tom Davies,0,0,0,0,0.0,154,249,0,0,0.0,0.0,2020-02-01T15:00:00Z,0,0,0,0,0,25,0,10972,3,2,0.0,0,-438,166,604,53,False,0,Watford,Everton,MID,0
+Tom Heaton,0,0,0,0,0.0,94,241,0,0,0.0,0.0,2020-02-01T15:00:00Z,0,0,0,0,0,25,0,218643,1,2,0.0,0,-18205,192,18397,44,False,0,Bournemouth,Aston Villa,GK,0
+Tom Trybull,0,0,0,0,0.0,290,247,0,0,0.0,0.0,2020-02-01T15:00:00Z,0,0,0,0,0,25,0,43233,0,0,0.0,0,-549,92,641,44,False,0,Newcastle,Norwich,MID,0
+Trent Alexander-Arnold,0,0,19,1,2.1,182,245,0,0,2.1,11.0,2020-02-01T15:00:00Z,90,0,0,0,0,25,0,3178642,0,4,8.0,6,109648,125222,15574,76,True,0,Southampton,Liverpool,DEF,0
+Troy Deeney,1,0,18,0,15.0,362,249,3,0,3.8,23.0,2020-02-01T15:00:00Z,90,0,0,0,0,25,0,167416,3,2,0.0,5,44062,56453,12391,63,True,0,Everton,Watford,FWD,0
+Troy Parrott,0,0,0,0,0.0,509,248,0,0,0.0,0.0,2020-02-02T16:30:00Z,0,0,0,0,0,25,0,59351,0,2,0.0,0,387,2592,2205,43,True,0,Man City,Spurs,FWD,0
+Tudor Baluta,0,0,0,0,0.0,536,250,0,0,0.0,0.0,2020-02-01T15:00:00Z,0,0,0,0,0,25,0,15210,3,3,0.0,0,-1081,68,1149,40,False,0,West Ham,Brighton,DEF,0
+Tyreece John-Jules,0,0,0,0,0.0,585,242,0,0,0.0,0.0,2020-02-02T14:00:00Z,0,0,0,0,0,25,0,372,0,0,0.0,0,-32,79,111,45,False,0,Burnley,Arsenal,FWD,0
+Tyreke Johnson,0,0,0,0,0.0,326,245,0,0,0.0,0.0,2020-02-01T15:00:00Z,0,0,0,0,0,25,0,1636,0,4,0.0,0,-6,62,68,44,False,0,Liverpool,Southampton,MID,0
+Tyrick Mitchell,0,0,0,0,0.0,579,243,0,0,0.0,0.0,2020-02-01T15:00:00Z,0,0,0,0,0,25,0,1944,1,0,0.0,0,27,174,147,40,True,0,Sheffield Utd,Crystal Palace,DEF,0
+Tyrone Mings,0,0,6,0,1.1,445,241,2,0,4.9,16.6,2020-02-01T15:00:00Z,90,0,0,0,0,25,0,207660,1,2,31.0,0,4444,9633,5189,45,False,1,Bournemouth,Aston Villa,DEF,0
+Valentino Lazaro,0,0,5,0,1.3,614,247,0,0,0.6,4.8,2020-02-01T15:00:00Z,36,0,0,0,0,25,0,592,0,0,0.0,1,538,608,70,55,True,0,Norwich,Newcastle,MID,0
+Vicente Guaita,0,0,9,0,0.0,131,243,1,0,1.5,14.6,2020-02-01T15:00:00Z,90,1,0,0,0,25,3,175839,1,0,0.0,1,-13464,5373,18837,51,True,0,Sheffield Utd,Crystal Palace,GK,0
+Victor Lindelöf,0,0,24,1,11.2,225,246,0,0,5.5,20.2,2020-02-01T17:30:00Z,90,0,0,0,0,25,0,88017,0,0,24.0,5,-4818,1011,5829,53,True,1,Wolves,Man Utd,DEF,0
+Victor Wanyama,0,0,0,0,0.0,348,248,0,0,0.0,0.0,2020-02-02T16:30:00Z,0,0,0,0,0,25,0,7291,0,2,0.0,0,-73,72,145,48,True,0,Man City,Spurs,MID,0
+Vincent Janssen,0,0,0,0,0.0,339,248,0,0,0.0,0.0,2020-02-02T16:30:00Z,0,0,0,0,0,25,0,5260,0,2,0.0,0,-27,30,57,45,True,0,Man City,Spurs,FWD,0
+Virgil van Dijk,0,0,23,1,0.4,183,245,0,0,3.9,22.0,2020-02-01T15:00:00Z,90,0,0,0,0,25,0,3265907,0,4,17.0,6,80533,121745,41212,65,True,0,Southampton,Liverpool,DEF,0
+Víctor Camarasa,0,0,0,0,0.0,510,243,0,0,0.0,0.0,2020-02-01T15:00:00Z,0,0,0,0,0,25,0,11557,1,0,0.0,0,-353,12,365,45,True,0,Sheffield Utd,Crystal Palace,MID,0
+Wayne Hennessey,0,0,0,0,0.0,132,243,0,0,0.0,0.0,2020-02-01T15:00:00Z,0,0,0,0,0,25,0,42165,1,0,0.0,0,-491,459,950,43,True,0,Sheffield Utd,Crystal Palace,GK,0
+Wesley Hoedt,0,0,0,0,0.0,485,245,0,0,0.0,0.0,2020-02-01T15:00:00Z,0,0,0,0,0,25,0,2650,0,4,0.0,0,-21,22,43,43,False,0,Liverpool,Southampton,DEF,0
+Wesley Moraes,0,0,0,0,0.0,428,241,0,0,0.0,0.0,2020-02-01T15:00:00Z,0,0,0,0,0,25,0,66988,1,2,0.0,0,-3482,94,3576,55,False,0,Bournemouth,Aston Villa,FWD,0
+Wes Morgan,0,0,0,0,0.0,165,244,0,0,0.0,0.0,2020-02-01T12:30:00Z,0,0,0,0,0,25,0,44985,2,2,0.0,0,-910,655,1565,41,True,0,Chelsea,Leicester,DEF,0
+Wilfred Ndidi,0,0,0,0,0.0,176,244,0,0,0.0,0.0,2020-02-01T12:30:00Z,0,0,0,0,0,25,0,137414,2,2,0.0,0,-1768,2066,3834,50,True,0,Chelsea,Leicester,MID,0
+Wilfried Zaha,0,0,10,0,37.3,133,243,1,0,8.6,12.8,2020-02-01T15:00:00Z,90,0,0,0,0,25,0,724227,1,0,36.0,2,4143,39535,35392,68,True,0,Sheffield Utd,Crystal Palace,MID,0
+William Smallbone,0,0,0,0,0.0,584,245,0,0,0.0,0.0,2020-02-01T15:00:00Z,0,0,0,0,0,25,0,190,0,4,0.0,0,15,37,22,45,False,0,Liverpool,Southampton,MID,0
+Willian,0,0,2,0,1.7,113,244,0,0,0.6,4.4,2020-02-01T12:30:00Z,16,0,0,0,0,25,0,400866,2,2,0.0,1,-52316,21107,73423,72,False,0,Leicester,Chelsea,MID,0
+Willy Boly,0,0,26,1,0.3,405,246,0,0,1.6,16.0,2020-02-01T17:30:00Z,90,0,0,0,0,25,0,143209,0,0,0.0,6,-238,1539,1777,47,False,0,Man Utd,Wolves,DEF,0
+Willy Caballero,0,0,11,0,0.0,112,244,2,0,1.7,17.2,2020-02-01T12:30:00Z,90,0,0,0,0,25,2,14954,2,2,0.0,1,-72,56,128,48,False,0,Leicester,Chelsea,GK,0
+Will Hughes,0,0,0,0,0.0,370,249,0,0,0.0,0.0,2020-02-01T15:00:00Z,0,0,0,0,0,25,0,21308,3,2,0.0,0,-614,28,642,53,True,0,Everton,Watford,MID,0
+Will Norris,0,0,0,0,0.0,413,246,0,0,0.0,0.0,2020-02-01T17:30:00Z,0,0,0,0,0,25,0,42194,0,0,0.0,0,-973,298,1271,40,False,0,Man Utd,Wolves,GK,0
+Winston Reid,0,0,0,0,0.0,383,250,0,0,0.0,0.0,2020-02-01T15:00:00Z,0,0,0,0,0,25,0,380813,3,3,0.0,0,10804,24667,13863,39,True,0,Brighton,West Ham,DEF,0
+Xherdan Shaqiri,0,0,0,0,0.0,194,245,0,0,0.0,0.0,2020-02-01T15:00:00Z,0,0,0,0,0,25,0,17320,0,4,0.0,0,-285,20,305,63,True,0,Southampton,Liverpool,MID,0
+Yan Valery,0,0,0,0,0.0,306,245,0,0,0.0,0.0,2020-02-01T15:00:00Z,0,0,0,0,0,25,0,10211,0,4,0.0,0,-125,40,165,46,False,0,Liverpool,Southampton,DEF,0
+Yerry Mina,0,3,31,0,0.6,142,249,2,2,14.4,87.6,2020-02-01T15:00:00Z,90,0,0,0,0,25,0,148560,3,2,56.0,15,-1785,1288,3073,53,False,1,Watford,Everton,DEF,0
+Yoshinori Muto,0,0,0,0,0.0,260,247,0,0,0.0,0.0,2020-02-01T15:00:00Z,0,0,0,0,0,25,0,5888,0,0,0.0,0,-139,21,160,51,True,0,Norwich,Newcastle,FWD,0
+Youri Tielemans,2,1,27,0,27.3,448,244,2,0,9.2,45.6,2020-02-01T12:30:00Z,79,0,0,0,0,25,0,316961,2,2,19.0,9,-18539,2505,21044,62,True,0,Chelsea,Leicester,MID,0
+Yves Bissouma,0,0,0,0,0.0,53,250,0,0,0.0,0.0,2020-02-01T15:00:00Z,0,0,0,0,0,25,0,1288,3,3,0.0,0,-32,28,60,50,False,0,West Ham,Brighton,MID,0
+Çaglar Söyüncü,0,0,16,0,0.4,164,244,2,0,1.5,14.2,2020-02-01T12:30:00Z,90,0,0,0,0,25,0,1242378,2,2,0.0,1,-94590,25071,119661,50,True,0,Chelsea,Leicester,DEF,0
+Ørjan Nyland,0,0,0,0,0.0,27,241,0,0,0.0,0.0,2020-02-01T15:00:00Z,0,0,0,0,0,25,0,17462,1,2,0.0,0,-792,645,1437,43,False,0,Bournemouth,Aston Villa,GK,0

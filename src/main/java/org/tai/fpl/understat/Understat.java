@@ -16,6 +16,8 @@ import java.io.UnsupportedEncodingException;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
+import static org.tai.fpl.understat.UnderstatNameFormatter.formatName;
+
 public class Understat {
     private static final Logger LOGGER = LogManager.getLogger(Understat.class);
 
@@ -62,7 +64,7 @@ public class Understat {
             JSONArray playerData = getJsonArray(TARGET_URL, PLAYERS_DATA_VAR);
             for (int i = 0; i < playerData.length(); i++) {
                 int playerId = playerData.getJSONObject(i).getInt("id");
-                String playerName = playerData.getJSONObject(i).getString("player_name");
+                String playerName = formatName(playerData.getJSONObject(i).getString("player_name"));
                 JSONArray playerMatchesData = getJsonArray(String.format("%s%s", TARGET_PLAYER_URL, playerId), MATCHES_DATA_VAR);
                 JSONArray currentSeasonData = filterCurrentSeason(playerMatchesData);
                 JSONArray playerMatchesDataWithName = addPlayerName(currentSeasonData, playerName);

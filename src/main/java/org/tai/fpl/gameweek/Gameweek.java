@@ -21,7 +21,7 @@ import java.time.format.DateTimeFormatter;
 import java.util.HashMap;
 import java.util.Map;
 
-import static org.tai.fpl.gameweek.NameFormatter.formatName;
+import static org.tai.fpl.gameweek.GameweekNameFormatter.formatName;
 
 public class Gameweek {
     private static final Logger LOGGER = LogManager.getLogger(Main.class);

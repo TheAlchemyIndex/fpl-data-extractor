@@ -6,6 +6,7 @@ public class UnderstatNameFormatter {
         return switch (name) {
             case "Ahmed Hegazy" -> "Ahmed Hegazi";
             case "Aleksandar Mitrovic" -> "Aleksandar Mitrović";
+            case "Ãlex Moreno" -> "Álex Moreno";
             case "Amad Diallo Traore" -> "Amad Diallo";
             case "Armel Bella Kotchap" -> "Armel Bella-Kotchap";
             case "Arnaut Danjuma Groeneveld" -> "Arnaut Danjuma";
@@ -13,20 +14,28 @@ public class UnderstatNameFormatter {
             case "Benoit Badiashile Mukinayi" -> "Benoît Badiashile";
             case "Boubacar Traore" -> "Boubacar Traoré";
             case "Boubakary Soumare" -> "Boubakary Soumaré";
+            case "Carlos Vinicius" -> "Carlos Vinícius";
             case "Caglar Söyüncü" -> "Çaglar Söyüncü";
             case "Cheick Oumar Doucoure" -> "Cheick Doucouré";
             case "Clement Lenglet" -> "Clément Lenglet";
             case "Daniel N&#039;Lundulu" -> "Daniel N'Lundulu";
             case "Dara O&#039;Shea" -> "Dara O'Shea";
+            case "Djibril Sidibe" -> "Djibril Sidibé";
             case "Emile Smith-Rowe" -> "Emile Smith Rowe";
             case "Emiliano Martinez" -> "Emiliano Martínez";
+            case "Estupiñán" -> "Pervis Estupiñán";
+            case "Fabio Carvalho" -> "Fábio Carvalho";
             case "Ferrán Torres" -> "Ferran Torres";
             case "Franck Zambo" -> "André-Frank Zambo Anguissa";
+            case "Frederic Guilbert" -> "Frédéric Guilbert";
+            case "Halil Dervisoglu" -> "Halil Dervişoğlu";
             case "Hamed Junior Traore" -> "Hamed Traorè";
             case "Hee-Chan Hwang" -> "Hwang Hee-chan";
             case "Imran Louza" -> "Imrân Louza";
+            case "Ismaila Sarr" -> "Ismaïla Sarr";
             case "Ivan Perisic" -> "Ivan Perišić";
             case "Jack O&#039;Connell" -> "Jack O'Connell";
+            case "Júnior Firpo" -> "Junior Firpo";
             case "Kepa" -> "Kepa Arrizabalaga";
             case "Lewis O&#039;Brien" -> "Lewis O'Brien";
             case "Marc Guehi" -> "Marc Guéhi";
@@ -45,7 +54,7 @@ public class UnderstatNameFormatter {
             case "Romain Saiss" -> "Romain Saïss";
             case "Said Benrahma" -> "Saïd Benrahma";
             case "Sergi Canos" -> "Sergi Canós";
-            case "Tanguy NDombele Alvaro" -> "Tanguy NDombele";
+            case "Tanguy NDombele Alvaro" -> "Tanguy Ndombele";
             case "Valentino Livramento" -> "Tino Livramento";
             default -> name;
         };

@@ -3,20 +3,29 @@ package org.tai.fpl.understat;
 public class UnderstatNameFormatter {
 
     public static String formatName(String name) {
+
+        /* Temporary fix */
+        if (name.contains("Thiago Alc")) {
+            name = "Thiago Alcantara";
+        }
+
         return switch (name) {
             case "Ahmed Hegazy" -> "Ahmed Hegazi";
             case "Aleksandar Mitrovic" -> "Aleksandar Mitrović";
             case "Ãlex Moreno" -> "Álex Moreno";
             case "Amad Diallo Traore" -> "Amad Diallo";
+            case "Angelino" -> "Angeliño";
             case "Armel Bella Kotchap" -> "Armel Bella-Kotchap";
             case "Arnaut Danjuma Groeneveld" -> "Arnaut Danjuma";
             case "Asmir Begovic" -> "Asmir Begović";
             case "Benoit Badiashile Mukinayi" -> "Benoît Badiashile";
             case "Boubacar Traore" -> "Boubacar Traoré";
             case "Boubakary Soumare" -> "Boubakary Soumaré";
+            case "Bruno Jordao" -> "Bruno Jordão";
             case "Carlos Vinicius" -> "Carlos Vinícius";
             case "Caglar Söyüncü" -> "Çaglar Söyüncü";
             case "Cheick Oumar Doucoure" -> "Cheick Doucouré";
+            case "Chicharito" -> "Javier Hernández";
             case "Clement Lenglet" -> "Clément Lenglet";
             case "Daniel N&#039;Lundulu" -> "Daniel N'Lundulu";
             case "Dara O&#039;Shea" -> "Dara O'Shea";
@@ -43,6 +52,7 @@ public class UnderstatNameFormatter {
             case "Matias Viña" -> "Matías Viña";
             case "Matthew Cash" -> "Matty Cash";
             case "Moussa Niakhate" -> "Moussa Niakhaté";
+            case "Muhamed Besic" -> "Muhamed Bešić";
             case "Naif Aguerd" -> "Nayef Aguerd";
             case "N&#039;Golo Kanté" -> "N'Golo Kanté";
             case "Nicolas N&#039;Koulou" -> "Nicolas Nkoulou";
@@ -55,7 +65,10 @@ public class UnderstatNameFormatter {
             case "Said Benrahma" -> "Saïd Benrahma";
             case "Sergi Canos" -> "Sergi Canós";
             case "Tanguy NDombele Alvaro" -> "Tanguy Ndombele";
+            case "Thiago AlcÃ¡ntara", "Thiago Alcântara", "Thiago AlcÃ¢ntara" -> "Thiago Alcantara";
+            case "Trincão" -> "Francisco Trincão";
             case "Valentino Livramento" -> "Tino Livramento";
+            case "Zanka" -> "Mathias Jørgensen";
             default -> name;
         };
     }

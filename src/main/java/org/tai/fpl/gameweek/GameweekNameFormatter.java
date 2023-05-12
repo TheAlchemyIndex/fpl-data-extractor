@@ -3,6 +3,12 @@ package org.tai.fpl.gameweek;
 public class GameweekNameFormatter {
 
     public static String formatName(String name) {
+
+        /* Temporary fix */
+        if (name.contains("Thiago Alc")) {
+            name = "Thiago Alcantara";
+        }
+
         return switch (name) {
             case "Adama Traoré Diarra" -> "Adama Traoré";
             case "Adrián San Miguel del Castillo" -> "Adrián";
@@ -26,7 +32,7 @@ public class GameweekNameFormatter {
             case "Bjorn Engels" -> "Björn Engels";
             case "Bobby De Cordova-Reid", "Bobby Decordova-Reid" -> "Bobby Reid";
             case "Borja González Tomás", "Borja GonzÃ¡lez TomÃ¡s" -> "Borja Bastón";
-            case "Bruno André Cavaco Jordão" -> "Bruno Jordão";
+            case "Bruno André Cavaco Jordão", "Bruno Jordao" -> "Bruno Jordão";
             case "Bruno Borges Fernandes", "Bruno Miguel Borges Fernandes" -> "Bruno Fernandes";
             case "Bruno Guimarães Rodriguez Moura" -> "Bruno Guimarães";
             case "Carlos Henrique Casimiro" -> "Casemiro";
@@ -53,7 +59,7 @@ public class GameweekNameFormatter {
             case "Emerson Palmieri dos Santos" -> "Emerson";
             case "Emiliano Buendía Stati" -> "Emiliano Buendía";
             case "Emiliano Martínez Romero" -> "Emiliano Martínez";
-            case "Fábio Freitas Gouveia Carvalho" -> "Fábio Carvalho";
+            case "Fábio Freitas Gouveia Carvalho", "Fabio Carvalho" -> "Fábio Carvalho";
             case "Fábio Ferreira Vieira" -> "Fábio Vieira";
             case "Fabio Henrique Tavares" -> "Fabinho";
             case "Facundo Pellistri Rebollo" -> "Facundo Pellistri";
@@ -78,6 +84,7 @@ public class GameweekNameFormatter {
             case "Hugo Bueno López" -> "Hugo Bueno";
             case "Ian Carlo Poveda-Ocampo" -> "Ian Poveda-Ocampo";
             case "Isaac Success Ajayi" -> "Isaac Success";
+            case "Ismaila Sarr" -> "Ismaïla Sarr";
             case "Ivan Ricardo Neves Abreu Cavaleiro" -> "Ivan Cavaleiro";
             case "Javier Manquillo GaitÃ¡n", "Javier Manquillo Gaitán" -> "Javier Manquillo";
             case "Javier Hernández Balcázar" -> "Javier Hernández";
@@ -94,7 +101,7 @@ public class GameweekNameFormatter {
             case "Jonathan Castro Otto" -> "Jonny";
             case "Jorge Luiz Frello Filho" -> "Jorginho";
             case "José Ángel Esmorís Tasende" -> "Angeliño";
-            case "José Ignacio Peleteiro Ramallo" -> "Jota";
+            case "José Ignacio Peleteiro Ramallo", "JosÃ© Ignacio Peleteiro Romallo" -> "Jota";
             case "José Malheiro de Sá" -> "José Sá";
             case "Joseph Willock" -> "Joe Willock";
             case "Juan Camilo Hernández Suárez" -> "Juan Camilo Hernández";
@@ -120,6 +127,7 @@ public class GameweekNameFormatter {
             case "Miguel Almirón Rejala" -> "Miguel Almirón";
             case "Mohamed Naser El Sayed Elneny" -> "Mohamed Elneny";
             case "Moisés Caicedo Corozo" -> "Moisés Caicedo";
+            case "Muhamed BeÅ¡iÄ‡" -> "Muhamed Bešić";
             case "Nélson Cabral Semedo" -> "Nélson Semedo";
             case "Norberto Murara Neto" -> "Neto";
             case "Nuno Varela Tavares" -> "Nuno Tavares";
@@ -138,7 +146,7 @@ public class GameweekNameFormatter {
             case "Renan Augusto Lodi dos Santos" -> "Renan Lodi";
             case "Richarlison de Andrade" -> "Richarlison";
             case "Robert Kenedy Nunes do Nascimento" -> "Kenedy";
-            case "Roberto Jiménez Gago" -> "Roberto Jiménez";
+            case "Roberto Jiménez Gago", "Roberto Jimenez Gago" -> "Roberto Jiménez";
             case "Rodrigo Moreno" -> "Rodrigo";
             case "Rúben da Silva Neves", "Rúben Diogo da Silva Neves" -> "Rúben Neves";
             case "Rúben Gato Alves Dias", "Rúben Santos Gato Alves Dias" -> "Rúben Dias";
@@ -152,12 +160,12 @@ public class GameweekNameFormatter {
             case "Solomon March" -> "Solly March";
             case "Sung-yueng Ki" -> "Ki Sung-yueng";
             case "Thiago Alcântara do Nascimento", "Thiago AlcÃ¡ntara do Nascimento" -> "Thiago Alcântara";
-            case "Thiago Emiliano da Silva" -> "Thiago Silva";
-            case "Tote António Gomes" -> "Toti";
+            case "Thiago Emiliano da Silva", "Thiago Thiago" -> "Thiago Silva";
+            case "Tote António Gomes", "Toti António Gomes" -> "Toti";
             case "Vitor Ferreira" -> "Vitinha";
             case "Wesley Moraes" -> "Wesley";
             case "Willian Borges da Silva", "Willian Borges Da Silva" -> "Willian";
-            case "Willian José da Silva" -> "Willian José";
+            case "Willian José da Silva", "Willian José Da Silva" -> "Willian José";
             default -> name;
         };
     }

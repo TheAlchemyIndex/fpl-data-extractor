@@ -64,7 +64,17 @@ public class Understat {
             JSONArray playerData = getJsonArray(TARGET_URL, PLAYERS_DATA_VAR);
             for (int i = 0; i < playerData.length(); i++) {
                 int playerId = playerData.getJSONObject(i).getInt("id");
-                String playerName = formatName(playerData.getJSONObject(i).getString("player_name"));
+                String playerName;
+
+                /* Temporary fix */
+                if (playerId == 1245) {
+                    playerName = "Emerson";
+                } else if (playerId == 7430) {
+                    playerName = "Emerson Royal";
+                } else {
+                    playerName = formatName(playerData.getJSONObject(i).getString("player_name"));
+                }
+
                 JSONArray playerMatchesData = getJsonArray(String.format("%s%s", TARGET_PLAYER_URL, playerId), MATCHES_DATA_VAR);
                 JSONArray currentSeasonData = filterCurrentSeason(playerMatchesData);
                 JSONArray playerMatchesDataWithName = addPlayerName(currentSeasonData, playerName);

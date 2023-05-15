@@ -24,7 +24,7 @@ public class Main {
         DataExtractor dataExtractor = new DataExtractor(TARGET_URL);
         JSONObject data = dataExtractor.getJsonFromUrl();
 
-        GameweekExtractor gameweekExtractor = new GameweekExtractor(data);
+        GameweekExtractor gameweekExtractor = new GameweekExtractor(data, season);
         gameweekExtractor.getGameweekData(fileWriter);
         int currentGameweekNumber = gameweekExtractor.getCurrentGameweekNumber();
 

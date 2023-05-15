@@ -30,11 +30,13 @@ public class Gameweek {
     private final int gameweekNumber;
     private final JSONArray players;
     private final Map<Integer, String> teams;
+    private final String season;
 
-    public Gameweek(int gameweekNumber, JSONArray players, Map<Integer, String> teams) {
+    public Gameweek(int gameweekNumber, JSONArray players, Map<Integer, String> teams, String season) {
         this.gameweekNumber = gameweekNumber;
         this.players = players;
         this.teams = teams;
+        this.season = season;
     }
 
     public JSONArray getCurrentGameweekData() {
@@ -56,6 +58,7 @@ public class Gameweek {
                     playerGameweekData.put(PlayerColumns.POSITION, playerIdentifiers.get(PlayerColumns.POSITION));
                     playerGameweekData.put(PlayerColumns.TEAM, playerIdentifiers.get(PlayerColumns.TEAM));
                     playerGameweekData.put(PlayerColumns.XP, playerIdentifiers.get(PlayerColumns.XP));
+                    playerGameweekData.put("season", this.season);
                     currentGameweekData.put(playerGameweekData);
                 }
             }

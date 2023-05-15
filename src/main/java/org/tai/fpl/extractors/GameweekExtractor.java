@@ -19,12 +19,14 @@ import java.util.Map;
 public class GameweekExtractor {
     private static final Logger LOGGER = LogManager.getLogger(GameweekExtractor.class);
     private final JSONObject jsonData;
+    private final String season;
 
-    public GameweekExtractor(JSONObject jsonData) throws IllegalArgumentException {
+    public GameweekExtractor(JSONObject jsonData, String season) throws IllegalArgumentException {
         if (jsonData == null) {
             throw new IllegalArgumentException("GameweekExtractor initialised with a null value.");
         }
         this.jsonData = jsonData;
+        this.season = season;
     }
 
     public void getGameweekData(FileWriter fileWriter) {
@@ -41,7 +43,7 @@ public class GameweekExtractor {
             TeamProvider teamProvider = new TeamProvider(this.jsonData.getJSONArray((JsonKeys.TEAMS)));
             Map<Integer, String> teams = teamProvider.getTeams();
 
-            Gameweek gameweekProvider = new Gameweek(currentGameweekNumber, players, teams);
+            Gameweek gameweekProvider = new Gameweek(currentGameweekNumber, players, teams, this.season);
             JSONArray currentGameweekData = gameweekProvider.getCurrentGameweekData();
 
             fileWriter.writeDataToSeasonPath(elementProvider.getData(), FileNames.PLAYERS_RAW_FILENAME);

@@ -25,6 +25,7 @@ public class GameweekExtractorTests extends TestWriterHelper {
     private static final String TEST_COL2 = "test2";
     private static final String TEST_COL3 = "test3";
     private static final String IS_CURRENT_COL = "is_current";
+    private static final String SEASON_COL = "season";
 
     private static GameweekExtractor GAMEWEEK_EXTRACTOR;
     private static final FileWriter FILE_WRITER = new FileWriter(BASE_FILEPATH, SEASON);
@@ -96,7 +97,7 @@ public class GameweekExtractorTests extends TestWriterHelper {
 
     @Test
     public void getCurrentGameweekNumberValidJsonData() {
-        GAMEWEEK_EXTRACTOR = new GameweekExtractor(VALID_MAIN_DATA_JSON_OBJECT);
+        GAMEWEEK_EXTRACTOR = new GameweekExtractor(VALID_MAIN_DATA_JSON_OBJECT, SEASON_COL);
         int currentGameweekNumber = GAMEWEEK_EXTRACTOR.getCurrentGameweekNumber();
 
         assertEquals(2, currentGameweekNumber);
@@ -125,7 +126,7 @@ public class GameweekExtractorTests extends TestWriterHelper {
                 .put(validPlayerJsonObject1)
                 .put(validPlayerJsonObject2);
 
-        GAMEWEEK_EXTRACTOR = new GameweekExtractor(VALID_MAIN_DATA_JSON_OBJECT);
+        GAMEWEEK_EXTRACTOR = new GameweekExtractor(VALID_MAIN_DATA_JSON_OBJECT, SEASON_COL);
         GAMEWEEK_EXTRACTOR.getGameweekData(FILE_WRITER);
 
         File playerIdsFile = new File("src/test/resources/2022-23/player_idlist.csv");
@@ -136,7 +137,7 @@ public class GameweekExtractorTests extends TestWriterHelper {
 
     @Test
     public void getGameweekDataValidJsonDataPlayersRaw() {
-        GAMEWEEK_EXTRACTOR = new GameweekExtractor(VALID_MAIN_DATA_JSON_OBJECT);
+        GAMEWEEK_EXTRACTOR = new GameweekExtractor(VALID_MAIN_DATA_JSON_OBJECT, SEASON_COL);
         GAMEWEEK_EXTRACTOR.getGameweekData(FILE_WRITER);
 
         File playersRawFile = new File(String.format("%s%s", FULL_FILEPATH, "players_raw.csv"));
@@ -147,7 +148,7 @@ public class GameweekExtractorTests extends TestWriterHelper {
 
     @Test
     public void getGameweekDataValidJsonDataTeams() {
-        GAMEWEEK_EXTRACTOR = new GameweekExtractor(VALID_MAIN_DATA_JSON_OBJECT);
+        GAMEWEEK_EXTRACTOR = new GameweekExtractor(VALID_MAIN_DATA_JSON_OBJECT, SEASON_COL);
         GAMEWEEK_EXTRACTOR.getGameweekData(FILE_WRITER);
 
         File teamsFile = new File(String.format("%s%s", FULL_FILEPATH, "teams.csv"));
@@ -158,18 +159,18 @@ public class GameweekExtractorTests extends TestWriterHelper {
 
     @Test
     public void getGameweekDataInvalidJsonData() {
-        GAMEWEEK_EXTRACTOR = new GameweekExtractor(INVALID_MAIN_DATA_JSON_OBJECT);
+        GAMEWEEK_EXTRACTOR = new GameweekExtractor(INVALID_MAIN_DATA_JSON_OBJECT, SEASON_COL);
         GAMEWEEK_EXTRACTOR.getGameweekData(FILE_WRITER);
     }
 
     @Test(expected = IllegalArgumentException.class)
     public void getGameweekDataNullFileWriter() {
-        GAMEWEEK_EXTRACTOR = new GameweekExtractor(VALID_MAIN_DATA_JSON_OBJECT);
+        GAMEWEEK_EXTRACTOR = new GameweekExtractor(VALID_MAIN_DATA_JSON_OBJECT, SEASON_COL);
         GAMEWEEK_EXTRACTOR.getGameweekData(null);
     }
 
     @Test(expected = IllegalArgumentException.class)
     public void constructorNullJsonData() {
-        GAMEWEEK_EXTRACTOR = new GameweekExtractor(null);
+        GAMEWEEK_EXTRACTOR = new GameweekExtractor(null, SEASON_COL);
     }
 }

@@ -66,6 +66,44 @@ public class UnderstatJoiner {
         }
     }
 
+    public void joinTeamData(FileWriter fileWriter, String baseFilePath, String subFilePath) {
+        CsvMapper csvMapper = new CsvMapper();
+        ObjectMapper objectMapper = new ObjectMapper();
+        JSONArray allTeams = new JSONArray();
+
+        try {
+            for (int i = this.startingSeasonStart, j = this.startingSeasonEnd; j <= this.endingSeasonEnd; i++, j++) {
+                File folder = new File(String.format("%s%s-%s/understat/teams/", baseFilePath, i, j));
+                if (folder.isDirectory()) {
+                    File[] files = folder.listFiles();
+                    for (File file : files) {
+                        if (file.isFile() && file.getName().endsWith(".csv")) {
+                            List<Map<String, String>> rows;
+                            try (MappingIterator<Map<String, String>> mappingIterator = csvMapper
+                                    .readerWithSchemaFor(Map.class)
+                                    .with(CsvSchema.emptySchema().withHeader())
+                                    .readValues(new File(file.getAbsolutePath()))) {
+                                rows = mappingIterator.readAll();
+                            }
+
+                            for (Map<String, String> row : rows) {
+                                String jsonString = objectMapper.writeValueAsString(row);
+                                allTeams.put(new JSONObject(jsonString));
+                            }
+                            try {
+                                fileWriter.writeDataToBasePath(allTeams, subFilePath);
+                            } catch (IOException ioException) {
+                                LOGGER.error("Error writing team understat data to file: " + ioException.getMessage());
+                            }
+                        }
+                    }
+                }
+            }
+        } catch(IOException ioException) {
+            LOGGER.error("Error joining team understat files together: " + ioException.getMessage());
+        }
+    }
+
     private void validateSeasonParameters(int startingSeasonStart, int startingSeasonEnd, int endingSeasonEnd) throws IllegalArgumentException {
         if (startingSeasonStart < 2016) {
             throw new IllegalArgumentException("Value for startingSeasonStart can not be less than 2016.");

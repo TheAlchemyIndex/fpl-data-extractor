@@ -40,5 +40,6 @@ public class Main {
 
         UnderstatJoiner understatJoiner = new UnderstatJoiner(2019, 2020, 2023);
         understatJoiner.joinPlayerData(fileWriter, baseFilePath, String.format("Understat - %s-%s seasons.csv", 2019, 23));
+        understatJoiner.joinTeamData(fileWriter, baseFilePath, String.format("Understat Teams - %s-%s seasons.csv", 2019, 23));
     }
 }

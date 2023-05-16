@@ -44,8 +44,9 @@ public class Understat {
                 JSONObject teamData = teamsData.getJSONObject(keyStr);
                 String teamName = teamData.getString("title");
                 JSONArray teamHistory = teamData.getJSONArray("history");
+                JSONArray teamMatchesDataWithTeamName = addTeamName(teamHistory, teamName);
                 try {
-                    this.fileWriter.writeDataToSeasonPath(teamHistory, String.format("%s%s.csv", FileNames.UNDERSTAT_TEAMS_FILENAME, teamName));
+                    this.fileWriter.writeDataToSeasonPath(teamMatchesDataWithTeamName, String.format("%s%s.csv", FileNames.UNDERSTAT_TEAMS_FILENAME, teamName));
                 } catch (IOException e) {
                     throw new RuntimeException(e);
                 }
@@ -149,6 +150,14 @@ public class Understat {
             matchesData.put("name", playerName);
         }
         return playerData;
+    }
+
+    private static JSONArray addTeamName(JSONArray teamData, String teamName) {
+        for (int i = 0; i < teamData.length(); i++) {
+            JSONObject matchesData = teamData.getJSONObject(i);
+            matchesData.put("team", teamName);
+        }
+        return teamData;
     }
 
     private JSONArray filterCurrentSeason(JSONArray playerData) {

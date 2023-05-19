@@ -5,6 +5,7 @@ import org.tai.fpl.config.FplConfig;
 import org.tai.fpl.extractors.DataExtractor;
 import org.tai.fpl.extractors.GameweekExtractor;
 import org.tai.fpl.fixtures.FixtureExtractor;
+import org.tai.fpl.joiners.FixtureJoiner;
 import org.tai.fpl.joiners.GameweekJoiner;
 import org.tai.fpl.joiners.SeasonJoiner;
 import org.tai.fpl.joiners.UnderstatJoiner;
@@ -53,5 +54,9 @@ public class Main {
 
         FixtureExtractor fixturesExtractor = new FixtureExtractor(fileWriter, teams);
         fixturesExtractor.getFixtures();
+
+        /* Joiner classes are all simular, will fix and remove duplication later */
+        FixtureJoiner fixtureJoiner = new FixtureJoiner(2019, 2020, 2023);
+        fixtureJoiner.joinFixtureData(fileWriter, baseFilePath, String.format("Fixtures - %s-%s seasons.csv", 2019, 23));
     }
 }

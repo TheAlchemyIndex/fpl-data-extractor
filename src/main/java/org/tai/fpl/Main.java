@@ -4,11 +4,16 @@ import org.json.JSONObject;
 import org.tai.fpl.config.FplConfig;
 import org.tai.fpl.extractors.DataExtractor;
 import org.tai.fpl.extractors.GameweekExtractor;
+import org.tai.fpl.fixtures.FixtureExtractor;
 import org.tai.fpl.joiners.GameweekJoiner;
 import org.tai.fpl.joiners.SeasonJoiner;
 import org.tai.fpl.joiners.UnderstatJoiner;
+import org.tai.fpl.providers.impl.TeamProvider;
+import org.tai.fpl.providers.util.constants.JsonKeys;
 import org.tai.fpl.understat.Understat;
 import org.tai.fpl.writers.FileWriter;
+
+import java.util.Map;
 
 public class Main {
     private static final String TARGET_URL = "https://fantasy.premierleague.com/api/bootstrap-static/";
@@ -23,6 +28,10 @@ public class Main {
 
         DataExtractor dataExtractor = new DataExtractor(TARGET_URL);
         JSONObject data = dataExtractor.getJsonFromUrl();
+
+        /* Duplicated in other classes, will fix and make more efficient later */
+        TeamProvider teamProvider = new TeamProvider(data.getJSONArray((JsonKeys.TEAMS)));
+        Map<Integer, String> teams = teamProvider.getTeams();
 
         GameweekExtractor gameweekExtractor = new GameweekExtractor(data, season);
         gameweekExtractor.getGameweekData(fileWriter);
@@ -41,5 +50,8 @@ public class Main {
         UnderstatJoiner understatJoiner = new UnderstatJoiner(2019, 2020, 2023);
         understatJoiner.joinPlayerData(fileWriter, baseFilePath, String.format("Understat - %s-%s seasons.csv", 2019, 23));
         understatJoiner.joinTeamData(fileWriter, baseFilePath, String.format("Understat Teams - %s-%s seasons.csv", 2019, 23));
+
+        FixtureExtractor fixturesExtractor = new FixtureExtractor(fileWriter, teams);
+        fixturesExtractor.getFixtures();
     }
 }

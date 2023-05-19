@@ -16,8 +16,6 @@ import org.json.JSONObject;
 import java.io.IOException;
 import java.net.MalformedURLException;
 import java.net.URL;
-import java.time.LocalDateTime;
-import java.time.format.DateTimeFormatter;
 import java.util.HashMap;
 import java.util.Map;
 
@@ -97,21 +95,6 @@ public class Gameweek {
 
     private String formatTeam(int teamId) {
         return this.teams.get(teamId);
-    }
-
-    /* Will be used later */
-    private Map<String, Object> formatDate(String dateString) {
-        Map<String, Object> dateTimeMap = new HashMap<>();
-        LocalDateTime localDateTime = LocalDateTime.parse(dateString, DateTimeFormatter.ISO_DATE_TIME);
-
-        dateTimeMap.put("year", localDateTime.getYear());
-        dateTimeMap.put("month", localDateTime.getMonthValue());
-        dateTimeMap.put("day", localDateTime.getDayOfMonth());
-        dateTimeMap.put("hour", localDateTime.getHour());
-        dateTimeMap.put("minute", localDateTime.getMinute());
-        dateTimeMap.put("second", localDateTime.getSecond());
-
-        return dateTimeMap;
     }
 
     private JSONArray getPlayerGameweekHistory(Integer playerId) {

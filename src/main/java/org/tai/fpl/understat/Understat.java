@@ -121,9 +121,9 @@ public class Understat {
     }
 
     private static JSONArray hexToJsonArray(String hexString) throws UnsupportedEncodingException {
-        String jsonString = hexString.replaceAll("\\\\x", "%"); // Convert the hex string to a regular string
-        jsonString = java.net.URLDecoder.decode(jsonString, "UTF-8"); // Decode the URL-encoded characters
-        return new JSONArray(jsonString); // Parse the JSON string into a JSONObject
+        String jsonString = hexString.replaceAll("\\\\x", "%");
+        jsonString = java.net.URLDecoder.decode(jsonString, "UTF-8");
+        return new JSONArray(jsonString);
     }
 
     private static JSONObject getJsonObject(String url, String targetVar) throws IOException {

@@ -7,6 +7,7 @@ public class FileNames {
     public static final String GAMEWEEK_FILENAME = "gws/gw";
     public static final String UNDERSTAT_TEAMS_FILENAME = "understat/teams/";
     public static final String UNDERSTAT_PLAYERS_FILENAME = "understat/players/";
+    public static final String FIXTURES_FILENAME = "fixtures/fixtures.csv";
 
     private FileNames() {}
 }

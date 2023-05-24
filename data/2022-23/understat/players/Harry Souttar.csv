@@ -1,4 +1,6 @@
 date,npxG,key_passes,npg,xGChain,xA,h_goals,a_team,xG,roster_id,assists,name,season,a_goals,time,position,id,shots,h_team,xGBuildup,goals
+2023-05-22,0,0,0,0,0,0,Leicester,0,599385,0,Harry Souttar,2022,0,90,DC,18567,0,Newcastle United,0,0
+2023-05-15,0,0,0,0,0,0,Liverpool,0,597571,0,Harry Souttar,2022,3,1,Sub,18559,0,Leicester,0,0
 2023-04-15,0.05470599979162216,1,0,0.3584359884262085,0.05664610117673874,3,Leicester,0.05470599979162216,588683,0,Harry Souttar,2022,1,90,DC,18506,1,Manchester City,0.3584359884262085,0
 2023-04-04,0.2418850064277649,0,0,0.2454269975423813,0,1,Aston Villa,0.2418850064277649,585976,0,Harry Souttar,2022,2,90,DC,18263,2,Leicester,0.2454269975423813,0
 2023-04-01,0,0,0,0.048829298466444016,0,2,Leicester,0,584720,0,Harry Souttar,2022,1,90,DC,18486,0,Crystal Palace,0.048829298466444016,0

@@ -29,11 +29,11 @@ public class Understat {
     private static final String MATCHES_DATA_VAR = "var matchesData";
 
     private final FileWriter fileWriter;
-    private final String seasonStartingYear;
+    private final String season;
 
-    public Understat(FileWriter fileWriter, String seasonStartingYear) {
+    public Understat(FileWriter fileWriter, String season) {
         this.fileWriter = fileWriter;
-        this.seasonStartingYear = seasonStartingYear.substring(0, 4);
+        this.season = season;
     }
 
     public void getTeamData() {
@@ -42,9 +42,9 @@ public class Understat {
             teamsData.keySet().forEach(keyStr ->
             {
                 JSONObject teamData = teamsData.getJSONObject(keyStr);
-                String teamName = teamData.getString("title");
+                String teamName = formatTeamName(teamData.getString("title"));
                 JSONArray teamHistory = teamData.getJSONArray("history");
-                JSONArray teamMatchesDataWithTeamName = addTeamName(teamHistory, teamName);
+                JSONArray teamMatchesDataWithTeamName = addTeamNameAndSeason(teamHistory, teamName, this.season);
                 try {
                     this.fileWriter.writeDataToSeasonPath(teamMatchesDataWithTeamName, String.format("%s%s.csv", FileNames.UNDERSTAT_TEAMS_FILENAME, teamName));
                 } catch (IOException e) {
@@ -152,10 +152,11 @@ public class Understat {
         return playerData;
     }
 
-    private static JSONArray addTeamName(JSONArray teamData, String teamName) {
+    private static JSONArray addTeamNameAndSeason(JSONArray teamData, String teamName, String season) {
         for (int i = 0; i < teamData.length(); i++) {
             JSONObject matchesData = teamData.getJSONObject(i);
             matchesData.put("team", teamName);
+            matchesData.put("season", season);
         }
         return teamData;
     }
@@ -164,10 +165,24 @@ public class Understat {
         JSONArray currentSeasonData = new JSONArray();
         for (int i = 0; i < playerData.length(); i++) {
             JSONObject matchesData = playerData.getJSONObject(i);
-            if (matchesData.get("season").equals(this.seasonStartingYear)) {
+            if (matchesData.get("season").equals(this.season.substring(0, 4))) {
                 currentSeasonData.put(matchesData);
             }
         }
         return currentSeasonData;
+    }
+
+    private String formatTeamName(String teamName) {
+        return switch (teamName) {
+            case "Manchester City" -> "Man City";
+            case "Manchester United" -> "Man Utd";
+            case "Newcastle United" -> "Newcastle";
+            case "Nottingham Forest" -> "Nott'm Forest";
+            case "Sheffield United" -> "Sheffield Utd";
+            case "Tottenham" -> "Spurs";
+            case "West Bromwich Albion" -> "West Brom";
+            case "Wolverhampton Wanderers" -> "Wolves";
+            default -> teamName;
+        };
     }
 }

@@ -1,4 +1,6 @@
 date,npxG,key_passes,npg,xGChain,xA,h_goals,a_team,xG,roster_id,assists,name,season,a_goals,time,position,id,shots,h_team,xGBuildup,goals
+2023-05-28,0,4,0,0.41011181473731995,0.3732905089855194,1,Newcastle United,0,600922,0,Carney Chukwuemeka,2022,1,26,Sub,18575,0,Chelsea,0.24418629705905914,0
+2023-05-25,0.027283156290650368,0,0,1.4540294408798218,0,4,Chelsea,0.027283156290650368,599731,0,Carney Chukwuemeka,2022,1,89,MC,18520,1,Manchester United,1.4267463684082031,0
 2023-05-21,0,1,0,0.040493112057447433,0.040493112057447433,1,Chelsea,0,598997,0,Carney Chukwuemeka,2022,0,7,Sub,18566,0,Manchester City,0,0
 2023-03-18,0,0,0,0,0,2,Everton,0,583273,0,Carney Chukwuemeka,2022,2,1,Sub,18476,0,Chelsea,0,0
 2023-03-11,0,0,0,0,0,1,Chelsea,0,581316,0,Carney Chukwuemeka,2022,3,2,Sub,18467,0,Leicester,0,0

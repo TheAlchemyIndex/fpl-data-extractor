@@ -1,4 +1,5 @@
 date,npxG,key_passes,npg,xGChain,xA,h_goals,a_team,xG,roster_id,assists,name,season,a_goals,time,position,id,shots,h_team,xGBuildup,goals
+2023-05-28,0,1,0,0.9525392651557922,0.5510002970695496,1,Tottenham,0,601024,1,Pape Matar Sarr,2022,4,21,Sub,18578,0,Leeds,0.4015389680862427,0
 2023-04-30,0,0,0,0,0,4,Tottenham,0,593282,0,Pape Matar Sarr,2022,3,22,Sub,18539,0,Liverpool,0,0
 2023-04-23,0,0,0,0.0846855416893959,0,6,Tottenham,0,590907,0,Pape Matar Sarr,2022,1,22,MC,18521,0,Newcastle United,0.0846855416893959,0
 2023-04-08,0,0,0,0,0,2,Brighton,0,586731,0,Pape Matar Sarr,2022,1,1,Sub,18500,0,Tottenham,0,0

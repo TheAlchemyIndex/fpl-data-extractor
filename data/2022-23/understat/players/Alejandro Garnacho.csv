@@ -1,4 +1,6 @@
 date,npxG,key_passes,npg,xGChain,xA,h_goals,a_team,xG,roster_id,assists,name,season,a_goals,time,position,id,shots,h_team,xGBuildup,goals
+2023-05-28,0.4581412971019745,0,0,0.5130376815795898,0,2,Fulham,0.4581412971019745,601068,0,Alejandro Garnacho,2022,1,69,AML,18580,4,Manchester United,0.09826315194368362,0
+2023-05-25,0.49297505617141724,1,0,0.5310577154159546,0.03808268532156944,4,Chelsea,0.49297505617141724,599720,0,Alejandro Garnacho,2022,1,13,Sub,18520,2,Manchester United,0,0
 2023-05-20,0.07441724091768265,0,0,0.11442765593528748,0,0,Manchester United,0.07441724091768265,598110,0,Alejandro Garnacho,2022,1,17,Sub,18562,1,Bournemouth,0.040010422468185425,0
 2023-05-13,0.5452311038970947,0,1,0.5452311038970947,0,2,Wolverhampton Wanderers,0.5452311038970947,596433,0,Alejandro Garnacho,2022,0,6,Sub,18560,1,Manchester United,0,1
 2023-03-12,0,0,0,0,0,0,Southampton,0,581787,0,Alejandro Garnacho,2022,0,16,Sub,18468,0,Manchester United,0,0

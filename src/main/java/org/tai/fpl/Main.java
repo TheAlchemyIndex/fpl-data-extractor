@@ -8,10 +8,8 @@ import org.tai.fpl.fixtures.FixtureExtractor;
 import org.tai.fpl.joiners.FixtureJoiner;
 import org.tai.fpl.joiners.GameweekJoiner;
 import org.tai.fpl.joiners.SeasonJoiner;
-import org.tai.fpl.joiners.UnderstatJoiner;
 import org.tai.fpl.providers.impl.TeamProvider;
 import org.tai.fpl.providers.util.constants.JsonKeys;
-import org.tai.fpl.understat.Understat;
 import org.tai.fpl.writers.FileWriter;
 
 import java.util.Map;
@@ -43,14 +41,6 @@ public class Main {
 
         SeasonJoiner seasonJoiner = new SeasonJoiner(2019, 2020, 2023);
         seasonJoiner.joinSeasons(fileWriter, baseFilePath, String.format("%s-%s seasons.csv", 2019, 23));
-
-        Understat understat = new Understat(fileWriter, season);
-        understat.getTeamData();
-        understat.getPlayerData();
-
-        UnderstatJoiner understatJoiner = new UnderstatJoiner(2019, 2020, 2023);
-        understatJoiner.joinPlayerData(fileWriter, baseFilePath, String.format("Understat - %s-%s seasons.csv", 2019, 23));
-        understatJoiner.joinTeamData(fileWriter, baseFilePath, String.format("Understat Teams - %s-%s seasons.csv", 2019, 23));
 
         FixtureExtractor fixturesExtractor = new FixtureExtractor(fileWriter, teams);
         fixturesExtractor.getFixtures();

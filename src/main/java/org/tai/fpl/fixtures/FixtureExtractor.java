@@ -7,8 +7,6 @@ import org.json.JSONException;
 import org.json.JSONObject;
 import org.tai.fpl.connectors.UrlConnector;
 import org.tai.fpl.parsers.JsonParser;
-import org.tai.fpl.providers.util.constants.GameweekColumns;
-import org.tai.fpl.understat.Understat;
 import org.tai.fpl.util.constants.FileNames;
 import org.tai.fpl.writers.FileWriter;
 
@@ -19,7 +17,7 @@ import java.util.Map;
 
 public class FixtureExtractor {
 
-    private static final Logger LOGGER = LogManager.getLogger(Understat.class);
+    private static final Logger LOGGER = LogManager.getLogger(FixtureExtractor.class);
     private static final String TARGET_URL = "https://fantasy.premierleague.com/api/fixtures/";
 
     private final FileWriter fileWriter;

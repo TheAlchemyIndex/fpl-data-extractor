@@ -9,7 +9,6 @@ import org.tai.fpl.gameweek.Gameweek;
 import org.tai.fpl.providers.impl.ElementProvider;
 import org.tai.fpl.providers.impl.EventProvider;
 import org.tai.fpl.providers.impl.PlayerProvider;
-import org.tai.fpl.providers.impl.TeamProvider;
 import org.tai.fpl.providers.util.constants.JsonKeys;
 import org.tai.fpl.util.constants.FileNames;
 import org.tai.fpl.writers.FileWriter;
@@ -20,13 +19,15 @@ import java.util.Map;
 public class GameweekExtractor {
     private static final Logger LOGGER = LogManager.getLogger(GameweekExtractor.class);
     private final JSONObject jsonData;
+    private final Map<Integer, String> teams;
     private final String season;
 
-    public GameweekExtractor(JSONObject jsonData, String season) throws IllegalArgumentException {
+    public GameweekExtractor(JSONObject jsonData, Map<Integer, String> teams, String season) throws IllegalArgumentException {
         if (jsonData == null) {
             throw new IllegalArgumentException("GameweekExtractor initialised with a null value.");
         }
         this.jsonData = jsonData;
+        this.teams = teams;
         this.season = season;
     }
 
@@ -42,14 +43,10 @@ public class GameweekExtractor {
 
             int currentGameweekNumber = getCurrentGameweekNumber();
 
-            TeamProvider teamProvider = new TeamProvider(this.jsonData.getJSONArray((JsonKeys.TEAMS)));
-            Map<Integer, String> teams = teamProvider.getTeams();
-
-            Gameweek gameweekProvider = new Gameweek(currentGameweekNumber, players, teams, this.season);
+            Gameweek gameweekProvider = new Gameweek(currentGameweekNumber, players, this.teams, this.season);
             JSONArray currentGameweekData = gameweekProvider.getCurrentGameweekData();
 
             fileWriter.writeDataToSeasonPath(elementProvider.getData(), FileNames.PLAYERS_RAW_FILENAME);
-            fileWriter.writeDataToSeasonPath(teamProvider.getData(), FileNames.TEAMS_FILENAME);
             fileWriter.writeDataToSeasonPath(players, FileNames.PLAYER_ID_FILENAME);
             fileWriter.writeDataToSeasonPath(currentGameweekData, String.format("%s%s.csv", FileNames.GAMEWEEK_FILENAME, currentGameweekNumber));
         } catch (IllegalArgumentException | JSONException illegalArgumentException) {

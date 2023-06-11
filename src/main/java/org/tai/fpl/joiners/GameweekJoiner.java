@@ -45,11 +45,8 @@ public class GameweekJoiner {
                     String jsonString = objectMapper.writeValueAsString(row);
                     allGameweeks.put(new JSONObject(jsonString));
                 }
-                try {
-                    fileWriter.writeDataToSeasonPath(allGameweeks, subFilePath);
-                } catch (IOException ioException) {
-                    LOGGER.error("Error writing gameweek data to file: " + ioException.getMessage());
-                }
+                fileWriter.writeDataToSeasonPath(allGameweeks, subFilePath);
+
             }
         } catch(IOException ioException) {
             LOGGER.error("Error joining previous gameweek files together: " + ioException.getMessage());

@@ -52,11 +52,7 @@ public class FixtureJoiner {
                                 String jsonString = objectMapper.writeValueAsString(row);
                                 allPlayers.put(new JSONObject(jsonString));
                             }
-                            try {
-                                fileWriter.writeDataToBasePath(allPlayers, subFilePath);
-                            } catch (IOException ioException) {
-                                LOGGER.error("Error writing fixture data to file: " + ioException.getMessage());
-                            }
+                            fileWriter.writeDataToBasePath(allPlayers, subFilePath);
                         }
                     }
                 }

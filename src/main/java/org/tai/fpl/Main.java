@@ -13,7 +13,6 @@ import org.tai.fpl.providers.util.constants.JsonKeys;
 import org.tai.fpl.util.constants.FileNames;
 import org.tai.fpl.writers.FileWriter;
 
-import java.io.IOException;
 import java.util.Map;
 
 public class Main {
@@ -32,11 +31,7 @@ public class Main {
 
         TeamProvider teamProvider = new TeamProvider(data.getJSONArray((JsonKeys.TEAMS)));
         Map<Integer, String> teams = teamProvider.getTeams();
-        try {
-            fileWriter.writeDataToSeasonPath(teamProvider.getData(), FileNames.TEAMS_FILENAME);
-        } catch (IOException ioException) {
-            throw new RuntimeException(String.format("Error writing teams data to file: %s", ioException.getMessage()));
-        }
+        fileWriter.writeDataToSeasonPath(teamProvider.getData(), FileNames.TEAMS_FILENAME);
 
         GameweekExtractor gameweekExtractor = new GameweekExtractor(data, teams, season);
         gameweekExtractor.getGameweekData(fileWriter);

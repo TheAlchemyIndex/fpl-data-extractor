@@ -12,23 +12,28 @@ public class FileWriter {
     private final String baseFilePath;
     private final String season;
 
-    public FileWriter(String baseFilePath, String season) throws IllegalArgumentException {
-        if (baseFilePath == null | season == null) {
-            throw new IllegalArgumentException("FileWriter initialised with null baseFilePath or null season.");
-        }
+    public FileWriter(String baseFilePath, String season) {
         this.baseFilePath = baseFilePath;
         this.season = season;
     }
 
-    public void writeDataToBasePath(JSONArray elements, String subFilePath) throws IOException {
+    public void writeDataToBasePath(JSONArray elements, String subFilePath) {
         File file = new File(String.format("%s/%s", this.baseFilePath, subFilePath));
         String csvString = CDL.toString(elements);
-        FileUtils.writeStringToFile(file, csvString, Charset.defaultCharset());
+        try {
+            FileUtils.writeStringToFile(file, csvString, Charset.defaultCharset());
+        } catch (IOException ioException) {
+            throw new RuntimeException(String.format("Error writing data to file in base file path: %s", ioException.getMessage()));
+        }
     }
 
-    public void writeDataToSeasonPath(JSONArray elements, String subFilePath) throws IOException {
+    public void writeDataToSeasonPath(JSONArray elements, String subFilePath) {
         File file = new File(String.format("%s/%s/%s", this.baseFilePath, this.season, subFilePath));
         String csvString = CDL.toString(elements);
-        FileUtils.writeStringToFile(file, csvString, Charset.defaultCharset());
+        try {
+            FileUtils.writeStringToFile(file, csvString, Charset.defaultCharset());
+        } catch (IOException ioException) {
+            throw new RuntimeException(String.format("Error writing data to file in season file path: %s", ioException.getMessage()));
+        }
     }
 }

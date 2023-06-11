@@ -47,11 +47,7 @@ public class SeasonJoiner {
                     String jsonString = objectMapper.writeValueAsString(row);
                     allSeasons.put(new JSONObject(jsonString));
                 }
-                try {
-                    fileWriter.writeDataToBasePath(allSeasons, subFilePath);
-                } catch (IOException ioException) {
-                    LOGGER.error("Error writing season data to file: " + ioException.getMessage());
-                }
+                fileWriter.writeDataToBasePath(allSeasons, subFilePath);
             }
         } catch(IOException ioException) {
             LOGGER.error("Error joining season files together: " + ioException.getMessage());

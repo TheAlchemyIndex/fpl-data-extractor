@@ -55,8 +55,6 @@ public class GameweekExtractor {
             } else {
                 LOGGER.error("IllegalArgumentException: " + illegalArgumentException.getMessage());
             }
-        } catch (IOException ioException) {
-                LOGGER.error(String.format("Error writing data to file: %s", ioException.getMessage()));
         }
     }
 

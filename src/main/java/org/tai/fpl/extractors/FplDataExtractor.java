@@ -4,7 +4,6 @@ import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 import org.json.JSONException;
 import org.json.JSONObject;
-import org.tai.fpl.Main;
 import org.tai.fpl.connectors.UrlConnector;
 import org.tai.fpl.parsers.JsonParser;
 
@@ -12,33 +11,34 @@ import java.io.IOException;
 import java.net.MalformedURLException;
 import java.net.URL;
 
-public class DataExtractor {
-    private static final Logger LOGGER = LogManager.getLogger(Main.class);
+public class FplDataExtractor {
+    private static final Logger LOGGER = LogManager.getLogger(FplDataExtractor.class);
     private final String url;
 
-    public DataExtractor(String url) {
+    public FplDataExtractor(String url) {
         this.url = url;
     }
 
-    public JSONObject getJsonFromUrl() {
+    public JSONObject getData() {
         JsonParser jsonParser;
-        JSONObject data = new JSONObject();
+        JSONObject data;
 
         try {
             UrlConnector urlConnector = new UrlConnector(new URL(this.url));
             jsonParser = new JsonParser(urlConnector.getResponseString());
             data = jsonParser.parseJsonObject();
+            LOGGER.info(String.format("Successful connection to {%s}, data extraction complete.", this.url));
+            return data;
         } catch(MalformedURLException malformedURLException) {
-            LOGGER.error("Invalid target url provided: " + malformedURLException.getMessage());
+            throw new RuntimeException(String.format("Invalid target url provided {%s}: %s", this.url, malformedURLException.getMessage()));
         } catch(IOException ioException) {
-            LOGGER.error("Error connecting to the provided target url: " + ioException.getMessage());
+            throw new RuntimeException(String.format("Error connecting to the provided target url {%s}: %s", this.url, ioException.getMessage()));
         } catch(RuntimeException runtimeException) {
             if (runtimeException instanceof JSONException) {
-                LOGGER.error("Error parsing JSON data using JsonParser: " + runtimeException.getMessage());
+                throw new RuntimeException(String.format("Error parsing JSON data using JsonParser: %s", runtimeException.getMessage()));
             } else {
-                LOGGER.error("Error connecting to the provided target url: " + runtimeException.getMessage());
+                throw new RuntimeException(String.format("Error connecting to the provided target url {%s}: %s", this.url, runtimeException.getMessage()));
             }
         }
-        return data;
     }
 }

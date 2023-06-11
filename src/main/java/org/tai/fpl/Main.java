@@ -1,10 +1,8 @@
 package org.tai.fpl;
 
-import org.apache.logging.log4j.LogManager;
-import org.apache.logging.log4j.Logger;
 import org.json.JSONObject;
 import org.tai.fpl.config.FplConfig;
-import org.tai.fpl.extractors.DataExtractor;
+import org.tai.fpl.extractors.FplDataExtractor;
 import org.tai.fpl.extractors.GameweekExtractor;
 import org.tai.fpl.fixtures.FixtureExtractor;
 import org.tai.fpl.joiners.FixtureJoiner;
@@ -29,8 +27,8 @@ public class Main {
 
         FileWriter fileWriter = new FileWriter(baseFilePath, season);
 
-        DataExtractor dataExtractor = new DataExtractor(TARGET_URL);
-        JSONObject data = dataExtractor.getJsonFromUrl();
+        FplDataExtractor fplDataExtractor = new FplDataExtractor(TARGET_URL);
+        JSONObject data = fplDataExtractor.getData();
 
         TeamProvider teamProvider = new TeamProvider(data.getJSONArray((JsonKeys.TEAMS)));
         Map<Integer, String> teams = teamProvider.getTeams();

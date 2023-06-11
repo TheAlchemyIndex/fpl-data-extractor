@@ -55,7 +55,7 @@ public class Main {
         FixtureExtractor fixturesExtractor = new FixtureExtractor(fileWriter, teams);
         fixturesExtractor.getFixtures();
 
-//        /* Joiner classes are all simular, will fix and remove duplication later */
+        /* Joiner classes are all simular, will fix and remove duplication later */
         FixtureJoiner fixtureJoiner = new FixtureJoiner(2019, 2020, 2023);
         fixtureJoiner.joinFixtureData(fileWriter, baseFilePath, String.format("Fixtures - %s-%s seasons.csv", 2019, 23));
     }

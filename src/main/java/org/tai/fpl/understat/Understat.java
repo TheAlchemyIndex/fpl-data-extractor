@@ -174,6 +174,7 @@ public class Understat {
 
     private String formatTeamName(String teamName) {
         return switch (teamName) {
+            case "Cardiff" -> "Cardiff City";
             case "Manchester City" -> "Man City";
             case "Manchester United" -> "Man Utd";
             case "Newcastle United" -> "Newcastle";

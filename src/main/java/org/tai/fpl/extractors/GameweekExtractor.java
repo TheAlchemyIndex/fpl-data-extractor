@@ -8,6 +8,7 @@ import org.json.JSONObject;
 import org.tai.fpl.gameweek.Gameweek;
 import org.tai.fpl.providers.impl.ElementProvider;
 import org.tai.fpl.providers.impl.EventProvider;
+import org.tai.fpl.providers.impl.PlayerProvider;
 import org.tai.fpl.providers.impl.TeamProvider;
 import org.tai.fpl.providers.util.constants.JsonKeys;
 import org.tai.fpl.util.constants.FileNames;
@@ -36,7 +37,8 @@ public class GameweekExtractor {
 
         try {
             ElementProvider elementProvider = new ElementProvider(this.jsonData.getJSONArray((JsonKeys.ELEMENTS)));
-            JSONArray players = elementProvider.getPlayers();
+            PlayerProvider playerProvider = new PlayerProvider(elementProvider.getData());
+            JSONArray players = playerProvider.getData();
 
             int currentGameweekNumber = getCurrentGameweekNumber();
 

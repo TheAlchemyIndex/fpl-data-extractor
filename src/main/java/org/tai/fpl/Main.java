@@ -31,23 +31,23 @@ public class Main {
 
         TeamProvider teamProvider = new TeamProvider(fplData.getJSONArray(("teams")));
         Map<Integer, String> teams = teamProvider.getTeams();
-//        fileWriter.writeDataToSeasonPath(teamProvider.getData(), FileNames.TEAMS_FILENAME);
+        fileWriter.writeDataToSeasonPath(teamProvider.getData(), FileNames.TEAMS_FILENAME);
 
         GameweekExtractor gameweekExtractor = new GameweekExtractor(fplData, GAMEWEEK_URL, teams, season, fileWriter);
         gameweekExtractor.getGameweekData();
         int currentGameweekNumber = gameweekExtractor.getCurrentGameweekNumber();
 
-//        GameweekJoiner gameweekJoiner = new GameweekJoiner(currentGameweekNumber);
-//        gameweekJoiner.joinGameweeks(fileWriter, seasonFilePath, "gws/merged_gw.csv");
-//
-//        SeasonJoiner seasonJoiner = new SeasonJoiner(2019, 2020, 2023);
-//        seasonJoiner.joinSeasons(fileWriter, baseFilePath, String.format("%s-%s seasons.csv", 2019, 23));
-//
-//        FixtureExtractor fixturesExtractor = new FixtureExtractor(fileWriter, teams);
-//        fixturesExtractor.getFixtures();
-//
-//        /* Joiner classes are all simular, will fix and remove duplication later */
-//        FixtureJoiner fixtureJoiner = new FixtureJoiner(2019, 2020, 2023);
-//        fixtureJoiner.joinFixtureData(fileWriter, baseFilePath, String.format("Fixtures - %s-%s seasons.csv", 2019, 23));
+        GameweekJoiner gameweekJoiner = new GameweekJoiner(currentGameweekNumber);
+        gameweekJoiner.joinGameweeks(fileWriter, seasonFilePath, "gws/merged_gw.csv");
+
+        SeasonJoiner seasonJoiner = new SeasonJoiner(2019, 2020, 2023);
+        seasonJoiner.joinSeasons(fileWriter, baseFilePath, String.format("%s-%s seasons.csv", 2019, 23));
+
+        FixtureExtractor fixturesExtractor = new FixtureExtractor(fileWriter, teams);
+        fixturesExtractor.getFixtures();
+
+        /* Joiner classes are all simular, will fix and remove duplication later */
+        FixtureJoiner fixtureJoiner = new FixtureJoiner(2019, 2020, 2023);
+        fixtureJoiner.joinFixtureData(fileWriter, baseFilePath, String.format("Fixtures - %s-%s seasons.csv", 2019, 23));
     }
 }

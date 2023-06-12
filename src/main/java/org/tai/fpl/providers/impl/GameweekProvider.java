@@ -1,13 +1,12 @@
-package org.tai.fpl.gameweek;
+package org.tai.fpl.providers.impl;
 
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 import org.json.JSONException;
-import org.tai.fpl.Main;
 import org.tai.fpl.parsers.JsonParser;
 import org.tai.fpl.connectors.UrlConnector;
+import org.tai.fpl.providers.Provider;
 import org.tai.fpl.providers.util.constants.GameweekColumns;
-import org.tai.fpl.providers.util.constants.JsonKeys;
 import org.tai.fpl.providers.util.constants.PlayerColumns;
 import org.tai.fpl.providers.util.constants.PlayerPositions;
 import org.json.JSONArray;
@@ -19,48 +18,43 @@ import java.net.URL;
 import java.util.HashMap;
 import java.util.Map;
 
-import static org.tai.fpl.gameweek.GameweekNameFormatter.formatName;
+import static org.tai.fpl.providers.util.formatters.GameweekNameFormatter.formatName;
 
-public class Gameweek {
-    private static final Logger LOGGER = LogManager.getLogger(Main.class);
-    private static final String TARGET_URL = "https://fantasy.premierleague.com/api/element-summary/";
+public class GameweekProvider implements Provider {
+    private static final Logger LOGGER = LogManager.getLogger(GameweekProvider.class);
 
     private final int gameweekNumber;
+    private final String gameweekUrl;
     private final JSONArray players;
     private final Map<Integer, String> teams;
     private final String season;
 
-    public Gameweek(int gameweekNumber, JSONArray players, Map<Integer, String> teams, String season) {
+    public GameweekProvider(int gameweekNumber, String gameweekUrl, JSONArray players, Map<Integer, String> teams, String season) {
         this.gameweekNumber = gameweekNumber;
+        this.gameweekUrl = gameweekUrl;
         this.players = players;
         this.teams = teams;
         this.season = season;
     }
 
-    public JSONArray getCurrentGameweekData() {
+    public JSONArray getData() {
         JSONArray currentGameweekData = new JSONArray();
+
         for (int i = 0; i < this.players.length(); i++) {
             JSONObject player = this.players.getJSONObject(i);
-            Map<String, Object> playerIdentifiers = getPlayerAttributes(player);
-            Integer playerId = (Integer) playerIdentifiers.get(PlayerColumns.ID);
+            Map<String, Object> playerAttributes = getPlayerAttributes(player);
+            Integer playerId = (Integer) playerAttributes.get(PlayerColumns.ID);
             JSONArray playerGameweekHistory = getPlayerGameweekHistory(playerId);
 
-            JSONObject playerGameweekData;
             for (int j = 0; j < playerGameweekHistory.length(); j++) {
                 JSONObject gameweek = playerGameweekHistory.getJSONObject(j);
                 if (gameweek.getInt(GameweekColumns.ROUND) == this.gameweekNumber) {
-                    playerGameweekData = gameweek;
-                    String opponentTeam = formatTeam(playerGameweekData.getInt("opponent_team"));
-                    playerGameweekData.put("opponent_team", opponentTeam);
-                    playerGameweekData.put(PlayerColumns.NAME, playerIdentifiers.get(PlayerColumns.NAME));
-                    playerGameweekData.put(PlayerColumns.POSITION, playerIdentifiers.get(PlayerColumns.POSITION));
-                    playerGameweekData.put(PlayerColumns.TEAM, playerIdentifiers.get(PlayerColumns.TEAM));
-                    playerGameweekData.put(PlayerColumns.XP, playerIdentifiers.get(PlayerColumns.XP));
-                    playerGameweekData.put("season", this.season);
+                    JSONObject playerGameweekData = getPlayerGameweekData(gameweek, playerAttributes);
                     currentGameweekData.put(playerGameweekData);
                 }
             }
         }
+        LOGGER.info("Current gameweek data extraction complete.");
         return currentGameweekData;
     }
 
@@ -98,25 +92,43 @@ public class Gameweek {
     }
 
     private JSONArray getPlayerGameweekHistory(Integer playerId) {
-        JSONArray playerGameweekHistory = new JSONArray();
-        String url = String.format("%s%s/", TARGET_URL, playerId);
+        JSONArray playerGameweekHistory;
+        String url = String.format("%s%s/", this.gameweekUrl, playerId);
 
         try {
             UrlConnector urlConnector = new UrlConnector(new URL(url));
             JsonParser jsonParser = new JsonParser(urlConnector.getResponseString());
             JSONObject playerData = jsonParser.parseJsonObject();
-            playerGameweekHistory = playerData.getJSONArray((JsonKeys.HISTORY));
+            playerGameweekHistory = playerData.getJSONArray(("history"));
+            return playerGameweekHistory;
         } catch(MalformedURLException malformedURLException) {
-            LOGGER.error("Invalid target url provided: " + malformedURLException.getMessage());
+            throw new RuntimeException(String.format("Invalid gameweek url provided {%s}: %s", this.gameweekUrl,
+                    malformedURLException.getMessage()));
         } catch(IOException ioException) {
-            LOGGER.error("Error connecting to the provided target url: " + ioException.getMessage());
+            throw new RuntimeException(String.format("Error connecting to the provided gameweek url {%s}: %s", this.gameweekUrl,
+                    ioException.getMessage()));
         } catch(RuntimeException runtimeException) {
             if (runtimeException instanceof JSONException) {
-                LOGGER.error("Error parsing JSON data using JsonParser: " + runtimeException.getMessage());
+                throw new RuntimeException(String.format("Error parsing JSON data using JsonParser: %s",
+                        runtimeException.getMessage()));
             } else {
-                LOGGER.error("Error connecting to the provided target url: " + runtimeException.getMessage());
+                throw new RuntimeException(String.format("Error connecting to the provided gameweek url {%s}: %s", this.gameweekUrl,
+                        runtimeException.getMessage()));
             }
         }
-        return playerGameweekHistory;
+    }
+
+    private JSONObject getPlayerGameweekData(JSONObject gameweek, Map<String, Object> playerAttributes) {
+        JSONObject playerGameweekData = gameweek;
+
+        String opponentTeam = formatTeam(playerGameweekData.getInt(PlayerColumns.OPPONENT_TEAM));
+        playerGameweekData.put(PlayerColumns.OPPONENT_TEAM, opponentTeam);
+        playerGameweekData.put(PlayerColumns.NAME, playerAttributes.get(PlayerColumns.NAME));
+        playerGameweekData.put(PlayerColumns.POSITION, playerAttributes.get(PlayerColumns.POSITION));
+        playerGameweekData.put(PlayerColumns.TEAM, playerAttributes.get(PlayerColumns.TEAM));
+        playerGameweekData.put(PlayerColumns.XP, playerAttributes.get(PlayerColumns.XP));
+        playerGameweekData.put(PlayerColumns.SEASON, this.season);
+
+        return playerGameweekData;
     }
 }

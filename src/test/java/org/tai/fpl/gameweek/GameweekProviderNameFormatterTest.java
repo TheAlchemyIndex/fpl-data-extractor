@@ -3,9 +3,9 @@ package org.tai.fpl.gameweek;
 import org.junit.Test;
 
 import static org.junit.Assert.assertEquals;
-import static org.tai.fpl.gameweek.GameweekNameFormatter.formatName;
+import static org.tai.fpl.providers.util.formatters.GameweekNameFormatter.formatName;
 
-public class GameweekNameFormatterTest {
+public class GameweekProviderNameFormatterTest {
 
     private static final String TEST_NAME1 = "Adama Traoré Diarra";
     private static final String EXPECTED_FORMATTED_NAME1 = "Adama Traoré";

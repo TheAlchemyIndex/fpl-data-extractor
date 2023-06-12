@@ -1,4 +1,4 @@
-package org.tai.fpl.gameweek;
+package org.tai.fpl.providers.util.formatters;
 
 public class GameweekNameFormatter {
 

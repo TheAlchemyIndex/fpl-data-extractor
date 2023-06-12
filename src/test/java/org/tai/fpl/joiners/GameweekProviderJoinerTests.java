@@ -11,7 +11,7 @@ import java.io.File;
 import static org.junit.Assert.assertFalse;
 import static org.junit.Assert.assertTrue;
 
-public class GameweekJoinerTests extends TestWriterHelper {
+public class GameweekProviderJoinerTests extends TestWriterHelper {
     private static GameweekJoiner GAMEWEEK_JOINER;
     private static final String BASE_FILEPATH = "src/test/resources/gameweekJoiner/";
     private static final String MERGED_FILENAME = "merged_gw.csv";

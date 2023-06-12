@@ -5,61 +5,59 @@ import org.apache.logging.log4j.Logger;
 import org.json.JSONArray;
 import org.json.JSONException;
 import org.json.JSONObject;
-import org.tai.fpl.gameweek.Gameweek;
-import org.tai.fpl.providers.impl.ElementProvider;
+import org.tai.fpl.providers.impl.GameweekProvider;
 import org.tai.fpl.providers.impl.EventProvider;
 import org.tai.fpl.providers.impl.PlayerProvider;
-import org.tai.fpl.providers.util.constants.JsonKeys;
 import org.tai.fpl.util.constants.FileNames;
 import org.tai.fpl.writers.FileWriter;
 
-import java.io.IOException;
 import java.util.Map;
 
 public class GameweekExtractor {
     private static final Logger LOGGER = LogManager.getLogger(GameweekExtractor.class);
-    private final JSONObject jsonData;
+
+    private final JSONObject fplData;
+    private final String gameweekUrl;
     private final Map<Integer, String> teams;
     private final String season;
+    private final FileWriter fileWriter;
 
-    public GameweekExtractor(JSONObject jsonData, Map<Integer, String> teams, String season) throws IllegalArgumentException {
-        if (jsonData == null) {
-            throw new IllegalArgumentException("GameweekExtractor initialised with a null value.");
-        }
-        this.jsonData = jsonData;
+    public GameweekExtractor(JSONObject fplData, String gameweekUrl, Map<Integer, String> teams, String season,
+                             FileWriter fileWriter) {
+        this.fplData = fplData;
+        this.gameweekUrl = gameweekUrl;
         this.teams = teams;
         this.season = season;
+        this.fileWriter = fileWriter;
     }
 
-    public void getGameweekData(FileWriter fileWriter) {
-        if (fileWriter == null) {
-            throw new IllegalArgumentException("null value passed for fileWriter parameter.");
-        }
-
+    public void getGameweekData() {
         try {
-            ElementProvider elementProvider = new ElementProvider(this.jsonData.getJSONArray((JsonKeys.ELEMENTS)));
-            PlayerProvider playerProvider = new PlayerProvider(elementProvider.getData());
+            JSONArray elements = this.fplData.getJSONArray(("elements"));
+            PlayerProvider playerProvider = new PlayerProvider(elements);
             JSONArray players = playerProvider.getData();
-
             int currentGameweekNumber = getCurrentGameweekNumber();
+            LOGGER.info(String.format("Current gameweek number: {%s} - {%s season}.", currentGameweekNumber, this.season));
 
-            Gameweek gameweekProvider = new Gameweek(currentGameweekNumber, players, this.teams, this.season);
-            JSONArray currentGameweekData = gameweekProvider.getCurrentGameweekData();
+            GameweekProvider gameweekProvider = new GameweekProvider(currentGameweekNumber, gameweekUrl, players, this.teams, this.season);
+            JSONArray currentGameweekData = gameweekProvider.getData();
 
-            fileWriter.writeDataToSeasonPath(elementProvider.getData(), FileNames.PLAYERS_RAW_FILENAME);
-            fileWriter.writeDataToSeasonPath(players, FileNames.PLAYER_ID_FILENAME);
-            fileWriter.writeDataToSeasonPath(currentGameweekData, String.format("%s%s.csv", FileNames.GAMEWEEK_FILENAME, currentGameweekNumber));
+            this.fileWriter.writeDataToSeasonPath(elements, FileNames.PLAYERS_RAW_FILENAME);
+            this.fileWriter.writeDataToSeasonPath(players, FileNames.PLAYER_ID_FILENAME);
+            this.fileWriter.writeDataToSeasonPath(currentGameweekData, String.format("%s%s.csv", FileNames.GAMEWEEK_FILENAME, currentGameweekNumber));
         } catch (IllegalArgumentException | JSONException illegalArgumentException) {
             if (illegalArgumentException instanceof JSONException) {
-                LOGGER.error("Error parsing JSON data using Provider classes: " + illegalArgumentException.getMessage());
+                throw new RuntimeException(String.format("Error parsing JSON data using Provider classes: %s",
+                        illegalArgumentException.getMessage()));
             } else {
-                LOGGER.error("IllegalArgumentException: " + illegalArgumentException.getMessage());
+                throw new RuntimeException(String.format("IllegalArgumentException: %s",
+                        illegalArgumentException.getMessage()));
             }
         }
     }
 
     public int getCurrentGameweekNumber() {
-        EventProvider eventProvider = new EventProvider(this.jsonData.getJSONArray((JsonKeys.EVENTS)));
+        EventProvider eventProvider = new EventProvider(this.fplData.getJSONArray(("events")));
         return eventProvider.getCurrentGameweek();
     }
 }

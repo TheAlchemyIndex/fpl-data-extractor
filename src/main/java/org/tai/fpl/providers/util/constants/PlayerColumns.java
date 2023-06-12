@@ -14,6 +14,8 @@ public final class PlayerColumns {
     public static final String NAME = "name";
     public static final String POSITION = "position";
     public static final String XP = "xP";
+    public static final String OPPONENT_TEAM = "opponent_team";
+    public static final String SEASON = "season";
 
     private PlayerColumns() {}
 }

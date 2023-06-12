@@ -11,7 +11,7 @@ import java.io.File;
 import static org.junit.Assert.assertEquals;
 import static org.junit.Assert.assertTrue;
 
-public class GameweekExtractorTests extends TestWriterHelper {
+public class GameweekProviderExtractorTests extends TestWriterHelper {
 
     private static final String FIRST_NAME_COL = "first_name";
     private static final String SECOND_NAME_COL = "second_name";

@@ -6,6 +6,7 @@ public class FileNames {
     public static final String PLAYER_ID_FILENAME = "player_idlist.csv";
     public static final String GAMEWEEK_FILENAME = "gws/gw";
     public static final String FIXTURES_FILENAME = "fixtures/fixtures.csv";
+    public static final String MERGED_GAMEWEEK_FILENAME = "merged_gw.csv";
 
     private FileNames() {}
 }

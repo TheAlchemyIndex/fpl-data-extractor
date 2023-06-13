@@ -20,9 +20,6 @@ public class GameweekJoiner {
     private final int currentGameweekNumber;
 
     public GameweekJoiner(int currentGameweekNumber) {
-        if (currentGameweekNumber <= 0) {
-            throw new IllegalArgumentException("Gameweek number must be at least 1 or greater, and likely no greater than 38.");
-        }
         this.currentGameweekNumber = currentGameweekNumber;
     }
 
@@ -49,7 +46,7 @@ public class GameweekJoiner {
 
             }
         } catch(IOException ioException) {
-            LOGGER.error("Error joining previous gameweek files together: " + ioException.getMessage());
+            LOGGER.error(String.format("Error joining previous gameweek files together: {%s}", ioException.getMessage()));
         }
     }
 }

@@ -8,6 +8,7 @@ import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 import org.json.JSONArray;
 import org.json.JSONObject;
+import org.tai.fpl.util.constants.FileNames;
 import org.tai.fpl.writers.FileWriter;
 
 import java.io.File;
@@ -39,7 +40,7 @@ public class SeasonJoiner {
                 try (MappingIterator<Map<String, String>> mappingIterator = csvMapper
                         .readerWithSchemaFor(Map.class)
                         .with(CsvSchema.emptySchema().withHeader())
-                        .readValues(new File(String.format("%s%s-%s/gws/merged_gw.csv", baseFilePath, i, j)))) {
+                        .readValues(new File(String.format("%s%s-%s/gws/%s", baseFilePath, i, j, FileNames.MERGED_GAMEWEEK_FILENAME)))) {
                     rows = mappingIterator.readAll();
                 }
 
@@ -50,7 +51,7 @@ public class SeasonJoiner {
                 fileWriter.writeDataToBasePath(allSeasons, subFilePath);
             }
         } catch(IOException ioException) {
-            LOGGER.error("Error joining season files together: " + ioException.getMessage());
+            LOGGER.error(String.format("Error joining season files together: {%s}", ioException.getMessage()));
         }
     }
 

@@ -6,7 +6,6 @@ import org.json.JSONArray;
 import org.json.JSONException;
 import org.json.JSONObject;
 import org.tai.fpl.providers.impl.GameweekProvider;
-import org.tai.fpl.providers.impl.EventProvider;
 import org.tai.fpl.providers.impl.PlayerProvider;
 import org.tai.fpl.util.constants.FileNames;
 import org.tai.fpl.writers.FileWriter;
@@ -15,7 +14,6 @@ import java.util.Map;
 
 public class GameweekExtractor {
     private static final Logger LOGGER = LogManager.getLogger(GameweekExtractor.class);
-
     private final JSONObject fplData;
     private final String gameweekUrl;
     private final Map<Integer, String> teams;
@@ -57,7 +55,15 @@ public class GameweekExtractor {
     }
 
     public int getCurrentGameweekNumber() {
-        EventProvider eventProvider = new EventProvider(this.fplData.getJSONArray(("events")));
-        return eventProvider.getCurrentGameweek();
+        JSONArray events = this.fplData.getJSONArray(("events"));
+        int gameweek = 0;
+
+        for (int i = 0; i < events.length(); i++) {
+            JSONObject event = events.getJSONObject(i);
+            if (event.getBoolean("is_current")) {
+                gameweek = event.getInt("id");
+            };
+        }
+        return gameweek;
     }
 }

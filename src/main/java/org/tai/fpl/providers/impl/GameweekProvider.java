@@ -22,7 +22,6 @@ import static org.tai.fpl.providers.util.formatters.GameweekNameFormatter.format
 
 public class GameweekProvider implements Provider {
     private static final Logger LOGGER = LogManager.getLogger(GameweekProvider.class);
-
     private final int gameweekNumber;
     private final String gameweekUrl;
     private final JSONArray players;

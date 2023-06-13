@@ -15,7 +15,7 @@ public class FplConfigTests {
     public void validConfigFile() {
         CONFIG = new FplConfig("src/test/resources/config/testconfig.properties");
 
-        assertEquals(EXPECTED_SEASON, CONFIG.getSeason());
+        assertEquals(EXPECTED_SEASON, CONFIG.getMainSeason());
         assertEquals(EXPECTED_BASE_FILEPATH, CONFIG.getBaseFilePath());
     }
 
@@ -23,7 +23,7 @@ public class FplConfigTests {
     public void invalidConfigFile() {
         CONFIG = new FplConfig("");
 
-        assertNull(CONFIG.getSeason());
+        assertNull(CONFIG.getMainSeason());
         assertNull(CONFIG.getBaseFilePath());
     }
 }

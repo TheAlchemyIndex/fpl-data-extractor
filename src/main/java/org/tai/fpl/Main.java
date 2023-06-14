@@ -4,10 +4,10 @@ import org.json.JSONObject;
 import org.tai.fpl.config.FplConfig;
 import org.tai.fpl.extractors.FplDataExtractor;
 import org.tai.fpl.extractors.GameweekExtractor;
-import org.tai.fpl.fixtures.FixtureExtractor;
-import org.tai.fpl.joiners.FixtureJoiner;
-import org.tai.fpl.joiners.GameweekJoiner;
-import org.tai.fpl.joiners.SeasonJoiner;
+import org.tai.fpl.extractors.FixtureExtractor;
+import org.tai.fpl.joiners.impl.FixtureJoiner;
+import org.tai.fpl.joiners.impl.GameweekJoiner;
+import org.tai.fpl.joiners.impl.SeasonJoiner;
 import org.tai.fpl.providers.impl.TeamProvider;
 import org.tai.fpl.util.constants.FileNames;
 import org.tai.fpl.writers.FileWriter;
@@ -40,17 +40,16 @@ public class Main {
         gameweekExtractor.getGameweekData();
         int currentGameweekNumber = gameweekExtractor.getCurrentGameweekNumber();
 
-        GameweekJoiner gameweekJoiner = new GameweekJoiner(currentGameweekNumber);
-        gameweekJoiner.joinGameweeks(fileWriter, seasonFilePath, "gws/merged_gw.csv");
-
-        SeasonJoiner seasonJoiner = new SeasonJoiner(startingSeasonStart, startingSeasonEnd, 2023);
-        seasonJoiner.joinSeasons(fileWriter, baseFilePath, String.format("%s-%s seasons.csv", startingSeasonStart, finalSeasonEnd));
-
         FixtureExtractor fixturesExtractor = new FixtureExtractor(fileWriter, teams);
         fixturesExtractor.getFixtures();
 
-        /* Joiner classes are all simular, will fix and remove duplication later */
-        FixtureJoiner fixtureJoiner = new FixtureJoiner(startingSeasonStart, startingSeasonEnd, 2023);
-        fixtureJoiner.joinFixtureData(fileWriter, baseFilePath, String.format("Fixtures - %s-%s seasons.csv", startingSeasonStart, finalSeasonEnd));
+        GameweekJoiner gameweekJoiner = new GameweekJoiner(currentGameweekNumber);
+        gameweekJoiner.join(fileWriter, seasonFilePath, String.format("gws/%s", FileNames.MERGED_GAMEWEEK_FILENAME));
+
+        SeasonJoiner seasonJoiner = new SeasonJoiner(startingSeasonStart, startingSeasonEnd, finalSeasonEnd);
+        seasonJoiner.join(fileWriter, baseFilePath, String.format(FileNames.JOINED_SEASONS_FILENAME, startingSeasonStart, finalSeasonEnd));
+
+        FixtureJoiner fixtureJoiner = new FixtureJoiner(startingSeasonStart, startingSeasonEnd, finalSeasonEnd);
+        fixtureJoiner.join(fileWriter, baseFilePath, String.format(FileNames.JOINED_FIXTURES_FILENAME, startingSeasonStart, finalSeasonEnd));
     }
 }

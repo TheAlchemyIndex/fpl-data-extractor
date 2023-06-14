@@ -5,7 +5,7 @@ import org.apache.logging.log4j.Logger;
 import org.json.JSONException;
 import org.json.JSONObject;
 import org.tai.fpl.connectors.UrlConnector;
-import org.tai.fpl.parsers.JsonParser;
+import org.tai.fpl.util.parsers.JsonParser;
 
 import java.io.IOException;
 import java.net.MalformedURLException;
@@ -27,7 +27,7 @@ public class FplDataExtractor {
             UrlConnector urlConnector = new UrlConnector(new URL(this.url));
             jsonParser = new JsonParser(urlConnector.getResponseString());
             data = jsonParser.parseJsonObject();
-            LOGGER.info(String.format("Successful connection to {%s}, data extraction complete.", this.url));
+            LOGGER.info(String.format("Data extraction from {%s} complete.", this.url));
             return data;
         } catch(MalformedURLException malformedURLException) {
             throw new RuntimeException(String.format("Invalid target url provided {%s}: %s", this.url,

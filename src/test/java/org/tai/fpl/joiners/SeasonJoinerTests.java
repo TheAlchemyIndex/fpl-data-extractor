@@ -4,6 +4,7 @@ import org.json.JSONArray;
 import org.json.JSONObject;
 import org.junit.Test;
 import org.tai.fpl.TestWriterHelper;
+import org.tai.fpl.joiners.impl.SeasonJoiner;
 import org.tai.fpl.writers.FileWriter;
 
 import java.io.File;
@@ -47,7 +48,7 @@ public class SeasonJoinerTests extends TestWriterHelper {
     @Test
     public void joinSeasons() {
         SEASON_JOINER = new SeasonJoiner(VALID_STARTING_SEASON_START, VALID_STARTING_SEASON_END, VALID_ENDING_SEASON_END);
-        SEASON_JOINER.joinSeasons(FILE_WRITER, BASE_FILEPATH, SEASON_FILEPATH);
+        SEASON_JOINER.join(FILE_WRITER, BASE_FILEPATH, SEASON_FILEPATH);
 
         File playersRawFile = new File(FULL_FILEPATH);
         assertTrue(playersRawFile.exists());
@@ -58,7 +59,7 @@ public class SeasonJoinerTests extends TestWriterHelper {
     @Test
     public void joinSeasonsNoGwFiles() {
         SEASON_JOINER = new SeasonJoiner(VALID_STARTING_SEASON_START, VALID_STARTING_SEASON_END, VALID_ENDING_SEASON_END);
-        SEASON_JOINER.joinSeasons(FILE_WRITER, "src/test/resources/", SEASON_FILEPATH);
+        SEASON_JOINER.join(FILE_WRITER, "src/test/resources/", SEASON_FILEPATH);
 
         File playersRawFile = new File(FULL_FILEPATH);
         assertFalse(playersRawFile.exists());

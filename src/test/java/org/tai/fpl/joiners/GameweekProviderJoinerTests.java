@@ -4,6 +4,7 @@ import org.json.JSONArray;
 import org.json.JSONObject;
 import org.junit.Test;
 import org.tai.fpl.TestWriterHelper;
+import org.tai.fpl.joiners.impl.GameweekJoiner;
 import org.tai.fpl.writers.FileWriter;
 
 import java.io.File;
@@ -35,7 +36,7 @@ public class GameweekProviderJoinerTests extends TestWriterHelper {
     @Test
     public void joinGameweeks() {
         GAMEWEEK_JOINER = new GameweekJoiner(CURRENT_GAMEWEEK_NUMBER);
-        GAMEWEEK_JOINER.joinGameweeks(FILE_WRITER, BASE_FILEPATH, MERGED_FILENAME);
+        GAMEWEEK_JOINER.join(FILE_WRITER, BASE_FILEPATH, MERGED_FILENAME);
 
         File playersRawFile = new File(FULL_FILEPATH);
         assertTrue(playersRawFile.exists());
@@ -46,7 +47,7 @@ public class GameweekProviderJoinerTests extends TestWriterHelper {
     @Test
     public void joinGameweeksNoGwFiles() {
         GAMEWEEK_JOINER = new GameweekJoiner(CURRENT_GAMEWEEK_NUMBER);
-        GAMEWEEK_JOINER.joinGameweeks(FILE_WRITER, "src/test/resources/", MERGED_FILENAME);
+        GAMEWEEK_JOINER.join(FILE_WRITER, "src/test/resources/", MERGED_FILENAME);
 
         File playersRawFile = new File(FULL_FILEPATH);
         assertFalse(playersRawFile.exists());

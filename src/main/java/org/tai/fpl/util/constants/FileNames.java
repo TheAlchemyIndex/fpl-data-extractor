@@ -8,5 +8,8 @@ public class FileNames {
     public static final String FIXTURES_FILENAME = "fixtures/fixtures.csv";
     public static final String MERGED_GAMEWEEK_FILENAME = "merged_gw.csv";
 
+    public static final String JOINED_SEASONS_FILENAME = "seasons_%s-%s.csv";
+    public static final String JOINED_FIXTURES_FILENAME = "fixtures_%s-%s.csv";
+
     private FileNames() {}
 }

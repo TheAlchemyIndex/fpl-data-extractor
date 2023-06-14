@@ -30,9 +30,13 @@ public class FplConfig {
             this.baseFilePath = prop.getProperty("BASE_FILEPATH");
             this.mainUrl = prop.getProperty("MAIN_URL");
             this.gameweekUrl = prop.getProperty("GAMEWEEK_URL");
+            validateSeasonParameters();
+
             LOGGER.info("Config file successfully loaded.");
         } catch(IOException fileNotFoundException) {
             throw new RuntimeException(String.format("Error loading config file: {%s}", fileNotFoundException.getMessage()));
+        } catch (IllegalArgumentException illegalArgumentException) {
+            throw new RuntimeException(String.format("Error with season parameters: {%s}", illegalArgumentException.getMessage()));
         }
     }
 
@@ -45,11 +49,11 @@ public class FplConfig {
     }
 
     public int getStartingSeasonEnd() {
-        return startingSeasonEnd;
+        return convertYearTo2Digits(startingSeasonEnd);
     }
 
     public int getFinalSeasonEnd() {
-        return finalSeasonEnd;
+        return convertYearTo2Digits(finalSeasonEnd);
     }
 
     public String getBaseFilePath() {
@@ -66,5 +70,21 @@ public class FplConfig {
 
     public String getSeasonFilePath() {
         return String.format("%s%s/", this.baseFilePath, this.mainSeason);
+    }
+
+    private void validateSeasonParameters() throws IllegalArgumentException {
+        if (this.startingSeasonStart < 2016) {
+            throw new IllegalArgumentException("Value for startingSeasonStart can not be less than 2016.");
+        } else if (this.startingSeasonEnd <= this.startingSeasonStart) {
+            throw new IllegalArgumentException("Value for startingSeasonEnd can not be less than or equal to startingSeasonStart.");
+        } else if ((this.startingSeasonEnd - this.startingSeasonStart) > 1) {
+            throw new IllegalArgumentException("Value for startingSeasonEnd can not be more than 1 year greater than startingSeasonStart.");
+        } else if (this.finalSeasonEnd <= this.startingSeasonStart) {
+            throw new IllegalArgumentException("Value for finalSeasonEnd can not be less than or equal to startingSeasonStart.");
+        }
+    }
+
+    private static int convertYearTo2Digits(int year) {
+        return Integer.parseInt(Integer.toString(year).substring(2));
     }
 }

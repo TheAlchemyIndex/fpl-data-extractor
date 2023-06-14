@@ -21,9 +21,9 @@ public class FileWriter {
         this.season = season;
     }
 
-    public void writeDataToBasePath(JSONArray elements, String subFilePath) {
+    public void writeDataToBasePath(JSONArray jsonData, String subFilePath) {
         File file = new File(String.format("%s/%s", this.baseFilePath, subFilePath));
-        String csvString = CDL.toString(elements);
+        String csvString = CDL.toString(jsonData);
         try {
             FileUtils.writeStringToFile(file, csvString, Charset.defaultCharset());
             LOGGER.info(String.format("Write to {%s} complete.", subFilePath));
@@ -32,9 +32,9 @@ public class FileWriter {
         }
     }
 
-    public void writeDataToSeasonPath(JSONArray elements, String subFilePath) {
+    public void writeDataToSeasonPath(JSONArray jsonData, String subFilePath) {
         File file = new File(String.format("%s/%s/%s", this.baseFilePath, this.season, subFilePath));
-        String csvString = CDL.toString(elements);
+        String csvString = CDL.toString(jsonData);
         try {
             FileUtils.writeStringToFile(file, csvString, Charset.defaultCharset());
             LOGGER.info(String.format("Write to {%s} complete.", subFilePath));

@@ -4,7 +4,6 @@ import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 import java.net.HttpURLConnection;
-import java.net.MalformedURLException;
 import java.net.URL;
 
 public class UrlConnector {
@@ -12,9 +11,6 @@ public class UrlConnector {
     private final int responseCode;
 
     public UrlConnector(URL url) throws IOException {
-        if (url == null) {
-            throw new MalformedURLException("Url value is null, provide a valid url");
-        }
         this.connection = (HttpURLConnection) url.openConnection();
         this.connection.setRequestMethod("GET");
         this.responseCode = connection.getResponseCode();
@@ -22,7 +18,7 @@ public class UrlConnector {
 
     public String getResponseString() throws IOException {
         if (this.responseCode != 200) {
-            throw new RuntimeException("HttpResponseCode: " + this.responseCode);
+            throw new RuntimeException(String.format("HttpResponseCode: {%s} - {%s}", this.responseCode, this.connection.getURL()));
         } else {
             return readStringFromUrl();
         }

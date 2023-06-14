@@ -74,13 +74,15 @@ public class FplConfig {
 
     private void validateSeasonParameters() throws IllegalArgumentException {
         if (this.startingSeasonStart < 2016) {
-            throw new IllegalArgumentException("Value for startingSeasonStart can not be less than 2016.");
+            throw new IllegalArgumentException("Value for startingSeasonStart can not be less than 2016");
         } else if (this.startingSeasonEnd <= this.startingSeasonStart) {
-            throw new IllegalArgumentException("Value for startingSeasonEnd can not be less than or equal to startingSeasonStart.");
+            throw new IllegalArgumentException("Value for startingSeasonEnd can not be less than or equal to startingSeasonStart");
         } else if ((this.startingSeasonEnd - this.startingSeasonStart) > 1) {
-            throw new IllegalArgumentException("Value for startingSeasonEnd can not be more than 1 year greater than startingSeasonStart.");
+            throw new IllegalArgumentException("Value for startingSeasonEnd can not be more than 1 year greater than startingSeasonStart");
         } else if (this.finalSeasonEnd <= this.startingSeasonStart) {
-            throw new IllegalArgumentException("Value for finalSeasonEnd can not be less than or equal to startingSeasonStart.");
+            throw new IllegalArgumentException("Value for finalSeasonEnd can not be less than or equal to startingSeasonStart");
+        } else if (this.finalSeasonEnd < this.startingSeasonEnd) {
+            throw new IllegalArgumentException("Value for finalSeasonEnd can not be less than startingSeasonEnd");
         }
     }
 

@@ -22,14 +22,19 @@ public class SeasonJoiner implements Joiner {
     private final int startingSeasonStart;
     private final int startingSeasonEnd;
     private final int finalSeasonEnd;
+    private final String baseFilePath;
+    private final FileWriter fileWriter;
 
-    public SeasonJoiner(int startingSeasonStart, int startingSeasonEnd, int finalSeasonEnd) throws IllegalArgumentException {
+    public SeasonJoiner(int startingSeasonStart, int startingSeasonEnd, int finalSeasonEnd, String baseFilePath,
+                        FileWriter fileWriter) throws IllegalArgumentException {
         this.startingSeasonStart = startingSeasonStart;
         this.startingSeasonEnd = startingSeasonEnd;
         this.finalSeasonEnd = finalSeasonEnd;
+        this.baseFilePath = baseFilePath;
+        this.fileWriter = fileWriter;
     }
 
-    public void join(FileWriter fileWriter, String baseFilePath, String subFilePath) {
+    public void join() {
         CsvMapper csvMapper = new CsvMapper();
         ObjectMapper objectMapper = new ObjectMapper();
         JSONArray allSeasons = new JSONArray();
@@ -40,7 +45,8 @@ public class SeasonJoiner implements Joiner {
                 try (MappingIterator<Map<String, String>> mappingIterator = csvMapper
                         .readerWithSchemaFor(Map.class)
                         .with(CsvSchema.emptySchema().withHeader())
-                        .readValues(new File(String.format("%s%s-%s/gws/%s", baseFilePath, i, j, FileNames.MERGED_GAMEWEEK_FILENAME)))) {
+                        .readValues(new File(String.format("%s%s-%s/gws/%s", this.baseFilePath, i, j,
+                                FileNames.MERGED_GAMEWEEK_FILENAME)))) {
                     rows = mappingIterator.readAll();
                 }
 
@@ -49,7 +55,8 @@ public class SeasonJoiner implements Joiner {
                     allSeasons.put(new JSONObject(jsonString));
                 }
                 LOGGER.info(String.format("Players - Season {%s-%s}.", i, j));
-                fileWriter.writeDataToBasePath(allSeasons, subFilePath);
+                this.fileWriter.writeDataToBasePath(allSeasons, String.format(FileNames.JOINED_SEASONS_FILENAME,
+                        this.startingSeasonStart, this.finalSeasonEnd));
             }
         } catch(IOException ioException) {
             throw new RuntimeException(String.format("Error joining season files together: {%s}", ioException.getMessage()));

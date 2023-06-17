@@ -77,48 +77,48 @@ ep_this,second_name,id,element_type,team,web_name,first_name
 0.0,Revan,754,2,2,Revan,Sebastian
 0.0,Patterson,755,3,2,Patterson,Travis
 0.0,O'Reilly,761,3,2,O'Reilly,Tommi
-1.0,Smith,57,2,3,Smith,Adam
+1.5,Smith,57,2,3,Smith,Adam
 0.0,Stanislas,58,3,3,Stanislas,Junior
 0.0,Fredericks,59,2,3,Fredericks,Ryan
-0.5,Brooks,60,3,3,Brooks,David
+1.0,Brooks,60,3,3,Brooks,David
 0.0,Lowe,61,3,3,Lowe,Jamal
-0.5,Moore,62,4,3,Moore,Kieffer
+1.0,Moore,62,4,3,Moore,Kieffer
 0.0,Marcondes,63,3,3,Marcondes,Emiliano
-1.5,Lerma Solís,64,3,3,Lerma,Jefferson
--0.5,Stacey,65,2,3,Stacey,Jack
-1.0,Solanke,66,4,3,Solanke,Dominic
-0.0,Cook,67,3,3,Cook,Lewis
+2.0,Lerma Solís,64,3,3,Lerma,Jefferson
+0.0,Stacey,65,2,3,Stacey,Jack
+1.5,Solanke,66,4,3,Solanke,Dominic
+0.5,Cook,67,3,3,Cook,Lewis
 0.0,Pearson,68,3,3,Pearson,Ben
-1.5,Christie,69,3,3,Christie,Ryan
-0.4,Billing,70,3,3,Billing,Philip
--0.5,Mepham,71,2,3,Mepham,Chris
-1.0,Travers,72,1,3,Travers,Mark
-1.5,Kelly,73,2,3,Kelly,Lloyd
+2.0,Christie,69,3,3,Christie,Ryan
+0.8,Billing,70,3,3,Billing,Philip
+0.0,Mepham,71,2,3,Mepham,Chris
+1.5,Travers,72,1,3,Travers,Mark
+2.0,Kelly,73,2,3,Kelly,Lloyd
 0.0,Dembélé,74,3,3,Dembélé,Siriki
-1.0,Anthony,75,3,3,Anthony,Jaidon
--0.5,Zemura,76,2,3,Zemura,Jordan
+1.5,Anthony,75,3,3,Anthony,Jaidon
+0.0,Zemura,76,2,3,Zemura,Jordan
 0.0,Dennis,77,1,3,Dennis,Will
--0.5,Stephens,404,2,3,Stephens,Jack
--0.4,Rothwell,505,3,3,Rothwell,Joe
+0.0,Stephens,404,2,3,Stephens,Jack
+0.0,Rothwell,505,3,3,Rothwell,Joe
 0.0,Tavernier,535,3,3,Tavernier,Marcus
 0.0,Hill,539,2,3,Hill,James
--0.5,Randolph,571,1,3,Randolph,Darren
-1.0,Murara Neto,574,1,3,Neto,Norberto
-1.0,Senesi,576,2,3,Senesi,Marcos
+0.0,Randolph,571,1,3,Randolph,Darren
+1.5,Murara Neto,574,1,3,Neto,Norberto
+1.5,Senesi,576,2,3,Senesi,Marcos
 0.0,Saydee,597,4,3,Saydee,Christian
 0.0,Bevan,598,2,3,Bevan,Owen
--0.5,Plain,649,1,3,Plain,Cameron
--0.5,Adu-Adjei,695,4,3,Adu-Adjei,Daniel
--0.5,Dacosta Gonzalez,696,3,3,Dacosta Gonzalez,Michael
--0.5,Sadi,697,4,3,Sadi,Dominic
-1.0,Ouattara,705,3,3,Ouattara,Dango
--0.5,Pollock,706,4,3,Pollock,Euan
+0.0,Plain,649,1,3,Plain,Cameron
+0.0,Adu-Adjei,695,4,3,Adu-Adjei,Daniel
+0.0,Dacosta Gonzalez,696,3,3,Dacosta Gonzalez,Michael
+0.0,Sadi,697,4,3,Sadi,Dominic
+1.5,Ouattara,705,3,3,Ouattara,Dango
+0.0,Pollock,706,4,3,Pollock,Euan
 0.0,Semenyo,714,4,3,Semenyo,Antoine
-0.5,Viña,718,2,3,Viña,Matías
-1.5,Zabarnyi,722,2,3,Zabarnyi,Illia
--0.4,Traorè,723,3,3,H.Traorè,Hamed
--0.5,Greenwood,737,2,3,Greenwood,Ben
--0.5,Kinsey-Wellings,738,2,3,Kinsey-Wellings,Max
+1.0,Viña,718,2,3,Viña,Matías
+2.0,Zabarnyi,722,2,3,Zabarnyi,Illia
+0.0,Traorè,723,3,3,H.Traorè,Hamed
+0.0,Greenwood,737,2,3,Greenwood,Ben
+0.0,Kinsey-Wellings,738,2,3,Kinsey-Wellings,Max
 0.0,Jansson,78,2,4,Jansson,Pontus
 0.0,Nørgaard,79,3,4,Nørgaard,Christian
 0.0,Toney,80,4,4,Toney,Ivan
@@ -277,89 +277,89 @@ ep_this,second_name,id,element_type,team,web_name,first_name
 0.0,Ozoh,676,3,7,Ozoh,David
 0.5,Ahamada,725,3,7,Ahamada,Naouirou
 0.0,Adaramola,766,2,7,Adaramola,Tayo
-1.0,Maupay,110,4,8,Maupay,Neal
-0.5,Begović,176,1,8,Begović,Asmir
+0.5,Maupay,110,4,8,Maupay,Neal
+0.0,Begović,176,1,8,Begović,Asmir
 0.0,Rondón,177,4,8,Rondón,Salomón
 0.0,Coleman,178,2,8,Coleman,Seamus
 0.0,Townsend,179,3,8,Townsend,Andros
-4.0,Keane,180,2,8,Keane,Michael
+3.5,Keane,180,2,8,Keane,Michael
 0.0,Alli,181,3,8,Dele,Dele
-4.5,Pickford,182,1,8,Pickford,Jordan
+4.0,Pickford,182,1,8,Pickford,Jordan
 0.0,Marques Loureiro,183,3,8,Allan,Allan
 0.0,Tavares Gomes,184,3,8,André Gomes,André
-7.0,Doucouré,185,3,8,A.Doucouré,Abdoulaye
-3.0,Iwobi,186,3,8,Iwobi,Alex
+6.5,Doucouré,185,3,8,A.Doucouré,Abdoulaye
+2.5,Iwobi,186,3,8,Iwobi,Alex
 0.0,Gbamin,187,3,8,Gbamin,Jean-Philippe
-9.5,Mina,188,2,8,Mina,Yerry
-2.5,Gray,189,3,8,Gray,Demarai
-0.1,Davies,190,3,8,Davies,Tom
+9.0,Mina,188,2,8,Mina,Yerry
+2.0,Gray,189,3,8,Gray,Demarai
+0.0,Davies,190,3,8,Davies,Tom
 0.0,Calvert-Lewin,191,4,8,Calvert-Lewin,Dominic
-1.0,Holgate,192,2,8,Holgate,Mason
+0.5,Holgate,192,2,8,Holgate,Mason
 0.0,Godfrey,193,2,8,Godfrey,Ben
-0.4,Mykolenko,194,2,8,Mykolenko,Vitalii
+0.0,Mykolenko,194,2,8,Mykolenko,Vitalii
 0.0,Branthwaite,196,2,8,Branthwaite,Jarrad
 0.0,Patterson,197,2,8,Patterson,Nathan
 0.0,Nkounkou,198,2,8,Nkounkou,Niels
-5.5,Tarkowski,199,2,8,Tarkowski,James
-3.5,Coady,475,2,8,Coady,Conor
+5.0,Tarkowski,199,2,8,Tarkowski,James
+3.0,Coady,475,2,8,Coady,Conor
 0.0,Nascimento Vinagre,531,2,8,Vinagre,Rúben
-3.0,McNeil,534,3,8,McNeil,Dwight
-0.5,Mills,560,3,8,Mills,Stanley
+2.5,McNeil,534,3,8,McNeil,Dwight
+0.0,Mills,560,3,8,Mills,Stanley
 0.0,Warrington,561,3,8,Warrington,Lewis
-2.5,Garner,570,3,8,Garner,James
-3.0,Onana,577,3,8,Onana,Amadou
-0.5,Welch,605,2,8,Welch,Reece
-3.0,Gueye,611,3,8,Gueye,Idrissa
+2.0,Garner,570,3,8,Garner,James
+2.5,Onana,577,3,8,Onana,Amadou
+0.0,Welch,605,2,8,Welch,Reece
+2.5,Gueye,611,3,8,Gueye,Idrissa
 0.0,Jakupovic,627,1,8,Jakupović,Eldin
-0.5,John,637,2,8,John,Kyle
+0.0,John,637,2,8,John,Kyle
 0.0,Cannon,662,4,8,Cannon,Thomas
-0.5,Price,678,3,8,Price,Isaac
-1.0,Simms,686,4,8,Simms,Ellis
+0.0,Price,678,3,8,Price,Isaac
+0.5,Simms,686,4,8,Simms,Ellis
 0.0,Samuels-Smith,757,2,8,Samuels-Smith,Ishé
-0.5,Lonergan,760,1,8,Lonergan,Andy
-0.5,McAllister,768,3,8,McAllister,Sean
-0.0,Alves Soares,1,2,9,Cédric,Cédric
-2.5,Leno,2,1,9,Leno,Bernd
-0.0,Duffy,105,2,9,Duffy,Shane
-2.0,Cairney,200,3,9,Cairney,Tom
+0.0,Lonergan,760,1,8,Lonergan,Andy
+0.0,McAllister,768,3,8,McAllister,Sean
+-0.5,Alves Soares,1,2,9,Cédric,Cédric
+2.0,Leno,2,1,9,Leno,Bernd
+-0.5,Duffy,105,2,9,Duffy,Shane
+1.5,Cairney,200,3,9,Cairney,Tom
 0.0,Ream,201,2,9,Ream,Tim
 0.0,Knockaert,202,3,9,Knockaert,Anthony
 0.0,Chalobah,203,3,9,Chalobah,Nathaniel
-0.0,Kebano,204,3,9,Kebano,Neeskens
-0.5,De Cordova-Reid,205,3,9,De Cordova-Reid,Bobby
+-0.5,Kebano,204,3,9,Kebano,Neeskens
+0.0,De Cordova-Reid,205,3,9,De Cordova-Reid,Bobby
 0.0,Bryan,206,2,9,Bryan,Joe
 0.0,Gazzaniga Farias,207,1,9,Gazzaniga,Paulo
 0.0,Kongolo,208,2,9,Kongolo,Terence
-0.5,Adarabioyo,209,2,9,Tosin,Tosin
-6.0,Mitrović,210,4,9,Mitrović,Aleksandar
-1.5,Reed,211,3,9,Reed,Harrison
-3.5,Wilson,212,3,9,Wilson,Harry
-0.0,Rodák,213,1,9,Rodák,Marek
+0.0,Adarabioyo,209,2,9,Tosin,Tosin
+5.5,Mitrović,210,4,9,Mitrović,Aleksandar
+1.0,Reed,211,3,9,Reed,Harrison
+3.0,Wilson,212,3,9,Wilson,Harry
+-0.5,Rodák,213,1,9,Rodák,Marek
 0.0,Neves Abreu Cavaleiro,214,3,9,Cavaleiro,Ivan
-4.5,Tete,215,2,9,Tete,Kenny
+4.0,Tete,215,2,9,Tete,Kenny
 0.0,Onomah,216,3,9,Onomah,Josh
-0.5,Robinson,217,2,9,Robinson,Antonee
+0.0,Robinson,217,2,9,Robinson,Antonee
 0.0,Muniz Carvalho,218,4,9,Muniz,Rodrigo
 0.0,Stansfield,219,4,9,Stansfield,Jay
-1.0,Palhinha Gonçalves,220,3,9,Palhinha,João
-0.4,James,231,3,9,James,Daniel
+0.5,Palhinha Gonçalves,220,3,9,Palhinha,João
+0.0,James,231,3,9,James,Daniel
 0.0,Hoelgebaum Pereira,346,3,9,Andreas,Andreas
-1.0,Diop,470,2,9,Diop,Issa
+0.5,Diop,470,2,9,Diop,Issa
 0.0,Francois,521,3,9,Francois,Tyrese
 0.0,Mbabu,532,2,9,Mbabu,Kevin
-0.0,Harris,546,3,9,Harris,Luke
-1.0,Solomon,562,3,9,Solomon,Manor
-0.0,Ablade,591,4,9,Ablade,Terry
-0.0,Kurzawa,613,2,9,Kurzawa,Layvin
-5.5,Borges da Silva,614,3,9,Willian,Willian
-0.5,Alves Morais,618,4,9,Vinícius,Carlos Vinícius
-0.0,Parkes,636,2,9,Parkes,Stefan
-0.0,Godo,641,3,9,Godo,Martial
-0.0,Sekularac,667,3,9,Sekularac,Kristian
-1.0,Lukic,726,3,9,Lukic,Sasa
-0.0,Wickens,747,1,9,Wickens,George
-0.0,Robinson,750,2,9,C.Robinson,Charlie
-0.0,Dibley-Dias,763,3,9,Dibley-Dias,Matthew
+-0.5,Harris,546,3,9,Harris,Luke
+0.5,Solomon,562,3,9,Solomon,Manor
+-0.5,Ablade,591,4,9,Ablade,Terry
+-0.5,Kurzawa,613,2,9,Kurzawa,Layvin
+5.0,Borges da Silva,614,3,9,Willian,Willian
+0.0,Alves Morais,618,4,9,Vinícius,Carlos Vinícius
+-0.5,Parkes,636,2,9,Parkes,Stefan
+-0.5,Godo,641,3,9,Godo,Martial
+-0.5,Sekularac,667,3,9,Sekularac,Kristian
+0.5,Lukic,726,3,9,Lukic,Sasa
+-0.5,Wickens,747,1,9,Wickens,George
+-0.5,Robinson,750,2,9,C.Robinson,Charlie
+-0.5,Dibley-Dias,763,3,9,Dibley-Dias,Matthew
 0.0,Schmeichel,248,1,10,Schmeichel,Kasper
 3.5,Evans,249,2,10,Evans,Jonny
 0.0,Bertrand,250,2,10,Bertrand,Ryan
@@ -505,45 +505,45 @@ ep_this,second_name,id,element_type,team,web_name,first_name
 1.0,Robertson,772,3,13,Robertson,Alex
 1.3,Charles,773,3,13,Charles,Shea
 1.0,O'Reilly,774,3,13,O'Reilly,Nico
-0.0,Butland,162,1,14,Butland,Jack
+0.5,Butland,162,1,14,Butland,Jack
 0.0,dos Santos Aveiro,326,4,14,Ronaldo,Cristiano Ronaldo
-5.7,De Gea Quintana,327,1,14,De Gea,David
-0.0,Jones,328,2,14,Jones,Phil
-2.7,Varane,329,2,14,Varane,Raphaël
-0.7,Maguire,330,2,14,Maguire,Harry
-2.3,Rodrigues de Paula Santos,331,3,14,Fred,Frederico
-1.6,Shaw,332,2,14,Shaw,Luke
-7.0,Borges Fernandes,333,3,14,Fernandes,Bruno
+6.2,De Gea Quintana,327,1,14,De Gea,David
+0.5,Jones,328,2,14,Jones,Phil
+3.2,Varane,329,2,14,Varane,Raphaël
+1.2,Maguire,330,2,14,Maguire,Harry
+2.8,Rodrigues de Paula Santos,331,3,14,Fred,Frederico
+1.9,Shaw,332,2,14,Shaw,Luke
+7.5,Borges Fernandes,333,3,14,Fernandes,Bruno
 0.0,Telles,334,2,14,Telles,Alex
-3.0,Rashford,335,3,14,Rashford,Marcus
+3.5,Rashford,335,3,14,Rashford,Marcus
 0.0,van de Beek,336,3,14,Van de Beek,Donny
-3.3,Lindelöf,337,2,14,Lindelöf,Victor
-0.7,McTominay,338,3,14,McTominay,Scott
+3.8,Lindelöf,337,2,14,Lindelöf,Victor
+1.2,McTominay,338,3,14,McTominay,Scott
 0.0,Bailly,339,2,14,Bailly,Eric
-6.3,Sancho,340,3,14,Sancho,Jadon
-2.7,Wan-Bissaka,341,2,14,Wan-Bissaka,Aaron
-0.7,Dalot Teixeira,342,2,14,Dalot,Diogo
-0.0,Williams,343,2,14,B.Williams,Brandon
-0.0,Elanga,344,3,14,Elanga,Anthony
-3.0,Martial,345,4,14,Martial,Anthony
-0.3,Pellistri Rebollo,347,3,14,Pellistri,Facundo
-0.0,Heaton,348,1,14,Heaton,Tom
-0.7,Malacia,504,2,14,Malacia,Tyrell
-5.0,Eriksen,519,3,14,Eriksen,Christian
+6.8,Sancho,340,3,14,Sancho,Jadon
+3.2,Wan-Bissaka,341,2,14,Wan-Bissaka,Aaron
+1.2,Dalot Teixeira,342,2,14,Dalot,Diogo
+0.5,Williams,343,2,14,B.Williams,Brandon
+0.5,Elanga,344,3,14,Elanga,Anthony
+3.5,Martial,345,4,14,Martial,Anthony
+0.8,Pellistri Rebollo,347,3,14,Pellistri,Facundo
+0.5,Heaton,348,1,14,Heaton,Tom
+1.2,Malacia,504,2,14,Malacia,Tyrell
+5.5,Eriksen,519,3,14,Eriksen,Christian
 0.0,Martínez,533,2,14,Martínez,Lisandro
 0.0,Diallo,550,3,14,Amad,Amad
-0.0,Iqbal,551,3,14,Iqbal,Zidane
-1.3,Garnacho,569,3,14,Garnacho,Alejandro
-6.0,Casimiro,593,3,14,Casemiro,Carlos Henrique
-0.3,dos Santos,609,3,14,Antony,Antony Matheus
+0.5,Iqbal,551,3,14,Iqbal,Zidane
+1.8,Garnacho,569,3,14,Garnacho,Alejandro
+6.5,Casimiro,593,3,14,Casemiro,Carlos Henrique
+0.5,dos Santos,609,3,14,Antony,Antony Matheus
 0.0,Kovár,615,1,14,Kovár,Matej
-0.0,Mainoo,643,3,14,Mainoo,Kobbie
-0.0,Bishop,656,1,14,Bishop,Nathan
+0.5,Mainoo,643,3,14,Mainoo,Kobbie
+0.5,Bishop,656,1,14,Bishop,Nathan
 0.0,Shoretire,660,4,14,Shoretire,Shola
-0.0,Bennett,674,2,14,Bennett,Rhys
-0.7,Weghorst,701,4,14,Weghorst,Wout
+0.5,Bennett,674,2,14,Bennett,Rhys
+1.2,Weghorst,701,4,14,Weghorst,Wout
 0.0,Sabitzer,728,3,14,Sabitzer,Marcel
-0.0,Jurado Gomez,759,2,14,Jurado,Marc
+0.5,Jurado Gomez,759,2,14,Jurado,Marc
 4.5,Gordon,195,3,15,Gordon,Anthony
 0.0,Ritchie,350,2,15,Ritchie,Matt
 0.0,Fernández,351,2,15,Fernández,Federico

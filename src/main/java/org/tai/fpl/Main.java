@@ -43,13 +43,15 @@ public class Main {
         FixtureExtractor fixturesExtractor = new FixtureExtractor(fileWriter, teams);
         fixturesExtractor.getFixtures();
 
-        GameweekJoiner gameweekJoiner = new GameweekJoiner(currentGameweekNumber);
-        gameweekJoiner.join(fileWriter, seasonFilePath, String.format("gws/%s", FileNames.MERGED_GAMEWEEK_FILENAME));
+        GameweekJoiner gameweekJoiner = new GameweekJoiner(currentGameweekNumber, seasonFilePath, fileWriter);
+        gameweekJoiner.join();
 
-        SeasonJoiner seasonJoiner = new SeasonJoiner(startingSeasonStart, startingSeasonEnd, finalSeasonEnd);
-        seasonJoiner.join(fileWriter, baseFilePath, String.format(FileNames.JOINED_SEASONS_FILENAME, startingSeasonStart, finalSeasonEnd));
+        SeasonJoiner seasonJoiner = new SeasonJoiner(startingSeasonStart, startingSeasonEnd, finalSeasonEnd,
+                baseFilePath, fileWriter);
+        seasonJoiner.join();
 
-        FixtureJoiner fixtureJoiner = new FixtureJoiner(startingSeasonStart, startingSeasonEnd, finalSeasonEnd);
-        fixtureJoiner.join(fileWriter, baseFilePath, String.format(FileNames.JOINED_FIXTURES_FILENAME, startingSeasonStart, finalSeasonEnd));
+        FixtureJoiner fixtureJoiner = new FixtureJoiner(startingSeasonStart, startingSeasonEnd, finalSeasonEnd,
+                baseFilePath, fileWriter);
+        fixtureJoiner.join();
     }
 }

@@ -9,6 +9,7 @@ import org.apache.logging.log4j.Logger;
 import org.json.JSONArray;
 import org.json.JSONObject;
 import org.tai.fpl.joiners.Joiner;
+import org.tai.fpl.util.constants.FileNames;
 import org.tai.fpl.writers.FileWriter;
 
 import java.io.File;
@@ -19,12 +20,16 @@ import java.util.Map;
 public class GameweekJoiner implements Joiner {
     private static final Logger LOGGER = LogManager.getLogger(GameweekJoiner.class);
     private final int currentGameweekNumber;
+    private final String seasonFilePath;
+    private final FileWriter fileWriter;
 
-    public GameweekJoiner(int currentGameweekNumber) {
+    public GameweekJoiner(int currentGameweekNumber, String seasonFilePath, FileWriter fileWriter) {
         this.currentGameweekNumber = currentGameweekNumber;
+        this.seasonFilePath = seasonFilePath;
+        this.fileWriter = fileWriter;
     }
 
-    public void join(FileWriter fileWriter, String baseFilePath, String subFilePath) {
+    public void join() {
         CsvMapper csvMapper = new CsvMapper();
         ObjectMapper objectMapper = new ObjectMapper();
         JSONArray allGameweeks = new JSONArray();
@@ -35,7 +40,7 @@ public class GameweekJoiner implements Joiner {
                 try (MappingIterator<Map<String, String>> mappingIterator = csvMapper
                         .readerWithSchemaFor(Map.class)
                         .with(CsvSchema.emptySchema().withHeader())
-                        .readValues(new File(String.format("%sgws/gw%s.csv", baseFilePath, i)))) {
+                        .readValues(new File(String.format("%sgws/gw%s.csv", this.seasonFilePath, i)))) {
                     rows = mappingIterator.readAll();
                 }
 
@@ -44,7 +49,7 @@ public class GameweekJoiner implements Joiner {
                     allGameweeks.put(new JSONObject(jsonString));
                 }
                 LOGGER.info(String.format("Gameweek {%s}.", i));
-                fileWriter.writeDataToSeasonPath(allGameweeks, subFilePath);
+                this.fileWriter.writeDataToSeasonPath(allGameweeks, String.format("gws/%s", FileNames.MERGED_GAMEWEEK_FILENAME));
             }
         } catch(IOException ioException) {
             throw new RuntimeException(String.format("Error joining previous gameweek files together: {%s}", ioException.getMessage()));

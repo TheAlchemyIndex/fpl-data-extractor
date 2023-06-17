@@ -22,14 +22,18 @@ public class FixtureJoiner implements Joiner {
     private final int startingSeasonStart;
     private final int startingSeasonEnd;
     private final int finalSeasonEnd;
+    private final String baseFilePath;
+    private final FileWriter fileWriter;
 
-    public FixtureJoiner(int startingSeasonStart, int startingSeasonEnd, int finalSeasonEnd) throws IllegalArgumentException {
+    public FixtureJoiner(int startingSeasonStart, int startingSeasonEnd, int finalSeasonEnd, String baseFilePath, FileWriter fileWriter) throws IllegalArgumentException {
         this.startingSeasonStart = startingSeasonStart;
         this.startingSeasonEnd = startingSeasonEnd;
         this.finalSeasonEnd = finalSeasonEnd;
+        this.baseFilePath = baseFilePath;
+        this.fileWriter = fileWriter;
     }
 
-    public void join(FileWriter fileWriter, String baseFilePath, String subFilePath) {
+    public void join() {
         CsvMapper csvMapper = new CsvMapper();
         ObjectMapper objectMapper = new ObjectMapper();
         JSONArray allFixtures = new JSONArray();
@@ -40,7 +44,7 @@ public class FixtureJoiner implements Joiner {
                 try (MappingIterator<Map<String, String>> mappingIterator = csvMapper
                         .readerWithSchemaFor(Map.class)
                         .with(CsvSchema.emptySchema().withHeader())
-                        .readValues(new File(String.format("%s%s-%s/%s", baseFilePath, i, j, FileNames.FIXTURES_FILENAME)))) {
+                        .readValues(new File(String.format("%s%s-%s/%s", this.baseFilePath, i, j, FileNames.FIXTURES_FILENAME)))) {
                     rows = mappingIterator.readAll();
                 }
 
@@ -49,7 +53,8 @@ public class FixtureJoiner implements Joiner {
                     allFixtures.put(new JSONObject(jsonString));
                 }
                 LOGGER.info(String.format("Fixtures - Season {%s-%s}.", i, j));
-                fileWriter.writeDataToBasePath(allFixtures, subFilePath);
+                this.fileWriter.writeDataToBasePath(allFixtures, String.format(FileNames.JOINED_FIXTURES_FILENAME,
+                        startingSeasonStart, finalSeasonEnd));
             }
         } catch (IOException ioException) {
             throw new RuntimeException(String.format("Error joining fixture files together: {%s}", ioException.getMessage()));

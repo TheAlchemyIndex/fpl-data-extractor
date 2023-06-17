@@ -47,7 +47,7 @@ public class SeasonJoinerTests extends TestWriterHelper {
 
     @Test
     public void joinSeasons() {
-        SEASON_JOINER = new SeasonJoiner(VALID_STARTING_SEASON_START, VALID_STARTING_SEASON_END, VALID_ENDING_SEASON_END);
+        SEASON_JOINER = new SeasonJoiner(VALID_STARTING_SEASON_START, VALID_STARTING_SEASON_END, VALID_ENDING_SEASON_END, seasonFilePath, subFilePath, fileWriter);
         SEASON_JOINER.join(FILE_WRITER, BASE_FILEPATH, SEASON_FILEPATH);
 
         File playersRawFile = new File(FULL_FILEPATH);
@@ -58,7 +58,7 @@ public class SeasonJoinerTests extends TestWriterHelper {
 
     @Test
     public void joinSeasonsNoGwFiles() {
-        SEASON_JOINER = new SeasonJoiner(VALID_STARTING_SEASON_START, VALID_STARTING_SEASON_END, VALID_ENDING_SEASON_END);
+        SEASON_JOINER = new SeasonJoiner(VALID_STARTING_SEASON_START, VALID_STARTING_SEASON_END, VALID_ENDING_SEASON_END, seasonFilePath, subFilePath, fileWriter);
         SEASON_JOINER.join(FILE_WRITER, "src/test/resources/", SEASON_FILEPATH);
 
         File playersRawFile = new File(FULL_FILEPATH);
@@ -67,36 +67,36 @@ public class SeasonJoinerTests extends TestWriterHelper {
 
     @Test(expected = IllegalArgumentException.class)
     public void invalidStartingSeasonStartLessThan2016() {
-        SEASON_JOINER = new SeasonJoiner(2015, 2016, VALID_ENDING_SEASON_END);
+        SEASON_JOINER = new SeasonJoiner(2015, 2016, VALID_ENDING_SEASON_END, seasonFilePath, subFilePath, fileWriter);
     }
 
     @Test(expected = IllegalArgumentException.class)
     public void invalidStartingSeasonStartLessThan0() {
-        SEASON_JOINER = new SeasonJoiner(-1, 0, VALID_ENDING_SEASON_END);
+        SEASON_JOINER = new SeasonJoiner(-1, 0, VALID_ENDING_SEASON_END, seasonFilePath, subFilePath, fileWriter);
     }
 
     @Test(expected = IllegalArgumentException.class)
     public void invalidStartingSeasonEndLessThanStartingSeasonStart() {
-        SEASON_JOINER = new SeasonJoiner(2016, 2015, VALID_ENDING_SEASON_END);
+        SEASON_JOINER = new SeasonJoiner(2016, 2015, VALID_ENDING_SEASON_END, seasonFilePath, subFilePath, fileWriter);
     }
 
     @Test(expected = IllegalArgumentException.class)
     public void invalidStartingSeasonEndEqualToStartingSeasonStart() {
-        SEASON_JOINER = new SeasonJoiner(2016, 2016, VALID_ENDING_SEASON_END);
+        SEASON_JOINER = new SeasonJoiner(2016, 2016, VALID_ENDING_SEASON_END, seasonFilePath, subFilePath, fileWriter);
     }
 
     @Test(expected = IllegalArgumentException.class)
     public void invalidStartingSeasonEndGreaterThan1YearHigherThanStartingSeasonStart() {
-        SEASON_JOINER = new SeasonJoiner(2016, 2018, VALID_ENDING_SEASON_END);
+        SEASON_JOINER = new SeasonJoiner(2016, 2018, VALID_ENDING_SEASON_END, seasonFilePath, subFilePath, fileWriter);
     }
 
     @Test(expected = IllegalArgumentException.class)
     public void invalidEndingSeasonEndLessThanStartingSeasonStart() {
-        SEASON_JOINER = new SeasonJoiner(2016, 2017, 2015);
+        SEASON_JOINER = new SeasonJoiner(2016, 2017, 2015, seasonFilePath, subFilePath, fileWriter);
     }
 
     @Test(expected = IllegalArgumentException.class)
     public void invalidEndingSeasonEndEqualToStartingSeasonStart() {
-        SEASON_JOINER = new SeasonJoiner(2016, 2017, 2016);
+        SEASON_JOINER = new SeasonJoiner(2016, 2017, 2016, seasonFilePath, subFilePath, fileWriter);
     }
 }

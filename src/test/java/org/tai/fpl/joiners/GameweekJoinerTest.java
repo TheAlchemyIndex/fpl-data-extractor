@@ -3,18 +3,16 @@ package org.tai.fpl.joiners;
 import org.json.JSONArray;
 import org.json.JSONObject;
 import org.junit.Test;
-import org.tai.fpl.TestWriterHelper;
+import org.tai.fpl.TestHelper;
 import org.tai.fpl.joiners.impl.GameweekJoiner;
-import org.tai.fpl.writers.FileWriter;
 
 import java.io.File;
 
 import static org.junit.Assert.assertTrue;
 
-public class GameweekJoinerTest extends TestWriterHelper {
+public class GameweekJoinerTest extends TestHelper {
     private static GameweekJoiner GAMEWEEK_JOINER;
-    private static final String JOINED_GW_FILEPATH = String.format("%sgws/%s", FULL_FILEPATH, JOINED_GW_FILENAME);
-    private static final FileWriter FILE_WRITER = new FileWriter(BASE_FILEPATH);
+    private static final String JOINED_GW_FILEPATH = String.format("%sgws/%s", SEASON_FILEPATH, JOINED_GW_FILENAME);
     private static final int CURRENT_GAMEWEEK_NUMBER = 2;
 
     private static final JSONObject VALID_JSON_OBJECT_1 = new JSONObject()
@@ -49,7 +47,7 @@ public class GameweekJoinerTest extends TestWriterHelper {
 
     @Test(expected = RuntimeException.class)
     public void givenNonExistentGw_join_thenThrowRuntimeException() {
-        GAMEWEEK_JOINER = new GameweekJoiner(3, "2022-23", FILE_WRITER);
+        GAMEWEEK_JOINER = new GameweekJoiner(3, SEASON, FILE_WRITER);
         GAMEWEEK_JOINER.join();
     }
 }

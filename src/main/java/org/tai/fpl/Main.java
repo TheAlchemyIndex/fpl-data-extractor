@@ -48,8 +48,7 @@ public class Main {
         SeasonJoiner seasonJoiner = new SeasonJoiner(startingSeasonStart, startingSeasonEnd, finalSeasonEnd, fileWriter);
         seasonJoiner.join();
 
-        FixtureJoiner fixtureJoiner = new FixtureJoiner(startingSeasonStart, startingSeasonEnd, finalSeasonEnd,
-                baseFilePath, fileWriter);
+        FixtureJoiner fixtureJoiner = new FixtureJoiner(startingSeasonStart, startingSeasonEnd, finalSeasonEnd, fileWriter);
         fixtureJoiner.join();
     }
 }

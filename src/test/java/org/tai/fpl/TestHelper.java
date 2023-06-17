@@ -9,6 +9,7 @@ import org.apache.logging.log4j.Logger;
 import org.json.JSONArray;
 import org.json.JSONObject;
 import org.junit.After;
+import org.tai.fpl.writers.FileWriter;
 
 import java.io.File;
 import java.io.IOException;
@@ -16,30 +17,55 @@ import java.util.List;
 import java.util.Map;
 import java.util.Objects;
 
-public class TestWriterHelper {
-    private static final Logger LOGGER = LogManager.getLogger(TestWriterHelper.class);
+public class TestHelper {
+    private static final Logger LOGGER = LogManager.getLogger(TestHelper.class);
+    protected static final int VALID_STARTING_SEASON_START = 2020;
+    protected static final int VALID_STARTING_SEASON_END = 21;
+    protected static final int VALID_ENDING_SEASON_END = 22;
     protected static final String BASE_FILEPATH = "src/test/resources/data/";
     protected static final String SEASON = "2022-23";
-    protected static final String FULL_FILEPATH = String.format("%s%s/", BASE_FILEPATH, SEASON);
+    protected static final String SEASON_FILEPATH = String.format("%s%s/", BASE_FILEPATH, SEASON);
     protected static final String JOINED_GW_FILENAME = "merged_gw.csv";
     protected static final String JOINED_SEASON_FILENAME = "seasons_2020-22.csv";
+    protected static final String JOINED_FIXTURE_FILENAME = "fixtures_2020-22.csv";
+    protected static final FileWriter FILE_WRITER = new FileWriter(BASE_FILEPATH);
+
+    protected static final JSONObject VALID_JSON_OBJECT_1 = new JSONObject()
+            .put("test1", "value1")
+            .put("test2", "value2")
+            .put("test3", "value3");
+    protected static final JSONObject VALID_JSON_OBJECT_2 = new JSONObject()
+            .put("test1", "value4")
+            .put("test2", "value5")
+            .put("test3", "value6");
+    protected static final JSONObject VALID_JSON_OBJECT_3 = new JSONObject()
+            .put("test1", "value7")
+            .put("test2", "value8")
+            .put("test3", "value9");
+    protected static final JSONObject VALID_JSON_OBJECT_4 = new JSONObject()
+            .put("test1", "value10")
+            .put("test2", "value11")
+            .put("test3", "value12");
+
+    protected static final JSONArray EXPECTED_VALID_JSON_ARRAY = new JSONArray()
+            .put(VALID_JSON_OBJECT_1)
+            .put(VALID_JSON_OBJECT_2)
+            .put(VALID_JSON_OBJECT_3)
+            .put(VALID_JSON_OBJECT_4);
 
     @After
     public void deleteFiles() {
-        File seasonFolder = new File(BASE_FILEPATH);
-        File gameweekFolder = new File(String.format("%sgws/", FULL_FILEPATH));
-//        File gameweekJoinerDirectory = new File(String.format("%s%s/%s", BASE_FILEPATH, "gameweekJoiner", SEASON));
-//        File seasonJoinerDirectory = new File(String.format("%s/%s", BASE_FILEPATH, "seasonJoiner"));
-//        File baseDirectory = new File(BASE_FILEPATH);
+        File baseFolder = new File(BASE_FILEPATH);
+        File gameweekFolder = new File(String.format("%sgws/", SEASON_FILEPATH));
 
         try {
-            for (File file: Objects.requireNonNull(seasonFolder.listFiles())) {
-                if (file.getName().equals(JOINED_SEASON_FILENAME)) {
+            for (File file: Objects.requireNonNull(baseFolder.listFiles())) {
+                if ((file.getName().equals(JOINED_SEASON_FILENAME) || (file.getName().equals(JOINED_FIXTURE_FILENAME)))) {
                     file.delete();
                 }
             }
         } catch(NullPointerException nullPointerException) {
-            LOGGER.info(String.format("No joined season files to delete in %s", BASE_FILEPATH));
+            LOGGER.info(String.format("No files to delete in %s", BASE_FILEPATH));
         }
 
         try {
@@ -49,35 +75,8 @@ public class TestWriterHelper {
                 }
             }
         } catch(NullPointerException nullPointerException) {
-            LOGGER.info(String.format("No joined gameweek files to delete in %s", gameweekFolder));
+            LOGGER.info(String.format("No files to delete in %s", gameweekFolder));
         }
-
-//        try {
-//            for (File file: Objects.requireNonNull(gameweekJoinerDirectory.listFiles())) {
-//                file.delete();
-//            }
-//            gameweekJoinerDirectory.delete();
-//        } catch(NullPointerException nullPointerException) {
-//            LOGGER.info(String.format("No files to delete in %s", gameweekJoinerDirectory));
-//        }
-//
-//        try {
-//            for (File file: Objects.requireNonNull(seasonJoinerDirectory.listFiles())) {
-//                file.delete();
-//            }
-//            seasonJoinerDirectory.delete();
-//        } catch(NullPointerException nullPointerException) {
-//            LOGGER.info(String.format("No files to delete in %s", seasonJoinerDirectory));
-//        }
-//
-//        try {
-//            for (File file: Objects.requireNonNull(baseDirectory.listFiles())) {
-//                file.delete();
-//            }
-//            baseDirectory.delete();
-//        } catch(NullPointerException nullPointerException) {
-//            LOGGER.info(String.format("No files to delete in %s", baseDirectory));
-//        }
     }
 
     protected JSONArray readDataFromFile(String filepath) {

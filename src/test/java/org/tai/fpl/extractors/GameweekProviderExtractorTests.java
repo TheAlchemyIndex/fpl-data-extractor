@@ -1,13 +1,5 @@
 package org.tai.fpl.extractors;
 
-import org.json.JSONArray;
-import org.json.JSONObject;
-import org.junit.Test;
-import org.tai.fpl.TestWriterHelper;
-import org.tai.fpl.writers.FileWriter;
-
-import java.io.File;
-
 import static org.junit.Assert.assertEquals;
 import static org.junit.Assert.assertTrue;
 

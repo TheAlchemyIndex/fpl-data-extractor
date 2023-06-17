@@ -22,14 +22,13 @@ public class FixtureJoiner implements Joiner {
     private final int startingSeasonStart;
     private final int startingSeasonEnd;
     private final int finalSeasonEnd;
-    private final String baseFilePath;
     private final FileWriter fileWriter;
 
-    public FixtureJoiner(int startingSeasonStart, int startingSeasonEnd, int finalSeasonEnd, String baseFilePath, FileWriter fileWriter) throws IllegalArgumentException {
+    public FixtureJoiner(int startingSeasonStart, int startingSeasonEnd, int finalSeasonEnd, FileWriter fileWriter)
+            throws IllegalArgumentException {
         this.startingSeasonStart = startingSeasonStart;
         this.startingSeasonEnd = startingSeasonEnd;
         this.finalSeasonEnd = finalSeasonEnd;
-        this.baseFilePath = baseFilePath;
         this.fileWriter = fileWriter;
     }
 
@@ -44,7 +43,7 @@ public class FixtureJoiner implements Joiner {
                 try (MappingIterator<Map<String, String>> mappingIterator = csvMapper
                         .readerWithSchemaFor(Map.class)
                         .with(CsvSchema.emptySchema().withHeader())
-                        .readValues(new File(String.format("%s%s-%s/%s", this.baseFilePath, i, j, FileNames.FIXTURES_FILENAME)))) {
+                        .readValues(new File(String.format("%s%s-%s/%s", this.fileWriter.getBaseFilePath(), i, j, FileNames.FIXTURES_FILENAME)))) {
                     rows = mappingIterator.readAll();
                 }
 

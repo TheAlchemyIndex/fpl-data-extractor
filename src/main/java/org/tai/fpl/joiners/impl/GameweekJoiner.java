@@ -20,12 +20,12 @@ import java.util.Map;
 public class GameweekJoiner implements Joiner {
     private static final Logger LOGGER = LogManager.getLogger(GameweekJoiner.class);
     private final int currentGameweekNumber;
-    private final String seasonFilePath;
+    private final String season;
     private final FileWriter fileWriter;
 
-    public GameweekJoiner(int currentGameweekNumber, String seasonFilePath, FileWriter fileWriter) {
+    public GameweekJoiner(int currentGameweekNumber, String season, FileWriter fileWriter) {
         this.currentGameweekNumber = currentGameweekNumber;
-        this.seasonFilePath = seasonFilePath;
+        this.season = season;
         this.fileWriter = fileWriter;
     }
 
@@ -40,7 +40,7 @@ public class GameweekJoiner implements Joiner {
                 try (MappingIterator<Map<String, String>> mappingIterator = csvMapper
                         .readerWithSchemaFor(Map.class)
                         .with(CsvSchema.emptySchema().withHeader())
-                        .readValues(new File(String.format("%sgws/gw%s.csv", this.seasonFilePath, i)))) {
+                        .readValues(new File(String.format("%s%s/gws/gw%s.csv", this.fileWriter.getBaseFilePath(), this.season, i)))) {
                     rows = mappingIterator.readAll();
                 }
 
@@ -49,7 +49,7 @@ public class GameweekJoiner implements Joiner {
                     allGameweeks.put(new JSONObject(jsonString));
                 }
                 LOGGER.info(String.format("Gameweek {%s}.", i));
-                this.fileWriter.writeDataToSeasonPath(allGameweeks, String.format("gws/%s", FileNames.MERGED_GAMEWEEK_FILENAME));
+                this.fileWriter.write(allGameweeks, String.format("%s/gws/%s", this.season, FileNames.MERGED_GAMEWEEK_FILENAME));
             }
         } catch(IOException ioException) {
             throw new RuntimeException(String.format("Error joining previous gameweek files together: {%s}", ioException.getMessage()));

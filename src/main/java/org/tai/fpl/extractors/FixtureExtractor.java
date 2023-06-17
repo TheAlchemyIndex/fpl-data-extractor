@@ -16,14 +16,15 @@ import java.net.URL;
 import java.util.Map;
 
 public class FixtureExtractor {
-
     private static final Logger LOGGER = LogManager.getLogger(FixtureExtractor.class);
     private static final String TARGET_URL = "https://fantasy.premierleague.com/api/fixtures/";
 
+    private final String season;
     private final FileWriter fileWriter;
     private final Map<Integer, String> teams;
 
-    public FixtureExtractor(FileWriter fileWriter, Map<Integer, String> teams) {
+    public FixtureExtractor(String season, FileWriter fileWriter, Map<Integer, String> teams) {
+        this.season = season;
         this.fileWriter = fileWriter;
         this.teams = teams;
     }
@@ -45,7 +46,7 @@ public class FixtureExtractor {
                 fixtureData.put(i, fixture);
             }
 
-            this.fileWriter.writeDataToSeasonPath(fixtureData, FileNames.FIXTURES_FILENAME);
+            this.fileWriter.write(fixtureData, String.format("%s/%s", season, FileNames.FIXTURES_FILENAME));
         } catch(MalformedURLException malformedURLException) {
             LOGGER.error("Invalid target url provided: " + malformedURLException.getMessage());
         } catch(IOException ioException) {

@@ -53,7 +53,7 @@ public class FixtureJoiner implements Joiner {
                     allFixtures.put(new JSONObject(jsonString));
                 }
                 LOGGER.info(String.format("Fixtures - Season {%s-%s}.", i, j));
-                this.fileWriter.writeDataToBasePath(allFixtures, String.format(FileNames.JOINED_FIXTURES_FILENAME,
+                this.fileWriter.write(allFixtures, String.format(FileNames.JOINED_FIXTURES_FILENAME,
                         startingSeasonStart, finalSeasonEnd));
             }
         } catch (IOException ioException) {

@@ -25,25 +25,24 @@ public class Main {
         final String baseFilePath = config.getBaseFilePath();
         final String mainUrl = config.getMainUrl();
         final String gameweekUrl = config.getGameweekUrl();
-        final String seasonFilePath = config.getSeasonFilePath();
 
-        FileWriter fileWriter = new FileWriter(baseFilePath, mainSeason);
+        FileWriter fileWriter = new FileWriter(baseFilePath);
 
         FplDataExtractor fplDataExtractor = new FplDataExtractor(mainUrl);
         JSONObject fplData = fplDataExtractor.getData();
 
         TeamProvider teamProvider = new TeamProvider(fplData.getJSONArray(("teams")));
         Map<Integer, String> teams = teamProvider.getTeams();
-        fileWriter.writeDataToSeasonPath(teamProvider.getData(), FileNames.TEAMS_FILENAME);
+        fileWriter.write(teamProvider.getData(), String.format("%s/%s", mainSeason, FileNames.TEAMS_FILENAME));
 
         GameweekExtractor gameweekExtractor = new GameweekExtractor(fplData, gameweekUrl, teams, mainSeason, fileWriter);
         gameweekExtractor.getGameweekData();
         int currentGameweekNumber = gameweekExtractor.getCurrentGameweekNumber();
 
-        FixtureExtractor fixturesExtractor = new FixtureExtractor(fileWriter, teams);
+        FixtureExtractor fixturesExtractor = new FixtureExtractor(mainSeason, fileWriter, teams);
         fixturesExtractor.getFixtures();
 
-        GameweekJoiner gameweekJoiner = new GameweekJoiner(currentGameweekNumber, seasonFilePath, fileWriter);
+        GameweekJoiner gameweekJoiner = new GameweekJoiner(currentGameweekNumber, mainSeason, fileWriter);
         gameweekJoiner.join();
 
         SeasonJoiner seasonJoiner = new SeasonJoiner(startingSeasonStart, startingSeasonEnd, finalSeasonEnd,

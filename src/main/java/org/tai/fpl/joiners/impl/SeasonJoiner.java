@@ -55,8 +55,8 @@ public class SeasonJoiner implements Joiner {
                     allSeasons.put(new JSONObject(jsonString));
                 }
                 LOGGER.info(String.format("Players - Season {%s-%s}.", i, j));
-                this.fileWriter.writeDataToBasePath(allSeasons, String.format(FileNames.JOINED_SEASONS_FILENAME,
-                        this.startingSeasonStart, this.finalSeasonEnd));
+                this.fileWriter.write(allSeasons, String.format(FileNames.JOINED_SEASONS_FILENAME, this.startingSeasonStart,
+                        this.finalSeasonEnd));
             }
         } catch(IOException ioException) {
             throw new RuntimeException(String.format("Error joining season files together: {%s}", ioException.getMessage()));

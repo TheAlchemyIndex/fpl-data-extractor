@@ -14,32 +14,47 @@ import java.nio.charset.Charset;
 public class FileWriter {
     private static final Logger LOGGER = LogManager.getLogger(GameweekExtractor.class);
     private final String baseFilePath;
-    private final String season;
+//    private final String season;
 
-    public FileWriter(String baseFilePath, String season) {
+    public FileWriter(String baseFilePath) {
         this.baseFilePath = baseFilePath;
-        this.season = season;
+//        this.season = season;
     }
 
-    public void writeDataToBasePath(JSONArray jsonData, String subFilePath) {
+//    public void writeDataToBasePath(JSONArray jsonData, String subFilePath) {
+//        File file = new File(String.format("%s/%s", this.baseFilePath, subFilePath));
+//        String csvString = CDL.toString(jsonData);
+//        try {
+//            FileUtils.writeStringToFile(file, csvString, Charset.defaultCharset());
+//            LOGGER.info(String.format("Write to {%s} complete.", subFilePath));
+//        } catch (IOException ioException) {
+//            throw new RuntimeException(String.format("Error writing data to file in base file path: {%s}", ioException.getMessage()));
+//        }
+//    }
+//
+//    public void writeDataToSeasonPath(JSONArray jsonData, String subFilePath) {
+//        File file = new File(String.format("%s/%s/%s", this.baseFilePath, this.season, subFilePath));
+//        String csvString = CDL.toString(jsonData);
+//        try {
+//            FileUtils.writeStringToFile(file, csvString, Charset.defaultCharset());
+//            LOGGER.info(String.format("Write to {%s} complete.", subFilePath));
+//        } catch (IOException ioException) {
+//            throw new RuntimeException(String.format("Error writing data to file in season file path: {%s}", ioException.getMessage()));
+//        }
+//    }
+
+    public void write(JSONArray jsonData, String subFilePath) {
         File file = new File(String.format("%s/%s", this.baseFilePath, subFilePath));
-        String csvString = CDL.toString(jsonData);
+        String dataString = CDL.toString(jsonData);
         try {
-            FileUtils.writeStringToFile(file, csvString, Charset.defaultCharset());
+            FileUtils.writeStringToFile(file, dataString, Charset.defaultCharset());
             LOGGER.info(String.format("Write to {%s} complete.", subFilePath));
         } catch (IOException ioException) {
-            throw new RuntimeException(String.format("Error writing data to file in base file path: {%s}", ioException.getMessage()));
+            throw new RuntimeException(String.format("Error writing data to {%s}: {%s}", subFilePath, ioException.getMessage()));
         }
     }
 
-    public void writeDataToSeasonPath(JSONArray jsonData, String subFilePath) {
-        File file = new File(String.format("%s/%s/%s", this.baseFilePath, this.season, subFilePath));
-        String csvString = CDL.toString(jsonData);
-        try {
-            FileUtils.writeStringToFile(file, csvString, Charset.defaultCharset());
-            LOGGER.info(String.format("Write to {%s} complete.", subFilePath));
-        } catch (IOException ioException) {
-            throw new RuntimeException(String.format("Error writing data to file in season file path: {%s}", ioException.getMessage()));
-        }
+    public String getBaseFilePath() {
+        return baseFilePath;
     }
 }

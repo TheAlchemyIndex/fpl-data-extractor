@@ -68,10 +68,6 @@ public class FplConfig {
         return gameweekUrl;
     }
 
-    public String getSeasonFilePath() {
-        return String.format("%s%s/", this.baseFilePath, this.mainSeason);
-    }
-
     private void validateSeasonParameters() throws IllegalArgumentException {
         if (this.startingSeasonStart < 2016) {
             throw new IllegalArgumentException("Value for startingSeasonStart can not be less than 2016");

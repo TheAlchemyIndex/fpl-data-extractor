@@ -37,12 +37,14 @@ public class GameweekExtractor {
             int currentGameweekNumber = getCurrentGameweekNumber();
             LOGGER.info(String.format("Current gameweek number: {%s} - {%s season}.", currentGameweekNumber, this.season));
 
-            GameweekProvider gameweekProvider = new GameweekProvider(currentGameweekNumber, gameweekUrl, players, this.teams, this.season);
+            GameweekProvider gameweekProvider = new GameweekProvider(currentGameweekNumber, gameweekUrl, players,
+                    this.teams, this.season);
             JSONArray currentGameweekData = gameweekProvider.getData();
 
-            this.fileWriter.writeDataToSeasonPath(elements, FileNames.PLAYERS_RAW_FILENAME);
-            this.fileWriter.writeDataToSeasonPath(players, FileNames.PLAYER_ID_FILENAME);
-            this.fileWriter.writeDataToSeasonPath(currentGameweekData, String.format("%s%s.csv", FileNames.GAMEWEEK_FILENAME, currentGameweekNumber));
+            this.fileWriter.write(elements, String.format("%s/%s", season, FileNames.PLAYERS_RAW_FILENAME));
+            this.fileWriter.write(players, String.format("%s/%s", season, FileNames.PLAYER_ID_FILENAME));
+            this.fileWriter.write(currentGameweekData, String.format("%s/%s%s.csv", season, FileNames.GAMEWEEK_FILENAME,
+                    currentGameweekNumber));
         } catch (IllegalArgumentException | JSONException illegalArgumentException) {
             if (illegalArgumentException instanceof JSONException) {
                 throw new RuntimeException(String.format("Error parsing JSON data using Provider classes: %s",

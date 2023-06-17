@@ -16,7 +16,7 @@ public class FplConfigTest {
     private static final String EXPECTED_GAMEWEEK_URL = "https://testgameweekurl.com/";
 
     @Test
-    public void validConfigFile() {
+    public void givenValidProperties_fplConfig_thenReturnValidConfig() {
         CONFIG = new FplConfig("src/test/resources/config/test_config.properties");
 
         assertEquals(EXPECTED_MAIN_SEASON, CONFIG.getMainSeason());
@@ -29,32 +29,32 @@ public class FplConfigTest {
     }
 
     @Test(expected = RuntimeException.class)
-    public void configFileDoesntExist() {
+    public void givenNoProperties_fplConfig_thenThrowRuntimeException() {
         CONFIG = new FplConfig("");
     }
 
     @Test(expected = RuntimeException.class)
-    public void invalidConfigFileStartingSeasonBefore2016() {
+    public void givenInvalidPropertiesBefore2016_fplConfig_thenThrowRuntimeException() {
         CONFIG = new FplConfig("src/test/resources/config/invalid_test_config_before_2016.properties");
     }
 
     @Test(expected = RuntimeException.class)
-    public void invalidConfigFileStartingSeasonEndBeforeStartingSeasonStart() {
+    public void givenInvalidPropertiesStartingSeasonEndBeforeStart_fplConfig_thenThrowRuntimeException() {
         CONFIG = new FplConfig("src/test/resources/config/invalid_test_config_starting_season_end_before_start.properties");
     }
 
     @Test(expected = RuntimeException.class)
-    public void invalidConfigFileStartingSeasonEndMoreThan1YearMoreThanStartingSeasonStart() {
+    public void givenInvalidPropertiesStartingSeasonEndMoreThan1Year_fplConfig_thenThrowRuntimeException() {
         CONFIG = new FplConfig("src/test/resources/config/invalid_test_config_season_end_more_than_1_year.properties");
     }
 
     @Test(expected = RuntimeException.class)
-    public void invalidConfigFileFinalSeasonEndBeforeStartingSeasonStart() {
+    public void givenInvalidPropertiesFinalSeasonEndBeforeStartingSeasonStart_fplConfig_thenThrowRuntimeException() {
         CONFIG = new FplConfig("src/test/resources/config/invalid_test_config_final_season_end_before_start.properties");
     }
 
     @Test(expected = RuntimeException.class)
-    public void invalidConfigFileFinalSeasonEndBeforeStartingSeasonEnd() {
+    public void givenInvalidPropertiesFinalSeasonEndBeforeStartingSeasonEnd_fplConfig_thenThrowRuntimeException() {
         CONFIG = new FplConfig("src/test/resources/config/invalid_test_config_final_season_end_before_start.properties");
     }
 }

@@ -22,15 +22,13 @@ public class SeasonJoiner implements Joiner {
     private final int startingSeasonStart;
     private final int startingSeasonEnd;
     private final int finalSeasonEnd;
-    private final String baseFilePath;
     private final FileWriter fileWriter;
 
-    public SeasonJoiner(int startingSeasonStart, int startingSeasonEnd, int finalSeasonEnd, String baseFilePath,
-                        FileWriter fileWriter) throws IllegalArgumentException {
+    public SeasonJoiner(int startingSeasonStart, int startingSeasonEnd, int finalSeasonEnd, FileWriter fileWriter)
+            throws IllegalArgumentException {
         this.startingSeasonStart = startingSeasonStart;
         this.startingSeasonEnd = startingSeasonEnd;
         this.finalSeasonEnd = finalSeasonEnd;
-        this.baseFilePath = baseFilePath;
         this.fileWriter = fileWriter;
     }
 
@@ -45,7 +43,7 @@ public class SeasonJoiner implements Joiner {
                 try (MappingIterator<Map<String, String>> mappingIterator = csvMapper
                         .readerWithSchemaFor(Map.class)
                         .with(CsvSchema.emptySchema().withHeader())
-                        .readValues(new File(String.format("%s%s-%s/gws/%s", this.baseFilePath, i, j,
+                        .readValues(new File(String.format("%s%s-%s/gws/%s", this.fileWriter.getBaseFilePath(), i, j,
                                 FileNames.MERGED_GAMEWEEK_FILENAME)))) {
                     rows = mappingIterator.readAll();
                 }

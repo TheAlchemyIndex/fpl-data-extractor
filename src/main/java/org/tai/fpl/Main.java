@@ -45,8 +45,7 @@ public class Main {
         GameweekJoiner gameweekJoiner = new GameweekJoiner(currentGameweekNumber, mainSeason, fileWriter);
         gameweekJoiner.join();
 
-        SeasonJoiner seasonJoiner = new SeasonJoiner(startingSeasonStart, startingSeasonEnd, finalSeasonEnd,
-                baseFilePath, fileWriter);
+        SeasonJoiner seasonJoiner = new SeasonJoiner(startingSeasonStart, startingSeasonEnd, finalSeasonEnd, fileWriter);
         seasonJoiner.join();
 
         FixtureJoiner fixtureJoiner = new FixtureJoiner(startingSeasonStart, startingSeasonEnd, finalSeasonEnd,

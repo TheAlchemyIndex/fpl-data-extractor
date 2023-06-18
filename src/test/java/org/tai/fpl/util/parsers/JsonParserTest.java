@@ -9,8 +9,8 @@ import static org.junit.Assert.*;
 
 public class JsonParserTest {
 
-    private static final String VALID_JSON_OBJECT_STRING = "{\"test1\":\"value1\",\"test2\":value2}";
-    private static final String VALID_JSON_ARRAY_STRING = "[{\"test1\": \"value1\",\"test2\":value2},{\"test3\": \"value3\",\"test4\":value4}]";
+    private static final String VALID_JSON_OBJECT_STRING = "{\"test1\":\"value1\",\"test2\":\"value2\"}";
+    private static final String VALID_JSON_ARRAY_STRING = "[{\"test1\": \"value1\",\"test2\":\"value2\"},{\"test3\": \"value3\",\"test4\":\"value4\"}]";
     private static JsonParser JSON_PARSER;
 
     private static final JSONObject EXPECTED_VALID_JSON_OBJECT_1 = new JSONObject()

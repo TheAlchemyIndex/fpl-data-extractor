@@ -4,7 +4,6 @@ import org.json.JSONArray;
 import org.json.JSONException;
 import org.json.JSONObject;
 import org.junit.Test;
-import org.tai.fpl.providers.impl.TeamProvider;
 
 import java.util.HashMap;
 import java.util.Map;

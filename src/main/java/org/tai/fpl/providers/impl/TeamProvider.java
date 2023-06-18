@@ -29,7 +29,7 @@ public class TeamProvider implements Provider {
             }
             return teamsMap;
         } catch (JSONException jsonException) {
-            throw new RuntimeException(String.format("Incorrect JSONArray format for teams data: {%s}",
+            throw new RuntimeException(String.format("Incorrect JSON format for teams data: {%s}",
                     jsonException.getMessage()));
         }
     }

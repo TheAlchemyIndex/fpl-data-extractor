@@ -1,6 +1,7 @@
 package org.tai.fpl.providers.impl;
 
 import org.json.JSONArray;
+import org.json.JSONException;
 import org.json.JSONObject;
 import org.tai.fpl.providers.Provider;
 import org.tai.fpl.providers.util.constants.PlayerColumns;
@@ -22,14 +23,19 @@ public class PlayerProvider implements Provider {
     public JSONArray getData() {
         JSONArray playersArray = new JSONArray();
 
-        for (int i = 0; i < this.playerArray.length(); i++) {
-            JSONObject element = this.playerArray.getJSONObject(i);
-            JSONObject player = new JSONObject();
-            for (String header : PLAYER_HEADERS) {
-                player.put(header, element.get(header));
+        try {
+            for (int i = 0; i < this.playerArray.length(); i++) {
+                JSONObject element = this.playerArray.getJSONObject(i);
+                JSONObject player = new JSONObject();
+                for (String header : PLAYER_HEADERS) {
+                    player.put(header, element.get(header));
+                }
+                playersArray.put(player);
             }
-            playersArray.put(player);
+            return playersArray;
+        } catch (JSONException jsonException) {
+            throw new RuntimeException(String.format("Incorrect JSON format for players data: {%s}",
+                    jsonException.getMessage()));
         }
-        return playersArray;
     }
 }

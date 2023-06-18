@@ -18,7 +18,7 @@ public class UrlConnector {
 
     public String getResponseString() throws IOException {
         if (this.responseCode != 200) {
-            throw new RuntimeException(String.format("HttpResponseCode: {%s} - {%s}", this.responseCode, this.connection.getURL()));
+            throw new IOException(String.format("HttpResponseCode: {%s} - {%s}", this.responseCode, this.connection.getURL()));
         } else {
             return readStringFromUrl();
         }

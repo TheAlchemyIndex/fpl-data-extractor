@@ -35,14 +35,14 @@ public class TeamProviderTests {
 
     private static final String INVALID_JSON_STRING = "test1:value1,test2:value2";
 
-    private static final JSONArray EXPECTED_EMPTY_JSON_ARRAY = new JSONArray();
     private static final Map<Integer, String> EXPECTED_TEAMS_MAP  = new HashMap<>() {{
         put(1, "team1");
         put(2, "team2");
     }};
+    private static final JSONArray EXPECTED_EMPTY_JSON_ARRAY = new JSONArray();
 
     @Test
-    public void getDataValidJsonArray() {
+    public void givenValidJsonArray_getData_thenReturnValidJsonArray() {
         TEAM_PROVIDER = new TeamProvider(VALID_JSON_ARRAY);
         JSONArray dataArray = TEAM_PROVIDER.getData();
 
@@ -67,7 +67,7 @@ public class TeamProviderTests {
     }
 
     @Test
-    public void getTeamsValidJsonArray() {
+    public void givenValidJsonArray_getTeams_thenReturnValidTeamsMap() {
         TEAM_PROVIDER = new TeamProvider(VALID_JSON_ARRAY);
         Map<Integer, String> teamsMap = TEAM_PROVIDER.getTeams();
 
@@ -75,7 +75,7 @@ public class TeamProviderTests {
     }
 
     @Test
-    public void getDataEmptyJsonArray() {
+    public void givenEmptyJsonArray_getData_thenReturnEmptyJsonArray() {
         TEAM_PROVIDER = new TeamProvider(new JSONArray());
         JSONArray dataArray = TEAM_PROVIDER.getData();
 
@@ -83,20 +83,34 @@ public class TeamProviderTests {
     }
 
     @Test
-    public void getTeamsEmptyJsonArray() {
+    public void givenEmptyJsonArray_getTeams_thenReturnEmptyMap() {
         TEAM_PROVIDER = new TeamProvider(new JSONArray());
         Map<Integer, String> teamsMap = TEAM_PROVIDER.getTeams();
 
         assertEquals(new HashMap<>(), teamsMap);
     }
 
-    @Test(expected = IllegalArgumentException.class)
-    public void nullJsonArray() {
-        new TeamProvider(null);
+    @Test(expected = JSONException.class)
+    public void givenInvalidJsonString_teamProvider_thenThrowJSONException() {
+        new TeamProvider(new JSONArray(INVALID_JSON_STRING));
     }
 
-    @Test(expected = JSONException.class)
-    public void invalidJsonArray() {
-        new TeamProvider(new JSONArray(INVALID_JSON_STRING));
+    @Test(expected = RuntimeException.class)
+    public void givenInvalidJsonArrayNoIdOrName_getTeams_thenThrowJSONException() {
+        JSONObject jsonObject1 = new JSONObject()
+                .put("test1", "value1")
+                .put("test2", "value2")
+                .put("test3", "value3");
+        JSONObject jsonObject2 = new JSONObject()
+                .put("test1", "value4")
+                .put("test2", "value5")
+                .put("test3", "value6");
+
+        JSONArray invalidJsonArrayNoIdOrName = new JSONArray()
+                .put(jsonObject1)
+                .put(jsonObject2);
+
+        TEAM_PROVIDER = new TeamProvider(invalidJsonArrayNoIdOrName);
+        TEAM_PROVIDER.getTeams();
     }
 }

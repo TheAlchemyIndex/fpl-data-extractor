@@ -28,6 +28,7 @@ public class TestHelper {
     protected static final String JOINED_GW_FILENAME = "merged_gw.csv";
     protected static final String JOINED_SEASON_FILENAME = "seasons_2020-22.csv";
     protected static final String JOINED_FIXTURE_FILENAME = "fixtures_2020-22.csv";
+    protected static final String FILE_WRITER_FILENAME = "test_filename.csv";
     protected static final FileWriter FILE_WRITER = new FileWriter(BASE_FILEPATH);
 
     protected static final JSONObject VALID_JSON_OBJECT_1 = new JSONObject()
@@ -60,7 +61,8 @@ public class TestHelper {
 
         try {
             for (File file: Objects.requireNonNull(baseFolder.listFiles())) {
-                if ((file.getName().equals(JOINED_SEASON_FILENAME) || (file.getName().equals(JOINED_FIXTURE_FILENAME)))) {
+                if ((file.getName().equals(JOINED_SEASON_FILENAME) || (file.getName().equals(JOINED_FIXTURE_FILENAME)
+                        || (file.getName().equals(FILE_WRITER_FILENAME))))) {
                     file.delete();
                 }
             }

@@ -18,7 +18,7 @@ import java.net.URL;
 import java.util.HashMap;
 import java.util.Map;
 
-import static org.tai.fpl.providers.util.formatters.GameweekNameFormatter.formatName;
+import static org.tai.fpl.providers.util.formatters.PlayerNameFormatter.formatName;
 
 public class GameweekProvider implements Provider {
     private static final Logger LOGGER = LogManager.getLogger(GameweekProvider.class);

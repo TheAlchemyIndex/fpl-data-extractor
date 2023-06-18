@@ -1,4 +1,4 @@
-package org.tai.fpl.providers;
+package org.tai.fpl.providers.impl;
 
 import org.json.JSONArray;
 import org.json.JSONException;

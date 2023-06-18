@@ -1,6 +1,6 @@
 package org.tai.fpl.providers.util.formatters;
 
-public class GameweekNameFormatter {
+public class PlayerNameFormatter {
 
     public static String formatName(String name) {
 

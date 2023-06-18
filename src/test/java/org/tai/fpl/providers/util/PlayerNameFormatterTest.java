@@ -1,11 +1,11 @@
-package org.tai.fpl.gameweek;
+package org.tai.fpl.providers.util;
 
 import org.junit.Test;
 
 import static org.junit.Assert.assertEquals;
-import static org.tai.fpl.providers.util.formatters.GameweekNameFormatter.formatName;
+import static org.tai.fpl.providers.util.formatters.PlayerNameFormatter.formatName;
 
-public class GameweekProviderNameFormatterTest {
+public class PlayerNameFormatterTest {
 
     private static final String TEST_NAME1 = "Adama Traoré Diarra";
     private static final String EXPECTED_FORMATTED_NAME1 = "Adama Traoré";
@@ -16,7 +16,7 @@ public class GameweekProviderNameFormatterTest {
     private static final String TEST_NAME3 = "Willian Borges da Silva";
     private static final String EXPECTED_FORMATTED_NAME3 = "Willian";
 
-    /* Basic temporary tests to test functionality */
+    /* Basic tests to test functionality */
     @Test
     public void formatNameTest1() {
         assertEquals(EXPECTED_FORMATTED_NAME1, formatName(TEST_NAME1));

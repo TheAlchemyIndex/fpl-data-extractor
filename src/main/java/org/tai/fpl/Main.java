@@ -25,6 +25,7 @@ public class Main {
         final String baseFilePath = config.getBaseFilePath();
         final String mainUrl = config.getMainUrl();
         final String gameweekUrl = config.getGameweekUrl();
+        final String fixtureUrl = config.getFixtureUrl();
 
         FileWriter fileWriter = new FileWriter(baseFilePath);
 
@@ -39,7 +40,7 @@ public class Main {
         gameweekExtractor.getGameweekData();
         int currentGameweekNumber = gameweekExtractor.getCurrentGameweekNumber();
 
-        FixtureExtractor fixturesExtractor = new FixtureExtractor(mainSeason, fileWriter, teams);
+        FixtureExtractor fixturesExtractor = new FixtureExtractor(fixtureUrl, mainSeason, fileWriter, teams);
         fixturesExtractor.getFixtures();
 
         GameweekJoiner gameweekJoiner = new GameweekJoiner(currentGameweekNumber, mainSeason, fileWriter);

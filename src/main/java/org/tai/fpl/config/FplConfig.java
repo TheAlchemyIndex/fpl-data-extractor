@@ -17,6 +17,8 @@ public class FplConfig {
     private final String mainUrl;
     private final String gameweekUrl;
 
+    private final String fixtureUrl;
+
     public FplConfig(String configFilePath) {
         try {
             FileInputStream propsInput = new FileInputStream(configFilePath);
@@ -30,6 +32,7 @@ public class FplConfig {
             this.baseFilePath = prop.getProperty("BASE_FILEPATH");
             this.mainUrl = prop.getProperty("MAIN_URL");
             this.gameweekUrl = prop.getProperty("GAMEWEEK_URL");
+            this.fixtureUrl = prop.getProperty("FIXTURE_URL");
             validateSeasonParameters();
 
             LOGGER.info("Config file successfully loaded.");
@@ -66,6 +69,10 @@ public class FplConfig {
 
     public String getGameweekUrl() {
         return gameweekUrl;
+    }
+
+    public String getFixtureUrl() {
+        return fixtureUrl;
     }
 
     private void validateSeasonParameters() throws IllegalArgumentException {

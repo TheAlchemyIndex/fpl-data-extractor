@@ -14,6 +14,7 @@ public class FplConfigTest {
     private static final String EXPECTED_BASE_FILEPATH = "data/";
     private static final String EXPECTED_MAIN_URL = "https://testmainurl.com/";
     private static final String EXPECTED_GAMEWEEK_URL = "https://testgameweekurl.com/";
+    private static final String EXPECTED_FIXTURE_URL = "https://testfixtureurl.com/";
 
     @Test
     public void givenValidProperties_fplConfig_thenReturnValidConfig() {
@@ -26,6 +27,7 @@ public class FplConfigTest {
         assertEquals(EXPECTED_BASE_FILEPATH, CONFIG.getBaseFilePath());
         assertEquals(EXPECTED_MAIN_URL, CONFIG.getMainUrl());
         assertEquals(EXPECTED_GAMEWEEK_URL, CONFIG.getGameweekUrl());
+        assertEquals(EXPECTED_FIXTURE_URL, CONFIG.getFixtureUrl());
     }
 
     @Test(expected = RuntimeException.class)

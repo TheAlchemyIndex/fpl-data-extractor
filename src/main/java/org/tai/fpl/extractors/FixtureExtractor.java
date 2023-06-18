@@ -17,13 +17,14 @@ import java.util.Map;
 
 public class FixtureExtractor {
     private static final Logger LOGGER = LogManager.getLogger(FixtureExtractor.class);
-    private static final String TARGET_URL = "https://fantasy.premierleague.com/api/fixtures/";
 
+    private final String url;
     private final String season;
     private final FileWriter fileWriter;
     private final Map<Integer, String> teams;
 
-    public FixtureExtractor(String season, FileWriter fileWriter, Map<Integer, String> teams) {
+    public FixtureExtractor(String url, String season, FileWriter fileWriter, Map<Integer, String> teams) {
+        this.url = url;
         this.season = season;
         this.fileWriter = fileWriter;
         this.teams = teams;
@@ -31,7 +32,7 @@ public class FixtureExtractor {
 
     public void getFixtures() {
         try {
-            UrlConnector urlConnector = new UrlConnector(new URL(TARGET_URL));
+            UrlConnector urlConnector = new UrlConnector(new URL(this.url));
             JsonParser jsonParser = new JsonParser(urlConnector.getResponseString());
             JSONArray fixtureData = jsonParser.parseJsonArray();
 

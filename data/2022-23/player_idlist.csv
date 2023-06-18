@@ -157,43 +157,43 @@ ep_this,second_name,id,element_type,team,web_name,first_name
 0.5,Schade,688,3,4,Schade,Kevin
 -1.0,Olakigbe,752,3,4,Olakigbe,Michael
 0.0,Lallana,101,3,5,Lallana,Adam
-2.0,Steele,102,1,5,Steele,Jason
+2.3,Steele,102,1,5,Steele,Jason
 1.0,Welbeck,103,4,5,Welbeck,Danny
-4.2,Groß,104,3,5,Groß,Pascal
-0.5,Dunk,106,2,5,Dunk,Lewis
+5.3,Groß,104,3,5,Groß,Pascal
+0.7,Dunk,106,2,5,Dunk,Lewis
 0.0,March,107,3,5,March,Solly
-0.2,Webster,108,2,5,Webster,Adam
-0.2,Veltman,109,2,5,Veltman,Joël
+0.3,Webster,108,2,5,Webster,Adam
+0.3,Veltman,109,2,5,Veltman,Joël
 0.0,Sánchez,113,1,5,Sánchez,Robert
 0.0,Lamptey,114,2,5,Lamptey,Tariq
 0.0,Alzate,115,3,5,Alzate,Steven
-2.0,Mac Allister,116,3,5,Mac Allister,Alexis
+2.7,Mac Allister,116,3,5,Mac Allister,Alexis
 0.0,Moder,117,3,5,Moder,Jakub
 0.0,Mwepu,118,3,5,Mwepu,Enock
 0.0,Sarmiento Morante,119,3,5,Sarmiento,Jeremy
-1.5,Caicedo Corozo,120,3,5,Caicedo,Moisés
+1.3,Caicedo Corozo,120,3,5,Caicedo,Moisés
 0.0,Richards,121,3,5,Richards,Taylor
 0.0,Roberts,122,2,5,Roberts,Haydon
-2.5,Undav,123,4,5,Undav,Deniz
-2.5,Mitoma,124,3,5,Mitoma,Kaoru
-2.8,Enciso,125,4,5,Enciso,Julio
+2.3,Undav,123,4,5,Undav,Deniz
+2.7,Mitoma,124,3,5,Mitoma,Kaoru
+3.3,Enciso,125,4,5,Enciso,Julio
 0.0,Kozłowski,126,3,5,Kozłowski,Kacper
-1.5,Gilmour,149,3,5,Gilmour,Billy
+0.7,Gilmour,149,3,5,Gilmour,Billy
 0.0,Scherpen,542,1,5,Scherpen,Kjell
 0.0,Clarke,543,2,5,Clarke,Matt
-0.5,van Hecke,544,2,5,Van Hecke,Jan Paul
-3.2,Colwill,559,2,5,Colwill,Levi
-1.2,Estupiñán,586,2,5,Estupiñán,Pervis
-4.2,Ferguson,596,4,5,Ferguson,Evan
+1.0,van Hecke,544,2,5,Van Hecke,Jan Paul
+4.3,Colwill,559,2,5,Colwill,Levi
+1.7,Estupiñán,586,2,5,Estupiñán,Pervis
+5.3,Ferguson,596,4,5,Ferguson,Evan
 0.0,Turns,640,2,5,Turns,Ed
 0.0,Moran,651,3,5,Moran,Andrew
 0.0,Furlong,652,2,5,Furlong,James
-0.2,Hinshelwood,677,3,5,Hinshelwood,Jack
+0.3,Hinshelwood,677,3,5,Hinshelwood,Jack
 1.0,Buonanotte,679,3,5,Buonanotte,Facundo
-0.2,Ayari,719,3,5,Ayari,Yasin
+0.3,Ayari,719,3,5,Ayari,Yasin
 0.0,Offiah,736,2,5,Offiah,Odeluga
 0.0,McGill,756,1,5,McGill,Tom
-0.2,Peupion,762,3,5,Peupion,Cameron
+0.0,Peupion,762,3,5,Peupion,Cameron
 0.0,Samuels,765,2,5,Samuels,Imari
 0.8,Chukwuemeka,48,3,6,Chukwuemeka,Carney
 -0.1,Cucurella Saseta,112,2,6,Cucurella,Marc
@@ -544,40 +544,40 @@ ep_this,second_name,id,element_type,team,web_name,first_name
 1.2,Weghorst,701,4,14,Weghorst,Wout
 0.0,Sabitzer,728,3,14,Sabitzer,Marcel
 0.5,Jurado Gomez,759,2,14,Jurado,Marc
-4.5,Gordon,195,3,15,Gordon,Anthony
+6.0,Gordon,195,3,15,Gordon,Anthony
 0.0,Ritchie,350,2,15,Ritchie,Matt
 0.0,Fernández,351,2,15,Fernández,Federico
 0.0,Clark,352,2,15,Clark,Ciaran
 0.0,Darlow,353,1,15,Darlow,Karl
-1.5,Dubravka,355,1,15,Dubravka,Martin
-5.5,Wilson,356,4,15,Wilson,Callum
-6.8,Trippier,357,2,15,Trippier,Kieran
-6.2,Burn,358,2,15,Burn,Dan
+2.0,Dubravka,355,1,15,Dubravka,Martin
+2.0,Wilson,356,4,15,Wilson,Callum
+5.0,Trippier,357,2,15,Trippier,Kieran
+5.0,Burn,358,2,15,Burn,Dan
 0.5,Fraser,359,3,15,Fraser,Ryan
 0.0,Lascelles,360,2,15,Lascelles,Jamaal
 0.0,Gayle,361,4,15,Gayle,Dwight
 0.5,Dummett,362,2,15,Dummett,Paul
 0.0,Manquillo Gaitán,363,2,15,Manquillo,Javier
 0.0,Krafth,364,2,15,Krafth,Emil
-1.2,Murphy,365,3,15,Murphy,Jacob
-3.5,Schär,366,2,15,Schär,Fabian
+1.5,Murphy,365,3,15,Murphy,Jacob
+4.5,Schär,366,2,15,Schär,Fabian
 1.5,Targett,367,2,15,Targett,Matt
-1.8,Saint-Maximin,368,3,15,Saint-Maximin,Allan
-3.8,Almirón Rejala,369,3,15,Almirón,Miguel
-1.5,Longstaff,370,3,15,S.Longstaff,Sean
+2.0,Saint-Maximin,368,3,15,Saint-Maximin,Allan
+3.0,Almirón Rejala,369,3,15,Almirón,Miguel
+2.0,Longstaff,370,3,15,S.Longstaff,Sean
 0.0,Apolinário de Lira,371,3,15,Joelinton,Joelinton Cássio
-0.8,Lewis,372,2,15,Lewis,Jamal
+1.0,Lewis,372,2,15,Lewis,Jamal
 0.0,Willock,373,3,15,Willock,Joe
-4.2,Guimarães Rodriguez Moura,374,3,15,Bruno Guimarães,Bruno
+2.5,Guimarães Rodriguez Moura,374,3,15,Bruno Guimarães,Bruno
 0.0,Hendrick,375,3,15,Hendrick,Jeff
 0.0,Pope,376,1,15,Pope,Nick
-4.8,Botman,377,2,15,Botman,Sven
-4.2,Anderson,552,3,15,Anderson,Elliot
+6.0,Botman,377,2,15,Botman,Sven
+5.5,Anderson,552,3,15,Anderson,Elliot
 0.5,Ashby,555,2,15,Ashby,Harrison
-2.2,Isak,594,4,15,Isak,Alexander
+2.0,Isak,594,4,15,Isak,Alexander
 0.5,Karius,626,1,15,Karius,Loris
 0.0,Kuol,683,3,15,Kuol,Garang
-0.8,Miley,741,3,15,Miley,Lewis
+1.0,Miley,741,3,15,Miley,Lewis
 2.1,Gillespie,776,1,15,Gillespie,Mark
 0.0,Williams,295,2,16,N.Williams,Neco
 0.0,Shelvey,349,3,16,Shelvey,Jonjo

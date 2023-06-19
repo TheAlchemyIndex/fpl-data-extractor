@@ -31,41 +31,40 @@ public class GameweekExtractor {
 
     public void getGameweekData() {
         try {
-            JSONArray elements = this.fplData.getJSONArray(("elements"));
+            JSONArray elements = this.fplData.getJSONArray("elements");
             PlayerProvider playerProvider = new PlayerProvider(elements);
             JSONArray players = playerProvider.getData();
             int currentGameweekNumber = getCurrentGameweekNumber();
-            LOGGER.info(String.format("Current gameweek number: {%s} - {%s season}.", currentGameweekNumber, this.season));
+            LOGGER.info("Current gameweek number: {} - {} season.", currentGameweekNumber, this.season);
 
             GameweekProvider gameweekProvider = new GameweekProvider(currentGameweekNumber, gameweekUrl, players,
-                    this.teams, this.season);
+                    teams, season);
             JSONArray currentGameweekData = gameweekProvider.getData();
 
-            this.fileWriter.write(elements, String.format("%s/%s", season, FileNames.PLAYERS_RAW_FILENAME));
-            this.fileWriter.write(players, String.format("%s/%s", season, FileNames.PLAYER_ID_FILENAME));
-            this.fileWriter.write(currentGameweekData, String.format("%s/%s%s.csv", season, FileNames.GAMEWEEK_FILENAME,
-                    currentGameweekNumber));
-        } catch (IllegalArgumentException | JSONException illegalArgumentException) {
-            if (illegalArgumentException instanceof JSONException) {
-                throw new RuntimeException(String.format("Error parsing JSON data using Provider classes: %s",
-                        illegalArgumentException.getMessage()));
-            } else {
-                throw new RuntimeException(String.format("IllegalArgumentException: %s",
-                        illegalArgumentException.getMessage()));
-            }
+            writeDataToFile(elements, FileNames.PLAYERS_RAW_FILENAME);
+            writeDataToFile(players, FileNames.PLAYER_ID_FILENAME);
+            writeDataToFile(currentGameweekData, String.format(FileNames.GAMEWEEK_FILENAME, currentGameweekNumber));
+        } catch (JSONException | IllegalArgumentException e) {
+            throw new RuntimeException("Error parsing JSON data using Provider classes: " + e.getMessage(), e);
         }
     }
 
+    private void writeDataToFile(JSONArray data, String filename) {
+        String filepath = String.format("%s/%s", this.season, filename);
+        fileWriter.write(data, filepath);
+    }
+
     public int getCurrentGameweekNumber() {
-        JSONArray events = this.fplData.getJSONArray(("events"));
-        int gameweek = 0;
+        JSONArray events = this.fplData.getJSONArray("events");
+        int currentGameweekNumber = 0;
 
         for (int i = 0; i < events.length(); i++) {
             JSONObject event = events.getJSONObject(i);
             if (event.getBoolean("is_current")) {
-                gameweek = event.getInt("id");
-            };
+                currentGameweekNumber = event.getInt("id");
+                break;
+            }
         }
-        return gameweek;
+        return currentGameweekNumber;
     }
 }

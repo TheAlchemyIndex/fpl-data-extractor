@@ -22,27 +22,16 @@ public class FplDataExtractor {
     public JSONObject getData() {
         JsonParser jsonParser;
         JSONObject data;
-
         try {
             UrlConnector urlConnector = new UrlConnector(new URL(this.url));
             jsonParser = new JsonParser(urlConnector.getResponseString());
             data = jsonParser.parseJsonObject();
-            LOGGER.info(String.format("Data extraction from {%s} complete.", this.url));
+            LOGGER.info("Data extraction from {} complete.", this.url);
             return data;
-        } catch(MalformedURLException malformedURLException) {
-            throw new RuntimeException(String.format("Invalid target url provided {%s}: %s", this.url,
-                    malformedURLException.getMessage()));
-        } catch(IOException ioException) {
-            throw new RuntimeException(String.format("Error connecting to the provided target url {%s}: %s", this.url,
-                    ioException.getMessage()));
-        } catch(RuntimeException runtimeException) {
-            if (runtimeException instanceof JSONException) {
-                throw new RuntimeException(String.format("Error parsing JSON data using JsonParser: %s",
-                        runtimeException.getMessage()));
-            } else {
-                throw new RuntimeException(String.format("Error connecting to the provided target url {%s}: %s", this.url,
-                        runtimeException.getMessage()));
-            }
+        } catch (MalformedURLException e) {
+            throw new RuntimeException(String.format("Invalid target URL provided {%s}: %s", this.url, e.getMessage()));
+        } catch (IOException | JSONException e) {
+            throw new RuntimeException(String.format("Error processing the target URL {%s}: %s", this.url, e.getMessage()));
         }
     }
 }

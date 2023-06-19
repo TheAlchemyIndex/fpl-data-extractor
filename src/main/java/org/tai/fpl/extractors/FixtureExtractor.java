@@ -32,10 +32,9 @@ public class FixtureExtractor {
 
     public void getFixtures() {
         try {
-            UrlConnector urlConnector = new UrlConnector(new URL(this.url));
-            JsonParser jsonParser = new JsonParser(urlConnector.getResponseString());
-            JSONArray fixtureData = jsonParser.parseJsonArray();
+            JSONArray fixtureData = parseFixtureDataFromAPI();
 
+            JSONArray modifiedFixtures = new JSONArray();
             for (int i = 0; i < fixtureData.length(); i++) {
                 JSONObject fixture = fixtureData.getJSONObject(i);
                 String homeTeam = formatTeam(fixture.getInt("team_h"));
@@ -44,24 +43,31 @@ public class FixtureExtractor {
                 fixture.remove("team_a");
                 fixture.put("home_team", homeTeam);
                 fixture.put("away_team", awayTeam);
-                fixtureData.put(i, fixture);
+                modifiedFixtures.put(fixture);
             }
 
-            this.fileWriter.write(fixtureData, String.format("%s/%s", season, FileNames.FIXTURES_FILENAME));
-        } catch(MalformedURLException malformedURLException) {
-            LOGGER.error("Invalid target url provided: " + malformedURLException.getMessage());
-        } catch(IOException ioException) {
-            LOGGER.error("Error connecting to the provided target url: " + ioException.getMessage());
-        } catch(RuntimeException runtimeException) {
-            if (runtimeException instanceof JSONException) {
-                LOGGER.error("Error parsing JSON data using JsonParser: " + runtimeException.getMessage());
-            } else {
-                LOGGER.error("Error connecting to the provided target url: " + runtimeException.getMessage());
-            }
+            writeFixtureData(modifiedFixtures);
+        } catch (MalformedURLException e) {
+            LOGGER.error("Invalid target URL provided: {}", e.getMessage());
+        } catch (IOException e) {
+            LOGGER.error("Error connecting to the provided target URL: {}", e.getMessage());
+        } catch (JSONException e) {
+            LOGGER.error("Error parsing JSON data: {}", e.getMessage());
         }
     }
 
+    private JSONArray parseFixtureDataFromAPI() throws IOException {
+        UrlConnector urlConnector = new UrlConnector(new URL(this.url));
+        JsonParser jsonParser = new JsonParser(urlConnector.getResponseString());
+        return jsonParser.parseJsonArray();
+    }
+
+    private void writeFixtureData(JSONArray fixtureData) {
+        String filename = String.format("%s/%s", season, FileNames.FIXTURES_FILENAME);
+        fileWriter.write(fixtureData, filename);
+    }
+
     private String formatTeam(int teamId) {
-        return this.teams.get(teamId);
+        return teams.get(teamId);
     }
 }

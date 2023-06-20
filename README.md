@@ -16,7 +16,7 @@ This project will need to be run on a weekly basis if you want to collect regula
 no way to backfill data for previous gameweeks or seasons (if I am wrong and there is a way to do this, please let me know).
 </br>
 Data is provided within this project for previous gameweeks and seasons if you are interested (credit goes to 
-[vaastav](https://github.com/vaastav/Fantasy-Premier-League/commits?author=vaastav), as this project is a Java 
+[vaastav](https://github.com/vaastav), as this project is a Java 
 recreation of their Python based [Fantasy-Premier-League](https://github.com/vaastav/Fantasy-Premier-League) project).
 </br>
 ### Urls

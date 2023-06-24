@@ -36,6 +36,11 @@ public class FplConfigTest {
     }
 
     @Test(expected = RuntimeException.class)
+    public void givenInvalidPropertiesSeasonFormat_fplConfig_thenThrowRuntimeException() {
+        CONFIG = new FplConfig("src/test/resources/config/invalid_test_config_season_format.properties");
+    }
+
+    @Test(expected = RuntimeException.class)
     public void givenInvalidPropertiesBefore2016_fplConfig_thenThrowRuntimeException() {
         CONFIG = new FplConfig("src/test/resources/config/invalid_test_config_before_2016.properties");
     }

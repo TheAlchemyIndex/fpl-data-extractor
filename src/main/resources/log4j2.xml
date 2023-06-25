@@ -9,7 +9,7 @@
         <Logger name="org.tai.fpl.log4j2" level="debug" additivity="false">
             <AppenderRef ref="LogToConsole"/>
         </Logger>
-        <Root level="info">
+        <Root level="warn">
             <AppenderRef ref="LogToConsole"/>
         </Root>
     </Loggers>

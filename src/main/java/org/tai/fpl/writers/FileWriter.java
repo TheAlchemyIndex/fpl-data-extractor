@@ -5,14 +5,13 @@ import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 import org.json.CDL;
 import org.json.JSONArray;
-import org.tai.fpl.extractors.GameweekExtractor;
 
 import java.io.File;
 import java.io.IOException;
 import java.nio.charset.Charset;
 
 public class FileWriter {
-    private static final Logger LOGGER = LogManager.getLogger(GameweekExtractor.class);
+    private static final Logger LOGGER = LogManager.getLogger(FileWriter.class);
     private final String baseFilePath;
 
     public FileWriter(String baseFilePath) {

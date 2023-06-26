@@ -32,7 +32,7 @@ public class FixtureExtractor {
 
     public void getFixtures() {
         try {
-            JSONArray fixtureData = parseFixtureDataFromAPI();
+            JSONArray fixtureData = parseFixtureData();
 
             JSONArray modifiedFixtures = new JSONArray();
             for (int i = 0; i < fixtureData.length(); i++) {
@@ -47,16 +47,17 @@ public class FixtureExtractor {
             }
 
             writeFixtureData(modifiedFixtures);
-        } catch (MalformedURLException e) {
-            LOGGER.error("Invalid target URL provided: {}", e.getMessage());
-        } catch (IOException e) {
-            LOGGER.error("Error connecting to the provided target URL: {}", e.getMessage());
-        } catch (JSONException e) {
-            LOGGER.error("Error parsing JSON data: {}", e.getMessage());
+            LOGGER.info("Data extraction from {} complete.", this.url);
+        } catch (MalformedURLException malformedURLException) {
+            LOGGER.error("Invalid target URL provided: {}", malformedURLException.getMessage());
+        } catch (IOException ioException) {
+            LOGGER.error("Error connecting to the provided target URL: {}", ioException.getMessage());
+        } catch (JSONException jsonException) {
+            LOGGER.error("Error parsing JSON data: {}", jsonException.getMessage());
         }
     }
 
-    private JSONArray parseFixtureDataFromAPI() throws IOException {
+    private JSONArray parseFixtureData() throws IOException {
         UrlConnector urlConnector = new UrlConnector(new URL(this.url));
         JsonParser jsonParser = new JsonParser(urlConnector.getResponseString());
         return jsonParser.parseJsonArray();

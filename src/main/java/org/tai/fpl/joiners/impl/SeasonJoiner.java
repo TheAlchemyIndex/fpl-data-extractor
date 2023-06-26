@@ -24,8 +24,7 @@ public class SeasonJoiner implements Joiner {
     private final int finalSeasonEnd;
     private final FileWriter fileWriter;
 
-    public SeasonJoiner(int startingSeasonStart, int startingSeasonEnd, int finalSeasonEnd, FileWriter fileWriter)
-            throws IllegalArgumentException {
+    public SeasonJoiner(int startingSeasonStart, int startingSeasonEnd, int finalSeasonEnd, FileWriter fileWriter) {
         this.startingSeasonStart = startingSeasonStart;
         this.startingSeasonEnd = startingSeasonEnd;
         this.finalSeasonEnd = finalSeasonEnd;

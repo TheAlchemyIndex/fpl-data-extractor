@@ -19,8 +19,8 @@ Data is provided within this project for previous gameweeks and seasons if you a
 [vaastav](https://github.com/vaastav), as this project is a Java 
 recreation of their Python based [Fantasy-Premier-League](https://github.com/vaastav/Fantasy-Premier-League) project).
 </br>
-### Urls
-#### General Information
+### General Information
+#### Urls
 
 [https://fantasy.premierleague.com/api/bootstrap-static/](https://fantasy.premierleague.com/api/bootstrap-static/)
 </br>
@@ -81,10 +81,11 @@ Here’s an explanation of some of the JSON elements:
 
 After ensuring that Java and Maven are installed, clone this repo and run the main method in Main.java.
 </br>
-The config parameters for this project can be accessed in src/main/resources/config.properties. Set the MAIN_SEASON 
-variable to the current season (e.g., 2022-23). Setting the other season variables to the dates that you wish will 
-enable csv files to be created that contain data for all seasons within the season range that you specify (defaults 
-are currently set to 2019 - 2023).
+The config parameters for this project can be accessed in src/main/resources/config.properties. Set the MAIN_SEASON
+variable to the target season of your choice (e.g., 2022-23). Setting the other season variables to the dates that
+you wish will enable csv files to be created that contain data for all seasons within the season range that you specify
+joined together (defaults are currently set to 2019 - 2023, data for those seasons must already have been extracted to
+relevant files for this to work).
 
 <!-- LICENSE -->
 ## License
@@ -102,5 +103,3 @@ TheAlchemyIndex - [LinkedIn](https://www.linkedin.com/in/vaughana)
 * [Fantasy-Premier-League - vaastav](https://github.com/vaastav/Fantasy-Premier-League)
 * [Best-README-Template - othneildrew](https://github.com/othneildrew/Best-README-Template)
 * [Fantasy Premier League API Endpoints: A Detailed Guide - Frenzel Timothy](https://medium.com/@frenzelts/fantasy-premier-league-api-endpoints-a-detailed-guide-acbd5598eb19)
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>

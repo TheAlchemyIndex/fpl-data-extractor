@@ -16,7 +16,6 @@ public class FplConfig {
     private final String baseFilePath;
     private final String mainUrl;
     private final String gameweekUrl;
-
     private final String fixtureUrl;
 
     public FplConfig(String configFilePath) {
@@ -44,39 +43,41 @@ public class FplConfig {
     }
 
     public String getMainSeason() {
-        return mainSeason;
+        return this.mainSeason;
     }
 
     public int getStartingSeasonStart() {
-        return startingSeasonStart;
+        return this.startingSeasonStart;
     }
 
     public int getStartingSeasonEnd() {
-        return convertYearTo2Digits(startingSeasonEnd);
+        return convertYearTo2Digits(this.startingSeasonEnd);
     }
 
     public int getFinalSeasonEnd() {
-        return convertYearTo2Digits(finalSeasonEnd);
+        return convertYearTo2Digits(this.finalSeasonEnd);
     }
 
     public String getBaseFilePath() {
-        return baseFilePath;
+        return this.baseFilePath;
     }
 
     public String getMainUrl() {
-        return mainUrl;
+        return this.mainUrl;
     }
 
     public String getGameweekUrl() {
-        return gameweekUrl;
+        return this.gameweekUrl;
     }
 
     public String getFixtureUrl() {
-        return fixtureUrl;
+        return this.fixtureUrl;
     }
 
     private void validateSeasonParameters() throws IllegalArgumentException {
-        if (this.startingSeasonStart < 2016) {
+        if (!this.mainSeason.matches("\\d{4}-\\d{2}")) {
+            throw new IllegalArgumentException("Main season must match the following format - 2022-23");
+        } else if (this.startingSeasonStart < 2016) {
             throw new IllegalArgumentException("Value for startingSeasonStart can not be less than 2016");
         } else if (this.startingSeasonEnd <= this.startingSeasonStart) {
             throw new IllegalArgumentException("Value for startingSeasonEnd can not be less than or equal to startingSeasonStart");

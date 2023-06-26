@@ -103,5 +103,3 @@ TheAlchemyIndex - [LinkedIn](https://www.linkedin.com/in/vaughana)
 * [Fantasy-Premier-League - vaastav](https://github.com/vaastav/Fantasy-Premier-League)
 * [Best-README-Template - othneildrew](https://github.com/othneildrew/Best-README-Template)
 * [Fantasy Premier League API Endpoints: A Detailed Guide - Frenzel Timothy](https://medium.com/@frenzelts/fantasy-premier-league-api-endpoints-a-detailed-guide-acbd5598eb19)
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
